@@ -1,0 +1,14 @@
+{
+    "header_text": "You were asked to host a dinner event for a relative coming home from overseas. As you prepare, you begin to lose track of everything that needs to be done, and you start to think the event will be ruined. On the night of the dinner, everyone agrees it is a huge success.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You were asked to host a dinner event for a relative coming home from overseas. As you prepare, you begin to lose track of everything that needs to be done, and you start to think the event will be ruined. On the night of the dinner, everyone agrees it is a huge success."
+        },
+        {
+            "type": "Media",
+            "url": "./images/231.jpg"
+        }
+    ]
+}

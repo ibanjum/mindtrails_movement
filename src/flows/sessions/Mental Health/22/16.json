@@ -1,0 +1,14 @@
+{
+    "header_text": "You are on an early morning walk with your counselor. Sharing with them is not easy today because you've had a hard few weeks. You don't want to revisit past pain, but you know your vulnerability will be beneficial. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are on an early morning walk with your counselor. Sharing with them is not easy today because you've had a hard few weeks. You don't want to revisit past pain, but you know your vulnerability will be beneficial. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/419.jpg"
+        }
+    ]
+}

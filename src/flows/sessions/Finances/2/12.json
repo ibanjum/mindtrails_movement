@@ -1,0 +1,27 @@
+{
+    "header_text": "Your car needs expensive repairs. You have savings but are reluctant to use them. When you pay for the car repairs, you will be fine.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will using your savings cause you financial ruin?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your car needs expensive repairs. You have savings but are reluctant to use them. When you pay for the car repairs, you will be fine._Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

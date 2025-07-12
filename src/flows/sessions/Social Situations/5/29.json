@@ -1,0 +1,23 @@
+{
+    "header_text": "While at the hairdresser, you opt for a completely different haircut. When you see your friends afterward, they gasp. Their gasp probably means that they think the new style makes you look great.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While at the hairdresser, you opt for a completely different haircut. When you see your friends afterward, they gasp. Their gasp probably means that they think the new style makes you look..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "While at the hairdresser, you opt for a completely different haircut. When you see your friends afterward, they gasp. Their gasp probably means that they think the new style makes you look great._Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "great"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

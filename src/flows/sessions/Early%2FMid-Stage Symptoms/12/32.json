@@ -1,0 +1,27 @@
+{
+    "header_text": "You are watching a new movie at a local movie theater. As the first scene begins, you start to worry that your chorea will be distracting for those sitting around you. You remember that your symptoms are out of your control, and you decide to focus on the movie.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "As you become aware of your movements, you decide to focus on the..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are watching a new movie at a local movie theater. As the first scene begins, you start to worry that your chorea will be distracting for those sitting around you. You remember that your symptoms are out of your control, and you decide to focus on the movie._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Film in front of you",
+                "Thoughts of people nearby"
+            ],
+            "columnCount": 1,
+            "correct_value": "Film in front of you"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

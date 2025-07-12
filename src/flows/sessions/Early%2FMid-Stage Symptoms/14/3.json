@@ -1,0 +1,27 @@
+{
+    "header_text": "You're at your best friend's birthday party, surrounded by laughter and conversation. Suddenly, your chorea causes some water to slosh out of the cup you're holding, making you worry that others will judge you. However, you know that if you open up to your friends about your concerns, they will be understanding and supportive.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your friends will be..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You're at your best friend's birthday party, surrounded by laughter and conversation. Suddenly, your chorea causes some water to slosh out of the cup you're holding, making you worry that others will judge you. However, you know that if you open up to your friends about your concerns, they will be understanding and supportive._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Judgmental.",
+                "Supportive."
+            ],
+            "columnCount": 1,
+            "correct_value": "Supportive."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

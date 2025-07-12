@@ -1,0 +1,27 @@
+{
+    "header_text": "While making dinner, you accidentally touch a very hot pan. You quickly put your finger under cold water and can already see your skin turning red. After a few minutes, you think the burn is minor.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "After running water over your finger, your burn will probably..."
+        },
+        {
+            "type": "Buttons",
+            "name": "While making dinner, you accidentally touch a very hot pan. You quickly put your finger under cold water and can already see your skin turning red. After a few minutes, you think the burn is minor._Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Remain very painful",
+                "Hurt much less"
+            ],
+            "columnCount": 1,
+            "correct_value": "Hurt much less"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

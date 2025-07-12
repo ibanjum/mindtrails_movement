@@ -1,0 +1,14 @@
+{
+    "header_text": "You are playing a board game with a couple of friends. You are trying to place your piece onto the board but your chorea is making it difficult to play on the specific spot. Your turn is taking longer than your friends', so you are worry they are getting annoyed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are playing a board game with a couple of friends. You are trying to place your piece onto the board but your chorea is making it difficult to play on the specific spot. Your turn is taking longer than your friends', so you are worry they are getting annoyed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/716.jpg"
+        }
+    ]
+}

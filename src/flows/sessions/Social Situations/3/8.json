@@ -1,0 +1,14 @@
+{
+    "header_text": "On your way out from work, you stop in the restroom. As you leave the bathroom stall, your coworker passes you and gives you a funny look. Your coworker is probably distracted.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "On your way out from work, you stop in the restroom. As you leave the bathroom stall, your coworker passes you and gives you a funny look. Your coworker is probably distracted."
+        },
+        {
+            "type": "Media",
+            "url": "./images/614.jpg"
+        }
+    ]
+}

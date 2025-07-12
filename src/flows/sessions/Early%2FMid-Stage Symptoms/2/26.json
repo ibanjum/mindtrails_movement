@@ -1,0 +1,14 @@
+{
+    "header_text": "You notice that you forgot to do the laundry and will have to do it tomorrow. Tasks like this slip your mind more often now, and you worry about how you will function in the future. You acknowledge that things are changing, but you are still capable.\n",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You notice that you forgot to do the laundry and will have to do it tomorrow. Tasks like this slip your mind more often now, and you worry about how you will function in the future. You acknowledge that things are changing, but you are still capable.\n"
+        },
+        {
+            "type": "Media",
+            "url": "./images/739.jpg"
+        }
+    ]
+}

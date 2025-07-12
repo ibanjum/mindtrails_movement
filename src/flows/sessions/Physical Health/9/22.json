@@ -1,0 +1,14 @@
+{
+    "header_text": "You are taking a dancing class and, during a break, feel your legs go wobbly. You focus on these feelings as you get a drink of water. Wobbly legs probably mean that you are pushing yourself.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are taking a dancing class and, during a break, feel your legs go wobbly. You focus on these feelings as you get a drink of water. Wobbly legs probably mean that you are pushing yourself."
+        },
+        {
+            "type": "Media",
+            "url": "./images/487.jpg"
+        }
+    ]
+}

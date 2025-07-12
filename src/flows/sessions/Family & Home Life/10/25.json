@@ -1,0 +1,27 @@
+{
+    "header_text": "You and your spouse recently divorced. Your child is having an event at school tonight, and it will be the first time you and your ex-spouse are attending as single people. You think that you will treat each other cordially. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you and your ex-spouse going to get along?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You and your spouse recently divorced. Your child is having an event at school tonight, and it will be the first time you and your ex-spouse are attending as single people. You think that you will treat each other cordially. _Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

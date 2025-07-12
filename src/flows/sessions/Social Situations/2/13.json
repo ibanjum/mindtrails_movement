@@ -1,0 +1,14 @@
+{
+    "header_text": "During a discussion, you end up debating an issue with colleagues. You later discover that they found your views unusual. When the issue comes up again in a group conversation, you expect that you will be excluded.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "During a discussion, you end up debating an issue with colleagues. You later discover that they found your views unusual. When the issue comes up again in a group conversation, you expect that you will be excluded."
+        },
+        {
+            "type": "Media",
+            "url": "./images/607.jpg"
+        }
+    ]
+}

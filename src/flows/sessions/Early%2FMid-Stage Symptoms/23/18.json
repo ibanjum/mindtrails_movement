@@ -1,0 +1,14 @@
+{
+    "header_text": "You are having lunch with some friends from your past. They haven't seen you in a couple years, so you're afraid they will be shocked to see how your HD has progressed. As you sit down at the table, you immediately feel comfortable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are having lunch with some friends from your past. They haven't seen you in a couple years, so you're afraid they will be shocked to see how your HD has progressed. As you sit down at the table, you immediately feel comfortable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/851.jpg"
+        }
+    ]
+}

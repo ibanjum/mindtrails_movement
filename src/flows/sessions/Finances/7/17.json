@@ -1,0 +1,14 @@
+{
+    "header_text": "You are talking with friends about work and start discussing how much money everyone makes. You realize some of your friends have significantly higher salaries than you. When you consider what this means for your friendship, you think it doesn’t matter. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are talking with friends about work and start discussing how much money everyone makes. You realize some of your friends have significantly higher salaries than you. When you consider what this means for your friendship, you think it doesn’t matter. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/275.jpg"
+        }
+    ]
+}

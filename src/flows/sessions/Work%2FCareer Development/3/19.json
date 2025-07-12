@@ -1,0 +1,14 @@
+{
+    "header_text": "You are working on a project you enjoy. However, you were just informed that during the next staff meeting you will have to give a five-minute oral presentation to the rest of the staff. On the evening before the presentation, you feel frightened about the idea of public speaking, and you decide your fear is tolerable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are working on a project you enjoy. However, you were just informed that during the next staff meeting you will have to give a five-minute oral presentation to the rest of the staff. On the evening before the presentation, you feel frightened about the idea of public speaking, and you decide your fear is tolerable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/27.jpg"
+        }
+    ]
+}

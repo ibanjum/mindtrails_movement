@@ -1,0 +1,23 @@
+{
+    "header_text": "Your family loves to talk about big future life events like weddings and once-in-a-decade vacations. Recently, these conversations have made you feel uneasy, since you can't predict how your disease will progress. You consider withdrawing from these conversations, and ultimately decide that it's best if you communicate.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your family loves to talk about big future life events like weddings and once-in-a-decade vacations. Recently, these conversations have made you feel uneasy, since you can't predict how your disease will progress. You consider withdrawing from these conversations, and ultimately decide that it's best if you..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Your family loves to talk about big future life events like weddings and once-in-a-decade vacations. Recently, these conversations have made you feel uneasy, since you can't predict how your disease will progress. You consider withdrawing from these conversations, and ultimately decide that it's best if you communicate._Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "communicate"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

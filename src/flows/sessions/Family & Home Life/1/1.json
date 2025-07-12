@@ -1,0 +1,14 @@
+{
+    "header_text": "You are considering multiple options for where to go for a restful vacation. You have only a little bit of information about each potential destination before you make your choice. When you decide, you feel satisfied.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are considering multiple options for where to go for a restful vacation. You have only a little bit of information about each potential destination before you make your choice. When you decide, you feel satisfied."
+        },
+        {
+            "type": "Media",
+            "url": "./images/128.jpg"
+        }
+    ]
+}

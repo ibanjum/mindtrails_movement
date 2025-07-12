@@ -1,0 +1,14 @@
+{
+    "header_text": "Your supervisor asks you to present at a meeting. After practicing for several weeks, you finally feel ready. At the presentation, you make a big mistake.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your supervisor asks you to present at a meeting. After practicing for several weeks, you finally feel ready. At the presentation, you make a big mistake."
+        },
+        {
+            "type": "Media",
+            "url": "./images/639.jpg"
+        }
+    ]
+}

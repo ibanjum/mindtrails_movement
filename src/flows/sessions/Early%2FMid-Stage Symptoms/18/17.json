@@ -1,0 +1,14 @@
+{
+    "header_text": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be understanding.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be understanding."
+        },
+        {
+            "type": "Media",
+            "url": "./images/222.jpg"
+        }
+    ]
+}

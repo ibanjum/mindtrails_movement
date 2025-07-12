@@ -1,0 +1,27 @@
+{
+    "header_text": "There is a particular way you've always done laundry, making sure to separate colors. When you take a load out of the dryer, you notice several articles have been stained and feel frustrated that your attention seems to be slipping. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "The laundry got stained because of your..."
+        },
+        {
+            "type": "Buttons",
+            "name": "There is a particular way you've always done laundry, making sure to separate colors. When you take a load out of the dryer, you notice several articles have been stained and feel frustrated that your attention seems to be slipping. _Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Difficulty paying attention",
+                "Partner's miscommunication"
+            ],
+            "columnCount": 1,
+            "correct_value": "Partner's miscommunication"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

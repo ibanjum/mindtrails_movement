@@ -1,0 +1,14 @@
+{
+    "header_text": "You forget your PIN and text your family to ask if they know where the notebook is where you've jotted it down. You're worried if you're annoying them by asking repeatedly. Since no one responds right away, you begin to feel like a burden.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You forget your PIN and text your family to ask if they know where the notebook is where you've jotted it down. You're worried if you're annoying them by asking repeatedly. Since no one responds right away, you begin to feel like a burden."
+        },
+        {
+            "type": "Media",
+            "url": "./images/744.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You go shopping at your favorite clothes store. You see an outfit that you love but do not believe it is right for your body type. After you get it and try it on, you want to buy it despite it not being something you typically wear. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you excited to wear your outfit to a party?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You go shopping at your favorite clothes store. You see an outfit that you love but do not believe it is right for your body type. After you get it and try it on, you want to buy it despite it not being something you typically wear. _Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

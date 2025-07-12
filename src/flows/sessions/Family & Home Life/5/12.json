@@ -1,0 +1,14 @@
+{
+    "header_text": "You are going to see your family for a holiday. You enjoy seeing your family, but recently it has been getting more difficult to get out to see them. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are going to see your family for a holiday. You enjoy seeing your family, but recently it has been getting more difficult to get out to see them. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/156.jpg"
+        }
+    ]
+}

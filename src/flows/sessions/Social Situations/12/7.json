@@ -1,0 +1,14 @@
+{
+    "header_text": "You are in a store and accidentally knock over a few picture frames in one of the aisles. You feel your cheeks become hot as people in the store turn and look at you. When the shop owner comes over to rearrange the picture frames, they are frowning.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are in a store and accidentally knock over a few picture frames in one of the aisles. You feel your cheeks become hot as people in the store turn and look at you. When the shop owner comes over to rearrange the picture frames, they are frowning."
+        },
+        {
+            "type": "Media",
+            "url": "./images/654.jpg"
+        }
+    ]
+}

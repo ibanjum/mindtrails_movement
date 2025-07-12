@@ -1,0 +1,14 @@
+{
+    "header_text": "You have sensitive skin, and wearing a mask makes you break out. When you see people without masks on, their skin is completely clear. You feel insecure about how much acne you have. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have sensitive skin, and wearing a mask makes you break out. When you see people without masks on, their skin is completely clear. You feel insecure about how much acne you have. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/500.jpg"
+        }
+    ]
+}

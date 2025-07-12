@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been assigned a task, and you try very hard to make sure it is thorough. The job is quite difficult. When your supervisor sees it, you think they will judge your efforts as suitable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been assigned a task, and you try very hard to make sure it is thorough. The job is quite difficult. When your supervisor sees it, you think they will judge your efforts as suitable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/13.jpg"
+        }
+    ]
+}

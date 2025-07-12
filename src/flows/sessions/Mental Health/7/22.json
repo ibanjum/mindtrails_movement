@@ -1,0 +1,14 @@
+{
+    "header_text": "You have to turn in an important project today. When you open your computer, you can't find the file anywhere. The project must have been deleted.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have to turn in an important project today. When you open your computer, you can't find the file anywhere. The project must have been deleted."
+        },
+        {
+            "type": "Media",
+            "url": "./images/32.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You and your spouse have to make a big decision. The conversation gets heated and turns into an argument that makes you wonder whether you and your spouse will ever be able to reach a compromise. You remind yourself that hard conversations can be a good way for you both to learn more about effective communication.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You and your spouse have to make a big decision. The conversation gets heated and turns into an argument that makes you wonder whether you and your spouse will ever be able to reach a compromise. You remind yourself that hard conversations can be a good way for you both to learn more about effective communication."
+        },
+        {
+            "type": "Media",
+            "url": "./images/562.jpg"
+        }
+    ]
+}

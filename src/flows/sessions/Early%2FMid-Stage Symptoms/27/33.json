@@ -1,0 +1,27 @@
+{
+    "header_text": "You meet up with your neighbor once a week to have lunch and catch up with each other. This week, due to your symptoms, you find your attention shifting and cannot remember everything they have said. When you ask the same question again, they feel like you are uninterested.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You likely... "
+        },
+        {
+            "type": "Buttons",
+            "name": "You meet up with your neighbor once a week to have lunch and catch up with each other. This week, due to your symptoms, you find your attention shifting and cannot remember everything they have said. When you ask the same question again, they feel like you are uninterested._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Redeemed yourself",
+                "Made things worse"
+            ],
+            "columnCount": 1,
+            "correct_value": "Redeemed yourself"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

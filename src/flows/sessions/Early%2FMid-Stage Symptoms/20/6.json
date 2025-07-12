@@ -1,0 +1,14 @@
+{
+    "header_text": "You are grocery shopping with your spouse today, a task you used to be able to do on your own. You become sad as you think about all the things you used to do that you can't do alone anymore. You look up as your spouse carries groceries over to your cart, and you feel thankful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are grocery shopping with your spouse today, a task you used to be able to do on your own. You become sad as you think about all the things you used to do that you can't do alone anymore. You look up as your spouse carries groceries over to your cart, and you feel thankful."
+        },
+        {
+            "type": "Media",
+            "url": "./images/838.jpg"
+        }
+    ]
+}

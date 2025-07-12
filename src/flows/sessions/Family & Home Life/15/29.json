@@ -1,0 +1,23 @@
+{
+    "header_text": "Your grandchild loves puzzles, so you are working on one together. You feel like the puzzle should be easy, but you are struggling to find and fit the pieces. You allow your grandchild to complete the puzzle alone, and watching them makes you joyful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your grandchild loves puzzles, so you are working on one together. You feel like the puzzle should be easy, but you are struggling to find and fit the pieces. You allow your grandchild to complete the puzzle alone, and watching them makes you..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Your grandchild loves puzzles, so you are working on one together. You feel like the puzzle should be easy, but you are struggling to find and fit the pieces. You allow your grandchild to complete the puzzle alone, and watching them makes you joyful._Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "joyful"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You are giving a presentation at a meeting and accidentally skip a section so have to start again. You are embarrassed by the mistake and worry what the audience thought of you. The audience probably thinks your delivery after starting over was awkward.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you think that the audience thought of you as awkward for making a mistake?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are giving a presentation at a meeting and accidentally skip a section so have to start again. You are embarrassed by the mistake and worry what the audience thought of you. The audience probably thinks your delivery after starting over was awkward._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

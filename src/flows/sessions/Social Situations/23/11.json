@@ -1,0 +1,14 @@
+{
+    "header_text": "Your friend is going bowling tonight, and you didn't get an invite. Most of your other friends were invited, so you think you weren't invited due to your HD symptoms. When you think about it, you realize it's because you are busy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your friend is going bowling tonight, and you didn't get an invite. Most of your other friends were invited, so you think you weren't invited due to your HD symptoms. When you think about it, you realize it's because you are busy."
+        },
+        {
+            "type": "Media",
+            "url": "./images/702.jpg"
+        }
+    ]
+}

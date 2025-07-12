@@ -1,0 +1,14 @@
+{
+    "header_text": "You go to the gym twice a week to do strength training exercises. Although you enjoy your time at the gym, you can't help but notice the difference between your mobility and others. You've noticed that thinking about this gets you in a bad mood. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You go to the gym twice a week to do strength training exercises. Although you enjoy your time at the gym, you can't help but notice the difference between your mobility and others. You've noticed that thinking about this gets you in a bad mood. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/525.jpg"
+        }
+    ]
+}

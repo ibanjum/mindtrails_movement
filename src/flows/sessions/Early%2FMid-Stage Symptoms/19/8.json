@@ -1,0 +1,14 @@
+{
+    "header_text": "You are walking in the park and start to cross a bridge. You are having trouble navigating the wooden panels, and your stomach drops as you slip on a loose board. You clench the handrail for a few seconds and realize that you are steady.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are walking in the park and start to cross a bridge. You are having trouble navigating the wooden panels, and your stomach drops as you slip on a loose board. You clench the handrail for a few seconds and realize that you are steady."
+        },
+        {
+            "type": "Media",
+            "url": "./images/519.jpg"
+        }
+    ]
+}

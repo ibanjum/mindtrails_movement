@@ -1,0 +1,14 @@
+{
+    "header_text": "You are preparing to apply for a new job. You have a meeting with a potential employer tomorrow, and you know that a good resume will be an important factor. As you look over your resume, you think that the interviewer will be favorable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are preparing to apply for a new job. You have a meeting with a potential employer tomorrow, and you know that a good resume will be an important factor. As you look over your resume, you think that the interviewer will be favorable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/93.jpg"
+        }
+    ]
+}

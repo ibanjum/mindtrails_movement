@@ -1,0 +1,27 @@
+{
+    "header_text": "You are at the airport rushing to catch a plane. You feel your heart racing as you step on the plan and sit down. Starting to sweat and breathe quickly, you fear that you might have a panic attack.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Is it necessary to get off the plane because you feel your heart beating rapidly?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are at the airport rushing to catch a plane. You feel your heart racing as you step on the plan and sit down. Starting to sweat and breathe quickly, you fear that you might have a panic attack._Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

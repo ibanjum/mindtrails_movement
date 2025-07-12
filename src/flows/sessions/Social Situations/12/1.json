@@ -1,0 +1,14 @@
+{
+    "header_text": "You packed a lunch today, and you get it out in front of your friends. It smells really strongly as you notice your friends make faces. You tell your friends about what you're eating, and you feel proud.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You packed a lunch today, and you get it out in front of your friends. It smells really strongly as you notice your friends make faces. You tell your friends about what you're eating, and you feel proud."
+        },
+        {
+            "type": "Media",
+            "url": "./images/653.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Your friends ask you to go out to dinner at a fancy restaurant with them this weekend. It is really expensive and you know you won't be able to afford it. When you picture yourself telling your friends that you can't go, you feel nervous.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your friends ask you to go out to dinner at a fancy restaurant with them this weekend. It is really expensive and you know you won't be able to afford it. When you picture yourself telling your friends that you can't go, you feel nervous."
+        },
+        {
+            "type": "Media",
+            "url": "./images/252.jpg"
+        }
+    ]
+}

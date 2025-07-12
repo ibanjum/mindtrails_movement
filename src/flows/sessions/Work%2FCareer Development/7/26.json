@@ -1,0 +1,14 @@
+{
+    "header_text": "You have a big presentation to your boss and other staff members. You know everyone's eyes are on you as you stand in front of the room. You feel nervous.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have a big presentation to your boss and other staff members. You know everyone's eyes are on you as you stand in front of the room. You feel nervous."
+        },
+        {
+            "type": "Media",
+            "url": "./images/56.jpg"
+        }
+    ]
+}

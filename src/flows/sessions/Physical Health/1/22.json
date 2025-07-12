@@ -1,0 +1,14 @@
+{
+    "header_text": "You are lying in your bed about to go to sleep. As everything quiets down, you begin to breathe slower than you usually do. This is relaxing.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are lying in your bed about to go to sleep. As everything quiets down, you begin to breathe slower than you usually do. This is relaxing."
+        },
+        {
+            "type": "Media",
+            "url": "./images/434.jpg"
+        }
+    ]
+}

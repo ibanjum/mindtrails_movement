@@ -1,0 +1,14 @@
+{
+    "header_text": "You are sitting in an online meeting and space out for a minute. Your boss asks you a question, and you don't hear it. You ask her to repeat her question, and this makes you feel ok.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are sitting in an online meeting and space out for a minute. Your boss asks you a question, and you don't hear it. You ask her to repeat her question, and this makes you feel ok."
+        },
+        {
+            "type": "Media",
+            "url": "./images/98.jpg"
+        }
+    ]
+}

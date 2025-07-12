@@ -1,0 +1,27 @@
+{
+    "header_text": "You and your partner have been dating long-distance for awhile and you're going to be living in the same place in just a few months. You’ve never lived in the same place before, and you’re not quite sure how this change could impact your relationship. Even though you feel a bit nervous, you know that this is normal. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Is your nervousness a sign that your relationship won't work out? "
+        },
+        {
+            "type": "Buttons",
+            "name": "You and your partner have been dating long-distance for awhile and you're going to be living in the same place in just a few months. You’ve never lived in the same place before, and you’re not quite sure how this change could impact your relationship. Even though you feel a bit nervous, you know that this is normal. _Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

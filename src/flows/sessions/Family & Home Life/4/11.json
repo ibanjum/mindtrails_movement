@@ -1,0 +1,14 @@
+{
+    "header_text": "You go home to your parents' home for the holidays and notice that your mother looks frail. You find yourself wondering about her health and whether she's sick. You think her health will probably be good.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You go home to your parents' home for the holidays and notice that your mother looks frail. You find yourself wondering about her health and whether she's sick. You think her health will probably be good."
+        },
+        {
+            "type": "Media",
+            "url": "./images/154.jpg"
+        }
+    ]
+}

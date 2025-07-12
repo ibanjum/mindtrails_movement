@@ -1,0 +1,14 @@
+{
+    "header_text": "Your neighborhood has monthly HOA meetings, and it's your month to plan the meeting. As you try to plan, you lose track of important details and start over many times. Before your next attempt, you take a break and ask a friend for assistance.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your neighborhood has monthly HOA meetings, and it's your month to plan the meeting. As you try to plan, you lose track of important details and start over many times. Before your next attempt, you take a break and ask a friend for assistance."
+        },
+        {
+            "type": "Media",
+            "url": "./images/829.jpg"
+        }
+    ]
+}

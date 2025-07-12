@@ -1,0 +1,14 @@
+{
+    "header_text": "It's your sibling's birthday, so your family decides to go out to a nice dinner. The waiter is taking your order and asks what side you want. Your disease has been affecting your memory so you can't remember the sides on the menu, and you begin to feel anxious.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "It's your sibling's birthday, so your family decides to go out to a nice dinner. The waiter is taking your order and asks what side you want. Your disease has been affecting your memory so you can't remember the sides on the menu, and you begin to feel anxious."
+        },
+        {
+            "type": "Media",
+            "url": "./images/839.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at a workshop, and the leader asks all attendees to stand up and introduce themselves. During your brief presentation, you momentarily forget what you planned to say, and the audience stares at you looking annoyed. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at a workshop, and the leader asks all attendees to stand up and introduce themselves. During your brief presentation, you momentarily forget what you planned to say, and the audience stares at you looking annoyed. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/123.jpg"
+        }
+    ]
+}

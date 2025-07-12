@@ -1,0 +1,14 @@
+{
+    "header_text": "You're sitting on the couch, watching TV with a friend. Your friend asks you a personal question. You answer honestly, and you believe your friend probably thinks of you as being open.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're sitting on the couch, watching TV with a friend. Your friend asks you a personal question. You answer honestly, and you believe your friend probably thinks of you as being open."
+        },
+        {
+            "type": "Media",
+            "url": "./images/615.jpg"
+        }
+    ]
+}

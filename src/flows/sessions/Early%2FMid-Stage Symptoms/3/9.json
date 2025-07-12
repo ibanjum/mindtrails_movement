@@ -1,0 +1,27 @@
+{
+    "header_text": "You have been dating someone seriously and are looking forward to the possibility of getting married — even though some people may think it's too \"late\" in life. On a warm April day, they propose to you at your favorite spot downtown. You say yes knowing HD will be something you get through together.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You are confident that as your PD progresses, your fiancé will..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You have been dating someone seriously and are looking forward to the possibility of getting married — even though some people may think it's too \"late\" in life. On a warm April day, they propose to you at your favorite spot downtown. You say yes knowing HD will be something you get through together._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Support you",
+                "Abandon you"
+            ],
+            "columnCount": 1,
+            "correct_value": "Support you"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

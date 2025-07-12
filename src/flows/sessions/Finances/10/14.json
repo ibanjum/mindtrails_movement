@@ -1,0 +1,14 @@
+{
+    "header_text": "You are doing your taxes and start worrying about what the coming years hold, especially in terms of your finances. When you think about the coming years, you know that you will be financially stable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are doing your taxes and start worrying about what the coming years hold, especially in terms of your finances. When you think about the coming years, you know that you will be financially stable. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/298.jpg"
+        }
+    ]
+}

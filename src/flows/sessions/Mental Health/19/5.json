@@ -1,0 +1,15 @@
+{
+    "header_text": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel miserable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel miserable._Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

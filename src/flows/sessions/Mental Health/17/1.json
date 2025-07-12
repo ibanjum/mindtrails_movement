@@ -1,0 +1,14 @@
+{
+    "header_text": "You're talking to a coworker about a presentation you're working on, and they seem really interested. They ask if they can look at it, and you agree. Before you send the slides to them, you look over it and feel good. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're talking to a coworker about a presentation you're working on, and they seem really interested. They ask if they can look at it, and you agree. Before you send the slides to them, you look over it and feel good. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/395.jpg"
+        }
+    ]
+}

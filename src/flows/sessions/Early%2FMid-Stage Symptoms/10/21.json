@@ -1,0 +1,14 @@
+{
+    "header_text": "You have a garden you're really proud of and enjoy getting to work on every year. As you think about getting older, you wonder how your ability to do this pastime will change. You think about how your HD symptoms could prevent you from caring for your plants, and they'll die.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have a garden you're really proud of and enjoy getting to work on every year. As you think about getting older, you wonder how your ability to do this pastime will change. You think about how your HD symptoms could prevent you from caring for your plants, and they'll die."
+        },
+        {
+            "type": "Media",
+            "url": "./images/792.jpg"
+        }
+    ]
+}

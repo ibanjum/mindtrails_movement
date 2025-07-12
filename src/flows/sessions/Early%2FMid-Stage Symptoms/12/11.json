@@ -1,0 +1,14 @@
+{
+    "header_text": "You are crossing the street to the grocery store when a car pulls up. You are worried they might judge you because you are taking a while to cross the street. You realize that regardless of what the driver thinks, all that matters is that you make it across the street safely.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are crossing the street to the grocery store when a car pulls up. You are worried they might judge you because you are taking a while to cross the street. You realize that regardless of what the driver thinks, all that matters is that you make it across the street safely."
+        },
+        {
+            "type": "Media",
+            "url": "./images/801.jpg"
+        }
+    ]
+}

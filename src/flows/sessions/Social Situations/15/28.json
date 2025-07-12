@@ -1,0 +1,14 @@
+{
+    "header_text": "You and some friends are watching a movie at your home. Towards the end of the movie, your friend asks about the funny smell coming from the kitchen. You know that's your dinner, and when you think about how to answer, you feel fine.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You and some friends are watching a movie at your home. Towards the end of the movie, your friend asks about the funny smell coming from the kitchen. You know that's your dinner, and when you think about how to answer, you feel fine."
+        },
+        {
+            "type": "Media",
+            "url": "./images/676.jpg"
+        }
+    ]
+}

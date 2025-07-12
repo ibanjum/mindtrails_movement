@@ -1,0 +1,27 @@
+{
+    "header_text": "You are having a conversation with your supervisor in their office. You notice that you are stuttering over your words a bit more than you normally do. As the conversation continues, you decide this is okay.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you embarrassed due to stuttering over your words?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are having a conversation with your supervisor in their office. You notice that you are stuttering over your words a bit more than you normally do. As the conversation continues, you decide this is okay._Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

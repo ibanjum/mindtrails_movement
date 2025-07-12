@@ -1,0 +1,14 @@
+{
+    "header_text": "The instructor of your yoga class asked you and your partner to buy some new equipment. As you look around the store, you wonder about the future of your yoga participation. You decide to buy the equipment and stay committed. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "The instructor of your yoga class asked you and your partner to buy some new equipment. As you look around the store, you wonder about the future of your yoga participation. You decide to buy the equipment and stay committed. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/522.jpg"
+        }
+    ]
+}

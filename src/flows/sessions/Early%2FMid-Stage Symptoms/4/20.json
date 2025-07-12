@@ -1,0 +1,27 @@
+{
+    "header_text": "You often have involuntary facial movements due to chorea. As you walk into a room of friends, you glimpse your eyebrows raising in the mirror. Your friends exchange uneasy glances as they misinterpret your facial expression as a sign of anger.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your friends understand that you are..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You often have involuntary facial movements due to chorea. As you walk into a room of friends, you glimpse your eyebrows raising in the mirror. Your friends exchange uneasy glances as they misinterpret your facial expression as a sign of anger._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Glad",
+                "Mad"
+            ],
+            "columnCount": 1,
+            "correct_value": "Glad"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

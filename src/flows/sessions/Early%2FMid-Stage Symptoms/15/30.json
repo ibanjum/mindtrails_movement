@@ -1,0 +1,14 @@
+{
+    "header_text": "You've always been the life of the party. Lately, you've noticed that you're becoming more withdrawn in social situations, and decide to confide in your closest friends about your struggles. They offer unwavering support and understanding, making you feel accepted.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You've always been the life of the party. Lately, you've noticed that you're becoming more withdrawn in social situations, and decide to confide in your closest friends about your struggles. They offer unwavering support and understanding, making you feel accepted."
+        },
+        {
+            "type": "Media",
+            "url": "./images/823.jpg"
+        }
+    ]
+}

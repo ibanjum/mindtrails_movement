@@ -1,0 +1,14 @@
+{
+    "header_text": "Today you are going to a formal event with your spouse. Normally you enjoy getting ready and socializing with others, but today you are feeling very down thinking how your HD might progress. You want to stay home but decide to go because you think it will help you feel better. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Today you are going to a formal event with your spouse. Normally you enjoy getting ready and socializing with others, but today you are feeling very down thinking how your HD might progress. You want to stay home but decide to go because you think it will help you feel better. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/592.jpg"
+        }
+    ]
+}

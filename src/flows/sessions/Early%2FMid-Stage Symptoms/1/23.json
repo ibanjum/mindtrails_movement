@@ -1,0 +1,14 @@
+{
+    "header_text": "You are dedicated to your job as a teacher. Since your HD diagnosis, you have been worried about doing a good job in the classroom. You reassure yourself that even if your symptoms slow you down, your years of experience will help.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are dedicated to your job as a teacher. Since your HD diagnosis, you have been worried about doing a good job in the classroom. You reassure yourself that even if your symptoms slow you down, your years of experience will help."
+        },
+        {
+            "type": "Media",
+            "url": "./images/736.jpg"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "header_text": "You forget your PIN and text your family to ask if they know where the notebook is where you've jotted it down. You're worried if you're annoying them by asking repeatedly. Since no one responds right away, you begin to feel like a burden.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You realize your family is distracted by a TV show they watch together every week. After someone acknowledges you, you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You forget your PIN and text your family to ask if they know where the notebook is where you've jotted it down. You're worried if you're annoying them by asking repeatedly. Since no one responds right away, you begin to feel like a burden._Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "better"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

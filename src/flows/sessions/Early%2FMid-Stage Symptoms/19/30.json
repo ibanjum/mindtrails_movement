@@ -1,0 +1,14 @@
+{
+    "header_text": "You are on a trip to the beach with a close friend. Walking in the sand is making you lose your balance, and you are afraid to fall. You stop walking and look out at the horizon, feeling awe.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are on a trip to the beach with a close friend. Walking in the sand is making you lose your balance, and you are afraid to fall. You stop walking and look out at the horizon, feeling awe."
+        },
+        {
+            "type": "Media",
+            "url": "./images/837.jpg"
+        }
+    ]
+}

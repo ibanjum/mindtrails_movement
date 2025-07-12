@@ -1,0 +1,27 @@
+{
+    "header_text": "You love to go hiking, but since your HD has been progressing, you fear going alone. You message a friend about your concerns, and they don't respond immediately. After a few minutes, your friend responds that your desire to continue hiking is good.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your friend thinks that your desire to continue an activity you love is..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You love to go hiking, but since your HD has been progressing, you fear going alone. You message a friend about your concerns, and they don't respond immediately. After a few minutes, your friend responds that your desire to continue hiking is good._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Healthy",
+                "Foolish"
+            ],
+            "columnCount": 1,
+            "correct_value": "Healthy"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

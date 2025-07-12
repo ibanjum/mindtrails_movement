@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at an amusement park on the weekend with friends. They all go to the highest ride in the park, and you are assigned to sit in the front. Soon, the ride starts, and you feel excited. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at an amusement park on the weekend with friends. They all go to the highest ride in the park, and you are assigned to sit in the front. Soon, the ride starts, and you feel excited. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/441.jpg"
+        }
+    ]
+}

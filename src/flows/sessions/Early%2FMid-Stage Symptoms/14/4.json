@@ -1,0 +1,14 @@
+{
+    "header_text": "You're working on a project at home, fully involved in the task at hand. You're having difficulty moving on to the next task, finding yourself repeatedly going back to double-check small details you've already completed, causing you to feel frustrated by the lack of progress. After taking a break, you remember that taking a step back to reassess is wise.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're working on a project at home, fully involved in the task at hand. You're having difficulty moving on to the next task, finding yourself repeatedly going back to double-check small details you've already completed, causing you to feel frustrated by the lack of progress. After taking a break, you remember that taking a step back to reassess is wise."
+        },
+        {
+            "type": "Media",
+            "url": "./images/812.jpg"
+        }
+    ]
+}

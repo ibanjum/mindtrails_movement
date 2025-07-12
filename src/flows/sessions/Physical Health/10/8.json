@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at a birthday party for a friend of a friend. You start to feel a knot in your stomach while talking to someone you've never met before. This probably means that you are excited.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at a birthday party for a friend of a friend. You start to feel a knot in your stomach while talking to someone you've never met before. This probably means that you are excited."
+        },
+        {
+            "type": "Media",
+            "url": "./images/490.jpg"
+        }
+    ]
+}

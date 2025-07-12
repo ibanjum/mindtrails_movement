@@ -1,0 +1,14 @@
+{
+    "header_text": "You have a visit with your doctor today in regards to some new symptoms of HD you've been experiencing. Your doctor doesn't seem to be listening intentionally and forgets some of the signs you mentioned. You kindly repeat your concerns knowing their day has likely been long. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have a visit with your doctor today in regards to some new symptoms of HD you've been experiencing. Your doctor doesn't seem to be listening intentionally and forgets some of the signs you mentioned. You kindly repeat your concerns knowing their day has likely been long. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/778.jpg"
+        }
+    ]
+}

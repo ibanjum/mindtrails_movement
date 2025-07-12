@@ -1,0 +1,14 @@
+{
+    "header_text": "You are eating a cup of soup. Your arms move suddenly, and you accidentally spill some of the soup on your lap. As you wonder if anyone will notice the spill, you become anxious.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are eating a cup of soup. Your arms move suddenly, and you accidentally spill some of the soup on your lap. As you wonder if anyone will notice the spill, you become anxious."
+        },
+        {
+            "type": "Media",
+            "url": "./images/816.jpg"
+        }
+    ]
+}

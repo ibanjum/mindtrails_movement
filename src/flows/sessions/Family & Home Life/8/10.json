@@ -1,0 +1,15 @@
+{
+    "header_text": "You are watching a political debate with family. During the commercial break, one of your family members asks everyone what they thought of the candidates. You have a different opinion from everyone else and worry that an argument will happen.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are watching a political debate with family. During the commercial break, one of your family members asks everyone what they thought of the candidates. You have a different opinion from everyone else and worry that an argument will..."
+        },
+        {
+            "type": "Entry",
+            "name": "You are watching a political debate with family. During the commercial break, one of your family members asks everyone what they thought of the candidates. You have a different opinion from everyone else and worry that an argument will happen._Family & Home Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

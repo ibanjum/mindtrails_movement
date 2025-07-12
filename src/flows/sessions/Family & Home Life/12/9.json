@@ -1,0 +1,27 @@
+{
+    "header_text": "Your children have been relying on you financially, and you want them to start to be more independent. You know this is an important next step, but the thought of providing them less support is overwhelming. As you think to the future, you are confident that their financial independence will be possible. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will your children be able to be financially independent?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your children have been relying on you financially, and you want them to start to be more independent. You know this is an important next step, but the thought of providing them less support is overwhelming. As you think to the future, you are confident that their financial independence will be possible. _Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

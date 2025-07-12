@@ -1,0 +1,14 @@
+{
+    "header_text": "You're cooking dinner for your family, and you accidentally drop a slippery plate. You start thinking about the future and worrying about being a burden to those around you. You take a moment to breathe deeply, and your anxiety lifts.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're cooking dinner for your family, and you accidentally drop a slippery plate. You start thinking about the future and worrying about being a burden to those around you. You take a moment to breathe deeply, and your anxiety lifts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/246.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are visiting your sibling in a different city for an extended period of time. Your sibling is always out of the apartment, leaving you alone. You think it is nice that they are not home often because you prefer to be alone to relax at the end of the day.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are visiting your sibling in a different city for an extended period of time. Your sibling is always out of the apartment, leaving you alone. You think it is nice that they are not home often because you prefer to be alone to relax at the end of the day."
+        },
+        {
+            "type": "Media",
+            "url": "./images/186.jpg"
+        }
+    ]
+}

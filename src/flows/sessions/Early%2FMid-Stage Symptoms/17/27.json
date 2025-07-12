@@ -1,0 +1,14 @@
+{
+    "header_text": "You are volunteering at the check-in desk for a local event. You are having trouble keeping track of all the check-in tasks and a huge line forms. The event organizer starts walking your direction, and you worry that they think you are incapable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are volunteering at the check-in desk for a local event. You are having trouble keeping track of all the check-in tasks and a huge line forms. The event organizer starts walking your direction, and you worry that they think you are incapable. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/826.jpg"
+        }
+    ]
+}

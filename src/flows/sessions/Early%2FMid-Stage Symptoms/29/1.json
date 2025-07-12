@@ -1,0 +1,14 @@
+{
+    "header_text": "You're at the first session with a new therapist, and you hesitate to disclose your HD diagnosis. You are stressed as you anticipate their reaction and understanding about HD. Ultimately, you decide to tell them and leave the appointment feeling supported.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're at the first session with a new therapist, and you hesitate to disclose your HD diagnosis. You are stressed as you anticipate their reaction and understanding about HD. Ultimately, you decide to tell them and leave the appointment feeling supported."
+        },
+        {
+            "type": "Media",
+            "url": "./images/173.jpg"
+        }
+    ]
+}

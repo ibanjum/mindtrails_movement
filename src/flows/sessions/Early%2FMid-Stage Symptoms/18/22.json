@@ -1,0 +1,27 @@
+{
+    "header_text": "Your neighborhood has monthly HOA meetings, and it's your month to plan the meeting. As you try to plan, you lose track of important details and start over many times. Before your next attempt, you take a break and ask a friend for assistance.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "After struggling to plan the meeting, you..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Your neighborhood has monthly HOA meetings, and it's your month to plan the meeting. As you try to plan, you lose track of important details and start over many times. Before your next attempt, you take a break and ask a friend for assistance._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Find a solution",
+                "Fail and give up"
+            ],
+            "columnCount": 1,
+            "correct_value": "Find a solution"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

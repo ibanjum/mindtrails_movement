@@ -1,0 +1,14 @@
+{
+    "header_text": "You are drinking morning coffee next to your spouse and suddenly cough on the sip you are taking. Your spouse looks at you like they have something to say. Then, they ask if they can get you a refill.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are drinking morning coffee next to your spouse and suddenly cough on the sip you are taking. Your spouse looks at you like they have something to say. Then, they ask if they can get you a refill."
+        },
+        {
+            "type": "Media",
+            "url": "./images/761.jpg"
+        }
+    ]
+}

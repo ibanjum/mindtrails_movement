@@ -1,0 +1,14 @@
+{
+    "header_text": "You run to a meeting at work because you think you might be late. You make it to the meeting room on time, but you are breathing heavily and feel embarrassed because people are looking at you. As you sit down, to calm yourself, you decide to focus on your breath.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You run to a meeting at work because you think you might be late. You make it to the meeting room on time, but you are breathing heavily and feel embarrassed because people are looking at you. As you sit down, to calm yourself, you decide to focus on your breath."
+        },
+        {
+            "type": "Media",
+            "url": "./images/662.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Your spouse has decided to go back to school at a prestigious program in another state. You love your spouse very much, but you know that long distance relationships can be difficult. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you picture the future of your relationship with your spouse you do not think the distance will end your relationship, and you believe the two of you will stay..."
+        },
+        {
+            "type": "Entry",
+            "name": "Your spouse has decided to go back to school at a prestigious program in another state. You love your spouse very much, but you know that long distance relationships can be difficult. _Romantic Relationships_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

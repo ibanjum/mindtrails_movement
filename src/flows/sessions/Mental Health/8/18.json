@@ -1,0 +1,14 @@
+{
+    "header_text": "You have just had your first child. You want to have a good relationship throughout your kid's life, but you worry about making mistakes as a parent.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have just had your first child. You want to have a good relationship throughout your kid's life, but you worry about making mistakes as a parent."
+        },
+        {
+            "type": "Media",
+            "url": "./images/157.jpg"
+        }
+    ]
+}

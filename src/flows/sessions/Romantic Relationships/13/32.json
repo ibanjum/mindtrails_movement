@@ -1,0 +1,27 @@
+{
+    "header_text": "Your family has not approved of your partner from the beginning, and it is taking its toll on you. You don’t want to cause any further conflict, but their behavior is making you uncomfortable. You make a plan to have a conversation, and you think it will go well. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will the conversation with your family will go well? "
+        },
+        {
+            "type": "Buttons",
+            "name": "Your family has not approved of your partner from the beginning, and it is taking its toll on you. You don’t want to cause any further conflict, but their behavior is making you uncomfortable. You make a plan to have a conversation, and you think it will go well. _Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

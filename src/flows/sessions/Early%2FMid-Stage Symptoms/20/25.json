@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at the store getting groceries. You are having trouble picking things up off the shelf, and you accidentally drop something. A worker has to come clean up the mess, and you feel embarrassed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at the store getting groceries. You are having trouble picking things up off the shelf, and you accidentally drop something. A worker has to come clean up the mess, and you feel embarrassed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/842.jpg"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "header_text": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you decide to hold it because you're nervous.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your partner looks over at you, so you tell them what's wrong. They offer to help you get through the crowd and you feel more..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you decide to hold it because you're nervous._Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "confident"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are on a walk with a group of friends and everyone you're with wants to go along a 5 mile path. As you walk the trail, you see that there is still a long time to go. You think that this walk will be tiring.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are on a walk with a group of friends and everyone you're with wants to go along a 5 mile path. As you walk the trail, you see that there is still a long time to go. You think that this walk will be tiring."
+        },
+        {
+            "type": "Media",
+            "url": "./images/469.jpg"
+        }
+    ]
+}

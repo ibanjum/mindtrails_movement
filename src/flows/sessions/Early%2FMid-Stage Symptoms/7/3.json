@@ -1,0 +1,27 @@
+{
+    "header_text": "You are at a coffee shop, and it's your turn to order. Your words are coming out unclear and you see confusion on the employee's face. You remind yourself that there's no rush and the employee is likely just trying to hear, not judging you.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "The employee is probably feeling..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are at a coffee shop, and it's your turn to order. Your words are coming out unclear and you see confusion on the employee's face. You remind yourself that there's no rush and the employee is likely just trying to hear, not judging you._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Frustrated",
+                "Interested"
+            ],
+            "columnCount": 1,
+            "correct_value": "Interested"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

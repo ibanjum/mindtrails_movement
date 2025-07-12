@@ -1,0 +1,14 @@
+{
+    "header_text": "Your children are in elementary school. You're worried that a classmate might give them the flu, and your children might get really sick. You decide you'll make sure they stay up to date on their flu shots and learn to wash their hands properly to keep them safe.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your children are in elementary school. You're worried that a classmate might give them the flu, and your children might get really sick. You decide you'll make sure they stay up to date on their flu shots and learn to wash their hands properly to keep them safe."
+        },
+        {
+            "type": "Media",
+            "url": "./images/510.jpg"
+        }
+    ]
+}

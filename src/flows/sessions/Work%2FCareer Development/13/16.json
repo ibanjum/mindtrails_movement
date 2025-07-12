@@ -1,0 +1,27 @@
+{
+    "header_text": "Your supervisor arranges a meeting for you with a new coworker you have yet to meet. As you sit in the room waiting to meet this coworker for the first time, you wonder how it will go. You feel that your coworker will think you are pleasant.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you think you will make a bad impression on your new coworker?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your supervisor arranges a meeting for you with a new coworker you have yet to meet. As you sit in the room waiting to meet this coworker for the first time, you wonder how it will go. You feel that your coworker will think you are pleasant._Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

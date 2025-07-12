@@ -1,0 +1,14 @@
+{
+    "header_text": "You are volunteering at an event for a local food bank. You snap angrily at another volunteer when they interrupt you to ask you a question. They look at you with surprise as you take a breath and apologize.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are volunteering at an event for a local food bank. You snap angrily at another volunteer when they interrupt you to ask you a question. They look at you with surprise as you take a breath and apologize."
+        },
+        {
+            "type": "Media",
+            "url": "./images/843.jpg"
+        }
+    ]
+}

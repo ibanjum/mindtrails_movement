@@ -1,0 +1,14 @@
+{
+    "header_text": "You're visiting the doctor for a follow-up appointment. As you describe some recent symptoms you've been having, you notice the doctor is typing a lot. When they look up at you, they have an expression of calmness.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're visiting the doctor for a follow-up appointment. As you describe some recent symptoms you've been having, you notice the doctor is typing a lot. When they look up at you, they have an expression of calmness."
+        },
+        {
+            "type": "Media",
+            "url": "./images/526.jpg"
+        }
+    ]
+}

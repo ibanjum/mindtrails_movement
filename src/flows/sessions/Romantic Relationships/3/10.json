@@ -1,0 +1,14 @@
+{
+    "header_text": "Your friend has convinced you to sign up for an online dating website. You look over your profile and worry whether people will be interested in the qualities you have chosen to share. Thinking about your prospects of finding someone online, you believe that your chances of meeting someone are high.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your friend has convinced you to sign up for an online dating website. You look over your profile and worry whether people will be interested in the qualities you have chosen to share. Thinking about your prospects of finding someone online, you believe that your chances of meeting someone are high."
+        },
+        {
+            "type": "Media",
+            "url": "./images/537.jpg"
+        }
+    ]
+}

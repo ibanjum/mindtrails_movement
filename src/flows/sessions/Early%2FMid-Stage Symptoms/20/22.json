@@ -1,0 +1,14 @@
+{
+    "header_text": "Today you are writing a letter to a loved one and finding it hard to organize your thoughts. You have to re-read previous sentences frequently, and you fear that the final product won't make any sense to the recipient. A few days after you send the letter, your loved one calls to tell you that your words were beautiful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Today you are writing a letter to a loved one and finding it hard to organize your thoughts. You have to re-read previous sentences frequently, and you fear that the final product won't make any sense to the recipient. A few days after you send the letter, your loved one calls to tell you that your words were beautiful."
+        },
+        {
+            "type": "Media",
+            "url": "./images/841.jpg"
+        }
+    ]
+}

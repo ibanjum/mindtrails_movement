@@ -1,0 +1,27 @@
+{
+    "header_text": "You notice that your significant other has not been as responsive to your messages recently. This is unlike them, as they typically respond right away. You know they have been extra busy and that is likely why they haven't been responding.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will you continue to be anxious about this knowing it is not the case?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You notice that your significant other has not been as responsive to your messages recently. This is unlike them, as they typically respond right away. You know they have been extra busy and that is likely why they haven't been responding._Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You meet an attractive person your age, and they ask for your social media. You notice they added you, and now they can see that you don't have many followers. They will think that this is typical.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You meet an attractive person your age, and they ask for your social media. You notice they added you, and now they can see that you don't have many followers. They will think that this is typical."
+        },
+        {
+            "type": "Media",
+            "url": "./images/534.jpg"
+        }
+    ]
+}

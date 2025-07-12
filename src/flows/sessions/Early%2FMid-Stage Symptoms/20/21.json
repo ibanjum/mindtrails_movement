@@ -1,0 +1,27 @@
+{
+    "header_text": "You are almost ready to check out at the grocery store, but you have forgotten the last item you meant to buy. Whenever you forget something like this, it makes you think about when your mom got dementia. You think you probably can't remember the last item because lately you have been so busy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Is your forgetfulness probably a sign of dementia?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are almost ready to check out at the grocery store, but you have forgotten the last item you meant to buy. Whenever you forget something like this, it makes you think about when your mom got dementia. You think you probably can't remember the last item because lately you have been so busy._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

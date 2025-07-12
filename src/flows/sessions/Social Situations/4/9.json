@@ -1,0 +1,27 @@
+{
+    "header_text": "You're called to stand up and introduce yourself to a new team member at your department's meeting. You stumble as you get up from your chair. When you think about everyone seeing you stumble, you feel embarrassed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you okay with people seeing you stumble?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You're called to stand up and introduce yourself to a new team member at your department's meeting. You stumble as you get up from your chair. When you think about everyone seeing you stumble, you feel embarrassed._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "For your vacation this year you are visiting a new state for the first time. When you are there, everything around you feels different and strange. You think this is awesome.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "For your vacation this year you are visiting a new state for the first time. When you are there, everything around you feels different and strange. You think this is awesome."
+        },
+        {
+            "type": "Media",
+            "url": "./images/605.jpg"
+        }
+    ]
+}

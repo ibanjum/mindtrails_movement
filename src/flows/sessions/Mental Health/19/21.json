@@ -1,0 +1,15 @@
+{
+    "header_text": "You're organizing your closet when you struggle to remember where you placed your favorite sweater. You remember that you have been misplacing a lot of items, causing you to wonder if your symptoms are progressing. However, you realize that many people misplace items, and it's better to stay calm.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're organizing your closet when you struggle to remember where you placed your favorite sweater. You remember that you have been misplacing a lot of items, causing you to wonder if your symptoms are progressing. However, you realize that many people misplace items, and it's better to stay..."
+        },
+        {
+            "type": "Entry",
+            "name": "You're organizing your closet when you struggle to remember where you placed your favorite sweater. You remember that you have been misplacing a lot of items, causing you to wonder if your symptoms are progressing. However, you realize that many people misplace items, and it's better to stay calm._Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

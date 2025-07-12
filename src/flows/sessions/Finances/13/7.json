@@ -1,0 +1,14 @@
+{
+    "header_text": "After looking at your bank statement, you notice a few charges that you didn't make. You realize your account has been hacked, and you worry all your money will be lost.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "After looking at your bank statement, you notice a few charges that you didn't make. You realize your account has been hacked, and you worry all your money will be lost."
+        },
+        {
+            "type": "Media",
+            "url": "./images/309.jpg"
+        }
+    ]
+}

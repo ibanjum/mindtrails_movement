@@ -1,0 +1,15 @@
+{
+    "header_text": "You have just had your first child. You want to have a good relationship throughout your kid's life, but you worry about making mistakes as a parent. When your child is an adult, you believe that relationship will be strained.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently welcomed your first grandchild. You want to have a good relationship throughout your grandchild's life, but you worry about making mistakes as a grandparent. When your grandchild is an adult, you believe that relationship will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "You have just had your first child. You want to have a good relationship throughout your kid's life, but you worry about making mistakes as a parent. When your child is an adult, you believe that relationship will be strained._Family & Home Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

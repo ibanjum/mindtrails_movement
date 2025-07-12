@@ -1,0 +1,14 @@
+{
+    "header_text": "You are taking a skydiving lesson. When you think about jumping out of the airplane, your body begins to tremble. This is exhilarating.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are taking a skydiving lesson. When you think about jumping out of the airplane, your body begins to tremble. This is exhilarating."
+        },
+        {
+            "type": "Media",
+            "url": "./images/437.jpg"
+        }
+    ]
+}

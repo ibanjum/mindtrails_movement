@@ -1,0 +1,14 @@
+{
+    "header_text": "You have recently joined a new department at work. When you go to the first team meeting, you notice that most people are sitting in groups. As you take a seat alone, you realize that there is always an opportunity to join a group.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have recently joined a new department at work. When you go to the first team meeting, you notice that most people are sitting in groups. As you take a seat alone, you realize that there is always an opportunity to join a group."
+        },
+        {
+            "type": "Media",
+            "url": "./images/108.jpg"
+        }
+    ]
+}

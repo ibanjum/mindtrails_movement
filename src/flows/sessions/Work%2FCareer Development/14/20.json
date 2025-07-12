@@ -1,0 +1,14 @@
+{
+    "header_text": "You recently received poor feedback on a presentation. Your colleague, who delivered a similar presentation, received wonderful feedback. You think that your next presentation will be better. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You recently received poor feedback on a presentation. Your colleague, who delivered a similar presentation, received wonderful feedback. You think that your next presentation will be better. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/104.jpg"
+        }
+    ]
+}

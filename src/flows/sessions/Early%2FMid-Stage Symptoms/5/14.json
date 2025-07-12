@@ -1,0 +1,27 @@
+{
+    "header_text": "You and your spouse are planning a weekend trip to celebrate your anniversary. Planning the details of the trip is requiring a lot of thinking, and you feel particularly exhausted. You take a break to walk outside and return feeling refreshed. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Walking outside when you felt tired was..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You and your spouse are planning a weekend trip to celebrate your anniversary. Planning the details of the trip is requiring a lot of thinking, and you feel particularly exhausted. You take a break to walk outside and return feeling refreshed. _Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Rejuvenating",
+                "Exhausting"
+            ],
+            "columnCount": 1,
+            "correct_value": "Rejuvenating"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

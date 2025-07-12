@@ -1,0 +1,14 @@
+{
+    "header_text": "You are sitting at a coffee shop when you see your friend. They walk past you and sit down next to someone else. They must have been distracted.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are sitting at a coffee shop when you see your friend. They walk past you and sit down next to someone else. They must have been distracted."
+        },
+        {
+            "type": "Media",
+            "url": "./images/665.jpg"
+        }
+    ]
+}

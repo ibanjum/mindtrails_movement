@@ -1,0 +1,14 @@
+{
+    "header_text": "You live with a few extended family members. Your friend asks if they can come over for dinner one day, but they don't know how many people live in your home. As you picture your friend coming into your home, you think they will be surprised.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You live with a few extended family members. Your friend asks if they can come over for dinner one day, but they don't know how many people live in your home. As you picture your friend coming into your home, you think they will be surprised."
+        },
+        {
+            "type": "Media",
+            "url": "./images/706.jpg"
+        }
+    ]
+}

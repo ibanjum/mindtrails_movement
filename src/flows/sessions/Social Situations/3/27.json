@@ -1,0 +1,14 @@
+{
+    "header_text": "As you walk through the office, you hear some of our coworkers talking about other people. As you walk closer to them, you overhear your name. They smile and greet you when they see you, and you think that they were probably saying something pleasant.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "As you walk through the office, you hear some of our coworkers talking about other people. As you walk closer to them, you overhear your name. They smile and greet you when they see you, and you think that they were probably saying something pleasant."
+        },
+        {
+            "type": "Media",
+            "url": "./images/403.jpg"
+        }
+    ]
+}

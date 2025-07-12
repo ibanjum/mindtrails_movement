@@ -1,0 +1,14 @@
+{
+    "header_text": "Every Monday you call your parent to say hello. Today is Monday, and they did not pick up the phone when you called, which is unusual. Your parent probably did not answer the phone because they are busy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Every Monday you call your parent to say hello. Today is Monday, and they did not pick up the phone when you called, which is unusual. Your parent probably did not answer the phone because they are busy."
+        },
+        {
+            "type": "Media",
+            "url": "./images/135.jpg"
+        }
+    ]
+}

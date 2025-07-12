@@ -1,0 +1,14 @@
+{
+    "header_text": "Some important people are visiting your office, and you are asked to present a project to them. On the day of the presentation, you arrange your slides and mentally prepare yourself. You think the visitors will evaluate your performance as organized.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Some important people are visiting your office, and you are asked to present a project to them. On the day of the presentation, you arrange your slides and mentally prepare yourself. You think the visitors will evaluate your performance as organized."
+        },
+        {
+            "type": "Media",
+            "url": "./images/37.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Your parent has Huntington's disease, and it has been difficult to watch their condition worsen as they've gotten older. As you age, you wonder if your symptoms will become as severe as theirs. You begin to feel nervous about your future.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your parent has Huntington's disease, and it has been difficult to watch their condition worsen as they've gotten older. As you age, you wonder if your symptoms will become as severe as theirs. You begin to feel nervous about your future."
+        },
+        {
+            "type": "Media",
+            "url": "./images/414.jpg"
+        }
+    ]
+}

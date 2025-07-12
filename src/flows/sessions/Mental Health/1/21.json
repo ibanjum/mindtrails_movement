@@ -1,0 +1,27 @@
+{
+    "header_text": "You are out to dinner and realize that you are not wearing your favorite watch. You don't remember taking it off earlier but think it is probably where you always keep it. You become a little anxious thinking about where the watch is, and your dinner ends up being enjoyable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Is the dinner miserable while you worry about the watch? "
+        },
+        {
+            "type": "Buttons",
+            "name": "You are out to dinner and realize that you are not wearing your favorite watch. You don't remember taking it off earlier but think it is probably where you always keep it. You become a little anxious thinking about where the watch is, and your dinner ends up being enjoyable._Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

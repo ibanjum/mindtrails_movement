@@ -1,0 +1,14 @@
+{
+    "header_text": "You arrive at a luncheon in a new outfit. Everyone turns to look at you as you walk in. You decide that they must think you look stylish.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You arrive at a luncheon in a new outfit. Everyone turns to look at you as you walk in. You decide that they must think you look stylish."
+        },
+        {
+            "type": "Media",
+            "url": "./images/699.jpg"
+        }
+    ]
+}

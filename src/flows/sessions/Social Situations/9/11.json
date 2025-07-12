@@ -1,0 +1,14 @@
+{
+    "header_text": "As you scroll through your social media accounts, you see that your closest friend is hanging out with someone you don't know. You wonder who this person is, and why you haven't heard about them. When you think about your friendship with this friend, you feel worried.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "As you scroll through your social media accounts, you see that your closest friend is hanging out with someone you don't know. You wonder who this person is, and why you haven't heard about them. When you think about your friendship with this friend, you feel worried."
+        },
+        {
+            "type": "Media",
+            "url": "./images/601.jpg"
+        }
+    ]
+}

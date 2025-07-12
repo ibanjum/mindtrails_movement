@@ -1,0 +1,27 @@
+{
+    "header_text": "One of your favorite celebrities is doing a show near you, and you've been looking at tickets. Tickets for the show are more than you expected, and your paychecks haven't been as much as you were hoping. You decide that it is ok to treat yourself to something that makes you happy, and you purchase the tickets. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Is it okay to spend money on the tickets?"
+        },
+        {
+            "type": "Buttons",
+            "name": "One of your favorite celebrities is doing a show near you, and you've been looking at tickets. Tickets for the show are more than you expected, and your paychecks haven't been as much as you were hoping. You decide that it is ok to treat yourself to something that makes you happy, and you purchase the tickets. _Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are shopping for fresh fruits and vegetables in the produce section at the store. When you see all the options, you feel overwhelmed about making decisions on the spot. You check your list and only buy what you need. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are shopping for fresh fruits and vegetables in the produce section at the store. When you see all the options, you feel overwhelmed about making decisions on the spot. You check your list and only buy what you need. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/762.jpg"
+        }
+    ]
+}

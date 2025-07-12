@@ -1,0 +1,14 @@
+{
+    "header_text": "You recently turned in a report, and your boss asks to see you about your work. As you walk into their office, they tell you to sit down because there's lots of feedback to go through, and they look at you with a frown.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You recently turned in a report, and your boss asks to see you about your work. As you walk into their office, they tell you to sit down because there's lots of feedback to go through, and they look at you with a frown."
+        },
+        {
+            "type": "Media",
+            "url": "./images/6.jpg"
+        }
+    ]
+}

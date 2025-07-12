@@ -1,0 +1,27 @@
+{
+    "header_text": "You are out to lunch with a friend. As you eat your salad and talk with them, they stare at you. They probably think that you are interesting.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your friend was probably looking at you because..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are out to lunch with a friend. As you eat your salad and talk with them, they stare at you. They probably think that you are interesting._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You have poor table manners",
+                "You are great company"
+            ],
+            "columnCount": 1,
+            "correct_value": "You are great company"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

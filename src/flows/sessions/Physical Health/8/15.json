@@ -1,0 +1,14 @@
+{
+    "header_text": "You see your friends across the street and walk over to them. You feel a little disoriented and dizzy as you reach them. You consider what this means and realize that it probably means that you walked too quickly.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You see your friends across the street and walk over to them. You feel a little disoriented and dizzy as you reach them. You consider what this means and realize that it probably means that you walked too quickly."
+        },
+        {
+            "type": "Media",
+            "url": "./images/478.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been working hard all day and have not had much to eat. As you stand up from your desk, you feel dizzy and weak, and this makes you a little worried. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been working hard all day and have not had much to eat. As you stand up from your desk, you feel dizzy and weak, and this makes you a little worried. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/364.jpg"
+        }
+    ]
+}

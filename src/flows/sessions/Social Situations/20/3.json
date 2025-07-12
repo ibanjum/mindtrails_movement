@@ -1,0 +1,14 @@
+{
+    "header_text": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel overwhelmed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel overwhelmed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/691.jpg"
+        }
+    ]
+}

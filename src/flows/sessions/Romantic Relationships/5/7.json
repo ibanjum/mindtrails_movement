@@ -1,0 +1,27 @@
+{
+    "header_text": "It is wedding season, and you are super excited to go to your friend's wedding. When you get there, you notice that most people have a date, but you don't have one. You remember how excited you are for your friend and have a great time celebrating.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will you have fun at the wedding without a date?"
+        },
+        {
+            "type": "Buttons",
+            "name": "It is wedding season, and you are super excited to go to your friend's wedding. When you get there, you notice that most people have a date, but you don't have one. You remember how excited you are for your friend and have a great time celebrating._Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

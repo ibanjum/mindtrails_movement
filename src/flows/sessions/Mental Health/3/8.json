@@ -1,0 +1,23 @@
+{
+    "header_text": "You made plans with a group of friends to go out to dinner on a Friday night. You see that they are dressed casually when they pick you up, but you think they might judge you because you dressed up a bit. You decide that you like what you're wearing and go to dinner happy. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You made plans with a group of friends to go out to dinner on a Friday night. You see that they are dressed casually when they pick you up, but you think they might judge you because you dressed up a bit. You decide that you like what you're wearing and go to dinner... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You made plans with a group of friends to go out to dinner on a Friday night. You see that they are dressed casually when they pick you up, but you think they might judge you because you dressed up a bit. You decide that you like what you're wearing and go to dinner happy. _Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "happy"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

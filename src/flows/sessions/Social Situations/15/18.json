@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been invited to a friend's house for a holiday and you want to bring a gift. You can't afford to buy one, so you decide to write a poem and recite it for their family. As you picture yourself reading it, you feel excited.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been invited to a friend's house for a holiday and you want to bring a gift. You can't afford to buy one, so you decide to write a poem and recite it for their family. As you picture yourself reading it, you feel excited."
+        },
+        {
+            "type": "Media",
+            "url": "./images/674.jpg"
+        }
+    ]
+}

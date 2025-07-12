@@ -1,0 +1,14 @@
+{
+    "header_text": "Two of your best friends are married to each other. While you enjoy hanging out with them, you can't help but feel like you're a third wheel. You realize that they hang with you together because they both think you're enjoyable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Two of your best friends are married to each other. While you enjoy hanging out with them, you can't help but feel like you're a third wheel. You realize that they hang with you together because they both think you're enjoyable. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/545.jpg"
+        }
+    ]
+}

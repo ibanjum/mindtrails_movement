@@ -1,0 +1,14 @@
+{
+    "header_text": "You had a very busy day, and you are finally able to relax in the evening. As you sit on your couch, you feel spaced-out. You are calm.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You had a very busy day, and you are finally able to relax in the evening. As you sit on your couch, you feel spaced-out. You are calm."
+        },
+        {
+            "type": "Media",
+            "url": "./images/451.jpg"
+        }
+    ]
+}

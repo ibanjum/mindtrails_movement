@@ -1,0 +1,14 @@
+{
+    "header_text": "You are playing with your child in your home. You are having difficulty keeping up with your child running around and wonder if your spouse will be worried about your child's safety. You believe that your spouse will feel okay.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are playing with your child in your home. You are having difficulty keeping up with your child running around and wonder if your spouse will be worried about your child's safety. You believe that your spouse will feel okay."
+        },
+        {
+            "type": "Media",
+            "url": "./images/203.jpg"
+        }
+    ]
+}

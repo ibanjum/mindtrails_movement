@@ -1,0 +1,14 @@
+{
+    "header_text": "You're having dinner at a nice restaurant with some friends you haven't seen in a while. In the middle of dinner, your arms start moving uncontrollably, and your friends all turn and look at you. Your friends think having dinner with you is nice.  ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're having dinner at a nice restaurant with some friends you haven't seen in a while. In the middle of dinner, your arms start moving uncontrollably, and your friends all turn and look at you. Your friends think having dinner with you is nice.  "
+        },
+        {
+            "type": "Media",
+            "url": "./images/720.jpg"
+        }
+    ]
+}

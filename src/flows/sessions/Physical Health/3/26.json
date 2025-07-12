@@ -1,0 +1,14 @@
+{
+    "header_text": "You are on a weekend walking trip with a friend. When you reach a slight incline, you start to breathe heavily. You are scared about what this could mean for your health, especially given that you are out in the wilderness. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are on a weekend walking trip with a friend. When you reach a slight incline, you start to breathe heavily. You are scared about what this could mean for your health, especially given that you are out in the wilderness. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/449.jpg"
+        }
+    ]
+}

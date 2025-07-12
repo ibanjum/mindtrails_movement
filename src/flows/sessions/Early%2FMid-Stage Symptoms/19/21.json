@@ -1,0 +1,14 @@
+{
+    "header_text": "It's Friday night, and you decide to go to see a movie. During the movie, you feel overwhelmed trying to follow the plot and remember key details. You close your eyes and listen to the dialogue, and soon you are back on track.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "It's Friday night, and you decide to go to see a movie. During the movie, you feel overwhelmed trying to follow the plot and remember key details. You close your eyes and listen to the dialogue, and soon you are back on track."
+        },
+        {
+            "type": "Media",
+            "url": "./images/833.jpg"
+        }
+    ]
+}

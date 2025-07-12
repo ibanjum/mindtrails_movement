@@ -1,0 +1,14 @@
+{
+    "header_text": "You wake up and realize that you're late for your first online meeting of the day. You log into the meeting and when you do, your supervisor stops talking. You apologize for being late in the chat, and spend the rest of the meeting feeling calm.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You wake up and realize that you're late for your first online meeting of the day. You log into the meeting and when you do, your supervisor stops talking. You apologize for being late in the chat, and spend the rest of the meeting feeling calm."
+        },
+        {
+            "type": "Media",
+            "url": "./images/58.jpg"
+        }
+    ]
+}

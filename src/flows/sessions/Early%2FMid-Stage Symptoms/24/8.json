@@ -1,0 +1,14 @@
+{
+    "header_text": "You are shopping for the holidays at an outdoor market with your sibling. You pick up a fragile item to check the price, but it drops and shatters on the ground. You apologize to the shop owner, and they are forgiving.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are shopping for the holidays at an outdoor market with your sibling. You pick up a fragile item to check the price, but it drops and shatters on the ground. You apologize to the shop owner, and they are forgiving."
+        },
+        {
+            "type": "Media",
+            "url": "./images/856.jpg"
+        }
+    ]
+}

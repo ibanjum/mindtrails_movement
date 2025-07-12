@@ -1,0 +1,14 @@
+{
+    "header_text": "Your boss calls a meeting to discuss a new project that will involve most of the staff at your office. You are suddenly asked to contribute your ideas to the discussion. You quickly come up with some ideas on the spot and think that your colleagues will find your ideas to be exciting.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your boss calls a meeting to discuss a new project that will involve most of the staff at your office. You are suddenly asked to contribute your ideas to the discussion. You quickly come up with some ideas on the spot and think that your colleagues will find your ideas to be exciting."
+        },
+        {
+            "type": "Media",
+            "url": "./images/21.jpg"
+        }
+    ]
+}

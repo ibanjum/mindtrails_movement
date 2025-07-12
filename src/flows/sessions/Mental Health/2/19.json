@@ -1,0 +1,14 @@
+{
+    "header_text": "You take a picture of a coworker at an event that is really great. You want to show your other coworkers in an email but remember that you just sent out an email yesterday. If you email again, you think people won't notice.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You take a picture of a coworker at an event that is really great. You want to show your other coworkers in an email but remember that you just sent out an email yesterday. If you email again, you think people won't notice."
+        },
+        {
+            "type": "Media",
+            "url": "./images/334.jpg"
+        }
+    ]
+}

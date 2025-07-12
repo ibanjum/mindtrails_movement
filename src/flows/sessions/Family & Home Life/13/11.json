@@ -1,0 +1,14 @@
+{
+    "header_text": "You are babysitting, and the child is outside playing with friends. You look out the window to check on them, and they are not there. The child is probably fine.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are babysitting, and the child is outside playing with friends. You look out the window to check on them, and they are not there. The child is probably fine."
+        },
+        {
+            "type": "Media",
+            "url": "./images/30.jpg"
+        }
+    ]
+}

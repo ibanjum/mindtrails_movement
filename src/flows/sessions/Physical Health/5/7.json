@@ -1,0 +1,27 @@
+{
+    "header_text": "You are in a meeting listening to someone speak. You stop paying attention and space out for a minute or two. When you begin to pay attention again, you are relaxed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you feel calm after you space out during the meeting?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are in a meeting listening to someone speak. You stop paying attention and space out for a minute or two. When you begin to pay attention again, you are relaxed._Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

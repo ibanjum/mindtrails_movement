@@ -1,0 +1,14 @@
+{
+    "header_text": "One morning you leave your house and begin to make your way to work. About 10 minutes into the commute, you wonder whether you remembered to lock the door to your home. As you continue your commute, you trust yourself and you feel relaxed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "One morning you leave your house and begin to make your way to work. About 10 minutes into the commute, you wonder whether you remembered to lock the door to your home. As you continue your commute, you trust yourself and you feel relaxed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/164.jpg"
+        }
+    ]
+}

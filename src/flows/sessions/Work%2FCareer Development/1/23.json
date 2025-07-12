@@ -1,0 +1,27 @@
+{
+    "header_text": "You are required to give a presentation to a group of work colleagues that you know well. They all are quiet during your presentation. As you think about it later at home, you think that your colleagues found your presentation interesting.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your cohort members were probably quiet because ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are required to give a presentation to a group of work colleagues that you know well. They all are quiet during your presentation. As you think about it later at home, you think that your colleagues found your presentation interesting._Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "They were bored by your presentation.",
+                "They were engaged by your presentation."
+            ],
+            "columnCount": 1,
+            "correct_value": "They were engaged by your presentation."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Your significant other's parents have invited you to join them for the holidays. You are excited to spend time with your partner's family, but you worry your own parents will be disappointed that you are not with them. When you think about telling your parents you would like to spend the holidays with your partner, you believe that they will take the news poorly.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your significant other's parents have invited you to join them for the holidays. You are excited to spend time with your partner's family, but you worry your own parents will be disappointed that you are not with them. When you think about telling your parents you would like to spend the holidays with your partner, you believe that they will take the news poorly."
+        },
+        {
+            "type": "Media",
+            "url": "./images/156.jpg"
+        }
+    ]
+}

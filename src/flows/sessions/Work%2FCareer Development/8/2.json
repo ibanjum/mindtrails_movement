@@ -1,0 +1,14 @@
+{
+    "header_text": "You are giving a presentation at a meeting tomorrow. You know that the quality of your presentation will be taken into account by your boss. As you think about the presentation, you feel prepared.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are giving a presentation at a meeting tomorrow. You know that the quality of your presentation will be taken into account by your boss. As you think about the presentation, you feel prepared."
+        },
+        {
+            "type": "Media",
+            "url": "./images/40.jpg"
+        }
+    ]
+}

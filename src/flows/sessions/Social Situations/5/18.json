@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at a birthday party for a friend and talking with someone you just met. You cannot tell whether the person thinks you are interesting or boring, and you decide that not knowing is okay.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at a birthday party for a friend and talking with someone you just met. You cannot tell whether the person thinks you are interesting or boring, and you decide that not knowing is okay."
+        },
+        {
+            "type": "Media",
+            "url": "./images/627.jpg"
+        }
+    ]
+}

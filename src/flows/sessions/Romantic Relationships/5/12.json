@@ -1,0 +1,14 @@
+{
+    "header_text": "You notice that your significant other has not been as responsive to your messages recently. This is unlike them, as they typically respond right away. You know they have been extra busy and that is likely why they haven't been responding.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You notice that your significant other has not been as responsive to your messages recently. This is unlike them, as they typically respond right away. You know they have been extra busy and that is likely why they haven't been responding."
+        },
+        {
+            "type": "Media",
+            "url": "./images/377.jpg"
+        }
+    ]
+}

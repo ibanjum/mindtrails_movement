@@ -1,0 +1,14 @@
+{
+    "header_text": "You love creating collages, and you're really proud of what you've created. As you think about getting older, you wonder how your ability to cut out images and do this hobby will change. You remind yourself to enjoy doing what you love in the present.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You love creating collages, and you're really proud of what you've created. As you think about getting older, you wonder how your ability to cut out images and do this hobby will change. You remind yourself to enjoy doing what you love in the present."
+        },
+        {
+            "type": "Media",
+            "url": "./images/754.jpg"
+        }
+    ]
+}

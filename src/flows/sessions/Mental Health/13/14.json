@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been with your partner for a while, and you are still very into them. Recently, your partner hasn't expressed much adoration towards you, and you wonder if they still love you as much as you love them. You think that they are no longer into you. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been with your partner for a while, and you are still very into them. Recently, your partner hasn't expressed much adoration towards you, and you wonder if they still love you as much as you love them. You think that they are no longer into you. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/374.jpg"
+        }
+    ]
+}

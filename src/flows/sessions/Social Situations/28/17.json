@@ -1,0 +1,14 @@
+{
+    "header_text": "You are having a conversation with your best friend of many years. During the conversation, they criticize you, saying that they don't think your job is worth pursuing. You wonder whether you should remain friends with them. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are having a conversation with your best friend of many years. During the conversation, they criticize you, saying that they don't think your job is worth pursuing. You wonder whether you should remain friends with them. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/169.jpg"
+        }
+    ]
+}

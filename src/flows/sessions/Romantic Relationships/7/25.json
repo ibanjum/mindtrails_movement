@@ -1,0 +1,14 @@
+{
+    "header_text": "You are planning your wedding with your fiancé. Planning your wedding has sometimes put stress on your relationship, and you and your fiancé have had a few arguments during the process. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are planning your wedding with your fiancé. Planning your wedding has sometimes put stress on your relationship, and you and your fiancé have had a few arguments during the process. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/225.jpg"
+        }
+    ]
+}

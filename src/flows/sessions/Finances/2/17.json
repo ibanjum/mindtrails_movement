@@ -1,0 +1,14 @@
+{
+    "header_text": "Last month, you were able to go out to dinner more often than you usually do, and you enjoyed it. However, looking at your bank account now, you're unsure if you can keep up with that lifestyle as well as pay for groceries, bills, etc. You decide to limit yourself to one meal out per week, and you're feeling confident in this budget. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Last month, you were able to go out to dinner more often than you usually do, and you enjoyed it. However, looking at your bank account now, you're unsure if you can keep up with that lifestyle as well as pay for groceries, bills, etc. You decide to limit yourself to one meal out per week, and you're feeling confident in this budget. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/251.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You were recently exposed to someone who had a virus, but you haven't experienced any symptoms. Your friends invite you to get dinner with them, and you wonder if you should go. You feel well and decide to go out with your friends. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You were recently exposed to someone who had a virus, but you haven't experienced any symptoms. Your friends invite you to get dinner with them, and you wonder if you should go. You feel well and decide to go out with your friends. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/488.jpg"
+        }
+    ]
+}

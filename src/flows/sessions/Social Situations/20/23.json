@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been asked to talk about your journey with HD in your support group. This is a great opportunity to highlight the good work you have been doing, but you feel nervous talking in front of such a big group of your peers. As you think about how the people in the support group will react to your story, you believe they will be encouraging. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been asked to talk about your journey with HD in your support group. This is a great opportunity to highlight the good work you have been doing, but you feel nervous talking in front of such a big group of your peers. As you think about how the people in the support group will react to your story, you believe they will be encouraging. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/697.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Getting up this morning, you notice that your throat is scratchier than it usually is. You think about why this may be. You decide it is probably because you are thirsty.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Getting up this morning, you notice that your throat is scratchier than it usually is. You think about why this may be. You decide it is probably because you are thirsty."
+        },
+        {
+            "type": "Media",
+            "url": "./images/439.jpg"
+        }
+    ]
+}

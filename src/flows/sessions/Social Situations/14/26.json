@@ -1,0 +1,27 @@
+{
+    "header_text": "You are giving a presentation during your evening meeting. As you talk, you hear a few of your coworkers laughing in the corner. You look over at them and realize they were probably laughing at you.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Were your coworkers laughing at you?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are giving a presentation during your evening meeting. As you talk, you hear a few of your coworkers laughing in the corner. You look over at them and realize they were probably laughing at you._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

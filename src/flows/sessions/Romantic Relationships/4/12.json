@@ -1,0 +1,23 @@
+{
+    "header_text": "You receive a call from a friend who is telling you that he is getting a divorce, and you reflect on your own marriage. You love your spouse, and you have the impression that your friend loves his wife too. As you wonder about your future with your spouse, you feel strongly that the two of you will stick together.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You receive a call from a friend who is telling you that he is getting a divorce, and you reflect on your own marriage. You love your spouse, and you have the impression that your friend loves his wife too. As you wonder about your future with your spouse, you feel strongly that the two of you will stick..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You receive a call from a friend who is telling you that he is getting a divorce, and you reflect on your own marriage. You love your spouse, and you have the impression that your friend loves his wife too. As you wonder about your future with your spouse, you feel strongly that the two of you will stick together._Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "together"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You are babysitting your nephew and playing toys with him. You start having difficulty getting words out when he bombards you with questions. You remember that even if you can't answer all his questions, your presence already makes him happy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your grandchild is..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are babysitting your nephew and playing toys with him. You start having difficulty getting words out when he bombards you with questions. You remember that even if you can't answer all his questions, your presence already makes him happy._Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Happy to be with you.",
+                "Feeling impatient."
+            ],
+            "columnCount": 1,
+            "correct_value": "Happy to be with you."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

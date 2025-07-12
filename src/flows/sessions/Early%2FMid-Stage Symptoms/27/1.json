@@ -1,0 +1,14 @@
+{
+    "header_text": "You were asked to plan a fundraiser for a local non-profit, a task you've taken on yearly. While organizing the details, you become upset because you notice it is taking you much longer than in the past. You choose to write down a plan, delegate tasks to others, and watch the event come together successfully.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You were asked to plan a fundraiser for a local non-profit, a task you've taken on yearly. While organizing the details, you become upset because you notice it is taking you much longer than in the past. You choose to write down a plan, delegate tasks to others, and watch the event come together successfully."
+        },
+        {
+            "type": "Media",
+            "url": "./images/866.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You are setting out the ingredients to cook a favorite family dinner. You realize you do not remember how the recipe starts, and you begin to get upset. You get out the written recipe and know that you are capable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your attempt to cook dinner will be a..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are setting out the ingredients to cook a favorite family dinner. You realize you do not remember how the recipe starts, and you begin to get upset. You get out the written recipe and know that you are capable. _Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Failure",
+                "Success"
+            ],
+            "columnCount": 1,
+            "correct_value": "Success"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

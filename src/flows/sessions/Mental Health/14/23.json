@@ -1,0 +1,14 @@
+{
+    "header_text": "Your last relationship did not end very well. You are entering a new relationship, but you are still dealing with the feelings from your past relationship. You think you can work out a compromise together. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your last relationship did not end very well. You are entering a new relationship, but you are still dealing with the feelings from your past relationship. You think you can work out a compromise together. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/384.jpg"
+        }
+    ]
+}

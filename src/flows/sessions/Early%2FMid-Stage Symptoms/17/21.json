@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at the pet store looking for a new bird feeder when you notice a kitten up for adoption. You have been thinking about adopting an animal, but fear your HD will limit your ability to care for it in the future. You remember that you will also have your family's support, and you decide to adopt.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at the pet store looking for a new bird feeder when you notice a kitten up for adoption. You have been thinking about adopting an animal, but fear your HD will limit your ability to care for it in the future. You remember that you will also have your family's support, and you decide to adopt."
+        },
+        {
+            "type": "Media",
+            "url": "./images/219.jpg"
+        }
+    ]
+}

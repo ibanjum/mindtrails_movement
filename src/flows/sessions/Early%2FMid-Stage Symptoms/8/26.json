@@ -1,0 +1,27 @@
+{
+    "header_text": "For the first time since being diagnosed with HD, you find yourself confused by a familiar cake recipe. You ask your spouse a question about the recipe, and they go quiet. When you look into your spouse's eyes, their emotions are unclear.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "After your spouse explains their silence, you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "For the first time since being diagnosed with HD, you find yourself confused by a familiar cake recipe. You ask your spouse a question about the recipe, and they go quiet. When you look into your spouse's eyes, their emotions are unclear._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Worried",
+                "Comforted"
+            ],
+            "columnCount": 1,
+            "correct_value": "Comforted"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

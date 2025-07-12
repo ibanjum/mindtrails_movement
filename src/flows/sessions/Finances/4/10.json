@@ -1,0 +1,27 @@
+{
+    "header_text": "You are considering leaving your job to start your own small business and are ready to work hard. You are excited, but you also know that many start-ups can end up crashing and burning. Thinking about the future of your business, it will be profitable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You think that working hard at your business will..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are considering leaving your job to start your own small business and are ready to work hard. You are excited, but you also know that many start-ups can end up crashing and burning. Thinking about the future of your business, it will be profitable. _Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Play a crucial part in your company's eventual success",
+                "Still not be enough to keep your company afloat"
+            ],
+            "columnCount": 1,
+            "correct_value": "Play a crucial part in your company's eventual success"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

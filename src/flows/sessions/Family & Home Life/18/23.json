@@ -1,0 +1,14 @@
+{
+    "header_text": "Planning family outings has always been a fun activity for you. As you plan an upcoming beach day, you struggle to organize the itinerary and become overwhelmed. After a break and a snack, you are able to re-focus.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Planning family outings has always been a fun activity for you. As you plan an upcoming beach day, you struggle to organize the itinerary and become overwhelmed. After a break and a snack, you are able to re-focus."
+        },
+        {
+            "type": "Media",
+            "url": "./images/242.jpg"
+        }
+    ]
+}

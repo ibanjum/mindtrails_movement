@@ -1,0 +1,15 @@
+{
+    "header_text": "You recently attended a retirement party for an older colleague. Thinking about your retirement funds, you wonder if you've been saving enough to retire when you want to. You feel behind. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Talking about this with your bank, they reassure you that you have plenty saved for retirement and that you still have time to keep saving. You feel hopeful that you will be able to retire as..."
+        },
+        {
+            "type": "Entry",
+            "name": "You recently attended a retirement party for an older colleague. Thinking about your retirement funds, you wonder if you've been saving enough to retire when you want to. You feel behind. _Finances_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

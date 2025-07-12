@@ -1,0 +1,14 @@
+{
+    "header_text": "Your boss asks a question to the group in your virtual meeting. You click the \"raise hand\" button and prepare your response. You think that you'll sound dumb.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your boss asks a question to the group in your virtual meeting. You click the \"raise hand\" button and prepare your response. You think that you'll sound dumb."
+        },
+        {
+            "type": "Media",
+            "url": "./images/49.jpg"
+        }
+    ]
+}

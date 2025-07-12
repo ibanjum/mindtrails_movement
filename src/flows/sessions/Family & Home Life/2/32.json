@@ -1,0 +1,27 @@
+{
+    "header_text": "Your family expects you to get promoted at your job. You haven't told them yet that you actually want to take a few years off to travel. You think about telling them and feel anxious.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you feel better after talking to your family about your plans? "
+        },
+        {
+            "type": "Buttons",
+            "name": "Your family expects you to get promoted at your job. You haven't told them yet that you actually want to take a few years off to travel. You think about telling them and feel anxious._Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

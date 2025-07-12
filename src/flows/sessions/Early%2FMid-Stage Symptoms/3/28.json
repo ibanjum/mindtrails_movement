@@ -1,0 +1,27 @@
+{
+    "header_text": "You are excited to attend a dinner with friends. However, you find that you are having more difficulty swallowing than usual. Whether or not your friends notice, you know your friends care about you, and your presence is appreciated.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your friends notice that you're having difficulty swallowing, and…."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are excited to attend a dinner with friends. However, you find that you are having more difficulty swallowing than usual. Whether or not your friends notice, you know your friends care about you, and your presence is appreciated._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "They are grateful you are present at the dinner",
+                "They are embarrassed by you"
+            ],
+            "columnCount": 1,
+            "correct_value": "They are grateful you are present at the dinner"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

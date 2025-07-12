@@ -1,0 +1,14 @@
+{
+    "header_text": "After noticing your throat hurting a bit, you decide to go to the doctor. Your partner barely goes to the doctor because it's so expensive, and you think they'll be mad at you for the cost. You hope that they'll forgive you easily, because getting sick isn't fully in your control. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "After noticing your throat hurting a bit, you decide to go to the doctor. Your partner barely goes to the doctor because it's so expensive, and you think they'll be mad at you for the cost. You hope that they'll forgive you easily, because getting sick isn't fully in your control. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/511.jpg"
+        }
+    ]
+}

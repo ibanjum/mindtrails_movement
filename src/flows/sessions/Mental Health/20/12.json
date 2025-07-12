@@ -1,0 +1,14 @@
+{
+    "header_text": "You apply for a grant to fund a new initiative in your office. Without this funding, you won't be able to move forward with your initiative. You don't know if your proposal is good enough, and you think it will probably be rejected.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You apply for a grant to fund a new initiative in your office. Without this funding, you won't be able to move forward with your initiative. You don't know if your proposal is good enough, and you think it will probably be rejected."
+        },
+        {
+            "type": "Media",
+            "url": "./images/94.jpg"
+        }
+    ]
+}

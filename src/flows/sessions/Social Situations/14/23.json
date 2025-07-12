@@ -1,0 +1,14 @@
+{
+    "header_text": "You are giving a presentation during your evening meeting. As you talk, you hear a few of your coworkers laughing in the corner. You look over at them and realize they were probably laughing at you.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are giving a presentation during your evening meeting. As you talk, you hear a few of your coworkers laughing in the corner. You look over at them and realize they were probably laughing at you."
+        },
+        {
+            "type": "Media",
+            "url": "./images/671.jpg"
+        }
+    ]
+}

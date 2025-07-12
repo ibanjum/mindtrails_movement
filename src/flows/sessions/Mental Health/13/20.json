@@ -1,0 +1,14 @@
+{
+    "header_text": "You just posted a new picture an hour ago. When you check how many likes it has gotten, you see no one has liked it yet. It's late at night, and you realize that everyone is sleeping.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You just posted a new picture an hour ago. When you check how many likes it has gotten, you see no one has liked it yet. It's late at night, and you realize that everyone is sleeping."
+        },
+        {
+            "type": "Media",
+            "url": "./images/376.jpg"
+        }
+    ]
+}

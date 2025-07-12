@@ -1,0 +1,14 @@
+{
+    "header_text": "You are hanging out with some friends. One friend invites another friend to come over to their house in a few days without inviting you. You think about it and realize you feel alright.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are hanging out with some friends. One friend invites another friend to come over to their house in a few days without inviting you. You think about it and realize you feel alright."
+        },
+        {
+            "type": "Media",
+            "url": "./images/651.jpg"
+        }
+    ]
+}

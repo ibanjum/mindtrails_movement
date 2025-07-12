@@ -1,0 +1,15 @@
+{
+    "header_text": "You have off on Monday for a holiday, and you know people will make plans for the long weekend. After a close friend says they're out of town for the weekend, you realize you don't have anyone to hang out with. This makes you optimistic about making new friends over the weekend.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have off on Monday for a holiday, and you know people will make plans for the long weekend. After a close friend says they're out of town for the weekend, you realize you don't have anyone to hang out with. This makes you optimistic about making new friends over the..."
+        },
+        {
+            "type": "Entry",
+            "name": "You have off on Monday for a holiday, and you know people will make plans for the long weekend. After a close friend says they're out of town for the weekend, you realize you don't have anyone to hang out with. This makes you optimistic about making new friends over the weekend._Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You decide to spin yourself really quickly in an office chair. You feel butterflies in your stomach and your head get dizzy as the chair slows down from spinning. These feelings probably mean that you are fine.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You decide to spin yourself really quickly in an office chair. You feel butterflies in your stomach and your head get dizzy as the chair slows down from spinning. These feelings probably mean that you are fine."
+        },
+        {
+            "type": "Media",
+            "url": "./images/473.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "You make plans to go out to dinner with a friend. When you finish dinner, they take sips of water and say that their throat is sore. You figure it's probably from talking a lot at dinner. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You make plans to go out to dinner with a friend. When you finish dinner, they take sips of water and say that their throat is sore. You figure it's probably from talking a lot at... "
+        },
+        {
+            "type": "Entry",
+            "name": "You make plans to go out to dinner with a friend. When you finish dinner, they take sips of water and say that their throat is sore. You figure it's probably from talking a lot at dinner. _Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

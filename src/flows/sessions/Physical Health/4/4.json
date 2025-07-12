@@ -1,0 +1,14 @@
+{
+    "header_text": "You are helping a friend water their plants and holding the water for a long time. Your fingers begins to tingle. This sensation is funny.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are helping a friend water their plants and holding the water for a long time. Your fingers begins to tingle. This sensation is funny."
+        },
+        {
+            "type": "Media",
+            "url": "./images/452.jpg"
+        }
+    ]
+}

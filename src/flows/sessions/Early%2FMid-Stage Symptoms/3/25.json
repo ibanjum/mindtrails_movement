@@ -1,0 +1,27 @@
+{
+    "header_text": "You are playing a board game with a couple of friends. You are trying to place your piece onto the board but your chorea is making it difficult to play on the specific spot. Your turn is taking longer than your friends', so you are worry they are getting annoyed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your friends are..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are playing a board game with a couple of friends. You are trying to place your piece onto the board but your chorea is making it difficult to play on the specific spot. Your turn is taking longer than your friends', so you are worry they are getting annoyed._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Annoyed.",
+                "Happy to be there."
+            ],
+            "columnCount": 1,
+            "correct_value": "Happy to be there."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are writing in your journal and start to flip back through some previous entries. You notice how much your handwriting has changed and begin to worry about your ability to journal in the future. You begin to brainstorm other ways to keep track of your thoughts and feelings and soon feel confident that you can adapt.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are writing in your journal and start to flip back through some previous entries. You notice how much your handwriting has changed and begin to worry about your ability to journal in the future. You begin to brainstorm other ways to keep track of your thoughts and feelings and soon feel confident that you can adapt."
+        },
+        {
+            "type": "Media",
+            "url": "./images/819.jpg"
+        }
+    ]
+}

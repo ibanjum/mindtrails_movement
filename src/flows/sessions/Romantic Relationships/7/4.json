@@ -1,0 +1,14 @@
+{
+    "header_text": "You recently started dating someone whom you like a lot. You introduce them to your family, and they do not seem to approve of them. You remind yourself that this was just the first meeting, and your family will get to know your partner better with time. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You recently started dating someone whom you like a lot. You introduce them to your family, and they do not seem to approve of them. You remind yourself that this was just the first meeting, and your family will get to know your partner better with time. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/550.jpg"
+        }
+    ]
+}

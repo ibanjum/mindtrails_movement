@@ -1,0 +1,15 @@
+{
+    "header_text": "You wear a shirt to work that hangs tightly around your armpits. In the middle of the day, you notice that you have sweat marks. After thinking about it, you realize that sweating throughout the day is normal.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You wear a shirt to work that hangs tightly around your armpits. In the middle of the day, you notice that you have sweat marks. After thinking about it, you realize that sweating throughout the day is..."
+        },
+        {
+            "type": "Entry",
+            "name": "You wear a shirt to work that hangs tightly around your armpits. In the middle of the day, you notice that you have sweat marks. After thinking about it, you realize that sweating throughout the day is normal._Physical Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

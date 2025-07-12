@@ -1,0 +1,27 @@
+{
+    "header_text": "As you scroll through your social media, you see that your friends hung out without you last night. You didn't get an invite to hang out with them. You realize that sometimes your friends hang out without you and that next time you can initiate.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will you reach out to your friends to hang out next time?"
+        },
+        {
+            "type": "Buttons",
+            "name": "As you scroll through your social media, you see that your friends hung out without you last night. You didn't get an invite to hang out with them. You realize that sometimes your friends hang out without you and that next time you can initiate._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

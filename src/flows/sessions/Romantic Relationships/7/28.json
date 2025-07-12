@@ -1,0 +1,27 @@
+{
+    "header_text": "You are planning your wedding with your fiancé. Planning your wedding has sometimes put stress on your relationship, and you and your fiancé have had a few arguments during the process. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you think you and your spouse will feel more divided after the wedding?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are planning your wedding with your fiancé. Planning your wedding has sometimes put stress on your relationship, and you and your fiancé have had a few arguments during the process. _Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

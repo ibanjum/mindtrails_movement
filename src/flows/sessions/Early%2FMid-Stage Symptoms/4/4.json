@@ -1,0 +1,14 @@
+{
+    "header_text": "You don’t feel very steady on your feet as you walk to your table at your favorite restaurant. You see other customers turn their heads to look at you as you walk by. Whether or not they think you walked oddly, your meal will be enj­­oyable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You don’t feel very steady on your feet as you walk to your table at your favorite restaurant. You see other customers turn their heads to look at you as you walk by. Whether or not they think you walked oddly, your meal will be enj­­oyable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/748.jpg"
+        }
+    ]
+}

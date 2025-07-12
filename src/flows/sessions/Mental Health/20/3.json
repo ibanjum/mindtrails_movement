@@ -1,0 +1,14 @@
+{
+    "header_text": "You've been losing your phone more than usual lately. As you notice this, you begin to get anxious about whether this is caused by your HD. You decide that it's best to be more mindful of where you place your phone, and you feel calm.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You've been losing your phone more than usual lately. As you notice this, you begin to get anxious about whether this is caused by your HD. You decide that it's best to be more mindful of where you place your phone, and you feel calm."
+        },
+        {
+            "type": "Media",
+            "url": "./images/346.jpg"
+        }
+    ]
+}

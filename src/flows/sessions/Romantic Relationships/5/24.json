@@ -1,0 +1,14 @@
+{
+    "header_text": "Your significant other, whom you have been dating for a few years, wants to talk about where your relationship is going. This is the first time you have dated someone for such a long time.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your significant other, whom you have been dating for a few years, wants to talk about where your relationship is going. This is the first time you have dated someone for such a long time."
+        },
+        {
+            "type": "Media",
+            "url": "./images/341.jpg"
+        }
+    ]
+}

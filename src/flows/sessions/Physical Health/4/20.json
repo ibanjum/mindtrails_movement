@@ -1,0 +1,14 @@
+{
+    "header_text": "You are watching a movie in a theater. There are many quick-paced camera shots that make you feel dizzy. This sensation is scary.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are watching a movie in a theater. There are many quick-paced camera shots that make you feel dizzy. This sensation is scary."
+        },
+        {
+            "type": "Media",
+            "url": "./images/443.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Your family is planning a big vacation in a few years' time. You wonder what life will look like for you by then, and whether the vacation will be possible. No matter what the future holds, you will still be able to enjoy time with your family- whether or not that includes traveling- and your family will be supportive.  ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your family is planning a big vacation in a few years' time. You wonder what life will look like for you by then, and whether the vacation will be possible. No matter what the future holds, you will still be able to enjoy time with your family- whether or not that includes traveling- and your family will be supportive.  "
+        },
+        {
+            "type": "Media",
+            "url": "./images/735.jpg"
+        }
+    ]
+}

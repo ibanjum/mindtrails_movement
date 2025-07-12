@@ -1,0 +1,14 @@
+{
+    "header_text": "You've decided to accept a job in another department. All of your close friends are applying to committees within your current department. When you think about your decision to switch departments, you feel satisfied.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You've decided to accept a job in another department. All of your close friends are applying to committees within your current department. When you think about your decision to switch departments, you feel satisfied."
+        },
+        {
+            "type": "Media",
+            "url": "./images/52.jpg"
+        }
+    ]
+}

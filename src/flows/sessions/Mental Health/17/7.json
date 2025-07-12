@@ -1,0 +1,14 @@
+{
+    "header_text": "It's a cold day, and you are out walking to clear your mind. Your hands start to shake and your heart beats quickly as you walk up a hill. This is scary.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "It's a cold day, and you are out walking to clear your mind. Your hands start to shake and your heart beats quickly as you walk up a hill. This is scary."
+        },
+        {
+            "type": "Media",
+            "url": "./images/397.jpg"
+        }
+    ]
+}

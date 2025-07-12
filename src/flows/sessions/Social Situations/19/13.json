@@ -1,0 +1,14 @@
+{
+    "header_text": "You just moved to a new apartment, and you are living alone for the first time in a while. Your days are very quiet, and you often find yourself staying in on the weekends more often than when you were living with people. This feels like a relaxing change of pace.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You just moved to a new apartment, and you are living alone for the first time in a while. Your days are very quiet, and you often find yourself staying in on the weekends more often than when you were living with people. This feels like a relaxing change of pace."
+        },
+        {
+            "type": "Media",
+            "url": "./images/181.jpg"
+        }
+    ]
+}

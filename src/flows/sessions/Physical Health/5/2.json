@@ -1,0 +1,14 @@
+{
+    "header_text": "One evening, you are walking and accidentally hit your head against a low ceiling. The next morning, the headache is still there slightly, and you wonder how bad it will become. By lunchtime, the pain has subsided.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "One evening, you are walking and accidentally hit your head against a low ceiling. The next morning, the headache is still there slightly, and you wonder how bad it will become. By lunchtime, the pain has subsided."
+        },
+        {
+            "type": "Media",
+            "url": "./images/456.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Your friends invite you to go out to dinner with them. You realize that going out to dinner might cause you to go over your dinner budget. You decline the invitation and think that your friends will understand.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your friends invite you to go out to dinner with them. You realize that going out to dinner might cause you to go over your dinner budget. You decline the invitation and think that your friends will understand."
+        },
+        {
+            "type": "Media",
+            "url": "./images/274.jpg"
+        }
+    ]
+}

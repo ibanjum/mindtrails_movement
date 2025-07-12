@@ -1,0 +1,15 @@
+{
+    "header_text": "Exercising at the gym is a form of stress relief for you, though you have had to adapt your workouts lately. Today you notice two people whispering as they look in your direction. You know working out is a personal journey, and decide their opinions are irrelevant. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Exercising at the gym is a form of stress relief for you, though you have had to adapt your workouts lately. Today you notice two people whispering as they look in your direction. You know working out is a personal journey, and decide their opinions are... "
+        },
+        {
+            "type": "Entry",
+            "name": "Exercising at the gym is a form of stress relief for you, though you have had to adapt your workouts lately. Today you notice two people whispering as they look in your direction. You know working out is a personal journey, and decide their opinions are irrelevant. _Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

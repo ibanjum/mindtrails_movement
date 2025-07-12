@@ -1,0 +1,14 @@
+{
+    "header_text": "The window for staff evaluations just closed, and you are not sure whether you did well or not. You feel nervous as you think about how other people graded you. You think being nervous is manageable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "The window for staff evaluations just closed, and you are not sure whether you did well or not. You feel nervous as you think about how other people graded you. You think being nervous is manageable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/39.jpg"
+        }
+    ]
+}

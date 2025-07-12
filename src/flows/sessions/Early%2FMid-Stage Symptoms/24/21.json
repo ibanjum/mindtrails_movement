@@ -1,0 +1,14 @@
+{
+    "header_text": "You are hosting book club tonight. As you look around at the friends you love, you begin to feel an overwhelming sadness. You open up to the group, knowing your book club is a safe haven. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are hosting book club tonight. As you look around at the friends you love, you begin to feel an overwhelming sadness. You open up to the group, knowing your book club is a safe haven. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/860.jpg"
+        }
+    ]
+}

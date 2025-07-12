@@ -1,0 +1,14 @@
+{
+    "header_text": "You have always taken pride in being independent and providing care to your family. As your symptoms progress, you notice you are less able to do things on your own, now seeking help from your family. Throughout these changes, your family is understanding.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have always taken pride in being independent and providing care to your family. As your symptoms progress, you notice you are less able to do things on your own, now seeking help from your family. Throughout these changes, your family is understanding."
+        },
+        {
+            "type": "Media",
+            "url": "./images/717.jpg"
+        }
+    ]
+}

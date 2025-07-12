@@ -1,0 +1,14 @@
+{
+    "header_text": "Your friend invited you to go out for lunch tomorrow. You want to go and build your relationship with that friend, but you do not want to overspend your budget for the week. You decide to ask your friend to hang out another time without spending money, and you think they will understand.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your friend invited you to go out for lunch tomorrow. You want to go and build your relationship with that friend, but you do not want to overspend your budget for the week. You decide to ask your friend to hang out another time without spending money, and you think they will understand."
+        },
+        {
+            "type": "Media",
+            "url": "./images/278.jpg"
+        }
+    ]
+}

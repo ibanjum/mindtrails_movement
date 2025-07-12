@@ -1,0 +1,14 @@
+{
+    "header_text": "You're in a big group of your friends. Everyone is sharing stories, but you haven't said anything the whole conversation. Your friends probably think you're boring.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're in a big group of your friends. Everyone is sharing stories, but you haven't said anything the whole conversation. Your friends probably think you're boring."
+        },
+        {
+            "type": "Media",
+            "url": "./images/684.jpg"
+        }
+    ]
+}

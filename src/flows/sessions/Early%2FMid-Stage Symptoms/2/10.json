@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at the store when you see a friend, and stop to catch up with them. During this conversation, you're finding that your words come more slowly than usual. Despite these difficulties, talking to your friend is enjoyable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at the store when you see a friend, and stop to catch up with them. During this conversation, you're finding that your words come more slowly than usual. Despite these difficulties, talking to your friend is enjoyable. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/714.jpg"
+        }
+    ]
+}

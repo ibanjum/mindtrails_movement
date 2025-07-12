@@ -1,0 +1,14 @@
+{
+    "header_text": "Although you are normally on time for work events, today you receive an email from your boss saying that you are a few minutes late for a scheduled meeting with them, which you had completely forgotten about. As you quickly head to the office, you wonder whether they are going to judge you for being late. As you walk into the room, your anxiety is tolerable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Although you are normally on time for work events, today you receive an email from your boss saying that you are a few minutes late for a scheduled meeting with them, which you had completely forgotten about. As you quickly head to the office, you wonder whether they are going to judge you for being late. As you walk into the room, your anxiety is tolerable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/35.jpg"
+        }
+    ]
+}

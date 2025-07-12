@@ -1,0 +1,14 @@
+{
+    "header_text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. As time goes on, you think that your family will become more loving.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. As time goes on, you think that your family will become more loving."
+        },
+        {
+            "type": "Media",
+            "url": "./images/160.jpg"
+        }
+    ]
+}

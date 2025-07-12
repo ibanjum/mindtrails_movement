@@ -1,0 +1,14 @@
+{
+    "header_text": "Your boss calls on you to answer a question about the presentation just given. You don't know what to say, and your mind goes blank. After a few moments, you prepare your answer and feel ok.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your boss calls on you to answer a question about the presentation just given. You don't know what to say, and your mind goes blank. After a few moments, you prepare your answer and feel ok."
+        },
+        {
+            "type": "Media",
+            "url": "./images/95.jpg"
+        }
+    ]
+}

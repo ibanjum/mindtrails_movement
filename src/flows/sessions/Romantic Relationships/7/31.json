@@ -1,0 +1,23 @@
+{
+    "header_text": "You are walking through the park, and you see an elderly couple walking hand in hand. You begin thinking about your own life and imagine yourself at their age. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you think about yourself as an older person you do not believe you will be alone, and you imagine yourself with..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You are walking through the park, and you see an elderly couple walking hand in hand. You begin thinking about your own life and imagine yourself at their age. _Romantic Relationships_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "someone"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

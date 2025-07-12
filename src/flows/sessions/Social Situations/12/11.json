@@ -1,0 +1,14 @@
+{
+    "header_text": "You're meeting a friend at a local park. After 20 minutes, your friend still hasn't arrived. You think they probably are coming.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're meeting a friend at a local park. After 20 minutes, your friend still hasn't arrived. You think they probably are coming."
+        },
+        {
+            "type": "Media",
+            "url": "./images/655.jpg"
+        }
+    ]
+}

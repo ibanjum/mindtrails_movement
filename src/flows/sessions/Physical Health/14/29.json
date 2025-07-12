@@ -1,0 +1,14 @@
+{
+    "header_text": "You are taking a dancing class and, during a break, find yourself talking to a newcomer about your job. As you chat, you notice that you are sweating. They probably assume this is a result of dancing.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are taking a dancing class and, during a break, find yourself talking to a newcomer about your job. As you chat, you notice that you are sweating. They probably assume this is a result of dancing."
+        },
+        {
+            "type": "Media",
+            "url": "./images/516.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You heard a rumor your supervisor is planning on firing someone in your position. Although you are normally a good employee, you were late for a meeting earlier this week. You feel that the probability of you getting demoted is minimal.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You heard a rumor your supervisor is planning on firing someone in your position. Although you are normally a good employee, you were late for a meeting earlier this week. You feel that the probability of you getting demoted is minimal."
+        },
+        {
+            "type": "Media",
+            "url": "./images/14.jpg"
+        }
+    ]
+}

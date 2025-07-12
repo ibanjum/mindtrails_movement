@@ -1,0 +1,27 @@
+{
+    "header_text": "You are at the doctor’s office and they ask you if you are having any COVID symptoms. They list headaches as a possible symptom, and that scares you because this is something you've been experiencing. You remember that headaches are common, and you can rest until you feel better.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Does your headache mean that you are likely sick?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are at the doctor’s office and they ask you if you are having any COVID symptoms. They list headaches as a possible symptom, and that scares you because this is something you've been experiencing. You remember that headaches are common, and you can rest until you feel better._Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

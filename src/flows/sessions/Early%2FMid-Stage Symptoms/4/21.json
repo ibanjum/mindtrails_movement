@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at a restaurant alone and enjoying your dinner despite experiencing some uncontrollable movements in your hands. You notice people staring at you while you eat and feel self-conscious. You remind yourself that you do not owe them an explanation.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at a restaurant alone and enjoying your dinner despite experiencing some uncontrollable movements in your hands. You notice people staring at you while you eat and feel self-conscious. You remind yourself that you do not owe them an explanation."
+        },
+        {
+            "type": "Media",
+            "url": "./images/753.jpg"
+        }
+    ]
+}

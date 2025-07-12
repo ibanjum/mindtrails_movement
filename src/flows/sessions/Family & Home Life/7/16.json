@@ -1,0 +1,27 @@
+{
+    "header_text": "You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. Considering the possibility of buying, fully supporting your decision will be too difficult.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Thinking about the next few years, you see yourself"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. Considering the possibility of buying, fully supporting your decision will be too difficult._Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Continuing to rent a home.",
+                "Owning a house and supporting yourself financially."
+            ],
+            "columnCount": 1,
+            "correct_value": "Continuing to rent a home."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

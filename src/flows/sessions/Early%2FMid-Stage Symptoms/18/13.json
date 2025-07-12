@@ -1,0 +1,27 @@
+{
+    "header_text": "You are in the passenger seat as your partner struggles to navigate to a new friend's house. As the estimated trip time doubles from 15 to 30 minutes, you get more and more irritated. When your partner eventually stops the car and apologizes for getting lost, you give them comfort.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "When you partner apologizes for getting lost, you..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are in the passenger seat as your partner struggles to navigate to a new friend's house. As the estimated trip time doubles from 15 to 30 minutes, you get more and more irritated. When your partner eventually stops the car and apologizes for getting lost, you give them comfort._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Explode with anger.",
+                "Comfort them."
+            ],
+            "columnCount": 1,
+            "correct_value": "Comfort them."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

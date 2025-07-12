@@ -1,0 +1,27 @@
+{
+    "header_text": "You just sat down for some lunch and decide to use your laptop while eating. As you're eating, you spill some of your pasta on your laptop. After you spill, you quickly get a cloth to clean up the mess, and you feel very disappointed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "After easily cleaning the spill, you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You just sat down for some lunch and decide to use your laptop while eating. As you're eating, you spill some of your pasta on your laptop. After you spill, you quickly get a cloth to clean up the mess, and you feel very disappointed._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Relieved",
+                "Agitated"
+            ],
+            "columnCount": 1,
+            "correct_value": "Relieved"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

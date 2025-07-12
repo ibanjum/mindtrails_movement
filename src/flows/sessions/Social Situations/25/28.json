@@ -1,0 +1,14 @@
+{
+    "header_text": "You post a short video. Your best friend comments something really embarrassing. Your followers will think that you and your friend are close.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You post a short video. Your best friend comments something really embarrassing. Your followers will think that you and your friend are close."
+        },
+        {
+            "type": "Media",
+            "url": "./images/332.jpg"
+        }
+    ]
+}

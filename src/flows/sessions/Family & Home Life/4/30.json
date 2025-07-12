@@ -1,0 +1,14 @@
+{
+    "header_text": "You and your partner share a computer. You have a work assignment due tonight but they're using the computer. When you think about completing the work on time, you feel confident.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You and your partner share a computer. You have a work assignment due tonight but they're using the computer. When you think about completing the work on time, you feel confident."
+        },
+        {
+            "type": "Media",
+            "url": "./images/57.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You and your sister recently had an argument, and you haven't talked to each other in weeks. You love your sister very much, but both of you are still upset by what the other said the last time you two spoke. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You and your sister recently had an argument, and you haven't talked to each other in weeks. You love your sister very much, but both of you are still upset by what the other said the last time you two spoke. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/151.jpg"
+        }
+    ]
+}

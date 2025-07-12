@@ -1,0 +1,27 @@
+{
+    "header_text": "You are grocery shopping with your spouse today, a task you used to be able to do on your own. You become sad as you think about all the things you used to do that you can't do alone anymore. You look up as your spouse carries groceries over to your cart, and you feel thankful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "As your spouse helps you buy groceries, you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are grocery shopping with your spouse today, a task you used to be able to do on your own. You become sad as you think about all the things you used to do that you can't do alone anymore. You look up as your spouse carries groceries over to your cart, and you feel thankful._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Resentful",
+                "Grateful"
+            ],
+            "columnCount": 1,
+            "correct_value": "Grateful"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

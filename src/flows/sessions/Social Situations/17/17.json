@@ -1,0 +1,14 @@
+{
+    "header_text": "You sent a text to a good friend. A day goes by, and they still have not replied. You think about how your friend doesn't use their phone often, and you feel better.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You sent a text to a good friend. A day goes by, and they still have not replied. You think about how your friend doesn't use their phone often, and you feel better."
+        },
+        {
+            "type": "Media",
+            "url": "./images/658.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be understanding.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "When you tell your child about the mix-up, they will probably respond..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be understanding._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Harshly",
+                "Gently"
+            ],
+            "columnCount": 1,
+            "correct_value": "Gently"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

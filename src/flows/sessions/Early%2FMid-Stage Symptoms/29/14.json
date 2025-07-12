@@ -1,0 +1,14 @@
+{
+    "header_text": "During a visit to the dentist, you experience difficulty staying still during a procedure. You worry about the dentist's perception of you. You talk openly to the dentist about your condition, and she seems understanding.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "During a visit to the dentist, you experience difficulty staying still during a procedure. You worry about the dentist's perception of you. You talk openly to the dentist about your condition, and she seems understanding."
+        },
+        {
+            "type": "Media",
+            "url": "./images/878.jpg"
+        }
+    ]
+}

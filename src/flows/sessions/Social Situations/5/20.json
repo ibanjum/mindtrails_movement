@@ -1,0 +1,27 @@
+{
+    "header_text": "You are at a birthday party for a friend and talking with someone you just met. You cannot tell whether the person thinks you are interesting or boring, and you decide that not knowing is okay.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Overall, the conversation was probably a..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are at a birthday party for a friend and talking with someone you just met. You cannot tell whether the person thinks you are interesting or boring, and you decide that not knowing is okay._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Stressful situation, because the person might have found you uninteresting",
+                "Low-pressure and pleasant chance to meet a new person"
+            ],
+            "columnCount": 1,
+            "correct_value": "Low-pressure and pleasant chance to meet a new person"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

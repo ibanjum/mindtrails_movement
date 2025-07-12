@@ -1,0 +1,14 @@
+{
+    "header_text": "You are chatting with a neighbor about their upcoming wedding plans, but you are having trouble concentrating and taking in the details of the conversation. Your neighbor notices and asks you if you are okay. You feel embarrassed, but you know they are asking because they care.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are chatting with a neighbor about their upcoming wedding plans, but you are having trouble concentrating and taking in the details of the conversation. Your neighbor notices and asks you if you are okay. You feel embarrassed, but you know they are asking because they care."
+        },
+        {
+            "type": "Media",
+            "url": "./images/798.jpg"
+        }
+    ]
+}

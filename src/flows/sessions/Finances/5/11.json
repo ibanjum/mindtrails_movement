@@ -1,0 +1,14 @@
+{
+    "header_text": "You are considering leaving your job to start your own small business and are ready to work hard. You are excited, but you also know that many start-ups can end up crashing and burning.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are considering leaving your job to start your own small business and are ready to work hard. You are excited, but you also know that many start-ups can end up crashing and burning."
+        },
+        {
+            "type": "Media",
+            "url": "./images/85.jpg"
+        }
+    ]
+}

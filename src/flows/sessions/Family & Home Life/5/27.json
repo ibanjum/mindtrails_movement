@@ -1,0 +1,27 @@
+{
+    "header_text": "You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. Considering your situation, fully committing to this decision is definitely possible.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Buying a house will..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. Considering your situation, fully committing to this decision is definitely possible._Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Be affordable and turn out okay",
+                "Be beyond your means, even with your job"
+            ],
+            "columnCount": 1,
+            "correct_value": "Be affordable and turn out okay"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

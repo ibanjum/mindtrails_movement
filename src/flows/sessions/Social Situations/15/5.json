@@ -1,0 +1,14 @@
+{
+    "header_text": "Your partner invites a few friends over for the evening, and you both agreed that everyone would wear masks. When their friends arrive, they don't have masks and your partner doesn't say anything to them. You pull your partner aside and ask them to speak to their friends. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your partner invites a few friends over for the evening, and you both agreed that everyone would wear masks. When their friends arrive, they don't have masks and your partner doesn't say anything to them. You pull your partner aside and ask them to speak to their friends. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/181.jpg"
+        }
+    ]
+}

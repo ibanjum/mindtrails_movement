@@ -1,0 +1,14 @@
+{
+    "header_text": "At a dinner party, your friend tells a funny joke. You laugh so much that it feels like you can't get enough air. This experience is enjoyable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "At a dinner party, your friend tells a funny joke. You laugh so much that it feels like you can't get enough air. This experience is enjoyable. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/602.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You been very busy this year and haven't had the time to work on your own career development. One of your colleagues is also very busy, and yet they received a promotion. This makes you feel like a failure.  ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You been very busy this year and haven't had the time to work on your own career development. One of your colleagues is also very busy, and yet they received a promotion. This makes you feel like a failure.  "
+        },
+        {
+            "type": "Media",
+            "url": "./images/352.jpg"
+        }
+    ]
+}

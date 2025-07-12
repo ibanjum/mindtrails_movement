@@ -1,0 +1,14 @@
+{
+    "header_text": "You are enjoying a meal with your family at a restaurant. You choke on a bite that is too big and begin to cough very loudly. A few people turn to look over at your table, and you feel embarrassed. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are enjoying a meal with your family at a restaurant. You choke on a bite that is too big and begin to cough very loudly. A few people turn to look over at your table, and you feel embarrassed. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/210.jpg"
+        }
+    ]
+}

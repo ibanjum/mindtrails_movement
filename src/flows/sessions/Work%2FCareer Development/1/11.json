@@ -1,0 +1,14 @@
+{
+    "header_text": "You recently turned in a big project at work.  You decide to re-read your submitted work, and realize that you accidentally deleted a section you meant to include. Given that you accidentally made this deletion, you think that you are likely to receive positive feedback.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You recently turned in a big project at work.  You decide to re-read your submitted work, and realize that you accidentally deleted a section you meant to include. Given that you accidentally made this deletion, you think that you are likely to receive positive feedback."
+        },
+        {
+            "type": "Media",
+            "url": "./images/4.jpg"
+        }
+    ]
+}

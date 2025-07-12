@@ -1,0 +1,23 @@
+{
+    "header_text": "You are spending some time with your young daughter over the weekend. Your daughter is very sweet, but sometimes you get frustrated with her. When you think about your relationship with her as she grows up, you see yourself as being frustrated.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are spending some time with your young granddaughter over the weekend. Your granddaughter is very sweet, but sometimes you get frustrated with her. When you think about your relationship with her as she grows up, you see yourself as being..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You are spending some time with your young daughter over the weekend. Your daughter is very sweet, but sometimes you get frustrated with her. When you think about your relationship with her as she grows up, you see yourself as being frustrated._Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "frustrated"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

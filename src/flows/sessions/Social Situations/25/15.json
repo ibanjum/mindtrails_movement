@@ -1,0 +1,14 @@
+{
+    "header_text": "A group of your friends are going out to dinner and they invited you. You know that you guys have been going out to dinner a lot recently, and you don't know if you can keep up with this lifestyle. You tell your friends that you'll catch up with them next time, and you're happy staying at home for the night.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A group of your friends are going out to dinner and they invited you. You know that you guys have been going out to dinner a lot recently, and you don't know if you can keep up with this lifestyle. You tell your friends that you'll catch up with them next time, and you're happy staying at home for the night."
+        },
+        {
+            "type": "Media",
+            "url": "./images/259.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You have had a busy and stressful week. You are usually happy, but you've felt flat and sad all for the past few days. You remember that it's normal to have some hard days.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have had a busy and stressful week. You are usually happy, but you've felt flat and sad all for the past few days. You remember that it's normal to have some hard days."
+        },
+        {
+            "type": "Media",
+            "url": "./images/359.jpg"
+        }
+    ]
+}

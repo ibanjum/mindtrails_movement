@@ -1,0 +1,14 @@
+{
+    "header_text": "You have just broken up with your partner, who you were with longer than any other significant other you've had before. You believe it was for the best, but you also worry if you will ever meet someone else you feel so strongly about. As you think about your future love life, the idea of finding a good life partner seems far-fetched.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have just broken up with your partner, who you were with longer than any other significant other you've had before. You believe it was for the best, but you also worry if you will ever meet someone else you feel so strongly about. As you think about your future love life, the idea of finding a good life partner seems far-fetched."
+        },
+        {
+            "type": "Media",
+            "url": "./images/541.jpg"
+        }
+    ]
+}

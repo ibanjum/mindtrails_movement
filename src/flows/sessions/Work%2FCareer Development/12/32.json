@@ -1,0 +1,27 @@
+{
+    "header_text": "You are preparing to apply for a new job. You have a meeting with a potential employer tomorrow, and you know that a good resume will be an important factor. As you look over your resume, you think that the interviewer will be favorable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your potential employer will probably think"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are preparing to apply for a new job. You have a meeting with a potential employer tomorrow, and you know that a good resume will be an important factor. As you look over your resume, you think that the interviewer will be favorable._Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "That your listed skills are unimpressive.",
+                "That your previous experience is a good fit for the job."
+            ],
+            "columnCount": 1,
+            "correct_value": "That your previous experience is a good fit for the job."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

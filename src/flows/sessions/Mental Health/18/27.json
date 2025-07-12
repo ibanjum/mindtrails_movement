@@ -1,0 +1,14 @@
+{
+    "header_text": "You are being interviewed for a leadership position within your department. Before you walk into the room, you notice you feel shaky. You feel incredibly excited.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are being interviewed for a leadership position within your department. Before you walk into the room, you notice you feel shaky. You feel incredibly excited."
+        },
+        {
+            "type": "Media",
+            "url": "./images/12.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You enjoy walking to the thrift store occasionally. On your most recent trip, you turned on the wrong street and had to retrace your steps. This made you worried.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You enjoy walking to the thrift store occasionally. On your most recent trip, you turned on the wrong street and had to retrace your steps. This made you worried."
+        },
+        {
+            "type": "Media",
+            "url": "./images/805.jpg"
+        }
+    ]
+}

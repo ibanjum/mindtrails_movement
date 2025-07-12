@@ -1,0 +1,14 @@
+{
+    "header_text": "You are very tired. As you lie down in your bed, your vision begins to blur. Despite your blurry vision, you are relaxed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are very tired. As you lie down in your bed, your vision begins to blur. Despite your blurry vision, you are relaxed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/459.jpg"
+        }
+    ]
+}

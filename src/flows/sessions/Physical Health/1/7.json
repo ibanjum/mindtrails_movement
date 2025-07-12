@@ -1,0 +1,14 @@
+{
+    "header_text": "At the outdoor picnic table with some colleagues, you accidentally cut your finger while slicing fruit for lunch. Since you are outside, you are not able to wash it out immediately with soap and water. Regardless, in a few days, your cut will be healed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "At the outdoor picnic table with some colleagues, you accidentally cut your finger while slicing fruit for lunch. Since you are outside, you are not able to wash it out immediately with soap and water. Regardless, in a few days, your cut will be healed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/431.jpg"
+        }
+    ]
+}

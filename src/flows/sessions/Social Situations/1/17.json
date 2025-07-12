@@ -1,0 +1,14 @@
+{
+    "header_text": "You are on the committee for a local community theater that is planning a new production. At the first meeting, the director asks you for ideas about what play to perform. Everybody pauses after you say your ideas, and you think the others find your thoughts interesting. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are on the committee for a local community theater that is planning a new production. At the first meeting, the director asks you for ideas about what play to perform. Everybody pauses after you say your ideas, and you think the others find your thoughts interesting. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/599.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "Your bank has contacted you about signing up for a credit card with a very low interest rate. You are a responsible spender, but you worry about accruing debt if you sign up for a new credit card. As you think about what you would do with the credit card, you think that you would probably spend money recklessly.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "With a new credit card, you would"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your bank has contacted you about signing up for a credit card with a very low interest rate. You are a responsible spender, but you worry about accruing debt if you sign up for a new credit card. As you think about what you would do with the credit card, you think that you would probably spend money recklessly._Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Have to work harder than you hoped in order to pay off new credit card debt.",
+                "Effectively integrate the credit card into your budgeting plan."
+            ],
+            "columnCount": 1,
+            "correct_value": "Have to work harder than you hoped in order to pay off new credit card debt."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

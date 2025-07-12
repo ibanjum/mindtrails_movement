@@ -1,0 +1,27 @@
+{
+    "header_text": "You are in a research study that requires annual study visits. At today's visit, as you complete some of the exams with the research coordinator, you feel like you are not performing as well as usual. When the study doctor comes in, they tell you that you are looking stable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Does the doctor think you are getting worse?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are in a research study that requires annual study visits. At today's visit, as you complete some of the exams with the research coordinator, you feel like you are not performing as well as usual. When the study doctor comes in, they tell you that you are looking stable._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

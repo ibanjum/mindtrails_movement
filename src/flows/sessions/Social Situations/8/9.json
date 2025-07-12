@@ -1,0 +1,15 @@
+{
+    "header_text": "Your supervisor asks you to present at a meeting. After practicing for several weeks, you finally feel ready. At the presentation, you make a big mistake.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your supervisor asks you to present at a meeting. After practicing for several weeks, you finally feel ready. At the presentation, you make a big..."
+        },
+        {
+            "type": "Entry",
+            "name": "Your supervisor asks you to present at a meeting. After practicing for several weeks, you finally feel ready. At the presentation, you make a big mistake._Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

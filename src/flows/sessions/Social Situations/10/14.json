@@ -1,0 +1,14 @@
+{
+    "header_text": "You are talking with a group of coworkers about TV shows. When you say what you like about an old TV show that you just discovered, no one responds. They probably think that you are weird.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are talking with a group of coworkers about TV shows. When you say what you like about an old TV show that you just discovered, no one responds. They probably think that you are weird."
+        },
+        {
+            "type": "Media",
+            "url": "./images/388.jpg"
+        }
+    ]
+}

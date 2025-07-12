@@ -1,0 +1,14 @@
+{
+    "header_text": "You doctor encouraged you to try some new hobbies, so today you are attending a crafting workshop. You begin to have trouble handling the tools due to the chorea. You ask for assistance from the instructor and the craft is completed. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You doctor encouraged you to try some new hobbies, so today you are attending a crafting workshop. You begin to have trouble handling the tools due to the chorea. You ask for assistance from the instructor and the craft is completed. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/521.jpg"
+        }
+    ]
+}

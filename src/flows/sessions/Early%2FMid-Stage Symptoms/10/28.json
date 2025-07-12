@@ -1,0 +1,14 @@
+{
+    "header_text": "After coming home from running errands, you can't find your wallet. Recently, you have struggled to control your emotions and become angry at the thought of someone stealing it. Later, you find the wallet in the car and feel annoyed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "After coming home from running errands, you can't find your wallet. Recently, you have struggled to control your emotions and become angry at the thought of someone stealing it. Later, you find the wallet in the car and feel annoyed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/793.jpg"
+        }
+    ]
+}

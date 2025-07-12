@@ -1,0 +1,27 @@
+{
+    "header_text": "Your favorite part of the day is winding down to eat dinner. You realize that you've been eating alone a lot recently as you start making dinner, and this makes you feel sad. You decide you are okay because eating alone gives you time to reflect on your day.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you okay with eating dinner alone?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your favorite part of the day is winding down to eat dinner. You realize that you've been eating alone a lot recently as you start making dinner, and this makes you feel sad. You decide you are okay because eating alone gives you time to reflect on your day._Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

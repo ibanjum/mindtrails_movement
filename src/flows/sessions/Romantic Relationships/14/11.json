@@ -1,0 +1,14 @@
+{
+    "header_text": "You've started a new relationship, and it's really exciting. You've been wanting to tell your partner about your mental health, but you aren't sure what their response will be. You think that they will be accepting. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You've started a new relationship, and it's really exciting. You've been wanting to tell your partner about your mental health, but you aren't sure what their response will be. You think that they will be accepting. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/393.jpg"
+        }
+    ]
+}

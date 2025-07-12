@@ -1,0 +1,14 @@
+{
+    "header_text": "It's early evening, and you can't seem to remember if you already fed your pet dinner. You start to worry about your memory and whether you will be able to continue to care for your pet. You think about setting up reminders or a system for remembering and decide that caring for your pet will be manageable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "It's early evening, and you can't seem to remember if you already fed your pet dinner. You start to worry about your memory and whether you will be able to continue to care for your pet. You think about setting up reminders or a system for remembering and decide that caring for your pet will be manageable. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/211.jpg"
+        }
+    ]
+}

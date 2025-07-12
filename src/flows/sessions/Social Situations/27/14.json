@@ -1,0 +1,14 @@
+{
+    "header_text": "You meet a friend for lunch at a new restaurant. You realize that your table was not wiped down after the previous customers left, and this makes you anxious about germs. You decide to stay and have lunch with your friend, and your anxiety is tolerable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You meet a friend for lunch at a new restaurant. You realize that your table was not wiped down after the previous customers left, and this makes you anxious about germs. You decide to stay and have lunch with your friend, and your anxiety is tolerable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/463.jpg"
+        }
+    ]
+}

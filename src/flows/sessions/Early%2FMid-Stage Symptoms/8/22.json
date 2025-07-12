@@ -1,0 +1,27 @@
+{
+    "header_text": "You have spent years repaying loan debt from your house, schooling, and cars. As you notice more signs of HD, you worry that you won't have enough time to pay off the loans. You set up a meeting with a financial planner, helping you feel more prepared.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Taking steps to assess your finances makes you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You have spent years repaying loan debt from your house, schooling, and cars. As you notice more signs of HD, you worry that you won't have enough time to pay off the loans. You set up a meeting with a financial planner, helping you feel more prepared._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Ruined",
+                "Organized"
+            ],
+            "columnCount": 1,
+            "correct_value": "Organized"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

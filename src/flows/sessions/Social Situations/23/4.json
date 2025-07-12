@@ -1,0 +1,14 @@
+{
+    "header_text": "You are outside walking and see a group of people ahead of you. As you pass them, you stumble slightly and feel a little foolish. You hear them laugh as you pass by and assume that they are laughing at jokes that aren't about you.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are outside walking and see a group of people ahead of you. As you pass them, you stumble slightly and feel a little foolish. You hear them laugh as you pass by and assume that they are laughing at jokes that aren't about you."
+        },
+        {
+            "type": "Media",
+            "url": "./images/700.jpg"
+        }
+    ]
+}

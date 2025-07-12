@@ -1,0 +1,15 @@
+{
+    "header_text": "You have experienced a toothache for a few days. This is something you haven't felt before. You go to the dentist, and they provide reassurance. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have experienced a toothache for a few days. This is something you haven't felt before. You go to the dentist, and they provide... "
+        },
+        {
+            "type": "Entry",
+            "name": "You have experienced a toothache for a few days. This is something you haven't felt before. You go to the dentist, and they provide reassurance. _Physical Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

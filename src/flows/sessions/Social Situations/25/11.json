@@ -1,0 +1,14 @@
+{
+    "header_text": "You are staying late to get extra work done and notice two coworkers. They are leaving together, and they say hi as they're walking by. Since you're the only one working late, you feel embarrassed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are staying late to get extra work done and notice two coworkers. They are leaving together, and they say hi as they're walking by. Since you're the only one working late, you feel embarrassed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/290.jpg"
+        }
+    ]
+}

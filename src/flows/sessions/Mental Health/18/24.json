@@ -1,0 +1,23 @@
+{
+    "header_text": "Your boss is watching your presentation in your meeting today. During the presentation, you stumble over your words a lot. You feel defeated.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your boss is watching your presentation in your meeting today. During the presentation, you stumble over your words a lot. You feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Your boss is watching your presentation in your meeting today. During the presentation, you stumble over your words a lot. You feel defeated._Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "defeated"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

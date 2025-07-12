@@ -1,0 +1,14 @@
+{
+    "header_text": "You are an avid traveler but have recently had mobility challenges and frequent fatigue. You worry about how this will impact your ability to explore new destinations and maintain a fast-paced lifestyle. The more you think about it, the more you become hopeless.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are an avid traveler but have recently had mobility challenges and frequent fatigue. You worry about how this will impact your ability to explore new destinations and maintain a fast-paced lifestyle. The more you think about it, the more you become hopeless."
+        },
+        {
+            "type": "Media",
+            "url": "./images/765.jpg"
+        }
+    ]
+}

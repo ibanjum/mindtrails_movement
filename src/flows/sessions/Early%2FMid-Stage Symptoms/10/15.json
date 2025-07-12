@@ -1,0 +1,14 @@
+{
+    "header_text": "You are in a research study that requires annual study visits. At today's visit, as you complete some of the exams with the research coordinator, you feel like you are not performing as well as usual. When the study doctor comes in, they tell you that you are looking stable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are in a research study that requires annual study visits. At today's visit, as you complete some of the exams with the research coordinator, you feel like you are not performing as well as usual. When the study doctor comes in, they tell you that you are looking stable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/438.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you decide to hold it because you're nervous.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your partner's support makes you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you decide to hold it because you're nervous._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Anxious",
+                "Assured"
+            ],
+            "columnCount": 1,
+            "correct_value": "Assured"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

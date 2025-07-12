@@ -1,0 +1,14 @@
+{
+    "header_text": "You are having an intellectual discussion with your colleague. On one of the questions they ask you, you are 90% certain that you know the correct answer. When you respond, you feel confident.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are having an intellectual discussion with your colleague. On one of the questions they ask you, you are 90% certain that you know the correct answer. When you respond, you feel confident."
+        },
+        {
+            "type": "Media",
+            "url": "./images/10.jpg"
+        }
+    ]
+}

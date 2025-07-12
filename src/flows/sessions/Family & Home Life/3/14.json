@@ -1,0 +1,14 @@
+{
+    "header_text": "You are hosting a baby shower for a family member today and both the parents of the mom-to-be are attending. They're divorced and sometimes cause an embarrassing scene in public. During the shower, you think about her parents.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are hosting a baby shower for a family member today and both the parents of the mom-to-be are attending. They're divorced and sometimes cause an embarrassing scene in public. During the shower, you think about her parents."
+        },
+        {
+            "type": "Media",
+            "url": "./images/147.jpg"
+        }
+    ]
+}

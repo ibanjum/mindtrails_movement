@@ -1,0 +1,14 @@
+{
+    "header_text": "Many of your friends have been in committed relationships for a long time. You are not in a relationship and do not see one developing soon. Even though you still want a relationship eventually, you also strongly value your independence. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Many of your friends have been in committed relationships for a long time. You are not in a relationship and do not see one developing soon. Even though you still want a relationship eventually, you also strongly value your independence. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/546.jpg"
+        }
+    ]
+}

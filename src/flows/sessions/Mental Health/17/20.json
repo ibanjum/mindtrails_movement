@@ -1,0 +1,14 @@
+{
+    "header_text": "You are going on a trip to another country. During the flight, you look out the window and realize you've never been so far above the ocean. You feel thrilled.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are going on a trip to another country. During the flight, you look out the window and realize you've never been so far above the ocean. You feel thrilled."
+        },
+        {
+            "type": "Media",
+            "url": "./images/399.jpg"
+        }
+    ]
+}

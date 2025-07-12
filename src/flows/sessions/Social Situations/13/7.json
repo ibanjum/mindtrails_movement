@@ -1,0 +1,14 @@
+{
+    "header_text": "Your partner runs a daycare out of your home, so it is always loud when you get home from work. Your colleague is coming over today to have coffee. You think about how your colleague is going to react to the noise, and you get worried.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your partner runs a daycare out of your home, so it is always loud when you get home from work. Your colleague is coming over today to have coffee. You think about how your colleague is going to react to the noise, and you get worried."
+        },
+        {
+            "type": "Media",
+            "url": "./images/194.jpg"
+        }
+    ]
+}

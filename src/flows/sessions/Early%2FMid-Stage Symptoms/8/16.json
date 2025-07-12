@@ -1,0 +1,27 @@
+{
+    "header_text": "You are known in your family for sending birthday cards on time every year. This year, several of your family members got their cards late because you forgot to check your calendar. You think that you forgot about the cards because you have been busy. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You most likely forgot to send the cards due to..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are known in your family for sending birthday cards on time every year. This year, several of your family members got their cards late because you forgot to check your calendar. You think that you forgot about the cards because you have been busy. _Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Being busy",
+                "Developing symptoms of dementia"
+            ],
+            "columnCount": 1,
+            "correct_value": "Being busy"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

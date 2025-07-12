@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been working really hard for the past year and are starting to feel burned out. You feel like you need to take a break, but you’re worried about the financial repercussions of taking time off. You think that taking time off to focus on your mental health is important. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been working really hard for the past year and are starting to feel burned out. You feel like you need to take a break, but you’re worried about the financial repercussions of taking time off. You think that taking time off to focus on your mental health is important. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/294.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You sent an email to your boss a few hours ago. You check to see if they have responded yet, but they haven't. You think about how your boss doesn't check their email often, and you feel better.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You sent an email to your boss a few hours ago. You check to see if they have responded yet, but they haven't. You think about how your boss doesn't check their email often, and you feel better."
+        },
+        {
+            "type": "Media",
+            "url": "./images/658.jpg"
+        }
+    ]
+}

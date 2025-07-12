@@ -1,0 +1,14 @@
+{
+    "header_text": "One of your close friends has the flu, and they ask you to deliver them groceries. You don't want to get exposed by being close to their home, but you also want to be helpful. You find a way to safely deliver the food from afar.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "One of your close friends has the flu, and they ask you to deliver them groceries. You don't want to get exposed by being close to their home, but you also want to be helpful. You find a way to safely deliver the food from afar."
+        },
+        {
+            "type": "Media",
+            "url": "./images/506.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at an arcade with your family. You have always loved playing pinball to try to win prizes for your family members, but you can't pull back the pin as far as you used to and lose the game. You look at your family, and you all share a laugh.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at an arcade with your family. You have always loved playing pinball to try to win prizes for your family members, but you can't pull back the pin as far as you used to and lose the game. You look at your family, and you all share a laugh."
+        },
+        {
+            "type": "Media",
+            "url": "./images/205.jpg"
+        }
+    ]
+}

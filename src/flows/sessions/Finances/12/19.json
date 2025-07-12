@@ -1,0 +1,27 @@
+{
+    "header_text": "Your friend has been supporting you through a tough time, and you are really grateful for their support. You want to thank them by treating them to dinner, but you don’t have enough money to take them out to a restaurant. You decide to make them a home-cooked dinner and think that they will be appreciative. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will your friend be angry that you didn’t go out to eat?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your friend has been supporting you through a tough time, and you are really grateful for their support. You want to thank them by treating them to dinner, but you don’t have enough money to take them out to a restaurant. You decide to make them a home-cooked dinner and think that they will be appreciative. _Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

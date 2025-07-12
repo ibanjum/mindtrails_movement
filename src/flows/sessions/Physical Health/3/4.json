@@ -1,0 +1,14 @@
+{
+    "header_text": "At your routine doctor’s appointment, you are asked to take a test for a disease. After the test, you wait for your results in the waiting room for a long time. You think the chances that you have the disease are minimal. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "At your routine doctor’s appointment, you are asked to take a test for a disease. After the test, you wait for your results in the waiting room for a long time. You think the chances that you have the disease are minimal. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/444.jpg"
+        }
+    ]
+}

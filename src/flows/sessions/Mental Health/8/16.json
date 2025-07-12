@@ -1,0 +1,14 @@
+{
+    "header_text": "You have a big presentation coming up. When you think about standing up in front of people and talking, you feel anxious. You think that this is probably temporary.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have a big presentation coming up. When you think about standing up in front of people and talking, you feel anxious. You think that this is probably temporary."
+        },
+        {
+            "type": "Media",
+            "url": "./images/11.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "Your desk is cluttered, so you decide to organize it today. When everything is out of the desk, you can't remember where each item was originally placed. You do your best to place items back on the desk and in the end decide that it looks tidy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you create more of a mess?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your desk is cluttered, so you decide to organize it today. When everything is out of the desk, you can't remember where each item was originally placed. You do your best to place items back on the desk and in the end decide that it looks tidy._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

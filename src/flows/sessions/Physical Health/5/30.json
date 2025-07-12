@@ -1,0 +1,14 @@
+{
+    "header_text": "You get blood drawn for your annual physical. Your doctor tells you that you will have to wait a few days to receive the results, and you worry about what the results will say. Over the next few days, the worries are bearable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You get blood drawn for your annual physical. Your doctor tells you that you will have to wait a few days to receive the results, and you worry about what the results will say. Over the next few days, the worries are bearable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/464.jpg"
+        }
+    ]
+}

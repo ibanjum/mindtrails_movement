@@ -1,0 +1,14 @@
+{
+    "header_text": "You have experienced dry mouth for a few days. You wonder whether the dry mouth is a minor side effect from a medicine you just started or something more serious. The chance that your dry mouth reflects a serious health problem is small.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have experienced dry mouth for a few days. You wonder whether the dry mouth is a minor side effect from a medicine you just started or something more serious. The chance that your dry mouth reflects a serious health problem is small."
+        },
+        {
+            "type": "Media",
+            "url": "./images/453.jpg"
+        }
+    ]
+}

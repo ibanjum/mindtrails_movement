@@ -1,0 +1,14 @@
+{
+    "header_text": "You would like to apply for a higher position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal and have worked hard to make yourself a good employee. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You would like to apply for a higher position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal and have worked hard to make yourself a good employee. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/88.jpg"
+        }
+    ]
+}

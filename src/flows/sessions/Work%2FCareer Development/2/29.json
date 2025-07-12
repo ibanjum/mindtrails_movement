@@ -1,0 +1,14 @@
+{
+    "header_text": "In the corridor at work, your boss asks you a question, and you realize you respond incorrectly. Your boss corrects you. You think the experience of being corrected by your boss is awful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "In the corridor at work, your boss asks you a question, and you realize you respond incorrectly. Your boss corrects you. You think the experience of being corrected by your boss is awful."
+        },
+        {
+            "type": "Media",
+            "url": "./images/19.jpg"
+        }
+    ]
+}

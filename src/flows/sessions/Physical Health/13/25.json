@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been walking laps in your neighborhood and are thinking about walking a longer trail in the park. You enjoy the feeling of accomplishment when you finish walking, but you are worried about whether you have what it takes to push yourself more when you are farther away from home.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been walking laps in your neighborhood and are thinking about walking a longer trail in the park. You enjoy the feeling of accomplishment when you finish walking, but you are worried about whether you have what it takes to push yourself more when you are farther away from home."
+        },
+        {
+            "type": "Media",
+            "url": "./images/508.jpg"
+        }
+    ]
+}

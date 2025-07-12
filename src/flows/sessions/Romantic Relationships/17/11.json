@@ -1,0 +1,14 @@
+{
+    "header_text": "Your HD symptoms have been unpredictable since your diagnosis, and being home alone gives you an uneasy feeling. Your spouse told you last night they have to go into work tomorrow, meaning you will be home alone for several hours. You remember you have a cell phone easily accessible, and that gives you peace. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your HD symptoms have been unpredictable since your diagnosis, and being home alone gives you an uneasy feeling. Your spouse told you last night they have to go into work tomorrow, meaning you will be home alone for several hours. You remember you have a cell phone easily accessible, and that gives you peace. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/584.jpg"
+        }
+    ]
+}

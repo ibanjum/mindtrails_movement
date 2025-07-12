@@ -1,0 +1,14 @@
+{
+    "header_text": "You take pride in your home and like to deep clean it regularly. Lately, you've been feeling more tired and have had to hire someone to help you clean your house. Having someone else there to help you clean makes you feel grateful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You take pride in your home and like to deep clean it regularly. Lately, you've been feeling more tired and have had to hire someone to help you clean your house. Having someone else there to help you clean makes you feel grateful."
+        },
+        {
+            "type": "Media",
+            "url": "./images/755.jpg"
+        }
+    ]
+}

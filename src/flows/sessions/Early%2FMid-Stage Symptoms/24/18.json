@@ -1,0 +1,14 @@
+{
+    "header_text": "You are meeting with your financial advisor to talk about the future of your finances with HD. You are becoming easily aggravated during the conversation, but are unsure why. You reflect on the hard work of your advisor and give them your trust. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are meeting with your financial advisor to talk about the future of your finances with HD. You are becoming easily aggravated during the conversation, but are unsure why. You reflect on the hard work of your advisor and give them your trust. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/324.jpg"
+        }
+    ]
+}

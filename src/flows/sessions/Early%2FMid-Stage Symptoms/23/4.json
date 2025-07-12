@@ -1,0 +1,14 @@
+{
+    "header_text": "You pride yourself on remembering acquaintances' names. You and your partner throw a cocktail party, but you can't remember a few of your guests' names. Forgetting their names makes you upset.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You pride yourself on remembering acquaintances' names. You and your partner throw a cocktail party, but you can't remember a few of your guests' names. Forgetting their names makes you upset."
+        },
+        {
+            "type": "Media",
+            "url": "./images/849.jpg"
+        }
+    ]
+}

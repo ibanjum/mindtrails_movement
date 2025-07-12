@@ -1,0 +1,14 @@
+{
+    "header_text": "Washing the dishes has always been your job in the family. Recently, you have been dropping dishes and getting water all over the countertop. The idea that you might not be able to keep up your normal role in the family is disheartening.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Washing the dishes has always been your job in the family. Recently, you have been dropping dishes and getting water all over the countertop. The idea that you might not be able to keep up your normal role in the family is disheartening."
+        },
+        {
+            "type": "Media",
+            "url": "./images/237.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Over the weekend, you caught up with some old friends. You told them about the job you're doing while they made comments about how smart you must be, but you don't think the job is that special. You allow yourself to feel proud of what you're working on anyway.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Over the weekend, you caught up with some old friends. You told them about the job you're doing while they made comments about how smart you must be, but you don't think the job is that special. You allow yourself to feel proud of what you're working on anyway."
+        },
+        {
+            "type": "Media",
+            "url": "./images/353.jpg"
+        }
+    ]
+}

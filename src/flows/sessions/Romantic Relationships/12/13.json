@@ -1,0 +1,14 @@
+{
+    "header_text": "Your partner tells you that they have issues with some of your friends. You have been noticing this, too, but do not want to make anyone upset. When you think about discussing the issues with your friends, you think the conversation will go well. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your partner tells you that they have issues with some of your friends. You have been noticing this, too, but do not want to make anyone upset. When you think about discussing the issues with your friends, you think the conversation will go well. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/571.jpg"
+        }
+    ]
+}

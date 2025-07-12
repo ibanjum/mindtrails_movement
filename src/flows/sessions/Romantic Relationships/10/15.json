@@ -1,0 +1,14 @@
+{
+    "header_text": "You invited your spouse to hang out with you and your friends so that everyone could get to know each other. As it got later, your spouse brought up a controversial topic, and your friends seemed unsure about how to respond. You know that your friends recognize that many people, including you and your spouse, have different opinions.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You invited your spouse to hang out with you and your friends so that everyone could get to know each other. As it got later, your spouse brought up a controversial topic, and your friends seemed unsure about how to respond. You know that your friends recognize that many people, including you and your spouse, have different opinions."
+        },
+        {
+            "type": "Media",
+            "url": "./images/382.jpg"
+        }
+    ]
+}

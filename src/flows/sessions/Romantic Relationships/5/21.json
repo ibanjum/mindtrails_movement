@@ -1,0 +1,14 @@
+{
+    "header_text": "You recently got into a relationship. You are enjoying it but find it challenging to balance time with your friends and your significant other. You worry that your friends will be upset if you do not spend enough time with them, but you remind yourself that you can make time for everyone.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You recently got into a relationship. You are enjoying it but find it challenging to balance time with your friends and your significant other. You worry that your friends will be upset if you do not spend enough time with them, but you remind yourself that you can make time for everyone."
+        },
+        {
+            "type": "Media",
+            "url": "./images/548.jpg"
+        }
+    ]
+}

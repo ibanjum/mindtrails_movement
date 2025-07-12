@@ -1,0 +1,14 @@
+{
+    "header_text": "You are on your daily walk in the park, and you see the same person you had a conversation with yesterday. Unfortunately, you can't seem to remember their name. When you ask for their name again, they say, \"I was going to ask you the same thing,\" and you both laugh.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are on your daily walk in the park, and you see the same person you had a conversation with yesterday. Unfortunately, you can't seem to remember their name. When you ask for their name again, they say, \"I was going to ask you the same thing,\" and you both laugh."
+        },
+        {
+            "type": "Media",
+            "url": "./images/777.jpg"
+        }
+    ]
+}

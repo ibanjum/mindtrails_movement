@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at a smoothie shop with a former coworker, deciding what to order while you wait in line. When it's your turn to order, you forget what you wanted. Your colleague reminds you of your favorite drink, and you think they are thoughtful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at a smoothie shop with a former coworker, deciding what to order while you wait in line. When it's your turn to order, you forget what you wanted. Your colleague reminds you of your favorite drink, and you think they are thoughtful."
+        },
+        {
+            "type": "Media",
+            "url": "./images/835.jpg"
+        }
+    ]
+}

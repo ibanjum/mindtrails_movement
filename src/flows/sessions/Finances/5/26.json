@@ -1,0 +1,27 @@
+{
+    "header_text": "You are having dinner with your friends, and you all end up talking about your salaries. Many of your friends make more money than you, and you wonder whether you should have chosen a different career. You remind yourself that you chose this path for a reason, and you find your job fulfilling.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Is it bad that you make less money than your friends?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are having dinner with your friends, and you all end up talking about your salaries. Many of your friends make more money than you, and you wonder whether you should have chosen a different career. You remind yourself that you chose this path for a reason, and you find your job fulfilling._Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

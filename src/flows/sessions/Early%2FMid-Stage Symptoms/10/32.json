@@ -1,0 +1,14 @@
+{
+    "header_text": "You are about to enjoy a nice family dinner. Your siblings begin teasing each other about who should make the salad dressing, and you suddenly yell at everyone to shut up. Your sudden, unexpected burst of anger leaves family members feeling shocked.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are about to enjoy a nice family dinner. Your siblings begin teasing each other about who should make the salad dressing, and you suddenly yell at everyone to shut up. Your sudden, unexpected burst of anger leaves family members feeling shocked."
+        },
+        {
+            "type": "Media",
+            "url": "./images/795.jpg"
+        }
+    ]
+}

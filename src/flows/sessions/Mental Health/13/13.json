@@ -1,0 +1,27 @@
+{
+    "header_text": "You get a text from a friend that they are in the hospital, but they don't tell you why. You start to worry about whether they're going to be OK. As you think about your friend, you feel calm.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will your friend probably be OK? "
+        },
+        {
+            "type": "Buttons",
+            "name": "You get a text from a friend that they are in the hospital, but they don't tell you why. You start to worry about whether they're going to be OK. As you think about your friend, you feel calm._Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

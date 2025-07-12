@@ -1,0 +1,15 @@
+{
+    "header_text": "You are heading out of town for a few days. You decide to double-check that all the appliances in your house are turned off. As you close the door to your house, you feel nervous.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are heading out of town for a few days. You decide to double-check that all the appliances in your house are turned off. As you close the door to your house, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "You are heading out of town for a few days. You decide to double-check that all the appliances in your house are turned off. As you close the door to your house, you feel nervous._Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

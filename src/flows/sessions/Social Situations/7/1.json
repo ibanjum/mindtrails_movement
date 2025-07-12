@@ -1,0 +1,14 @@
+{
+    "header_text": "While out on a walk, you see a neighbor that you do not know well. You decide to say hello in passing but then wonder if you annoyed the neighbor. After the brief encounter, you believe they think that you are friendly.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "While out on a walk, you see a neighbor that you do not know well. You decide to say hello in passing but then wonder if you annoyed the neighbor. After the brief encounter, you believe they think that you are friendly."
+        },
+        {
+            "type": "Media",
+            "url": "./images/631.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "You have been dealing with some stressful situations recently. You are reflecting on the past few weeks and wonder if you have been feeling numb. You remember that you've been coping well and have most likely kept your emotions stable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have been dealing with some stressful situations recently. You are reflecting on the past few weeks and wonder if you have been feeling numb. You remember that you've been coping well and have most likely kept your emotions..."
+        },
+        {
+            "type": "Entry",
+            "name": "You have been dealing with some stressful situations recently. You are reflecting on the past few weeks and wonder if you have been feeling numb. You remember that you've been coping well and have most likely kept your emotions stable._Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

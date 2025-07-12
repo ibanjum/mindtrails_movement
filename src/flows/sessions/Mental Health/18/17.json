@@ -1,0 +1,14 @@
+{
+    "header_text": "You're working on a project with some coworkers. You offer an idea to the group, and someone laughs and says that it's not good. While you're working on the project, you think that you're smart.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're working on a project with some coworkers. You offer an idea to the group, and someone laughs and says that it's not good. While you're working on the project, you think that you're smart."
+        },
+        {
+            "type": "Media",
+            "url": "./images/403.jpg"
+        }
+    ]
+}

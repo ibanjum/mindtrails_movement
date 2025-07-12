@@ -1,0 +1,14 @@
+{
+    "header_text": "You meet an attractive new coworker during a meeting. After work, they request to follow you on social media. Before you let them follow you, you look over your own feed and feel confident.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You meet an attractive new coworker during a meeting. After work, they request to follow you on social media. Before you let them follow you, you look over your own feed and feel confident."
+        },
+        {
+            "type": "Media",
+            "url": "./images/663.jpg"
+        }
+    ]
+}

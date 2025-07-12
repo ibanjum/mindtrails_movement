@@ -1,0 +1,27 @@
+{
+    "header_text": "You're attending a neighborhood council meeting and talking with those around you. As the conversation flows, you feel overwhelmed trying to keep track of the multiple voices and topics being discussed. You decide to take a moment to step aside and explain to a close neighbor about your difficulty, knowing that they will be try to be helpful and inclusive.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You know your neighbor will be..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You're attending a neighborhood council meeting and talking with those around you. As the conversation flows, you feel overwhelmed trying to keep track of the multiple voices and topics being discussed. You decide to take a moment to step aside and explain to a close neighbor about your difficulty, knowing that they will be try to be helpful and inclusive._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Unhelpful",
+                "Helpful."
+            ],
+            "columnCount": 1,
+            "correct_value": "Helpful."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

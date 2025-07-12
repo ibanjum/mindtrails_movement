@@ -1,0 +1,14 @@
+{
+    "header_text": "You are assigned a project to complete for work. You've been grouped with coworkers who usually don't contribute much to work projects. You start to think about how the project will go, and feel uneasy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are assigned a project to complete for work. You've been grouped with coworkers who usually don't contribute much to work projects. You start to think about how the project will go, and feel uneasy."
+        },
+        {
+            "type": "Media",
+            "url": "./images/38.jpg"
+        }
+    ]
+}

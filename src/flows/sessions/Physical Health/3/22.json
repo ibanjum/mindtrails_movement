@@ -1,0 +1,27 @@
+{
+    "header_text": "Your friend buys you a cake for your birthday. When they bring it over in the evening, they say they have recently gotten over being ill. Holding the cake, you think your chances of becoming sick are small.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "If you eat the cake, you will probably..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Your friend buys you a cake for your birthday. When they bring it over in the evening, they say they have recently gotten over being ill. Holding the cake, you think your chances of becoming sick are small._Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Not get sick",
+                "Get sick"
+            ],
+            "columnCount": 1,
+            "correct_value": "Not get sick"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

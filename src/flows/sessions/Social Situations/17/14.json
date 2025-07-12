@@ -1,0 +1,14 @@
+{
+    "header_text": "You have a lot of unread emails. When you check your inbox today, you notice an explicit message from an email address you don't know. You decide to block the sender and feel more relaxed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have a lot of unread emails. When you check your inbox today, you notice an explicit message from an email address you don't know. You decide to block the sender and feel more relaxed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/586.jpg"
+        }
+    ]
+}

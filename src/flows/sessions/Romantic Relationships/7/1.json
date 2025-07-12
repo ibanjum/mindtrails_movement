@@ -1,0 +1,14 @@
+{
+    "header_text": "All of your friends have been dating significant others for a while or are just starting new relationships. You have not been on a single date and begin to wonder why. Even though you're disappointed, you know your self-worth is not defined by a relationship status.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "All of your friends have been dating significant others for a while or are just starting new relationships. You have not been on a single date and begin to wonder why. Even though you're disappointed, you know your self-worth is not defined by a relationship status."
+        },
+        {
+            "type": "Media",
+            "url": "./images/549.jpg"
+        }
+    ]
+}

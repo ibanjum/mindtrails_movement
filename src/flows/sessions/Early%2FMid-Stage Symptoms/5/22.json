@@ -1,0 +1,14 @@
+{
+    "header_text": "You have more free time lately, so you've been trying new crafts. While trying to crochet a coaster, you make an error in the pattern. You decide that your attempt to learn this new skill is worthwhile.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have more free time lately, so you've been trying new crafts. While trying to crochet a coaster, you make an error in the pattern. You decide that your attempt to learn this new skill is worthwhile."
+        },
+        {
+            "type": "Media",
+            "url": "./images/229.jpg"
+        }
+    ]
+}

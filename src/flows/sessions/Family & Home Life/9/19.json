@@ -1,0 +1,15 @@
+{
+    "header_text": "You and your partner recently opened a joint bank account. While going through the bank statements, you are shocked to see that your partner has been spending recklessly. As you consider bringing up your concerns to your partner, you think they will be understanding. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your partner recently opened a joint bank account. While going through the bank statements, you are shocked to see that your partner has been spending recklessly. As you consider bringing up your concerns to your partner, you think they will be... "
+        },
+        {
+            "type": "Entry",
+            "name": "You and your partner recently opened a joint bank account. While going through the bank statements, you are shocked to see that your partner has been spending recklessly. As you consider bringing up your concerns to your partner, you think they will be understanding. _Family & Home Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

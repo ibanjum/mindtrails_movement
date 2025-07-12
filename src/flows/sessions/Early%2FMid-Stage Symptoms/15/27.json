@@ -1,0 +1,14 @@
+{
+    "header_text": "You recently ordered furniture online that you have to assemble yourself. You struggle to make out the diagrams and wonder if you are particularly struggling because of HD. You think to yourself that the manufacturer's instructions are bad, and this makes you laugh. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You recently ordered furniture online that you have to assemble yourself. You struggle to make out the diagrams and wonder if you are particularly struggling because of HD. You think to yourself that the manufacturer's instructions are bad, and this makes you laugh. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/408.jpg"
+        }
+    ]
+}

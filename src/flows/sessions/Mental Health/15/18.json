@@ -1,0 +1,14 @@
+{
+    "header_text": "You are trying to come up with a closing for an email to send to your coworkers. You come up with a joke that you think people will love. Your coworkers will think it's funny.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are trying to come up with a closing for an email to send to your coworkers. You come up with a joke that you think people will love. Your coworkers will think it's funny."
+        },
+        {
+            "type": "Media",
+            "url": "./images/391.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Your family has traditions that your coworkers don't share. Today at work, everyone is chatting about their families' important traditions. As you prepare to contribute to the conversation, you feel enthusiastic.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your family has traditions that your coworkers don't share. Today at work, everyone is chatting about their families' important traditions. As you prepare to contribute to the conversation, you feel enthusiastic."
+        },
+        {
+            "type": "Media",
+            "url": "./images/159.jpg"
+        }
+    ]
+}

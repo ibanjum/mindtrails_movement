@@ -1,0 +1,15 @@
+{
+    "header_text": "While collaborating on a project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the project.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While collaborating on a project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the..."
+        },
+        {
+            "type": "Entry",
+            "name": "While collaborating on a project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the project._Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

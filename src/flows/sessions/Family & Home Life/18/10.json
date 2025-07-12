@@ -1,0 +1,27 @@
+{
+    "header_text": "Saturday brunch with relatives is a monthly tradition you cherish. Today, your relatives point out the change in your weight since they last saw you. You recognize they aren't pointing out your flaws, but are demonstrating their concern.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your relatives pointing out changes shows their..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Saturday brunch with relatives is a monthly tradition you cherish. Today, your relatives point out the change in your weight since they last saw you. You recognize they aren't pointing out your flaws, but are demonstrating their concern._Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Concern",
+                "Judgment"
+            ],
+            "columnCount": 1,
+            "correct_value": "Concern"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

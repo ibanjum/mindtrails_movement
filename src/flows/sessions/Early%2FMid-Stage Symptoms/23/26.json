@@ -1,0 +1,27 @@
+{
+    "header_text": "Friday night dinner parties with your neighbors are a highlight of your week. This week at dinner, you are having trouble reaching for the condiments in the center of the table. You ask your neighbors for help, knowing they are always quick to assist. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your neighbors look for opportunities to be..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Friday night dinner parties with your neighbors are a highlight of your week. This week at dinner, you are having trouble reaching for the condiments in the center of the table. You ask your neighbors for help, knowing they are always quick to assist. _Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Helpful",
+                "Judgmental"
+            ],
+            "columnCount": 1,
+            "correct_value": "Helpful"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

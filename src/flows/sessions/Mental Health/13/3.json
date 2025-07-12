@@ -1,0 +1,27 @@
+{
+    "header_text": "You have a dinner date scheduled with someone you've been wanting to hang out with for a while. On the day of the dinner, you feel a little nervous wondering whether they will appreciate you as much as you appreciate them. You realize that feeling a little anxious is okay.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You probably feel nervous because..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You have a dinner date scheduled with someone you've been wanting to hang out with for a while. On the day of the dinner, you feel a little nervous wondering whether they will appreciate you as much as you appreciate them. You realize that feeling a little anxious is okay._Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You haven't hung out with this person before",
+                "You are unlikeable"
+            ],
+            "columnCount": 1,
+            "correct_value": "You haven't hung out with this person before"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

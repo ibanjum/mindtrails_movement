@@ -1,0 +1,14 @@
+{
+    "header_text": "Over the last couple days, you've developed a cough. You went out over the weekend and wonder if you may have gotten sick. On the other hand, you think it may be allergies. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Over the last couple days, you've developed a cough. You went out over the weekend and wonder if you may have gotten sick. On the other hand, you think it may be allergies. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/436.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You made plans with a group of friends to go out to dinner on a Friday night. You see that they are dressed casually when they pick you up, but you think they might judge you because you dressed up a bit. You decide that you like what you're wearing and go to dinner happy. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You made plans with a group of friends to go out to dinner on a Friday night. You see that they are dressed casually when they pick you up, but you think they might judge you because you dressed up a bit. You decide that you like what you're wearing and go to dinner happy. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/338.jpg"
+        }
+    ]
+}

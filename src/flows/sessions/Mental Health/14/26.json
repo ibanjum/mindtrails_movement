@@ -1,0 +1,14 @@
+{
+    "header_text": "You post a picture you are really confident about. You see a really rude comment as you go back to check your comments. You take a deep breath and decide not to feel bothered.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You post a picture you are really confident about. You see a really rude comment as you go back to check your comments. You take a deep breath and decide not to feel bothered."
+        },
+        {
+            "type": "Media",
+            "url": "./images/385.jpg"
+        }
+    ]
+}

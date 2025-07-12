@@ -1,0 +1,14 @@
+{
+    "header_text": "Taxes are due in a month, so you are working on filing them today. You are having trouble keeping track of all the numbers, and you become flustered. You grab a notepad and get organized.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Taxes are due in a month, so you are working on filing them today. You are having trouble keeping track of all the numbers, and you become flustered. You grab a notepad and get organized."
+        },
+        {
+            "type": "Media",
+            "url": "./images/322.jpg"
+        }
+    ]
+}

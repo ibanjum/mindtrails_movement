@@ -1,0 +1,14 @@
+{
+    "header_text": "You are shopping at the mall, and in line to check out. When you reach into your pocket, you realize your wallet is missing. You don't know where you misplaced it, and realize that your memory lately has been bad. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are shopping at the mall, and in line to check out. When you reach into your pocket, you realize your wallet is missing. You don't know where you misplaced it, and realize that your memory lately has been bad. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/304.jpg"
+        }
+    ]
+}

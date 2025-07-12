@@ -1,0 +1,15 @@
+{
+    "header_text": "During a holiday gathering, you have difficulty choosing your words during conversations. Anxiety builds as you think about how your family perceives your speech difficulties. You focus on listening actively and still add to the conversation meaningfully. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "During a holiday gathering, you have difficulty choosing your words during conversations. Anxiety builds as you think about how your family perceives your speech difficulties. You focus on listening actively and still add to the conversation... "
+        },
+        {
+            "type": "Entry",
+            "name": "During a holiday gathering, you have difficulty choosing your words during conversations. Anxiety builds as you think about how your family perceives your speech difficulties. You focus on listening actively and still add to the conversation meaningfully. _Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

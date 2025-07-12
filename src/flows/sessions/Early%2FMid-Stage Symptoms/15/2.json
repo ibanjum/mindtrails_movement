@@ -1,0 +1,14 @@
+{
+    "header_text": "While reading at home, you notice you are having trouble focusing on the words and remembering the information. This causes you to feel concerned and makes it even harder to read. You decide to bring this problem up to your doctor, and (after making a plan) you feel better.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "While reading at home, you notice you are having trouble focusing on the words and remembering the information. This causes you to feel concerned and makes it even harder to read. You decide to bring this problem up to your doctor, and (after making a plan) you feel better."
+        },
+        {
+            "type": "Media",
+            "url": "./images/818.jpg"
+        }
+    ]
+}

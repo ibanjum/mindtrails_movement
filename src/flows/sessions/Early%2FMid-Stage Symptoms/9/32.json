@@ -1,0 +1,27 @@
+{
+    "header_text": "Your spouse's job has taken you all over the country with new opportunities. Your spouse's boss approaches them at work asking if they can take a position a few hours away. The thought of a new city, friends, and even medical providers is exciting. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Moving to a new city with PD will be a/an..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Your spouse's job has taken you all over the country with new opportunities. Your spouse's boss approaches them at work asking if they can take a position a few hours away. The thought of a new city, friends, and even medical providers is exciting. _Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Burden",
+                "Adventure"
+            ],
+            "columnCount": 1,
+            "correct_value": "Adventure"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

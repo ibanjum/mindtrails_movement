@@ -1,0 +1,14 @@
+{
+    "header_text": "You're at home, relaxing on the couch and watching your favorite TV show while also texting with a friend. However, you are struggling to focus on both tasks at the same time, making you feel overwhelmed. You remind yourself that if you need to pause your show or take a break from texting, then that is okay.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're at home, relaxing on the couch and watching your favorite TV show while also texting with a friend. However, you are struggling to focus on both tasks at the same time, making you feel overwhelmed. You remind yourself that if you need to pause your show or take a break from texting, then that is okay."
+        },
+        {
+            "type": "Media",
+            "url": "./images/216.jpg"
+        }
+    ]
+}

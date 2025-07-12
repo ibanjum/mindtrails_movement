@@ -1,0 +1,14 @@
+{
+    "header_text": "You make a new friend, and they ask you for your email so that they can reach out to make plans. When you tell them you rarely get emails, they grow quiet. They must think that you are different, and that's alright.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You make a new friend, and they ask you for your email so that they can reach out to make plans. When you tell them you rarely get emails, they grow quiet. They must think that you are different, and that's alright."
+        },
+        {
+            "type": "Media",
+            "url": "./images/673.jpg"
+        }
+    ]
+}

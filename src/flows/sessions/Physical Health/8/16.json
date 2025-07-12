@@ -1,0 +1,15 @@
+{
+    "header_text": "You see your friends across the street and walk over to them. You feel a little disoriented and dizzy as you reach them. You consider what this means and realize that it probably means that you walked too quickly.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You see your friends across the street and walk over to them. You feel a little disoriented and dizzy as you reach them. You consider what this means and realize that it probably means that you walked too..."
+        },
+        {
+            "type": "Entry",
+            "name": "You see your friends across the street and walk over to them. You feel a little disoriented and dizzy as you reach them. You consider what this means and realize that it probably means that you walked too quickly._Physical Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

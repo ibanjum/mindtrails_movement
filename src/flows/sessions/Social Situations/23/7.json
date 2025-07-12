@@ -1,0 +1,14 @@
+{
+    "header_text": "Your friend is having a get together tonight. You weren't invited, but most of your other friends were. When you think about it, this makes you feel excluded.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your friend is having a get together tonight. You weren't invited, but most of your other friends were. When you think about it, this makes you feel excluded."
+        },
+        {
+            "type": "Media",
+            "url": "./images/701.jpg"
+        }
+    ]
+}

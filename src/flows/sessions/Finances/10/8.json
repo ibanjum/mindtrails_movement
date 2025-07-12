@@ -1,0 +1,15 @@
+{
+    "header_text": "You are on a date with your partner. They always pick up the bill, despite you wanting to pay. When you think about talking to them about paying equally, you think they will understand. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are on a date with your partner. They always pick up the bill, despite you wanting to pay. When you think about talking to them about paying equally, you think they will... "
+        },
+        {
+            "type": "Entry",
+            "name": "You are on a date with your partner. They always pick up the bill, despite you wanting to pay. When you think about talking to them about paying equally, you think they will understand. _Finances_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

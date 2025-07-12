@@ -1,0 +1,11 @@
+{
+    "header_text": "Pause to reflect:",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Media",
+            "url": "./images/lemon_image.jpeg",
+            "border": false
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "While running errands, you see a new T-shirt that you really like. You have a tight budget, and you don't think you have enough money left to buy the shirt. You don't buy it, and that decision makes you feel good. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While running errands, you see a new T-shirt that you really like. You have a tight budget, and you don't think you have enough money left to buy the shirt. You don't buy it, and that decision makes you feel... "
+        },
+        {
+            "type": "Entry",
+            "name": "While running errands, you see a new T-shirt that you really like. You have a tight budget, and you don't think you have enough money left to buy the shirt. You don't buy it, and that decision makes you feel good. _Finances_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

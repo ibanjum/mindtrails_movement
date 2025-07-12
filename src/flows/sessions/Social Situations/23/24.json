@@ -1,0 +1,14 @@
+{
+    "header_text": "You are volunteering at a community event and notice two old friends who you have not seen in a while. They come up to say hi as they are passing. They probably think that you are selfless.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are volunteering at a community event and notice two old friends who you have not seen in a while. They come up to say hi as they are passing. They probably think that you are selfless."
+        },
+        {
+            "type": "Media",
+            "url": "./images/704.jpg"
+        }
+    ]
+}

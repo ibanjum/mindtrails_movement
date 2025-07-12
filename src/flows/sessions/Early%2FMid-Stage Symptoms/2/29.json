@@ -1,0 +1,14 @@
+{
+    "header_text": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you decide to hold it because you're nervous.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you decide to hold it because you're nervous."
+        },
+        {
+            "type": "Media",
+            "url": "./images/723.jpg"
+        }
+    ]
+}

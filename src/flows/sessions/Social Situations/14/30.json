@@ -1,0 +1,14 @@
+{
+    "header_text": "You get your evaluation back today, and your results are lower than you expected. Your peers are talking about their results, and theirs are more positive than yours. If you share your evaluation results with your peers, they will be understanding.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You get your evaluation back today, and your results are lower than you expected. Your peers are talking about their results, and theirs are more positive than yours. If you share your evaluation results with your peers, they will be understanding."
+        },
+        {
+            "type": "Media",
+            "url": "./images/62.jpg"
+        }
+    ]
+}

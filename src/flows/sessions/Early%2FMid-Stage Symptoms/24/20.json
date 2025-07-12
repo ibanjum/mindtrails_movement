@@ -1,0 +1,27 @@
+{
+    "header_text": "You are meeting with your financial advisor to talk about the future of your finances with HD. You are becoming easily aggravated during the conversation, but are unsure why. You reflect on the hard work of your advisor and give them your trust. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "How do you respond to your financial advisor?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are meeting with your financial advisor to talk about the future of your finances with HD. You are becoming easily aggravated during the conversation, but are unsure why. You reflect on the hard work of your advisor and give them your trust. _Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "With anger",
+                "With trust"
+            ],
+            "columnCount": 1,
+            "correct_value": "With trust"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

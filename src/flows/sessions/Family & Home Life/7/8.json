@@ -1,0 +1,14 @@
+{
+    "header_text": "Your pay was recently cut, and you will need to ask your family for some help affording expenses this month. You feel terrible asking since they have already supported you a lot financially in the past. You remind yourself that needing a little extra help every now and then is okay.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your pay was recently cut, and you will need to ask your family for some help affording expenses this month. You feel terrible asking since they have already supported you a lot financially in the past. You remind yourself that needing a little extra help every now and then is okay."
+        },
+        {
+            "type": "Media",
+            "url": "./images/166.jpg"
+        }
+    ]
+}

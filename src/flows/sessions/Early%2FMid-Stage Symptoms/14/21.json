@@ -1,0 +1,14 @@
+{
+    "header_text": "You're balancing your checkbook when you realize you've made several mistakes in your calculations. Finding these mistakes makes you feel anxious about your ability to manage your finances in the future. You share your concerns with a close friend who reminds you that there are people in your life who can help. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're balancing your checkbook when you realize you've made several mistakes in your calculations. Finding these mistakes makes you feel anxious about your ability to manage your finances in the future. You share your concerns with a close friend who reminds you that there are people in your life who can help. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/318.jpg"
+        }
+    ]
+}

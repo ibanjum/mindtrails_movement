@@ -1,0 +1,14 @@
+{
+    "header_text": "You notice that you haven't seen your older neighbor recently. You visit them regularly, so it's strange that you haven't seen them lately. Your neighbor has probably been fine.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You notice that you haven't seen your older neighbor recently. You visit them regularly, so it's strange that you haven't seen them lately. Your neighbor has probably been fine."
+        },
+        {
+            "type": "Media",
+            "url": "./images/467.jpg"
+        }
+    ]
+}

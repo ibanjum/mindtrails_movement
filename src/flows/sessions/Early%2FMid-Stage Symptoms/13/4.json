@@ -1,0 +1,27 @@
+{
+    "header_text": "You enjoy walking to the thrift store occasionally. On your most recent trip, you turned on the wrong street and had to retrace your steps. This made you worried.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Focusing on positives..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You enjoy walking to the thrift store occasionally. On your most recent trip, you turned on the wrong street and had to retrace your steps. This made you worried._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Helped you",
+                "Didn't change a thing"
+            ],
+            "columnCount": 1,
+            "correct_value": "Helped you"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

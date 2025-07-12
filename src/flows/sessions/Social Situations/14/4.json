@@ -1,0 +1,14 @@
+{
+    "header_text": "During your work meeting over Zoom, everyone is placed into breakout rooms. Your camera is on when you start the discussion, but everyone else leaves their cameras off. You assume that the others will think that you are ready.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "During your work meeting over Zoom, everyone is placed into breakout rooms. Your camera is on when you start the discussion, but everyone else leaves their cameras off. You assume that the others will think that you are ready."
+        },
+        {
+            "type": "Media",
+            "url": "./images/98.jpg"
+        }
+    ]
+}

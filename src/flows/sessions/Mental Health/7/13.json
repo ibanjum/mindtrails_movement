@@ -1,0 +1,14 @@
+{
+    "header_text": "You are hanging out with a new group of people who are all talking about their housing situations, and you want to chime in. Since you are still looking for a place to settle down, you feel like you're falling behind on life experiences. You start to think that you still have plenty of time.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are hanging out with a new group of people who are all talking about their housing situations, and you want to chime in. Since you are still looking for a place to settle down, you feel like you're falling behind on life experiences. You start to think that you still have plenty of time."
+        },
+        {
+            "type": "Media",
+            "url": "./images/169.jpg"
+        }
+    ]
+}

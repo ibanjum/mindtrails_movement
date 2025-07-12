@@ -1,0 +1,27 @@
+{
+    "header_text": "Your parent has Huntington's disease, and it has been difficult to watch their condition worsen as they've gotten older. As you age, you wonder if your symptoms will become as severe as theirs. You begin to feel nervous about your future.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will there be people who care about you that help you in the future?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your parent has Huntington's disease, and it has been difficult to watch their condition worsen as they've gotten older. As you age, you wonder if your symptoms will become as severe as theirs. You begin to feel nervous about your future._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You are in a meeting, and during a brief break, you call home to speak to your significant other. You are late getting back into the meeting room, so everyone looks up when you open the door. Others see your actions as disruptive.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Did people think your returning to the meeting late was rude?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are in a meeting, and during a brief break, you call home to speak to your significant other. You are late getting back into the meeting room, so everyone looks up when you open the door. Others see your actions as disruptive._Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

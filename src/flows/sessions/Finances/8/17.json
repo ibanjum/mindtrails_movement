@@ -1,0 +1,14 @@
+{
+    "header_text": "Some friends have reached out to you about going out to dinner for a friend's birthday. You've had some unexpected expenses this month, and you're worried about being able to afford a nice dinner. You talk to your friends, and they reassure you that the restaurant they choose won't be expensive.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Some friends have reached out to you about going out to dinner for a friend's birthday. You've had some unexpected expenses this month, and you're worried about being able to afford a nice dinner. You talk to your friends, and they reassure you that the restaurant they choose won't be expensive."
+        },
+        {
+            "type": "Media",
+            "url": "./images/282.jpg"
+        }
+    ]
+}

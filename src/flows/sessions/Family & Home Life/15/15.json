@@ -1,0 +1,14 @@
+{
+    "header_text": "You are setting out the ingredients to cook a favorite family dinner. You realize you do not remember how the recipe starts, and you begin to get upset. You get out the written recipe and know that you are capable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are setting out the ingredients to cook a favorite family dinner. You realize you do not remember how the recipe starts, and you begin to get upset. You get out the written recipe and know that you are capable. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/220.jpg"
+        }
+    ]
+}

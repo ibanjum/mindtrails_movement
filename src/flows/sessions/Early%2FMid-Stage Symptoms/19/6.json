@@ -1,0 +1,23 @@
+{
+    "header_text": "Playing board games after dinner is a family tradition, and tonight you are playing a personal favorite. Your niece uses one of your signature moves, and you find yourself snapping at her. The room goes quiet as everyone thinks about their next move.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Playing board games after dinner is a family tradition, and tonight you are playing a personal favorite. Your niece uses one of your signature moves, and you find yourself snapping at her. The room goes quiet as everyone thinks about their next..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Playing board games after dinner is a family tradition, and tonight you are playing a personal favorite. Your niece uses one of your signature moves, and you find yourself snapping at her. The room goes quiet as everyone thinks about their next move._Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "move"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

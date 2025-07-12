@@ -1,0 +1,14 @@
+{
+    "header_text": "You're at a party, and some of the partygoers notice your symptoms and stare. You feel uncomfortable and decide not to engage in conversation with them. You confide in your close friend that is also at the party, and your friend thinks that your decision is justified.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're at a party, and some of the partygoers notice your symptoms and stare. You feel uncomfortable and decide not to engage in conversation with them. You confide in your close friend that is also at the party, and your friend thinks that your decision is justified."
+        },
+        {
+            "type": "Media",
+            "url": "./images/379.jpg"
+        }
+    ]
+}

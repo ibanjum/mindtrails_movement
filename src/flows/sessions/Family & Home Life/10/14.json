@@ -1,0 +1,15 @@
+{
+    "header_text": "Tomorrow is your family member's birthday. You forgot to get them a gift. You realize you don't have much time to shop for something good.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You pick up something mediocre from a nearby store. You don't worry about disappointing your family member because you think they will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Tomorrow is your family member's birthday. You forgot to get them a gift. You realize you don't have much time to shop for something good._Family & Home Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

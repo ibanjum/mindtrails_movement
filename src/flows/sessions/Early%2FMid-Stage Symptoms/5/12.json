@@ -1,0 +1,14 @@
+{
+    "header_text": "You and your spouse are planning a weekend trip to celebrate your anniversary. Planning the details of the trip is requiring a lot of thinking, and you feel particularly exhausted. You take a break to walk outside and return feeling refreshed. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You and your spouse are planning a weekend trip to celebrate your anniversary. Planning the details of the trip is requiring a lot of thinking, and you feel particularly exhausted. You take a break to walk outside and return feeling refreshed. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/759.jpg"
+        }
+    ]
+}

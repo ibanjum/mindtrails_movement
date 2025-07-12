@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at a family gathering. One of your relatives asks you to pass their phone near you to them. Lately, you've been more uncoordinated, and you're worried that your handoff will be clumsy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at a family gathering. One of your relatives asks you to pass their phone near you to them. Lately, you've been more uncoordinated, and you're worried that your handoff will be clumsy."
+        },
+        {
+            "type": "Media",
+            "url": "./images/813.jpg"
+        }
+    ]
+}

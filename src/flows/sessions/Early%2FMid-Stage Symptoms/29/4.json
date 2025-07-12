@@ -1,0 +1,14 @@
+{
+    "header_text": "For the first time, you're taking part in a research study about HD. When someone tells you that you've been picked as a participant, you don't know what to expect. As you think about it more, you begin to feel uneasy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "For the first time, you're taking part in a research study about HD. When someone tells you that you've been picked as a participant, you don't know what to expect. As you think about it more, you begin to feel uneasy."
+        },
+        {
+            "type": "Media",
+            "url": "./images/877.jpg"
+        }
+    ]
+}

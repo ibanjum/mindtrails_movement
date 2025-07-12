@@ -1,0 +1,20 @@
+{
+    "header_text": "Journal",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feel free to use the space below in any way that feels helpful for you:",
+            "html": true
+        },
+        {
+            "type": "Entry",
+            "name": "journal_entry_discrimination "
+        }
+    ],
+    "condition": [
+        "Journal",
+        "in",
+        "Selected_Support"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at home alone watching TV at night. You must have been dozing, because you suddenly wake up after hearing a loud noise. You look outside and see a squirrel.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at home alone watching TV at night. You must have been dozing, because you suddenly wake up after hearing a loud noise. You look outside and see a squirrel."
+        },
+        {
+            "type": "Media",
+            "url": "./images/132.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You arrive to a morning meeting exactly on time, but you are the last one to arrive. Your coworkers look at you as you pull out your chair, and it squeaks loudly. They all turn to look at you with a slight frown.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do your coworkers judge you negatively?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You arrive to a morning meeting exactly on time, but you are the last one to arrive. Your coworkers look at you as you pull out your chair, and it squeaks loudly. They all turn to look at you with a slight frown._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

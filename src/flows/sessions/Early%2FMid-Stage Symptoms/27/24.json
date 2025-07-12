@@ -1,0 +1,14 @@
+{
+    "header_text": "You are attending a cooking class to try out something new. During the lesson, you struggle to keep up with the instructor and realize you are a step behind everyone else. You follow at your own pace and ask lots of questions, and at the end of the class you feel accomplished.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are attending a cooking class to try out something new. During the lesson, you struggle to keep up with the instructor and realize you are a step behind everyone else. You follow at your own pace and ask lots of questions, and at the end of the class you feel accomplished."
+        },
+        {
+            "type": "Media",
+            "url": "./images/870.jpg"
+        }
+    ]
+}

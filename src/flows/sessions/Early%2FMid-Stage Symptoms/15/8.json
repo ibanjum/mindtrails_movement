@@ -1,0 +1,14 @@
+{
+    "header_text": "Your family is going on a hike to get some nice photos at a mountain overlook. You are having trouble navigating the terrain and fall and hurt your knee. Your family turns around to go home instead of finishing the hike, making you feel upset.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your family is going on a hike to get some nice photos at a mountain overlook. You are having trouble navigating the terrain and fall and hurt your knee. Your family turns around to go home instead of finishing the hike, making you feel upset."
+        },
+        {
+            "type": "Media",
+            "url": "./images/230.jpg"
+        }
+    ]
+}

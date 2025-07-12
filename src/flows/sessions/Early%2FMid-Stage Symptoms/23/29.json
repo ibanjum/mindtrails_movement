@@ -1,0 +1,27 @@
+{
+    "header_text": "You are having breakfast with a new friend. You have some chorea in your arms, and you notice your friend looking at you as you take a bite. You remember you've already shared about your HD and the new friend showed great empathy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will your symptoms drive your new friend away?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are having breakfast with a new friend. You have some chorea in your arms, and you notice your friend looking at you as you take a bite. You remember you've already shared about your HD and the new friend showed great empathy._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

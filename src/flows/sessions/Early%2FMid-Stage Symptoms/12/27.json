@@ -1,0 +1,14 @@
+{
+    "header_text": "Lately, you feel like you've been having a harder time keeping up mentally. This has been causing you to feel depressed about your disease progression and what your near future will look like. You decide that regardless of what the future holds, you will focus on enjoying the present.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Lately, you feel like you've been having a harder time keeping up mentally. This has been causing you to feel depressed about your disease progression and what your near future will look like. You decide that regardless of what the future holds, you will focus on enjoying the present."
+        },
+        {
+            "type": "Media",
+            "url": "./images/803.jpg"
+        }
+    ]
+}

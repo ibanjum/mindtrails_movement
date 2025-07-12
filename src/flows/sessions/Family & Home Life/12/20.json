@@ -1,0 +1,14 @@
+{
+    "header_text": "When you call one of your kids, they seem upset, but you don't know what's wrong. They give you a short answer when you try to talk with them about it. You consider why they're mad and realize that it is not you.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "When you call one of your kids, they seem upset, but you don't know what's wrong. They give you a short answer when you try to talk with them about it. You consider why they're mad and realize that it is not you."
+        },
+        {
+            "type": "Media",
+            "url": "./images/129.jpg"
+        }
+    ]
+}

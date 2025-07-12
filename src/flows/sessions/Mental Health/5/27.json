@@ -1,0 +1,14 @@
+{
+    "header_text": "Recently, you've noticed that you are having intrusive thoughts. These thoughts are disturbing to you, and you cannot believe that you are thinking such horrible things. You think that you are going crazy. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recently, you've noticed that you are having intrusive thoughts. These thoughts are disturbing to you, and you cannot believe that you are thinking such horrible things. You think that you are going crazy. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/354.jpg"
+        }
+    ]
+}

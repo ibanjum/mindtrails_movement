@@ -1,0 +1,15 @@
+{
+    "header_text": "You recently went through a major breakup with your long term partner. You want to ask your family and friends for support, but you don’t know how. When you tell them you are struggling, they applaud your honesty. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently went through a major breakup with your long term partner. You want to ask your family and friends for support, but you don’t know how. When you tell them you are struggling, they applaud your... "
+        },
+        {
+            "type": "Entry",
+            "name": "You recently went through a major breakup with your long term partner. You want to ask your family and friends for support, but you don’t know how. When you tell them you are struggling, they applaud your honesty. _Family & Home Life_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

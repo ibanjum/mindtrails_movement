@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at a small party with people from your department. You feel nervous about spending time with your coworkers outside of work. At the start of the party, you decide your nervousness is intolerable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at a small party with people from your department. You feel nervous about spending time with your coworkers outside of work. At the start of the party, you decide your nervousness is intolerable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/636.jpg"
+        }
+    ]
+}

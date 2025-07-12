@@ -1,0 +1,14 @@
+{
+    "header_text": "You go to the hospital to visit a friend. In the waiting room, someone behind you coughs. If you wash your hands, the probability that you will get sick is still high.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You go to the hospital to visit a friend. In the waiting room, someone behind you coughs. If you wash your hands, the probability that you will get sick is still high."
+        },
+        {
+            "type": "Media",
+            "url": "./images/430.jpg"
+        }
+    ]
+}

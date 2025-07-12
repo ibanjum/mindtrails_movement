@@ -1,0 +1,15 @@
+{
+    "header_text": "It's Wednesday night and you and your friend go on a walk. About halfway through you stop walking, because you feel you can't catch your breath. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you begin to have anxious thoughts about passing out, you decide to simply notice..."
+        },
+        {
+            "type": "Entry",
+            "name": "It's Wednesday night and you and your friend go on a walk. About halfway through you stop walking, because you feel you can't catch your breath. _Mental Health_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

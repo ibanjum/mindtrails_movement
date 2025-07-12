@@ -1,0 +1,14 @@
+{
+    "header_text": "Your children are thinking about going to college, but you think you would have to take out a loan to help send them to college. You remember stories you have heard of people still paying their loans while they are retired. Imagining yourself in retirement, you think your loans will be paid.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your children are thinking about going to college, but you think you would have to take out a loan to help send them to college. You remember stories you have heard of people still paying their loans while they are retired. Imagining yourself in retirement, you think your loans will be paid."
+        },
+        {
+            "type": "Media",
+            "url": "./images/191.jpg"
+        }
+    ]
+}

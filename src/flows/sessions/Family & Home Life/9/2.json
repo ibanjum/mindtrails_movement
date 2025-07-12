@@ -1,0 +1,14 @@
+{
+    "header_text": "It's Saturday, and you have no plans for the day. You realize you haven't seen your family in a while and wonder if you are drifting apart. You think they may have forgotten about you.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "It's Saturday, and you have no plans for the day. You realize you haven't seen your family in a while and wonder if you are drifting apart. You think they may have forgotten about you."
+        },
+        {
+            "type": "Media",
+            "url": "./images/179.jpg"
+        }
+    ]
+}

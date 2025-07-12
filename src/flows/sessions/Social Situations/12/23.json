@@ -1,0 +1,27 @@
+{
+    "header_text": "You're thinking about a new game you bought while you're at work. You really want to invite people over and learn how to play it, but you don't want to embarrass yourself in front of your coworkers. You decide not to bring it up since you are nervous, and you feel sad.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you anxious about playing this game in front of your coworker?\n"
+        },
+        {
+            "type": "Buttons",
+            "name": "You're thinking about a new game you bought while you're at work. You really want to invite people over and learn how to play it, but you don't want to embarrass yourself in front of your coworkers. You decide not to bring it up since you are nervous, and you feel sad._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You go to a fitness class but struggle with coordination during exercises. You start to worry about standing out for the wrong reasons and think that it would be easiest to ignore everyone else. When you make eye contact with the person next to you, you smile.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You go to a fitness class but struggle with coordination during exercises. You start to worry about standing out for the wrong reasons and think that it would be easiest to ignore everyone else. When you make eye contact with the person next to you, you smile."
+        },
+        {
+            "type": "Media",
+            "url": "./images/880.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You are the third and final candidate to be interviewed for a job. The interview panel greets you as you walk into the conference room. When you sit down, you feel your cheeks burning red, and you start to shake. The panel probably sees you as nervous.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you think the interviewers see you as a nervous person?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are the third and final candidate to be interviewed for a job. The interview panel greets you as you walk into the conference room. When you sit down, you feel your cheeks burning red, and you start to shake. The panel probably sees you as nervous._Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

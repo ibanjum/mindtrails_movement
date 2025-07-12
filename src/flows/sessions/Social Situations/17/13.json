@@ -1,0 +1,27 @@
+{
+    "header_text": "You are trying to come up with a closing for an email to send to your coworkers. You come up with a joke that you think people will love. Your coworkers will think it's funny.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you worried what your coworkers will think of your joke?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are trying to come up with a closing for an email to send to your coworkers. You come up with a joke that you think people will love. Your coworkers will think it's funny._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

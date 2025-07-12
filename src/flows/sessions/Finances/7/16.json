@@ -1,0 +1,27 @@
+{
+    "header_text": "You want your family to have good educational opportunities. You want your kids to be able to attend good colleges but understand that this comes with a high price tag.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you think you will have enough money to help pay for your grandchildren's college expenses?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You want your family to have good educational opportunities. You want your kids to be able to attend good colleges but understand that this comes with a high price tag._Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

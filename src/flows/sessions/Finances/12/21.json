@@ -1,0 +1,23 @@
+{
+    "header_text": "You overhear a couple talking about their retirement savings. As you listen in, you start to worry that you haven't saved enough. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You overhear a couple talking about their retirement savings. As you listen in, you start to worry that you haven't saved... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You overhear a couple talking about their retirement savings. As you listen in, you start to worry that you haven't saved enough. _Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "enough"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

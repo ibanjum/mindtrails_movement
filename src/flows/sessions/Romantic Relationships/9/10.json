@@ -1,0 +1,15 @@
+{
+    "header_text": "You are visiting your spouse's parents this weekend and have always felt like they didn't completely approve of you. When you’ve seen them in the past, their behavior has brought up arguments between you and your spouse. You remind yourself that it is only for a weekend, and you and your spouse can navigate it successfully. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are visiting your spouse's parents this weekend and have always felt like they didn't completely approve of you. When you’ve seen them in the past, their behavior has brought up arguments between you and your spouse. You remind yourself that it is only for a weekend, and you and your spouse can navigate it... "
+        },
+        {
+            "type": "Entry",
+            "name": "You are visiting your spouse's parents this weekend and have always felt like they didn't completely approve of you. When you’ve seen them in the past, their behavior has brought up arguments between you and your spouse. You remind yourself that it is only for a weekend, and you and your spouse can navigate it successfully. _Romantic Relationships_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

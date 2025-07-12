@@ -1,0 +1,14 @@
+{
+    "header_text": "You are about to give a presentation to your supervisor and coworkers. The material in the presentation has come from the research you have done in your job. During the presentation, you feel that your supervisor and coworkers will think you seem smart.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are about to give a presentation to your supervisor and coworkers. The material in the presentation has come from the research you have done in your job. During the presentation, you feel that your supervisor and coworkers will think you seem smart."
+        },
+        {
+            "type": "Media",
+            "url": "./images/5.jpg"
+        }
+    ]
+}

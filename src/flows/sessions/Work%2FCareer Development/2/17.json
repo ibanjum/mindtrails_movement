@@ -1,0 +1,23 @@
+{
+    "header_text": "You are the third and final candidate to be interviewed for a job. The interview panel greets you as you walk into the conference room. When you sit down, you feel your cheeks burning red, and you start to shake. The panel probably sees you as nervous.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are the third and final candidate to be interviewed for a job. The interview panel greets you as you walk into the conference room. When you sit down, you feel your cheeks burning red, and you start to shake. The panel probably sees you as..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You are the third and final candidate to be interviewed for a job. The interview panel greets you as you walk into the conference room. When you sit down, you feel your cheeks burning red, and you start to shake. The panel probably sees you as nervous._Work/Career Development_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "nervous"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

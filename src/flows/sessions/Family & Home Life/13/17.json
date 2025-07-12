@@ -1,0 +1,14 @@
+{
+    "header_text": "You usually lead the scoreboard during your family's weekly game night. You notice that you've been scoring less points over time. You figure your children must be getting better, and that makes you feel great.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You usually lead the scoreboard during your family's weekly game night. You notice that you've been scoring less points over time. You figure your children must be getting better, and that makes you feel great."
+        },
+        {
+            "type": "Media",
+            "url": "./images/202.jpg"
+        }
+    ]
+}

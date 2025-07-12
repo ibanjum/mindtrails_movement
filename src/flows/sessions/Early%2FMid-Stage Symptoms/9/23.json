@@ -1,0 +1,27 @@
+{
+    "header_text": "While you're in a shopping mall, your chorea is worse than usual while trying on clothes. You wonder whether to call your doctor but worry they will think you are overreacting. You decide to call and make an appointment while feeling nervous.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Did you feel better after making the appointment?"
+        },
+        {
+            "type": "Buttons",
+            "name": "While you're in a shopping mall, your chorea is worse than usual while trying on clothes. You wonder whether to call your doctor but worry they will think you are overreacting. You decide to call and make an appointment while feeling nervous._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

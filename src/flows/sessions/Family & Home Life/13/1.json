@@ -1,0 +1,14 @@
+{
+    "header_text": "You have an awards ceremony today, and both your kids are attending. They sometimes have trouble getting along. They bicker during the event, but you are able to concentrate on your duties.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have an awards ceremony today, and both your kids are attending. They sometimes have trouble getting along. They bicker during the event, but you are able to concentrate on your duties."
+        },
+        {
+            "type": "Media",
+            "url": "./images/127.jpg"
+        }
+    ]
+}

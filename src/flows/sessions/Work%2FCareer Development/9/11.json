@@ -1,0 +1,14 @@
+{
+    "header_text": "A new office initiative started by you and a few other coworkers was rejected by your boss and you have to tell the news to the others. They don't say anything when you tell them. They are probably feeling disappointed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A new office initiative started by you and a few other coworkers was rejected by your boss and you have to tell the news to the others. They don't say anything when you tell them. They are probably feeling disappointed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/70.jpg"
+        }
+    ]
+}

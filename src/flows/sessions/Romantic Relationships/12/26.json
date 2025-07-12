@@ -1,0 +1,14 @@
+{
+    "header_text": "You are making a romantic dinner with your partner, and you want to make your family's macaroni casserole to bring. You have the recipe your parents gave you, but you worry you don't have the cooking skills to pull off the dish.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are making a romantic dinner with your partner, and you want to make your family's macaroni casserole to bring. You have the recipe your parents gave you, but you worry you don't have the cooking skills to pull off the dish."
+        },
+        {
+            "type": "Media",
+            "url": "./images/574.jpg"
+        }
+    ]
+}

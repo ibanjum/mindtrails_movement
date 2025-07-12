@@ -1,0 +1,14 @@
+{
+    "header_text": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be okay. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be okay. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/158.jpg"
+        }
+    ]
+}

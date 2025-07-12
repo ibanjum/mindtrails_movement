@@ -1,0 +1,27 @@
+{
+    "header_text": "You notice your home is not like your peers' homes. A good friend of yours has never been to your place, but wants to come over for dinner one night. You think about their reaction to your home and that they will be respectful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will your friends judge your home?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You notice your home is not like your peers' homes. A good friend of yours has never been to your place, but wants to come over for dinner one night. You think about their reaction to your home and that they will be respectful._Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

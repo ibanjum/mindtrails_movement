@@ -1,0 +1,27 @@
+{
+    "header_text": "Your boss has hired a few interns for the summer. Your boss asks you to stay after work to give them a brief presentation about the university's goals and values but tells you that this is completely optional. You feel a little nervous about giving the presentation, and you decide to stay.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you stay to give the optional presentation?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your boss has hired a few interns for the summer. Your boss asks you to stay after work to give them a brief presentation about the university's goals and values but tells you that this is completely optional. You feel a little nervous about giving the presentation, and you decide to stay._Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at the grocery store restocking food for the week. When you go to give cash to the cashier, all of your change falls to the floor. You look to the people behind you in line, and they offer to help.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at the grocery store restocking food for the week. When you go to give cash to the cashier, all of your change falls to the floor. You look to the people behind you in line, and they offer to help."
+        },
+        {
+            "type": "Media",
+            "url": "./images/787.jpg"
+        }
+    ]
+}

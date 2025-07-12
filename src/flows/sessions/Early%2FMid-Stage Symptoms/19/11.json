@@ -1,0 +1,14 @@
+{
+    "header_text": "You are working on some house projects. You've been moving slower lately, so you are struggling to get the work done as quickly as you'd like. You begin to feel anxious about not being able to finish the projects. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are working on some house projects. You've been moving slower lately, so you are struggling to get the work done as quickly as you'd like. You begin to feel anxious about not being able to finish the projects. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/832.jpg"
+        }
+    ]
+}

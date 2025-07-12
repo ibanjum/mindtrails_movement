@@ -1,0 +1,14 @@
+{
+    "header_text": "As your work builds up, you and your long-term partner have not been spending a lot of time together. When you do hang out, you and your partner seem distracted and tend to bicker. You think that this is just a rough patch, and your relationship will last. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "As your work builds up, you and your long-term partner have not been spending a lot of time together. When you do hang out, you and your partner seem distracted and tend to bicker. You think that this is just a rough patch, and your relationship will last. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/393.jpg"
+        }
+    ]
+}

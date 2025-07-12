@@ -1,0 +1,14 @@
+{
+    "header_text": "You meet up with your neighbor once a week to have lunch and catch up with each other. This week, due to your symptoms, you find your attention shifting and cannot remember everything they have said. When you ask the same question again, they feel like you are uninterested.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You meet up with your neighbor once a week to have lunch and catch up with each other. This week, due to your symptoms, you find your attention shifting and cannot remember everything they have said. When you ask the same question again, they feel like you are uninterested."
+        },
+        {
+            "type": "Media",
+            "url": "./images/872.jpg"
+        }
+    ]
+}

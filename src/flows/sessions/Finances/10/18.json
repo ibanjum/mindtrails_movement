@@ -1,0 +1,15 @@
+{
+    "header_text": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at work. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Thinking about your ability to make the payment, you don't expect to be late on your rent, and your funds will be..."
+        },
+        {
+            "type": "Entry",
+            "name": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at work. _Finances_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

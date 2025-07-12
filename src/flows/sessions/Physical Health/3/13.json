@@ -1,0 +1,27 @@
+{
+    "header_text": "You are at a sports game. The crowd is cheering loudly for your team, and your head is pounding. You feel thrilled.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you worried that the pounding in your head signifies something serious?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are at a sports game. The crowd is cheering loudly for your team, and your head is pounding. You feel thrilled._Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You have recently joined a local book club and think the other members are very cool. You would like to invite them over and host more often. Although, you worry about the tidiness of your home because lately you've been feeling really overwhelmed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have recently joined a local book club and think the other members are very cool. You would like to invite them over and host more often. Although, you worry about the tidiness of your home because lately you've been feeling really overwhelmed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/417.jpg"
+        }
+    ]
+}

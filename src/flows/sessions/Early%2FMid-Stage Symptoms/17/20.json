@@ -1,0 +1,27 @@
+{
+    "header_text": "Every Saturday morning you go to a bakery with your neighbor. Today as you browse around, you can't remember what pastries you wanted to buy. Your neighbor suggests your favorites, and you think that it is nice to feel known.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your neighbor's kindness makes you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Every Saturday morning you go to a bakery with your neighbor. Today as you browse around, you can't remember what pastries you wanted to buy. Your neighbor suggests your favorites, and you think that it is nice to feel known._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Valued",
+                "Ashamed"
+            ],
+            "columnCount": 1,
+            "correct_value": "Valued"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

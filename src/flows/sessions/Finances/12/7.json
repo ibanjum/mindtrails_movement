@@ -1,0 +1,14 @@
+{
+    "header_text": "You had to take some time off of work because you caught the flu. Although the break was important for your health, it also put a strain on your finances. When you think about your financial situation, you know you will be able to make up for the lost time.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You had to take some time off of work because you caught the flu. Although the break was important for your health, it also put a strain on your finances. When you think about your financial situation, you know you will be able to make up for the lost time."
+        },
+        {
+            "type": "Media",
+            "url": "./images/303.jpg"
+        }
+    ]
+}

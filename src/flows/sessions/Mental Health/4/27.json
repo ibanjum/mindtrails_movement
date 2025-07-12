@@ -1,0 +1,14 @@
+{
+    "header_text": "You are getting ready for a dinner out. You notice that you have a big pimple on your cheek. You feel beautiful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are getting ready for a dinner out. You notice that you have a big pimple on your cheek. You feel beautiful."
+        },
+        {
+            "type": "Media",
+            "url": "./images/350.jpg"
+        }
+    ]
+}

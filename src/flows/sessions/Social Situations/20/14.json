@@ -1,0 +1,15 @@
+{
+    "header_text": "You do not want to get on social media often. You have been pressured by several friends about getting on more. The thought of feeling left out makes you feel sad.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You think about getting on social media more, and still decide not to. You feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "You do not want to get on social media often. You have been pressured by several friends about getting on more. The thought of feeling left out makes you feel sad._Social Situations_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

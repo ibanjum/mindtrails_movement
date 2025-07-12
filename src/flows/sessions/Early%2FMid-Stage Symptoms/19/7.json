@@ -1,0 +1,27 @@
+{
+    "header_text": "Playing board games after dinner is a family tradition, and tonight you are playing a personal favorite. Your niece uses one of your signature moves, and you find yourself snapping at her. The room goes quiet as everyone thinks about their next move.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your family gets quiet because they are..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Playing board games after dinner is a family tradition, and tonight you are playing a personal favorite. Your niece uses one of your signature moves, and you find yourself snapping at her. The room goes quiet as everyone thinks about their next move._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Thinking about your outburst.",
+                "Thinking about the game."
+            ],
+            "columnCount": 1,
+            "correct_value": "Thinking about the game."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

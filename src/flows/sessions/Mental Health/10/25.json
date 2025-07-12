@@ -1,0 +1,27 @@
+{
+    "header_text": "As you're finishing an assignment at midnight, you realize you still have a couple of tasks left. You plan to wake up a little early to finish them. While you're setting your alarm and thinking about your plan, you feel confident.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you anxious about your plan to finish your tasks in the morning?"
+        },
+        {
+            "type": "Buttons",
+            "name": "As you're finishing an assignment at midnight, you realize you still have a couple of tasks left. You plan to wake up a little early to finish them. While you're setting your alarm and thinking about your plan, you feel confident._Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

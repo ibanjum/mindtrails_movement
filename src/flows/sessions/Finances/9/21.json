@@ -1,0 +1,15 @@
+{
+    "header_text": "You recently received a medical bill that was more than you were expecting. You will have to take a significant amount of money out of your savings account to pay for it. You worry about not having a lot of money left in your savings account after you pay for this bill.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You feel grateful that you've saved up money for an emergency like this, and you know that you'll be able to rebuild your savings account..."
+        },
+        {
+            "type": "Entry",
+            "name": "You recently received a medical bill that was more than you were expecting. You will have to take a significant amount of money out of your savings account to pay for it. You worry about not having a lot of money left in your savings account after you pay for this bill._Finances_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

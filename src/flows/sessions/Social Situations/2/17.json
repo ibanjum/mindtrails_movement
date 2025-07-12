@@ -1,0 +1,14 @@
+{
+    "header_text": "You are looking after a friend's child. The child asks to go to a park in a different neighborhood. In your opinion, an ordinary outing like this is safe.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are looking after a friend's child. The child asks to go to a park in a different neighborhood. In your opinion, an ordinary outing like this is safe."
+        },
+        {
+            "type": "Media",
+            "url": "./images/608.jpg"
+        }
+    ]
+}

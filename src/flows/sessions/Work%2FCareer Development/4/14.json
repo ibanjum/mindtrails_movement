@@ -1,0 +1,14 @@
+{
+    "header_text": "You are giving a presentation at work. During one of your slides, you lose your train of thought and have to take a moment to look over your notes. As you start again, you think that losing one's train of thought while presenting is normal.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are giving a presentation at work. During one of your slides, you lose your train of thought and have to take a moment to look over your notes. As you start again, you think that losing one's train of thought while presenting is normal."
+        },
+        {
+            "type": "Media",
+            "url": "./images/34.jpg"
+        }
+    ]
+}

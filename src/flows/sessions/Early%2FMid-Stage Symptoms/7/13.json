@@ -1,0 +1,27 @@
+{
+    "header_text": "You are in a book club, and you really enjoy getting to talk about your ideas with the other members. You are excited thinking about all the books you would like to discuss in the future, but wonder if your HD will affect your ability to participate like you do now. You know that even if your experience of the book club looks different in the future, there will still be ways to stay engaged.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will you still be able to have discussions with your book club?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are in a book club, and you really enjoy getting to talk about your ideas with the other members. You are excited thinking about all the books you would like to discuss in the future, but wonder if your HD will affect your ability to participate like you do now. You know that even if your experience of the book club looks different in the future, there will still be ways to stay engaged._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

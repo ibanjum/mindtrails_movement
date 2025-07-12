@@ -1,0 +1,15 @@
+{
+    "header_text": "You are walking through the park, and you see an elderly couple walking hand in hand. You begin thinking about your own life and imagine yourself at their age. When you think about yourself as an older person, you imagine yourself being alone.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are walking through the park, and you see an elderly couple walking hand in hand. You begin thinking about your own life and imagine yourself at their age. When you think about yourself as an older person, you imagine yourself being..."
+        },
+        {
+            "type": "Entry",
+            "name": "You are walking through the park, and you see an elderly couple walking hand in hand. You begin thinking about your own life and imagine yourself at their age. When you think about yourself as an older person, you imagine yourself being alone._Romantic Relationships_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

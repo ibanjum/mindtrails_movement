@@ -1,0 +1,14 @@
+{
+    "header_text": "You recently started a new job. As you've been working, it seems like everyone around you knows what they're doing, but you're still confused. You think this is because you're still learning, and you'll catch on soon. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You recently started a new job. As you've been working, it seems like everyone around you knows what they're doing, but you're still confused. You think this is because you're still learning, and you'll catch on soon. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/110.jpg"
+        }
+    ]
+}

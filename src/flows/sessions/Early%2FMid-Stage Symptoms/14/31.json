@@ -1,0 +1,14 @@
+{
+    "header_text": "You're looking through clothes at a store and decide to try on a sweater right off the rack. You're having a difficult time getting the sweater on and start to worry that someone will notice how uncoordinated you are. As you glance around, you see that others are focused on their shopping.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're looking through clothes at a store and decide to try on a sweater right off the rack. You're having a difficult time getting the sweater on and start to worry that someone will notice how uncoordinated you are. As you glance around, you see that others are focused on their shopping."
+        },
+        {
+            "type": "Media",
+            "url": "./images/817.jpg"
+        }
+    ]
+}

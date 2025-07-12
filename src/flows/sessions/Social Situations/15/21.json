@@ -1,0 +1,14 @@
+{
+    "header_text": "You recently downloaded a social media app. When you look at your score compared to other people you know, you notice that yours is really low. You realize you don't use the app as much as others, and this makes you feel unbothered.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You recently downloaded a social media app. When you look at your score compared to other people you know, you notice that yours is really low. You realize you don't use the app as much as others, and this makes you feel unbothered."
+        },
+        {
+            "type": "Media",
+            "url": "./images/672.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are known for being extroverted, some of your friends even call you \"the life of the party.\" Recently, the thought of going out in public makes your heart race and palms sweat. When a friend calls you to invite you to dinner, the first thing you do is breathe. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are known for being extroverted, some of your friends even call you \"the life of the party.\" Recently, the thought of going out in public makes your heart race and palms sweat. When a friend calls you to invite you to dinner, the first thing you do is breathe. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/756.jpg"
+        }
+    ]
+}

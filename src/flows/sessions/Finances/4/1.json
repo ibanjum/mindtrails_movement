@@ -1,0 +1,14 @@
+{
+    "header_text": "You recently made a purchase on your credit card. It was a big expense, and you wonder if you will max out your credit limit this month. You think that the rest of your expenses will be manageable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You recently made a purchase on your credit card. It was a big expense, and you wonder if you will max out your credit limit this month. You think that the rest of your expenses will be manageable. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/261.jpg"
+        }
+    ]
+}

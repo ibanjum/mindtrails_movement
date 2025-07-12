@@ -1,0 +1,14 @@
+{
+    "header_text": "You arrive at a dinner party and quickly realize that there are a lot of people you do not know there. You feel anxious and consider going home. Looking around the room, you decide to stay.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You arrive at a dinner party and quickly realize that there are a lot of people you do not know there. You feel anxious and consider going home. Looking around the room, you decide to stay."
+        },
+        {
+            "type": "Media",
+            "url": "./images/124.jpg"
+        }
+    ]
+}

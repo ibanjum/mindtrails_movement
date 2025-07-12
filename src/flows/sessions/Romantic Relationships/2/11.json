@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been good friends with someone for a few years, and really value your relationship. You are very attracted to your friend, but are unsure how admitting your feelings would affect your friendship. If you were to ask your friend on a date you think your friend would find it weird",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been good friends with someone for a few years, and really value your relationship. You are very attracted to your friend, but are unsure how admitting your feelings would affect your friendship. If you were to ask your friend on a date you think your friend would find it weird"
+        },
+        {
+            "type": "Media",
+            "url": "./images/533.jpg"
+        }
+    ]
+}

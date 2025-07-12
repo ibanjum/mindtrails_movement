@@ -1,0 +1,14 @@
+{
+    "header_text": "Your child wants to go trick-or-treating, and they begged you to dress up with them. You wear a costume and run into some people from work who aren't dressed up. They think your costume is awesome.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your child wants to go trick-or-treating, and they begged you to dress up with them. You wear a costume and run into some people from work who aren't dressed up. They think your costume is awesome."
+        },
+        {
+            "type": "Media",
+            "url": "./images/669.jpg"
+        }
+    ]
+}

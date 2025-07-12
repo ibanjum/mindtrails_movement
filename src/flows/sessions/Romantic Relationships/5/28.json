@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been dating your significant other for a couple months. You start to feel like they might not be as into you as you are into them. You know that this is likely not the case.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been dating your significant other for a couple months. You start to feel like they might not be as into you as you are into them. You know that this is likely not the case."
+        },
+        {
+            "type": "Media",
+            "url": "./images/547.jpg"
+        }
+    ]
+}

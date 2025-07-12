@@ -1,0 +1,14 @@
+{
+    "header_text": "You and your spouse recently divorced. Your child is having an event at school tonight, and it will be the first time you and your ex-spouse are attending as single people. You think that you will treat each other cordially. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You and your spouse recently divorced. Your child is having an event at school tonight, and it will be the first time you and your ex-spouse are attending as single people. You think that you will treat each other cordially. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/193.jpg"
+        }
+    ]
+}

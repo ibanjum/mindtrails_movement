@@ -1,0 +1,14 @@
+{
+    "header_text": "You see an old friend you haven't spoken to in years. Your heart skips a beat. You feel excited.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You see an old friend you haven't spoken to in years. Your heart skips a beat. You feel excited."
+        },
+        {
+            "type": "Media",
+            "url": "./images/493.jpg"
+        }
+    ]
+}

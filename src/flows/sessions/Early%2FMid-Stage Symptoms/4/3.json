@@ -1,0 +1,27 @@
+{
+    "header_text": "You and your significant other had been doing fine financially, but your insurance plan recently changed and your treatments now cost more. Your significant other is being passive aggressive about your new financial situation, which makes you upset since the situation is out of your control. You remember that you can work together to find a solution.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You and your significant other will probably..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You and your significant other had been doing fine financially, but your insurance plan recently changed and your treatments now cost more. Your significant other is being passive aggressive about your new financial situation, which makes you upset since the situation is out of your control. You remember that you can work together to find a solution._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Feel resentful.",
+                "Have a good conversation."
+            ],
+            "columnCount": 1,
+            "correct_value": "Have a good conversation."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

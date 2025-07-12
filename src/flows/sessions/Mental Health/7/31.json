@@ -1,0 +1,23 @@
+{
+    "header_text": "Your friends are organizing a birthday party for you at their home. They invited a lot of people who will all be there for you. When you think about all of the people coming, you feel nervous.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remember they are all coming to celebrate you. This makes you feel..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Your friends are organizing a birthday party for you at their home. They invited a lot of people who will all be there for you. When you think about all of the people coming, you feel nervous._Mental Health_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "excited"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

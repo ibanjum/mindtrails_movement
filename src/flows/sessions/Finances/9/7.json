@@ -1,0 +1,15 @@
+{
+    "header_text": "You are planning on moving and have started looking at houses on the market. Your spouse finds a home that they love, but you think that it would really stretch your budget. You feel confident you’ll be able to come up with a solution that works for everyone. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are planning on moving and have started looking at houses on the market. Your spouse finds a home that they love, but you think that it would really stretch your budget. You feel confident you’ll be able to come up with a solution that works for... "
+        },
+        {
+            "type": "Entry",
+            "name": "You are planning on moving and have started looking at houses on the market. Your spouse finds a home that they love, but you think that it would really stretch your budget. You feel confident you’ll be able to come up with a solution that works for everyone. _Finances_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are bringing in the mail for your friend while they are away. On your way out of their home each day, you lock the front door and check the lock. Today, you can't remember if you checked the lock, but you think their home will probably be fine.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are bringing in the mail for your friend while they are away. On your way out of their home each day, you lock the front door and check the lock. Today, you can't remember if you checked the lock, but you think their home will probably be fine."
+        },
+        {
+            "type": "Media",
+            "url": "./images/164.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "You are at the department store to return a jacket. When you speak with a sales associate at the counter, they do not smile, and stare at you looking very annoyed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the end, you realize that the person at the counter was very stressed out because of a previous customer, and once they started helping you, they were very..."
+        },
+        {
+            "type": "Entry",
+            "name": "You are at the department store to return a jacket. When you speak with a sales associate at the counter, they do not smile, and stare at you looking very annoyed._Social Situations_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

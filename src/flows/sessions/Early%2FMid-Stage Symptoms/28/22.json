@@ -1,0 +1,14 @@
+{
+    "header_text": "You're at at your monthly book club meeting. Your friends keep asking you to repeat yourself, which makes you feel irritated and unsettled. You practice breathing exercises that help you regulate your emotions and end up having a good time.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're at at your monthly book club meeting. Your friends keep asking you to repeat yourself, which makes you feel irritated and unsettled. You practice breathing exercises that help you regulate your emotions and end up having a good time."
+        },
+        {
+            "type": "Media",
+            "url": "./images/425.jpg"
+        }
+    ]
+}

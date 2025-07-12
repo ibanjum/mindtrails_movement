@@ -1,0 +1,27 @@
+{
+    "header_text": "You're going on a long car ride with your family to visit family in another part of the state. After an hour, you notice your phone battery is almost dead and you don't have a charger. You think about the rest of the car ride and feel like you will be miserable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will the car ride be ok without your phone?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You're going on a long car ride with your family to visit family in another part of the state. After an hour, you notice your phone battery is almost dead and you don't have a charger. You think about the rest of the car ride and feel like you will be miserable._Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

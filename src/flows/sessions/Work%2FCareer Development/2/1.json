@@ -1,0 +1,14 @@
+{
+    "header_text": "You have almost completed an important project. Part of your evaluation is determined by your coworkers. You know most of them well and feel that their opinions of you will make them evaluate you favorably.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have almost completed an important project. Part of your evaluation is determined by your coworkers. You know most of them well and feel that their opinions of you will make them evaluate you favorably."
+        },
+        {
+            "type": "Media",
+            "url": "./images/11.jpg"
+        }
+    ]
+}

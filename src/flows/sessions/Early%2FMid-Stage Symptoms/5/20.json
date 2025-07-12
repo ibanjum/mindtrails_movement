@@ -1,0 +1,23 @@
+{
+    "header_text": "You have a lot to do tomorrow and decide to go to bed early. In the middle of the night you wake up and find it difficult to go back to sleep. You spend hours trying to go back to sleep but can't, leaving you feeling very frustrated.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "In the morning, you decide to cancel your earliest appointment so that you can get more sleep. You wake up after a nap feeling a bit more..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You have a lot to do tomorrow and decide to go to bed early. In the middle of the night you wake up and find it difficult to go back to sleep. You spend hours trying to go back to sleep but can't, leaving you feeling very frustrated._Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "refreshed"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

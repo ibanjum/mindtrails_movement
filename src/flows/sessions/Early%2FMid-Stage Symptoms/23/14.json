@@ -1,0 +1,14 @@
+{
+    "header_text": "In the past, you liked to cook to relieve stress. Lately, making recipes and cleaning up seems like a hassle because you're more unsteady than usual. You wonder if you should spend less time in the kitchen because afterwards you feel more stressed. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "In the past, you liked to cook to relieve stress. Lately, making recipes and cleaning up seems like a hassle because you're more unsteady than usual. You wonder if you should spend less time in the kitchen because afterwards you feel more stressed. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/247.jpg"
+        }
+    ]
+}

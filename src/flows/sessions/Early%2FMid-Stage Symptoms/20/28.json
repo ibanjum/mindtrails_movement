@@ -1,0 +1,27 @@
+{
+    "header_text": "You are at the store getting groceries. You are having trouble picking things up off the shelf, and you accidentally drop something. A worker has to come clean up the mess, and you feel embarrassed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Receiving reassurance from the worker makes you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are at the store getting groceries. You are having trouble picking things up off the shelf, and you accidentally drop something. A worker has to come clean up the mess, and you feel embarrassed._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Ashamed.",
+                "Comforted."
+            ],
+            "columnCount": 1,
+            "correct_value": "Comforted."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You just moved to a new house. It's dark out and you suddenly hear noises outside. You peek out the window and see a cat.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You just moved to a new house. It's dark out and you suddenly hear noises outside. You peek out the window and see a cat."
+        },
+        {
+            "type": "Media",
+            "url": "./images/139.jpg"
+        }
+    ]
+}

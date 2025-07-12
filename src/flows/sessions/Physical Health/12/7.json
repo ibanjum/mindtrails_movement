@@ -1,0 +1,14 @@
+{
+    "header_text": "A few days after attending a birthday party with lots of people, you notice that your throat hurts. You go to the doctor to take a test and find out that you have strep throat. You think about how your health will be affected and think that you will be able to handle the challenges as they come.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A few days after attending a birthday party with lots of people, you notice that your throat hurts. You go to the doctor to take a test and find out that you have strep throat. You think about how your health will be affected and think that you will be able to handle the challenges as they come."
+        },
+        {
+            "type": "Media",
+            "url": "./images/496.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You and your partner have been dating long-distance for awhile and you're going to be living in the same place in just a few months. You’ve never lived in the same place before, and you’re not quite sure how this change could impact your relationship. Even though you feel a bit nervous, you know that this is normal. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You and your partner have been dating long-distance for awhile and you're going to be living in the same place in just a few months. You’ve never lived in the same place before, and you’re not quite sure how this change could impact your relationship. Even though you feel a bit nervous, you know that this is normal. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/381.jpg"
+        }
+    ]
+}

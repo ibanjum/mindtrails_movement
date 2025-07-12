@@ -1,0 +1,14 @@
+{
+    "header_text": "You are waiting for your order at a bakery. As you walk over to pick up your baked goods, you fear you might clumsily drop them in front of everyone. You remind yourself that the to-go bag includes handles, so you will likely keep the bag safe.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are waiting for your order at a bakery. As you walk over to pick up your baked goods, you fear you might clumsily drop them in front of everyone. You remind yourself that the to-go bag includes handles, so you will likely keep the bag safe."
+        },
+        {
+            "type": "Media",
+            "url": "./images/751.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "At an event, you spot an old friend not far away and call out to them. They do not reply to you. You decide that this is because they are distracted.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your friend probably did not reply to you because..."
+        },
+        {
+            "type": "Buttons",
+            "name": "At an event, you spot an old friend not far away and call out to them. They do not reply to you. You decide that this is because they are distracted._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "They do not like you",
+                "They did not see you call out to them"
+            ],
+            "columnCount": 1,
+            "correct_value": "They did not see you call out to them"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

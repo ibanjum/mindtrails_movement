@@ -1,0 +1,14 @@
+{
+    "header_text": "You recently saw on the news that the economy has been particularly bad. Even though your boss typically gives you good reviews, you wonder whether your job is safe. You think you will likely be fine.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You recently saw on the news that the economy has been particularly bad. Even though your boss typically gives you good reviews, you wonder whether your job is safe. You think you will likely be fine."
+        },
+        {
+            "type": "Media",
+            "url": "./images/31.jpg"
+        }
+    ]
+}

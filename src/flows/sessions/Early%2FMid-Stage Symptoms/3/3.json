@@ -1,0 +1,27 @@
+{
+    "header_text": "You are talking with a close friend and have gotten lost in the conversation a couple of times. You ask them to repeat something they said earlier, and you are concerned that they might become annoyed. As you both continue the conversation, you know your friend is aware of your diagnosis and is understanding.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your conversation will be..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are talking with a close friend and have gotten lost in the conversation a couple of times. You ask them to repeat something they said earlier, and you are concerned that they might become annoyed. As you both continue the conversation, you know your friend is aware of your diagnosis and is understanding._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Disagreeable",
+                "Enjoyable"
+            ],
+            "columnCount": 1,
+            "correct_value": "Enjoyable"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

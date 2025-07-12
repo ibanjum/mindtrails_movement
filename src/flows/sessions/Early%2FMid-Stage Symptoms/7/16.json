@@ -1,0 +1,27 @@
+{
+    "header_text": "You are at your workplace, and a colleague asks you to perform a task that you have completed countless times before. Today, you struggle to recall the steps needed to complete the task, and your colleague starts to look concerned. Regardless of what they think, you do not question your own competence.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "If you fail to recall the steps needed to complete the task, you will..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are at your workplace, and a colleague asks you to perform a task that you have completed countless times before. Today, you struggle to recall the steps needed to complete the task, and your colleague starts to look concerned. Regardless of what they think, you do not question your own competence._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Be judged by your colleagues",
+                "Still be able to do your job"
+            ],
+            "columnCount": 1,
+            "correct_value": "Still be able to do your job"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

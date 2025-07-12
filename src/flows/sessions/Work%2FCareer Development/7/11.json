@@ -1,0 +1,14 @@
+{
+    "header_text": "You are proposing a new idea in a meeting today. You only have an hour before the meeting and you don't know where to start. When you think about your ability to complete the proposal, you feel doubtful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are proposing a new idea in a meeting today. You only have an hour before the meeting and you don't know where to start. When you think about your ability to complete the proposal, you feel doubtful."
+        },
+        {
+            "type": "Media",
+            "url": "./images/51.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You started a new house project and are painting a room. As you complete this first wall, you notice the strokes are uneven. You consider giving up, but you decide to try a second coat.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You started a new house project and are painting a room. As you complete this first wall, you notice the strokes are uneven. You consider giving up, but you decide to try a second coat."
+        },
+        {
+            "type": "Media",
+            "url": "./images/233.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Today you are washing your car with your spouse's help. Your chorea causes you to spill the container of soap, making you feel defeated. Your spouse takes your hand and reminds you of their love.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Today you are washing your car with your spouse's help. Your chorea causes you to spill the container of soap, making you feel defeated. Your spouse takes your hand and reminds you of their love."
+        },
+        {
+            "type": "Media",
+            "url": "./images/595.jpg"
+        }
+    ]
+}

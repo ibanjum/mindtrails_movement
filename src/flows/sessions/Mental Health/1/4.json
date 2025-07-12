@@ -1,0 +1,14 @@
+{
+    "header_text": "You are traveling abroad with your best friend. You have a general idea of what you will do each day, but you didn't plan out every detail ahead of time. This uncertainty causes some anxiety that is tolerable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are traveling abroad with your best friend. You have a general idea of what you will do each day, but you didn't plan out every detail ahead of time. This uncertainty causes some anxiety that is tolerable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/325.jpg"
+        }
+    ]
+}

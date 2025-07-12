@@ -1,0 +1,27 @@
+{
+    "header_text": "When you call one of your kids, they seem upset, but you don't know what's wrong. They give you a short answer when you try to talk with them about it. You consider why they're mad and realize that it is not you.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are they upset with you?"
+        },
+        {
+            "type": "Buttons",
+            "name": "When you call one of your kids, they seem upset, but you don't know what's wrong. They give you a short answer when you try to talk with them about it. You consider why they're mad and realize that it is not you._Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You've been looking forward to your family reunion all year. As you give a toast at dinner, your speech is a bit slurred, and your family members' expressions are blank as they listen. They are probably concentrating. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "During your toast, your family members are..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You've been looking forward to your family reunion all year. As you give a toast at dinner, your speech is a bit slurred, and your family members' expressions are blank as they listen. They are probably concentrating. _Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Disappointed",
+                "Focused"
+            ],
+            "columnCount": 1,
+            "correct_value": "Focused"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

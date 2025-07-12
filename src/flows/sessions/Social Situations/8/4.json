@@ -1,0 +1,14 @@
+{
+    "header_text": "You decide to email your department promoting something important to you. Someone responds rudely because they misinterpreted what you wrote. You wonder what this person thinks about you, and feel worried.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You decide to email your department promoting something important to you. Someone responds rudely because they misinterpreted what you wrote. You wonder what this person thinks about you, and feel worried."
+        },
+        {
+            "type": "Media",
+            "url": "./images/73.jpg"
+        }
+    ]
+}

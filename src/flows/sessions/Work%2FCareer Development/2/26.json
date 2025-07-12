@@ -1,0 +1,14 @@
+{
+    "header_text": "You have started working on a new committee with other staff, and you are given a task that normally takes a few days, but you manage to finish it the same day. You show it to the rest of the committee, who find only one mistake in your work. As the meeting ends, you expect they think your work is commendable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have started working on a new committee with other staff, and you are given a task that normally takes a few days, but you manage to finish it the same day. You show it to the rest of the committee, who find only one mistake in your work. As the meeting ends, you expect they think your work is commendable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/18.jpg"
+        }
+    ]
+}

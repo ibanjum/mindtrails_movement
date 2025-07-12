@@ -1,0 +1,14 @@
+{
+    "header_text": "Your friends want to go out to celebrate one of their birthdays. They choose to eat at an expensive restaurant that is out of your price range. You feel like a bad friend because you can't afford to go.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your friends want to go out to celebrate one of their birthdays. They choose to eat at an expensive restaurant that is out of your price range. You feel like a bad friend because you can't afford to go."
+        },
+        {
+            "type": "Media",
+            "url": "./images/281.jpg"
+        }
+    ]
+}

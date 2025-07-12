@@ -1,0 +1,14 @@
+{
+    "header_text": "You are planning your wedding with your fiancé. Planning your wedding has sometimes put stress on your relationship, and you both have had a few arguments during the process. Once the wedding is over, you think you and your future spouse will feel close again.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are planning your wedding with your fiancé. Planning your wedding has sometimes put stress on your relationship, and you both have had a few arguments during the process. Once the wedding is over, you think you and your future spouse will feel close again."
+        },
+        {
+            "type": "Media",
+            "url": "./images/225.jpg"
+        }
+    ]
+}

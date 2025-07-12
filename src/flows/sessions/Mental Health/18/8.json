@@ -1,0 +1,14 @@
+{
+    "header_text": "Your therapist recommends starting meditation to help manage your anxiety. At first, you struggle to quiet your mind and feel frustrated with the process. Over time, though, you notice that these moments of meditation bring you a sense of calm and clarity.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your therapist recommends starting meditation to help manage your anxiety. At first, you struggle to quiet your mind and feel frustrated with the process. Over time, though, you notice that these moments of meditation bring you a sense of calm and clarity."
+        },
+        {
+            "type": "Media",
+            "url": "./images/401.jpg"
+        }
+    ]
+}

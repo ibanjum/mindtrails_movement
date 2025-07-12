@@ -1,0 +1,14 @@
+{
+    "header_text": "It's the beginning of the month, and you are getting organized to pay your bills. You're concerned because what was once an easy process is now confusing and challenging for you. You ask a family member to help and think they will probably be eager.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "It's the beginning of the month, and you are getting organized to pay your bills. You're concerned because what was once an easy process is now confusing and challenging for you. You ask a family member to help and think they will probably be eager."
+        },
+        {
+            "type": "Media",
+            "url": "./images/323.jpg"
+        }
+    ]
+}

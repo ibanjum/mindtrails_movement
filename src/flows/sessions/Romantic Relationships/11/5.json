@@ -1,0 +1,25 @@
+{
+    "header_text": "No response: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You've been texting with someone you really like and they're usually quick to respond. You notice that they saw your message a couple of hours ago and did not respond. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "text": [
+                "I am a nice person to talk to.",
+                "They're just busy.",
+                "They may think I'm boring, but no one is interesting all the time.",
+                "They may not be interested in me romantically, but I can move on to someone else.",
+                "They must not like me."
+            ],
+            "Duration": 15
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

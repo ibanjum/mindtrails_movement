@@ -1,0 +1,14 @@
+{
+    "header_text": "You are in the car running some errands, and your spouse misses a turn. You are angry about the mistake and wish that you were the one driving. Your spouse looks at you and asks if you will please navigate.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are in the car running some errands, and your spouse misses a turn. You are angry about the mistake and wish that you were the one driving. Your spouse looks at you and asks if you will please navigate."
+        },
+        {
+            "type": "Media",
+            "url": "./images/874.jpg"
+        }
+    ]
+}

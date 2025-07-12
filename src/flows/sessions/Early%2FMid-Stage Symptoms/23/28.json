@@ -1,0 +1,23 @@
+{
+    "header_text": "You are having breakfast with a new friend. You have some chorea in your arms, and you notice your friend looking at you as you take a bite. You remember you've already shared about your HD and the new friend showed great empathy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are having breakfast with a new friend. You have a tremor in your hand, and you notice your friend looking at you as you take a bite. You remember you've already shared about your PD and the new friend showed great..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You are having breakfast with a new friend. You have some chorea in your arms, and you notice your friend looking at you as you take a bite. You remember you've already shared about your HD and the new friend showed great empathy._Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "empathy"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

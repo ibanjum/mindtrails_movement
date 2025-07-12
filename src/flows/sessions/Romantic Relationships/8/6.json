@@ -1,0 +1,14 @@
+{
+    "header_text": "You're currently single, and have been going on dates to try and find the one. Sometimes, it feels hard to really connect with people and get to know them on a deeper level. When you think about getting married in the future, you feel excited.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're currently single, and have been going on dates to try and find the one. Sometimes, it feels hard to really connect with people and get to know them on a deeper level. When you think about getting married in the future, you feel excited."
+        },
+        {
+            "type": "Media",
+            "url": "./images/557.jpg"
+        }
+    ]
+}

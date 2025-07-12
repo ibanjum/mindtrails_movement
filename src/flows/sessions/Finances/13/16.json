@@ -1,0 +1,27 @@
+{
+    "header_text": "You want to buy your partner something nice because they've been working hard. You have some money saved but realize you are short on your bills. You might not be able to buy your partner something, making you feel defeated. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will you be able to spend this money on your partner?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You want to buy your partner something nice because they've been working hard. You have some money saved but realize you are short on your bills. You might not be able to buy your partner something, making you feel defeated. _Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

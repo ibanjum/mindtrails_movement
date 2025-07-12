@@ -1,0 +1,14 @@
+{
+    "header_text": "Your friend enjoys ice skating and persuades you to try it out. At the rink, you put on the skates and step on the ice. You glide forward slowly at first, then faster as you think your chances of getting injured are minimal.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your friend enjoys ice skating and persuades you to try it out. At the rink, you put on the skates and step on the ice. You glide forward slowly at first, then faster as you think your chances of getting injured are minimal."
+        },
+        {
+            "type": "Media",
+            "url": "./images/462.jpg"
+        }
+    ]
+}

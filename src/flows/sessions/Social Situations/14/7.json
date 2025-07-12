@@ -1,0 +1,14 @@
+{
+    "header_text": "You work in a large office with your supervisors. One morning you have to call your father and discuss an important matter. Everyone else is working quietly, and several colleagues look up and seem annoyed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You work in a large office with your supervisors. One morning you have to call your father and discuss an important matter. Everyone else is working quietly, and several colleagues look up and seem annoyed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/667.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You love to cook for your family. Lately, your symptoms have made it more difficult to make your favorite meals. Whether or not you can continue filling this role for your family, you know that dinner time together will be enjoyable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You love to cook for your family. Lately, your symptoms have made it more difficult to make your favorite meals. Whether or not you can continue filling this role for your family, you know that dinner time together will be enjoyable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/731.jpg"
+        }
+    ]
+}

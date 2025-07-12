@@ -1,0 +1,27 @@
+{
+    "header_text": "You have recently been sleeping very poorly which has been affecting your mood during the day. You have been in a bad mood the whole day and worry that your spouse will be offended and frustrated with you. You realize that your spouse knows you have been sleeping poorly and will be compassionate.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your spouse will be..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You have recently been sleeping very poorly which has been affecting your mood during the day. You have been in a bad mood the whole day and worry that your spouse will be offended and frustrated with you. You realize that your spouse knows you have been sleeping poorly and will be compassionate._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Compassionate towards you.",
+                "Be frustrated with your mood."
+            ],
+            "columnCount": 1,
+            "correct_value": "Compassionate towards you."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

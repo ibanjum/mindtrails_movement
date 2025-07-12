@@ -1,0 +1,14 @@
+{
+    "header_text": "You spend an evening with a friend and end up talking about their relationship problems. As you give them some advice, you notice they are quiet. Once you get home later, you reflect on the evening and think that they found your advice helpful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You spend an evening with a friend and end up talking about their relationship problems. As you give them some advice, you notice they are quiet. Once you get home later, you reflect on the evening and think that they found your advice helpful."
+        },
+        {
+            "type": "Media",
+            "url": "./images/531.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "Your sibling is in a tight spot and is asking for money. You really want to help them, but you are dealing with your own financial challenges as you need to put your money toward rent. Thinking about the other types of support you can offer your sibling, you think they will be grateful. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Can you help your sibling even if you can't offer them money right now? "
+        },
+        {
+            "type": "Buttons",
+            "name": "Your sibling is in a tight spot and is asking for money. You really want to help them, but you are dealing with your own financial challenges as you need to put your money toward rent. Thinking about the other types of support you can offer your sibling, you think they will be grateful. _Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

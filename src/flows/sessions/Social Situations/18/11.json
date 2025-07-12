@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at a party with your partner, and they are intoxicated. When you ask them if they'd like to go home, they say no and walk away from you. You think that they are having fun, so you decide to keep calm. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at a party with your partner, and they are intoxicated. When you ask them if they'd like to go home, they say no and walk away from you. You think that they are having fun, so you decide to keep calm. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/124.jpg"
+        }
+    ]
+}

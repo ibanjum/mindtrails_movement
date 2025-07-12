@@ -1,0 +1,14 @@
+{
+    "header_text": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in moderation.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in moderation."
+        },
+        {
+            "type": "Media",
+            "url": "./images/420.jpg"
+        }
+    ]
+}

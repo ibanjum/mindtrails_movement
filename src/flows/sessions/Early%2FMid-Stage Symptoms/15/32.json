@@ -1,0 +1,27 @@
+{
+    "header_text": "You've always been the life of the party. Lately, you've noticed that you're becoming more withdrawn in social situations, and decide to confide in your closest friends about your struggles. They offer unwavering support and understanding, making you feel accepted.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your friends' support makes you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You've always been the life of the party. Lately, you've noticed that you're becoming more withdrawn in social situations, and decide to confide in your closest friends about your struggles. They offer unwavering support and understanding, making you feel accepted._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Understood.",
+                "Unwanted."
+            ],
+            "columnCount": 1,
+            "correct_value": "Understood."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You're sitting on a bench outside enjoying the fresh air when you notice that your arms are moving. Just then, you hear someone call your name and look up to see your neighbors walking by. You wonder if they've noticed your movements as well, but remember it is normal for people with your condition and won't take away from enjoying the moment.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're sitting on a bench outside enjoying the fresh air when you notice that your arms are moving. Just then, you hear someone call your name and look up to see your neighbors walking by. You wonder if they've noticed your movements as well, but remember it is normal for people with your condition and won't take away from enjoying the moment."
+        },
+        {
+            "type": "Media",
+            "url": "./images/729.jpg"
+        }
+    ]
+}

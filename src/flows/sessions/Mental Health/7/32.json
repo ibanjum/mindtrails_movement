@@ -1,0 +1,27 @@
+{
+    "header_text": "Your friends are organizing a birthday party for you at their home. They invited a lot of people who will all be there for you. When you think about all of the people coming, you feel nervous.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you excited about all the attention you will receive?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your friends are organizing a birthday party for you at their home. They invited a lot of people who will all be there for you. When you think about all of the people coming, you feel nervous._Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

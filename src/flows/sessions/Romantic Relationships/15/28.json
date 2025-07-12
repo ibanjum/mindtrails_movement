@@ -1,0 +1,14 @@
+{
+    "header_text": "You invite your friend over, and your partner is home. Your partner is pretty opinionated and may say something embarrassing to your friend. As you and your friend walk in, you are calm.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You invite your friend over, and your partner is home. Your partner is pretty opinionated and may say something embarrassing to your friend. As you and your friend walk in, you are calm."
+        },
+        {
+            "type": "Media",
+            "url": "./images/199.jpg"
+        }
+    ]
+}

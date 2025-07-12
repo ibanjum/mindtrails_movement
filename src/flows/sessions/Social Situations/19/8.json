@@ -1,0 +1,14 @@
+{
+    "header_text": "Your friends are planning a dinner for someone's birthday. You would have liked to have joined in, but your friends didn't include you. You feel insecure.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your friends are planning a dinner for someone's birthday. You would have liked to have joined in, but your friends didn't include you. You feel insecure."
+        },
+        {
+            "type": "Media",
+            "url": "./images/688.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "There's an important question that you've been wanting to ask your friend for a while, but you haven't. You picture yourself asking when you meet next. As you think about the question, you feel ready.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "There's an important question that you've been wanting to ask your friend for a while, but you haven't. You picture yourself asking when you meet next. As you think about the question, you feel ready."
+        },
+        {
+            "type": "Media",
+            "url": "./images/680.jpg"
+        }
+    ]
+}

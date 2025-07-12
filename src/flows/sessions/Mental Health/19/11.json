@@ -1,0 +1,15 @@
+{
+    "header_text": "You have just been given a job in an office that you really admire. To eventually receive the promotion you want, you know that you will have to work very hard for several years and the outcome is uncertain.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have just been given a job in an office that you really admire. To eventually receive the promotion you want, you know that you will have to work very hard for several years and the outcome is..."
+        },
+        {
+            "type": "Entry",
+            "name": "You have just been given a job in an office that you really admire. To eventually receive the promotion you want, you know that you will have to work very hard for several years and the outcome is uncertain._Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

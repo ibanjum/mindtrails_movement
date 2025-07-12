@@ -1,0 +1,14 @@
+{
+    "header_text": "You don't have stable internet access at home and you found out the job you're applying for is remote. You wonder how you'll be able to keep up with your work if you get the job. As you think about the situation, you feel stressed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You don't have stable internet access at home and you found out the job you're applying for is remote. You wonder how you'll be able to keep up with your work if you get the job. As you think about the situation, you feel stressed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/23.jpg"
+        }
+    ]
+}

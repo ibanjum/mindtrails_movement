@@ -1,0 +1,14 @@
+{
+    "header_text": "You are having breakfast with a new friend. You have some chorea in your arms, and you notice your friend looking at you as you take a bite. You remember you've already shared about your HD and the new friend showed great empathy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are having breakfast with a new friend. You have some chorea in your arms, and you notice your friend looking at you as you take a bite. You remember you've already shared about your HD and the new friend showed great empathy."
+        },
+        {
+            "type": "Media",
+            "url": "./images/854.jpg"
+        }
+    ]
+}

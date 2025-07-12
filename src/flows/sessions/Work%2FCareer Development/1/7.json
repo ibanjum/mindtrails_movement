@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at work and find out that an opportunity for promotion in your department just came up. You think you might be eligible and decide to ask your boss for more details. Your boss tells you that the selection criteria are very strict and that your application will likely be rejected.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at work and find out that an opportunity for promotion in your department just came up. You think you might be eligible and decide to ask your boss for more details. Your boss tells you that the selection criteria are very strict and that your application will likely be rejected."
+        },
+        {
+            "type": "Media",
+            "url": "./images/3.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You love to walk with friends as a form of quality time together. After struggling to keep up on a walk today, you begin to fear not being able to participate in the future. Your friends reassure you that they can slow the pace and are committed to your friendship. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You love to walk with friends as a form of quality time together. After struggling to keep up on a walk today, you begin to fear not being able to participate in the future. Your friends reassure you that they can slow the pace and are committed to your friendship. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/864.jpg"
+        }
+    ]
+}

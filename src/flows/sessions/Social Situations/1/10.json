@@ -1,0 +1,14 @@
+{
+    "header_text": "You are having a conversation with a coworker about a recent controversial story in the news. You voice your opinion on the matter, and your coworker looks surprised and strongly disagrees.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are having a conversation with a coworker about a recent controversial story in the news. You voice your opinion on the matter, and your coworker looks surprised and strongly disagrees."
+        },
+        {
+            "type": "Media",
+            "url": "./images/598.jpg"
+        }
+    ]
+}

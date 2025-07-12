@@ -1,0 +1,14 @@
+{
+    "header_text": "You didn't get to travel growing up due to your parents' financial strain. You always told yourself you would start traveling later in life, but your diagnosis of HD is giving you doubts. Despite the concern, you book your first flight, anticipating the opportunity to explore.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You didn't get to travel growing up due to your parents' financial strain. You always told yourself you would start traveling later in life, but your diagnosis of HD is giving you doubts. Despite the concern, you book your first flight, anticipating the opportunity to explore."
+        },
+        {
+            "type": "Media",
+            "url": "./images/782.jpg"
+        }
+    ]
+}

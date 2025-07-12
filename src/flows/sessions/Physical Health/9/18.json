@@ -1,0 +1,14 @@
+{
+    "header_text": "You have experienced a dry mouth for a few days. This is something you haven't felt before. The likelihood that dry mouth means a serious health problem is low.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have experienced a dry mouth for a few days. This is something you haven't felt before. The likelihood that dry mouth means a serious health problem is low."
+        },
+        {
+            "type": "Media",
+            "url": "./images/485.jpg"
+        }
+    ]
+}

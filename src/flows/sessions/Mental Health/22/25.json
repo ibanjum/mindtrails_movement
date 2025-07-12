@@ -1,0 +1,27 @@
+{
+    "header_text": "While attending a community meeting, you find it challenging to concentrate and keep up with the conversation. You worry you will be perceived as less capable. Instead of dwelling on this, you actively participate by asking clarifying questions and showing your enthusiasm.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "During the meeting you were able to.."
+        },
+        {
+            "type": "Buttons",
+            "name": "While attending a community meeting, you find it challenging to concentrate and keep up with the conversation. You worry you will be perceived as less capable. Instead of dwelling on this, you actively participate by asking clarifying questions and showing your enthusiasm._Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Focus",
+                "Give up"
+            ],
+            "columnCount": 1,
+            "correct_value": "Focus"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

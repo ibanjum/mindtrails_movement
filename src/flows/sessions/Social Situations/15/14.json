@@ -1,0 +1,14 @@
+{
+    "header_text": "You are giving a presentation at a meeting and accidentally skip a section so have to start again. You are embarrassed by the mistake and worry what the audience thought of you. The audience probably thinks your delivery after starting over was awkward.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are giving a presentation at a meeting and accidentally skip a section so have to start again. You are embarrassed by the mistake and worry what the audience thought of you. The audience probably thinks your delivery after starting over was awkward."
+        },
+        {
+            "type": "Media",
+            "url": "./images/108.jpg"
+        }
+    ]
+}

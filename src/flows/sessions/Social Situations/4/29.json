@@ -1,0 +1,27 @@
+{
+    "header_text": "At work, you are told you need to give a presentation to your coworkers. When it is time to present, you have a sip of water. As you begin to speak, you feel scared and decide to continue.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "The department members probably think..."
+        },
+        {
+            "type": "Buttons",
+            "name": "At work, you are told you need to give a presentation to your coworkers. When it is time to present, you have a sip of water. As you begin to speak, you feel scared and decide to continue._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You look very nervous during your presentation",
+                "You look calm and composed during your presentation"
+            ],
+            "columnCount": 1,
+            "correct_value": "You look calm and composed during your presentation"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

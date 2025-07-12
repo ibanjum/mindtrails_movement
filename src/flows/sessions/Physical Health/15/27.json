@@ -1,0 +1,14 @@
+{
+    "header_text": "At work you've noticed more difficulty typing. You decide to email your boss to ask to take time off to focus on your health. You see a reply pop up in your email after a while, and you feel scared. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "At work you've noticed more difficulty typing. You decide to email your boss to ask to take time off to focus on your health. You see a reply pop up in your email after a while, and you feel scared. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/517.jpg"
+        }
+    ]
+}

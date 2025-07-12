@@ -1,0 +1,14 @@
+{
+    "header_text": "You meet a new staff member in your work meeting, and they ask if you have Facebook. When you tell them that you don't have Facebook, they grow quiet. They could be brainstorming other ways to contact you, and this makes you feel happy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You meet a new staff member in your work meeting, and they ask if you have Facebook. When you tell them that you don't have Facebook, they grow quiet. They could be brainstorming other ways to contact you, and this makes you feel happy."
+        },
+        {
+            "type": "Media",
+            "url": "./images/421.jpg"
+        }
+    ]
+}

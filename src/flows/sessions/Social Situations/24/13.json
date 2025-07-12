@@ -1,0 +1,27 @@
+{
+    "header_text": "You and your best friend have known each other since college. You then worked in different fields and now have different interests, and you worry that you won't understand each other as you continue to get older. When you think about upcoming major life events, you expect your best friend to be supportive.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "When you think about upcoming events in your life"
+        },
+        {
+            "type": "Buttons",
+            "name": "You and your best friend have known each other since college. You then worked in different fields and now have different interests, and you worry that you won't understand each other as you continue to get older. When you think about upcoming major life events, you expect your best friend to be supportive._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You think your best friend will not empathize with your experiences.",
+                "You expect your best friend will try to understand what you're going through."
+            ],
+            "columnCount": 1,
+            "correct_value": "You expect your best friend will try to understand what you're going through."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

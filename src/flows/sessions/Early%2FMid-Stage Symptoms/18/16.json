@@ -1,0 +1,27 @@
+{
+    "header_text": "Today you are washing your car with your spouse's help. Your chorea causes you to spill the container of soap, making you feel defeated. Your spouse takes your hand and reminds you of their love.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your spouse's touch reminds you of their..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Today you are washing your car with your spouse's help. Your chorea causes you to spill the container of soap, making you feel defeated. Your spouse takes your hand and reminds you of their love._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Commitment",
+                "Negativity"
+            ],
+            "columnCount": 1,
+            "correct_value": "Commitment"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

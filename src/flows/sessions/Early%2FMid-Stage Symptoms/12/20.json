@@ -1,0 +1,14 @@
+{
+    "header_text": "You like to volunteer at your local animal shelter. Recently, you helped a rescue dog who liked to jump on people. With your balance challenges, being around the dog made you uneasy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You like to volunteer at your local animal shelter. Recently, you helped a rescue dog who liked to jump on people. With your balance challenges, being around the dog made you uneasy."
+        },
+        {
+            "type": "Media",
+            "url": "./images/520.jpg"
+        }
+    ]
+}

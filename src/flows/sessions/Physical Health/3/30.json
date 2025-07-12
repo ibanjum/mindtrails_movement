@@ -1,0 +1,14 @@
+{
+    "header_text": "While making dinner, you accidentally touch a very hot pan. You quickly put your finger under cold water and can already see your skin turning red. After a few minutes, you think the burn is minor.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "While making dinner, you accidentally touch a very hot pan. You quickly put your finger under cold water and can already see your skin turning red. After a few minutes, you think the burn is minor."
+        },
+        {
+            "type": "Media",
+            "url": "./images/450.jpg"
+        }
+    ]
+}

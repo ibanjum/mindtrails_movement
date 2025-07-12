@@ -1,0 +1,14 @@
+{
+    "header_text": "You are trying to think of a good joke to put in the next email you send out to your friend group. You find a really funny one on a website after doing a quick search, but this is the first time you're ending your emails with a joke. Your friends will think that it's funny.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are trying to think of a good joke to put in the next email you send out to your friend group. You find a really funny one on a website after doing a quick search, but this is the first time you're ending your emails with a joke. Your friends will think that it's funny."
+        },
+        {
+            "type": "Media",
+            "url": "./images/73.jpg"
+        }
+    ]
+}

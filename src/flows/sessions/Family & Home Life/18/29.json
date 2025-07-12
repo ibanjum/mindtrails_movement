@@ -1,0 +1,14 @@
+{
+    "header_text": "You are giving a speech at your cousin's graduation party. During the toast, you struggle to remember the exact words you wanted to say, and you notice two people beginning to whisper in the corner. You think they are probably talking about your cousin.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are giving a speech at your cousin's graduation party. During the toast, you struggle to remember the exact words you wanted to say, and you notice two people beginning to whisper in the corner. You think they are probably talking about your cousin."
+        },
+        {
+            "type": "Media",
+            "url": "./images/244.jpg"
+        }
+    ]
+}

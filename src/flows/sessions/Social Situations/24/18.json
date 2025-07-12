@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been living in a new city for a few months, and have been having some trouble making new friends. You have been very busy since your move, but you know it is important to establish good relationships here in your new home. As you think about life in your new city, you believe that you will make friends.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been living in a new city for a few months, and have been having some trouble making new friends. You have been very busy since your move, but you know it is important to establish good relationships here in your new home. As you think about life in your new city, you believe that you will make friends."
+        },
+        {
+            "type": "Media",
+            "url": "./images/709.jpg"
+        }
+    ]
+}

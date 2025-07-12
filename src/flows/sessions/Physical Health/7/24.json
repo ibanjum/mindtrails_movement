@@ -1,0 +1,14 @@
+{
+    "header_text": "It's a cool morning, and you're walking to get to your office. You start to feel really winded as you make it to the door. You take a second to breathe and feel calm.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "It's a cool morning, and you're walking to get to your office. You start to feel really winded as you make it to the door. You take a second to breathe and feel calm."
+        },
+        {
+            "type": "Media",
+            "url": "./images/470.jpg"
+        }
+    ]
+}

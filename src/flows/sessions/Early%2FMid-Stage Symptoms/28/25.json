@@ -1,0 +1,14 @@
+{
+    "header_text": "A new HD medication was just approved. While this makes you excited, today you're feeling anxious about how expensive your future health care is going to get. As you search the web for information about support resources, you begin to relax.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "A new HD medication was just approved. While this makes you excited, today you're feeling anxious about how expensive your future health care is going to get. As you search the web for information about support resources, you begin to relax."
+        },
+        {
+            "type": "Media",
+            "url": "./images/269.jpg"
+        }
+    ]
+}

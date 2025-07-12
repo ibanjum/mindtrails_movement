@@ -1,0 +1,14 @@
+{
+    "header_text": "You overhear a couple talking about their retirement savings. As you listen in, you start to worry that you haven't saved enough. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You overhear a couple talking about their retirement savings. As you listen in, you start to worry that you haven't saved enough. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/307.jpg"
+        }
+    ]
+}

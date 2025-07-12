@@ -1,0 +1,14 @@
+{
+    "header_text": "During a meeting today, you have a thought that you think is really insightful. You didn't get the chance to bring it up in the meeting, but you want to email your department head about it. When you send the email, you feel proud of yourself for sharing your thoughts.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "During a meeting today, you have a thought that you think is really insightful. You didn't get the chance to bring it up in the meeting, but you want to email your department head about it. When you send the email, you feel proud of yourself for sharing your thoughts."
+        },
+        {
+            "type": "Media",
+            "url": "./images/73.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Your supervisor asks you to write a report. The finished document is quite brief but took a lot of time and effort. Based on your writing, you expect your supervisor's opinion of you will be positive.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your supervisor asks you to write a report. The finished document is quite brief but took a lot of time and effort. Based on your writing, you expect your supervisor's opinion of you will be positive."
+        },
+        {
+            "type": "Media",
+            "url": "./images/8.jpg"
+        }
+    ]
+}

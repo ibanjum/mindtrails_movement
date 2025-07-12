@@ -1,0 +1,14 @@
+{
+    "header_text": "You're reviewing your monthly budget and notice that your expenses have been slightly higher than usual. As you prepare to pay the bills, you start to worry if you'll have enough left for your planned vacation next month. Considering things, you think you'll be able to cut down on some expenses, and you feel relieved. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're reviewing your monthly budget and notice that your expenses have been slightly higher than usual. As you prepare to pay the bills, you start to worry if you'll have enough left for your planned vacation next month. Considering things, you think you'll be able to cut down on some expenses, and you feel relieved. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/310.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You've recently been feeling overwhelmed with work, but you know that you need to get a second job to be in a more stable financial situation. While searching online for jobs, you saw an application for a job that sounds really fun for you. You think that working this second job will be manageable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you think you'll thrive with a second job?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You've recently been feeling overwhelmed with work, but you know that you need to get a second job to be in a more stable financial situation. While searching online for jobs, you saw an application for a job that sounds really fun for you. You think that working this second job will be manageable. _Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "It's a cold day, and you are outside walking. Your heart starts to beat quickly a few minutes in. You decide that this feeling is scary.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "It's a cold day, and you are outside walking. Your heart starts to beat quickly a few minutes in. You decide that this feeling is scary."
+        },
+        {
+            "type": "Media",
+            "url": "./images/501.jpg"
+        }
+    ]
+}

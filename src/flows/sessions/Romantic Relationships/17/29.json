@@ -1,0 +1,14 @@
+{
+    "header_text": "You are planting flowers in your garden with your spouse. Suddenly you drop the flowers, causing dirt to spill all over the sidewalk. You know that accidents happen and that your spouse will understand.  ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are planting flowers in your garden with your spouse. Suddenly you drop the flowers, causing dirt to spill all over the sidewalk. You know that accidents happen and that your spouse will understand.  "
+        },
+        {
+            "type": "Media",
+            "url": "./images/590.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You had a very busy day, and you are finally able to relax in the evening. As you sit on your couch, you feel spaced-out. You are calm.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You feel strange because..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You had a very busy day, and you are finally able to relax in the evening. As you sit on your couch, you feel spaced-out. You are calm._Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You are coming down with the flu",
+                "You only had one glass of water today"
+            ],
+            "columnCount": 1,
+            "correct_value": "You only had one glass of water today"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

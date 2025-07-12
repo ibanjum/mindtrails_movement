@@ -1,0 +1,14 @@
+{
+    "header_text": "It's time to decorate for the holidays, and you invite your family over. You suddenly forget where each decoration belongs when delegating tasks. Your family reminds you where all the decorations go and you savor the holiday cheer.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "It's time to decorate for the holidays, and you invite your family over. You suddenly forget where each decoration belongs when delegating tasks. Your family reminds you where all the decorations go and you savor the holiday cheer."
+        },
+        {
+            "type": "Media",
+            "url": "./images/241.jpg"
+        }
+    ]
+}

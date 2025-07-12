@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been asked out on a date for the first time in a while! You feel nervous about this somewhat new experience, and you worry you might do something embarrassing. When you think about the date, you feel excited.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been asked out on a date for the first time in a while! You feel nervous about this somewhat new experience, and you worry you might do something embarrassing. When you think about the date, you feel excited."
+        },
+        {
+            "type": "Media",
+            "url": "./images/569.jpg"
+        }
+    ]
+}

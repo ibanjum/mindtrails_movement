@@ -1,0 +1,14 @@
+{
+    "header_text": "Your friend invites you to a dinner party and after you leave, they casually mention that one of the people there had been sick. You can’t believe your friend wouldn’t tell you this before the party ended. You decide to talk to your friend about it, and they say they will communicate better.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your friend invites you to a dinner party and after you leave, they casually mention that one of the people there had been sick. You can’t believe your friend wouldn’t tell you this before the party ended. You decide to talk to your friend about it, and they say they will communicate better."
+        },
+        {
+            "type": "Media",
+            "url": "./images/498.jpg"
+        }
+    ]
+}

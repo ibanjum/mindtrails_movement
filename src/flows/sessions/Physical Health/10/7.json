@@ -1,0 +1,15 @@
+{
+    "header_text": "It's a chilly spring day, and you are walking outside in the park. As you pass by the trees, you feel increasingly stuffy and sore. You start feeling scared.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Looking around, you see all the pollen flying in the air. You realize that you usually get a stuffy nose with seasonal allergies and are probably tired from playing soccer for the last hour. You feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "It's a chilly spring day, and you are walking outside in the park. As you pass by the trees, you feel increasingly stuffy and sore. You start feeling scared._Physical Health_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

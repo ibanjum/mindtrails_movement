@@ -1,0 +1,14 @@
+{
+    "header_text": "You have experienced a toothache for a few days. This is something you haven't felt before. You go to the dentist, and they provide reassurance. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have experienced a toothache for a few days. This is something you haven't felt before. You go to the dentist, and they provide reassurance. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/369.jpg"
+        }
+    ]
+}

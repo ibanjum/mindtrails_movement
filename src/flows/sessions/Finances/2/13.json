@@ -1,0 +1,14 @@
+{
+    "header_text": "You hung out with some friends you haven't seen in a while, and you ended up on the topic of finances. While you thought your financial situation was stable, your friends start talking about the money they're putting away in savings for retirement. You've been using your money to pay for necessities, and haven't thought about starting to save.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You hung out with some friends you haven't seen in a while, and you ended up on the topic of finances. While you thought your financial situation was stable, your friends start talking about the money they're putting away in savings for retirement. You've been using your money to pay for necessities, and haven't thought about starting to save."
+        },
+        {
+            "type": "Media",
+            "url": "./images/260.jpg"
+        }
+    ]
+}

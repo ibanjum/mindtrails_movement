@@ -1,0 +1,14 @@
+{
+    "header_text": "It is a cousin's birthday next month, and you are attending a large family gathering. You are bringing your partner to the event, and it is the first time some of your family is meeting them. When you think about everyone meeting each other, you think that everything will go well.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "It is a cousin's birthday next month, and you are attending a large family gathering. You are bringing your partner to the event, and it is the first time some of your family is meeting them. When you think about everyone meeting each other, you think that everything will go well."
+        },
+        {
+            "type": "Media",
+            "url": "./images/183.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Friday night dinner parties with your neighbors are a highlight of your week. This week at dinner, you are having trouble reaching for the condiments in the center of the table. You ask your neighbors for help, knowing they are always quick to assist. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Friday night dinner parties with your neighbors are a highlight of your week. This week at dinner, you are having trouble reaching for the condiments in the center of the table. You ask your neighbors for help, knowing they are always quick to assist. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/853.jpg"
+        }
+    ]
+}

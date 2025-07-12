@@ -1,0 +1,14 @@
+{
+    "header_text": "Even though you normally excel at your job, you recently had a rough week at work. Specifically, you made a couple of mistakes on an important project. When you think about the future, you think it is likely that your job is secure.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Even though you normally excel at your job, you recently had a rough week at work. Specifically, you made a couple of mistakes on an important project. When you think about the future, you think it is likely that your job is secure."
+        },
+        {
+            "type": "Media",
+            "url": "./images/1.jpg"
+        }
+    ]
+}

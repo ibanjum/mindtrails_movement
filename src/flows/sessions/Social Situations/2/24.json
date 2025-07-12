@@ -1,0 +1,14 @@
+{
+    "header_text": "You have a minor disagreement with a coworker about the best way to complete a task, and you decide to ask your boss about it. When you talk to your boss, you momentarily forget what you were about to say. Your boss thinks you sound calm.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have a minor disagreement with a coworker about the best way to complete a task, and you decide to ask your boss about it. When you talk to your boss, you momentarily forget what you were about to say. Your boss thinks you sound calm."
+        },
+        {
+            "type": "Media",
+            "url": "./images/609.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "On a walk over the weekend, you noticed you were getting out of breath faster than usual. You remember that the flu causes shortness of breath, and you start to panic. Luckily, you know you've had your flu shot and have done everything you could to prevent the flu.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "On a walk over the weekend, you noticed you were getting out of breath faster than usual. You remember that the flu causes shortness of breath, and you start to panic. Luckily, you know you've had your flu shot and have done everything you could to prevent the flu."
+        },
+        {
+            "type": "Media",
+            "url": "./images/495.jpg"
+        }
+    ]
+}

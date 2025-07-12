@@ -1,0 +1,14 @@
+{
+    "header_text": "Your desk is cluttered, so you decide to organize it today. When everything is out of the desk, you can't remember where each item was originally placed. You do your best to place items back on the desk and in the end decide that it looks tidy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your desk is cluttered, so you decide to organize it today. When everything is out of the desk, you can't remember where each item was originally placed. You do your best to place items back on the desk and in the end decide that it looks tidy."
+        },
+        {
+            "type": "Media",
+            "url": "./images/845.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "Returning home on a very hot day, you quickly drink a large glass of water. You soon feel abnormally full and a bit sick to your stomach. This feeling is surprising and uncomfortable, but you realize that it is something you can simply observe.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Returning home on a very hot day, you quickly drink a large glass of water. You soon feel abnormally full and a bit sick to your stomach. This feeling is surprising and uncomfortable, but you realize that it is something you can simply..."
+        },
+        {
+            "type": "Entry",
+            "name": "Returning home on a very hot day, you quickly drink a large glass of water. You soon feel abnormally full and a bit sick to your stomach. This feeling is surprising and uncomfortable, but you realize that it is something you can simply observe._Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

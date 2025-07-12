@@ -1,0 +1,15 @@
+{
+    "header_text": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel overwhelmed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel overwhelmed._Social Situations_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

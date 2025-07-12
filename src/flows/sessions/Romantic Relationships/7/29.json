@@ -1,0 +1,14 @@
+{
+    "header_text": "You are walking through the park, and you see an elderly couple walking hand in hand. You begin thinking about your own life and imagine yourself at their age. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are walking through the park, and you see an elderly couple walking hand in hand. You begin thinking about your own life and imagine yourself at their age. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/539.jpg"
+        }
+    ]
+}

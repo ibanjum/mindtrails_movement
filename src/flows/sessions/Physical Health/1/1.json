@@ -1,0 +1,14 @@
+{
+    "header_text": "You are traveling to your vacation destination on an airplane. As the plane accelerates during takeoff, your chest begins to feel tight. You decide to do five minutes of a breathing exercise, and you end up feeling relaxed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are traveling to your vacation destination on an airplane. As the plane accelerates during takeoff, your chest begins to feel tight. You decide to do five minutes of a breathing exercise, and you end up feeling relaxed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/429.jpg"
+        }
+    ]
+}

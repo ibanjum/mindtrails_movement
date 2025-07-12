@@ -1,0 +1,14 @@
+{
+    "header_text": "You are presenting your work to a group of your peers. After you present, someone asks you a very specific question that you do not know, and you feel like you are unqualified. You remember that you did a lot of research, and this question may just be irrelevant.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are presenting your work to a group of your peers. After you present, someone asks you a very specific question that you do not know, and you feel like you are unqualified. You remember that you did a lot of research, and this question may just be irrelevant."
+        },
+        {
+            "type": "Media",
+            "url": "./images/120.jpg"
+        }
+    ]
+}

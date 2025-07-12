@@ -1,0 +1,27 @@
+{
+    "header_text": "You are going on a date tonight. You don't know the person well and you know there will be some silences in the conversation. Even though it might be awkward, you know you'll have fun.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you able to cope with awkward silences?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are going on a date tonight. You don't know the person well and you know there will be some silences in the conversation. Even though it might be awkward, you know you'll have fun._Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

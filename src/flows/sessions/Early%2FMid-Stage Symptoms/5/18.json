@@ -1,0 +1,14 @@
+{
+    "header_text": "You have a lot to do tomorrow and decide to go to bed early. In the middle of the night you wake up and find it difficult to go back to sleep. You spend hours trying to go back to sleep but can't, leaving you feeling very frustrated.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have a lot to do tomorrow and decide to go to bed early. In the middle of the night you wake up and find it difficult to go back to sleep. You spend hours trying to go back to sleep but can't, leaving you feeling very frustrated."
+        },
+        {
+            "type": "Media",
+            "url": "./images/760.jpg"
+        }
+    ]
+}

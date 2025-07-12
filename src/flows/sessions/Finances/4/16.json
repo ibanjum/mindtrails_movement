@@ -1,0 +1,27 @@
+{
+    "header_text": "Your budget has been tighter this month. Your friends want to go out to eat this weekend, and they choose a very expensive place. If you ask them to choose a different restaurant, you think they will be understanding. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will your friends judge you for your suggestion?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your budget has been tighter this month. Your friends want to go out to eat this weekend, and they choose a very expensive place. If you ask them to choose a different restaurant, you think they will be understanding. _Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

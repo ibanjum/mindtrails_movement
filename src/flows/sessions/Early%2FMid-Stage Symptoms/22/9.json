@@ -1,0 +1,27 @@
+{
+    "header_text": "You have more free time lately, so you've been trying new activities. While trying a new yoga routine, you can't seem to strike the correct pose. You decide that your attempt to learn this new skill is worthwhile.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Making a mistake shows that you are..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You have more free time lately, so you've been trying new activities. While trying a new yoga routine, you can't seem to strike the correct pose. You decide that your attempt to learn this new skill is worthwhile._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Incapable",
+                "Learning"
+            ],
+            "columnCount": 1,
+            "correct_value": "Learning"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

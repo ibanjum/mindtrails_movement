@@ -1,0 +1,14 @@
+{
+    "header_text": "You recently got into a fight with a close friend because you forgot their birthday. You've been feeling more irritable lately, and disagreements like this are becoming common. You think about the history between you and your friend, and you know that your friendship will stay strong.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You recently got into a fight with a close friend because you forgot their birthday. You've been feeling more irritable lately, and disagreements like this are becoming common. You think about the history between you and your friend, and you know that your friendship will stay strong."
+        },
+        {
+            "type": "Media",
+            "url": "./images/743.jpg"
+        }
+    ]
+}

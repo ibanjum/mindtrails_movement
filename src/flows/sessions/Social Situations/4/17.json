@@ -1,0 +1,14 @@
+{
+    "header_text": "You arrange to meet a friend in town. Last time you met, you disagreed on something you were discussing. Just before you leave, they call to say that they can't make it. As you put down the phone, you think that this is because they are busy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You arrange to meet a friend in town. Last time you met, you disagreed on something you were discussing. Just before you leave, they call to say that they can't make it. As you put down the phone, you think that this is because they are busy."
+        },
+        {
+            "type": "Media",
+            "url": "./images/345.jpg"
+        }
+    ]
+}

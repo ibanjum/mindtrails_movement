@@ -1,0 +1,14 @@
+{
+    "header_text": "You go to see a movie on opening night. When you get to the theater, you notice that you are the only person sitting alone. You feel excited for the movie to start. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You go to see a movie on opening night. When you get to the theater, you notice that you are the only person sitting alone. You feel excited for the movie to start. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/689.jpg"
+        }
+    ]
+}

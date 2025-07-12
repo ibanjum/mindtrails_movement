@@ -1,0 +1,14 @@
+{
+    "header_text": "You remembered that you need milk from the store, so on your way home, you stop to get it. When you walk into the store, you suddenly forget why you are there, which you find a bit troubling. You check your to-do list and decide you can still continue on with your day with confidence.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You remembered that you need milk from the store, so on your way home, you stop to get it. When you walk into the store, you suddenly forget why you are there, which you find a bit troubling. You check your to-do list and decide you can still continue on with your day with confidence."
+        },
+        {
+            "type": "Media",
+            "url": "./images/337.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. Considering the possibility of buying, fully supporting your decision will be too difficult.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. Considering the possibility of buying, fully supporting your decision will be too difficult."
+        },
+        {
+            "type": "Media",
+            "url": "./images/163.jpg"
+        }
+    ]
+}

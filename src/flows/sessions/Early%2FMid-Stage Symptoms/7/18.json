@@ -1,0 +1,23 @@
+{
+    "header_text": "You are at the park with your child. They ask you to play catch, and your unsteady gait causes you to stumble. Whether or not your child notices, you do not lose confidence in your role as a loving parent to your child.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at the park with your grandchild. They ask you to play catch, and your unsteady gait causes you to stumble. Whether or not your grandchild notices, you do not lose confidence in your role as a loving grandparent to your..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You are at the park with your child. They ask you to play catch, and your unsteady gait causes you to stumble. Whether or not your child notices, you do not lose confidence in your role as a loving parent to your child._Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "grandchild"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

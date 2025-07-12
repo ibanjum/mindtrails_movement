@@ -1,0 +1,14 @@
+{
+    "header_text": "Your friend is having a huge birthday party with all of your friends attending. You know you can't afford a gift for your friend. When you show up with a homemade card, your friend is thankful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your friend is having a huge birthday party with all of your friends attending. You know you can't afford a gift for your friend. When you show up with a homemade card, your friend is thankful."
+        },
+        {
+            "type": "Media",
+            "url": "./images/145.jpg"
+        }
+    ]
+}

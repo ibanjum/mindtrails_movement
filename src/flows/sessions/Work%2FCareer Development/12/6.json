@@ -1,0 +1,27 @@
+{
+    "header_text": "You've been very busy the past few months, and you haven't had a lot of free time. You finally have a chance to rest, but you feel guilty that you're taking a break rather than completing work. You think that you deserve to relax. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Should you do your work right now?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You've been very busy the past few months, and you haven't had a lot of free time. You finally have a chance to rest, but you feel guilty that you're taking a break rather than completing work. You think that you deserve to relax. _Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

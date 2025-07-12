@@ -1,0 +1,14 @@
+{
+    "header_text": "Today, you will receive an important call. You'll find out if you got the job you interviewed for. As you think about waiting for the call, your anxiety is tolerable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Today, you will receive an important call. You'll find out if you got the job you interviewed for. As you think about waiting for the call, your anxiety is tolerable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/74.jpg"
+        }
+    ]
+}

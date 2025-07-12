@@ -1,0 +1,14 @@
+{
+    "header_text": "Recently, you and your spouse had a fight. Both of you think you're right, and you're unsure how you're going to resolve the conflict. When you talk next, you will enter the conversation with an open mind. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recently, you and your spouse had a fight. Both of you think you're right, and you're unsure how you're going to resolve the conflict. When you talk next, you will enter the conversation with an open mind. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/341.jpg"
+        }
+    ]
+}

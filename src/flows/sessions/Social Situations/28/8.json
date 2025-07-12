@@ -1,0 +1,14 @@
+{
+    "header_text": "Your coworker asks you about your social media accounts. You don't like social media and have chosen not to have any accounts. Your coworker will think that you are wise.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your coworker asks you about your social media accounts. You don't like social media and have chosen not to have any accounts. Your coworker will think that you are wise."
+        },
+        {
+            "type": "Media",
+            "url": "./images/601.jpg"
+        }
+    ]
+}

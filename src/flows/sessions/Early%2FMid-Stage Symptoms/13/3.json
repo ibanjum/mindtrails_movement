@@ -1,0 +1,23 @@
+{
+    "header_text": "You enjoy walking to the thrift store occasionally. On your most recent trip, you turned on the wrong street and had to retrace your steps. This made you worried.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You remember that you go there pretty infrequently and that you can always use your phone or print directions to get there. Your worry lessens and your outlook..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You enjoy walking to the thrift store occasionally. On your most recent trip, you turned on the wrong street and had to retrace your steps. This made you worried._Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "improves"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

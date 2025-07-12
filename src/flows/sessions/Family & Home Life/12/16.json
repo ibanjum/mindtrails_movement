@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been very busy and are having trouble keeping in contact with most of your family. You are usually good about calling them. Lately, your schedule has been very hectic. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been very busy and are having trouble keeping in contact with most of your family. You are usually good about calling them. Lately, your schedule has been very hectic. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/82.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are getting ready to go on a first date with someone you haven't previously met in person. You believe you two have a lot in common, but you are worried about getting very shy around them. As you think about going on your first date, you don't think that you will make a bad impression and believe that your date will find you interesting.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are getting ready to go on a first date with someone you haven't previously met in person. You believe you two have a lot in common, but you are worried about getting very shy around them. As you think about going on your first date, you don't think that you will make a bad impression and believe that your date will find you interesting."
+        },
+        {
+            "type": "Media",
+            "url": "./images/536.jpg"
+        }
+    ]
+}

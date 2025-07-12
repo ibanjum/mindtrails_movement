@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at a car dealership looking to buy a new car. You are torn between two cars, and you are worried that you may make the wrong financial decision. When you tell the dealer which car you've decided to buy, you feel content.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at a car dealership looking to buy a new car. You are torn between two cars, and you are worried that you may make the wrong financial decision. When you tell the dealer which car you've decided to buy, you feel content."
+        },
+        {
+            "type": "Media",
+            "url": "./images/254.jpg"
+        }
+    ]
+}

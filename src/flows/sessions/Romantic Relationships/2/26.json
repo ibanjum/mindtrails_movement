@@ -1,0 +1,27 @@
+{
+    "header_text": "You have been liking hanging out with a coworker a lot lately but aren't sure if your romantic feelings are reciprocated. Today, your coworker asks for your number. Your coworker will probably use your phone number to ask you on a date.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your coworker probably asked for your phone number because..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You have been liking hanging out with a coworker a lot lately but aren't sure if your romantic feelings are reciprocated. Today, your coworker asks for your number. Your coworker will probably use your phone number to ask you on a date._Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Your coworker feels the same way you do",
+                "Your coworker wants you to do more work"
+            ],
+            "columnCount": 1,
+            "correct_value": "Your coworker feels the same way you do"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

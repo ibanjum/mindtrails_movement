@@ -1,0 +1,27 @@
+{
+    "header_text": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in moderation.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Buying the cookie is a..."
+        },
+        {
+            "type": "Buttons",
+            "name": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in moderation._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Treat",
+                "Mistake"
+            ],
+            "columnCount": 1,
+            "correct_value": "Treat"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

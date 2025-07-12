@@ -1,0 +1,27 @@
+{
+    "header_text": "You are working on a very important team project. The project deadline is soon, and your colleagues still haven't completed their portion, and you wonder if you should complete their part. You reach out to them, conveying your concerns about the deadline and workload, and they begin working in a timely manner.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your colleagues are likely..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are working on a very important team project. The project deadline is soon, and your colleagues still haven't completed their portion, and you wonder if you should complete their part. You reach out to them, conveying your concerns about the deadline and workload, and they begin working in a timely manner._Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Annoyed that you're telling them what to do.",
+                "Grateful that you politely communicated your concerns over their contribution."
+            ],
+            "columnCount": 1,
+            "correct_value": "Grateful that you politely communicated your concerns over their contribution."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

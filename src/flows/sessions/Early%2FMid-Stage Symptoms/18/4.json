@@ -1,0 +1,14 @@
+{
+    "header_text": "While walking across the backyard during a family barbecue, you stumble and trip unexpectedly in front of your family. Your once-confident stride is now replaced by an unsteady gait. After tripping, you feel overwhelmed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "While walking across the backyard during a family barbecue, you stumble and trip unexpectedly in front of your family. Your once-confident stride is now replaced by an unsteady gait. After tripping, you feel overwhelmed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/215.jpg"
+        }
+    ]
+}

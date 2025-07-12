@@ -1,0 +1,15 @@
+{
+    "header_text": "You and your partner have different spending habits, which leads to frequent arguments and financial tension. This tension has started to impact your relationship, and you feel like you are growing resentful of one another. If you share how you're feeling, it might lead to more arguments.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to open up and share, and they do the same. As you talk, you feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "You and your partner have different spending habits, which leads to frequent arguments and financial tension. This tension has started to impact your relationship, and you feel like you are growing resentful of one another. If you share how you're feeling, it might lead to more arguments._Mental Health_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You and your partner have started couples counseling. You've been to a few sessions, but you and your partner are still having issues. You think that the process will just take time. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you have faith in the counseling?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You and your partner have started couples counseling. You've been to a few sessions, but you and your partner are still having issues. You think that the process will just take time. _Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

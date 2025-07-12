@@ -1,0 +1,27 @@
+{
+    "header_text": "You have had a lot of work pile up these past couple of weeks. As a result, you have not been able to spend time with friends or family as much as you would want and have often times felt lonely. Once your workload lessens, you plan on reconnecting with people who mean a lot to you.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will you be able to hang out with friends and family when you have more time?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You have had a lot of work pile up these past couple of weeks. As a result, you have not been able to spend time with friends or family as much as you would want and have often times felt lonely. Once your workload lessens, you plan on reconnecting with people who mean a lot to you._Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

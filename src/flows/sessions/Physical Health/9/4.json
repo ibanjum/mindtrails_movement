@@ -1,0 +1,14 @@
+{
+    "header_text": "You are giving a presentation that you have been really nervous to give. As you talk, you feel a lump in your throat and you start to cough. These feelings probably mean that you are panicking.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are giving a presentation that you have been really nervous to give. As you talk, you feel a lump in your throat and you start to cough. These feelings probably mean that you are panicking."
+        },
+        {
+            "type": "Media",
+            "url": "./images/108.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You are on holiday at a lake and are riding a speed boat for the first time. You're buckled in. Your friend is about to make a turn at moderate speed, and you think that riding a boat is exhilarating.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Once you reach the turn, you will probably..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are on holiday at a lake and are riding a speed boat for the first time. You're buckled in. Your friend is about to make a turn at moderate speed, and you think that riding a boat is exhilarating._Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Flip the boat",
+                "Clear it and continue boating fine"
+            ],
+            "columnCount": 1,
+            "correct_value": "Clear it and continue boating fine"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

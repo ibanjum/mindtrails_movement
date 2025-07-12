@@ -1,0 +1,14 @@
+{
+    "header_text": "Playing board games after dinner is a family tradition, and tonight you are playing a personal favorite. Your niece uses one of your signature moves, and you find yourself snapping at her. The room goes quiet as everyone thinks about their next move.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Playing board games after dinner is a family tradition, and tonight you are playing a personal favorite. Your niece uses one of your signature moves, and you find yourself snapping at her. The room goes quiet as everyone thinks about their next move."
+        },
+        {
+            "type": "Media",
+            "url": "./images/226.jpg"
+        }
+    ]
+}

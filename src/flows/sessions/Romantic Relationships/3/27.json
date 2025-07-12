@@ -1,0 +1,14 @@
+{
+    "header_text": "Your significant other, who you have been dating for a few years, wants to talk about where your relationship is heading. It's the first time you have dated someone for such a long time. You see your relationship growing stronger.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your significant other, who you have been dating for a few years, wants to talk about where your relationship is heading. It's the first time you have dated someone for such a long time. You see your relationship growing stronger."
+        },
+        {
+            "type": "Media",
+            "url": "./images/341.jpg"
+        }
+    ]
+}

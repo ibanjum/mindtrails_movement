@@ -1,0 +1,15 @@
+{
+    "header_text": "It's Saturday, and you have no plans for the day. You realize you haven't seen your family in a while and wonder if you are drifting apart. You think they may have forgotten about you.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You understand everyone has busy lives, and it is harder to get together. You realize you have been a close-knit family from the start, and your relationship with them will continue to..."
+        },
+        {
+            "type": "Entry",
+            "name": "It's Saturday, and you have no plans for the day. You realize you haven't seen your family in a while and wonder if you are drifting apart. You think they may have forgotten about you._Family & Home Life_entry2"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

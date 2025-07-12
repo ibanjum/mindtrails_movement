@@ -1,0 +1,14 @@
+{
+    "header_text": "You get an idea for a new recipe that involves ingredients you have never used before. You make it for your family. As everyone starts to eat, you feel proud.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You get an idea for a new recipe that involves ingredients you have never used before. You make it for your family. As everyone starts to eat, you feel proud."
+        },
+        {
+            "type": "Media",
+            "url": "./images/137.jpg"
+        }
+    ]
+}

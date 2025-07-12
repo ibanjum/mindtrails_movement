@@ -1,0 +1,27 @@
+{
+    "header_text": "You are at a birthday party for a friend of a friend. You notice that you are flushed and a little sweaty. Standing there, you think that these sensations are normal.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "People will probably..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are at a birthday party for a friend of a friend. You notice that you are flushed and a little sweaty. Standing there, you think that these sensations are normal._Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Not see you sweat since the room is dimly lit",
+                "Notice that you are sweating"
+            ],
+            "columnCount": 1,
+            "correct_value": "Not see you sweat since the room is dimly lit"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

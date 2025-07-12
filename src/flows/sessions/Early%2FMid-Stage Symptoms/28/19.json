@@ -1,0 +1,14 @@
+{
+    "header_text": "During a leisurely walk in the park, you notice you are stumbling more than usual. Worry creeps in that your HD might be getting worse. You look around you, take a deep breath of fresh air, and feel centered. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "During a leisurely walk in the park, you notice you are stumbling more than usual. Worry creeps in that your HD might be getting worse. You look around you, take a deep breath of fresh air, and feel centered. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/424.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "Today you're taking staff pictures and you got a new haircut for it. It didn't turn out the way you wanted it to. When you think about others seeing your new haircut in the pictures, you feel embarrassed",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are others going to judge you when they see your haircut in the picture?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Today you're taking staff pictures and you got a new haircut for it. It didn't turn out the way you wanted it to. When you think about others seeing your new haircut in the pictures, you feel embarrassed_Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

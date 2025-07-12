@@ -1,0 +1,14 @@
+{
+    "header_text": "After a long day of shopping, you enter a cafe with a lot of bags and notice that the only empty seat is across from somebody else. As you sit down, the customer across from you doesn’t look at you. This is probably because they are lost in thought.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "After a long day of shopping, you enter a cafe with a lot of bags and notice that the only empty seat is across from somebody else. As you sit down, the customer across from you doesn’t look at you. This is probably because they are lost in thought."
+        },
+        {
+            "type": "Media",
+            "url": "./images/632.jpg"
+        }
+    ]
+}

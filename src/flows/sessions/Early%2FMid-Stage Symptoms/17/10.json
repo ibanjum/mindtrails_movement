@@ -1,0 +1,27 @@
+{
+    "header_text": "Your spouse offers to help you pay a bill online. As you sit with them, you can't remember the login details for your accounts. You are embarrassed, but you know your spouse is not judgmental.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your spouse will…"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your spouse offers to help you pay a bill online. As you sit with them, you can't remember the login details for your accounts. You are embarrassed, but you know your spouse is not judgmental._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Help",
+                "Complain"
+            ],
+            "columnCount": 1,
+            "correct_value": "Help"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

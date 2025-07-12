@@ -1,0 +1,14 @@
+{
+    "header_text": "You are out shopping with a friend who tends to be very loud. When you both enter an electronics store, other shoppers stop and look at you and your friend. The experience is tolerable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are out shopping with a friend who tends to be very loud. When you both enter an electronics store, other shoppers stop and look at you and your friend. The experience is tolerable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/630.jpg"
+        }
+    ]
+}

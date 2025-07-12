@@ -1,0 +1,14 @@
+{
+    "header_text": "At yoga class, you struggle to balance in your poses. Anxiety grips you as you worry about your ability to continue physical activities in the future. However, you modify poses, focus on breathing, and prove to yourself that you can adapt.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "At yoga class, you struggle to balance in your poses. Anxiety grips you as you worry about your ability to continue physical activities in the future. However, you modify poses, focus on breathing, and prove to yourself that you can adapt."
+        },
+        {
+            "type": "Media",
+            "url": "./images/524.jpg"
+        }
+    ]
+}

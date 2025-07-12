@@ -1,0 +1,14 @@
+{
+    "header_text": "You notice there are a lot of attractive people posting pictures on a social media site. You are a bit uncomfortable posting a picture of yourself but post anyway. You feel confident.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You notice there are a lot of attractive people posting pictures on a social media site. You are a bit uncomfortable posting a picture of yourself but post anyway. You feel confident."
+        },
+        {
+            "type": "Media",
+            "url": "./images/601.jpg"
+        }
+    ]
+}

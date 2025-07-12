@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been nervous about an upcoming evaluation at work. The day of the evaluation, you notice that your stomach is aching. You think that the stomach ache must be from anxiety. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been nervous about an upcoming evaluation at work. The day of the evaluation, you notice that your stomach is aching. You think that the stomach ache must be from anxiety. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/365.jpg"
+        }
+    ]
+}

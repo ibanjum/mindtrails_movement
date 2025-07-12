@@ -1,0 +1,27 @@
+{
+    "header_text": "You would like to apply for a higher position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal and have worked hard to make yourself a good employee. You feel that your chances of getting this new job are slim.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You believe that you will probably"
+        },
+        {
+            "type": "Buttons",
+            "name": "You would like to apply for a higher position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal and have worked hard to make yourself a good employee. You feel that your chances of getting this new job are slim._Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Not end up fulfilling your dreams, and feel disappointed with where you end up.",
+                "Get the job and advance your career even further."
+            ],
+            "columnCount": 1,
+            "correct_value": "Not end up fulfilling your dreams, and feel disappointed with where you end up."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You're slicing vegetables for a salad. Your fingers aren't working quite right, causing the knife to wobble. Your friend comments on your chopping technique, and them noticing your unsteady hands makes you embarrassed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're slicing vegetables for a salad. Your fingers aren't working quite right, causing the knife to wobble. Your friend comments on your chopping technique, and them noticing your unsteady hands makes you embarrassed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/859.jpg"
+        }
+    ]
+}

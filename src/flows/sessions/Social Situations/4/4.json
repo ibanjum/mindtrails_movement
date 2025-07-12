@@ -1,0 +1,14 @@
+{
+    "header_text": "You buy a new suit, which is very different from your usual style of clothes. You try it on to show your friend. When they see you, they pause. They then comment that it makes you look nice.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You buy a new suit, which is very different from your usual style of clothes. You try it on to show your friend. When they see you, they pause. They then comment that it makes you look nice."
+        },
+        {
+            "type": "Media",
+            "url": "./images/621.jpg"
+        }
+    ]
+}

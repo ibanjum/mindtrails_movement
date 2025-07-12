@@ -1,0 +1,14 @@
+{
+    "header_text": "You recently received an incredible promotion at your job. You suddenly feel that you didn't work hard enough to earn the opportunity. After reflecting on it some more, you realize that you deserve the promotion.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You recently received an incredible promotion at your job. You suddenly feel that you didn't work hard enough to earn the opportunity. After reflecting on it some more, you realize that you deserve the promotion."
+        },
+        {
+            "type": "Media",
+            "url": "./images/73.jpg"
+        }
+    ]
+}

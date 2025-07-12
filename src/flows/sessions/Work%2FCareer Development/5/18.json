@@ -1,0 +1,14 @@
+{
+    "header_text": "Today, you will receive an important email. It will tell you whether you received or didn't get a promotion that would really advance your career.  As you think about waiting for the email, you feel dread.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Today, you will receive an important email. It will tell you whether you received or didn't get a promotion that would really advance your career.  As you think about waiting for the email, you feel dread."
+        },
+        {
+            "type": "Media",
+            "url": "./images/43.jpg"
+        }
+    ]
+}

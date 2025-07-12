@@ -1,0 +1,14 @@
+{
+    "header_text": "As you are walking down a crowded street, you see your coworker on the other side. You call out, but they do not answer you. Standing there in the street, you think that this must be because they were distracted.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "As you are walking down a crowded street, you see your coworker on the other side. You call out, but they do not answer you. Standing there in the street, you think that this must be because they were distracted."
+        },
+        {
+            "type": "Media",
+            "url": "./images/597.jpg"
+        }
+    ]
+}

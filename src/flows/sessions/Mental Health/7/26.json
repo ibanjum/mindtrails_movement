@@ -1,0 +1,14 @@
+{
+    "header_text": "You've been working hard all year on a project and your your department head has invited you to talk about it at an event. A lot of your friends and coworkers will be there, and you don't think your work will be enough to impress them. You think that your department head invited you for a reason and your work is worth seeing.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You've been working hard all year on a project and your your department head has invited you to talk about it at an event. A lot of your friends and coworkers will be there, and you don't think your work will be enough to impress them. You think that your department head invited you for a reason and your work is worth seeing."
+        },
+        {
+            "type": "Media",
+            "url": "./images/112.jpg"
+        }
+    ]
+}

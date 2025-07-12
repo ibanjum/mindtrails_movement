@@ -1,0 +1,14 @@
+{
+    "header_text": "Your partner takes you out to dinner. They mention something that upsets you, but you worry about confronting them in public. Ultimately, you decide to tell them what they said upset you, and they apologize genuinely.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your partner takes you out to dinner. They mention something that upsets you, but you worry about confronting them in public. Ultimately, you decide to tell them what they said upset you, and they apologize genuinely."
+        },
+        {
+            "type": "Media",
+            "url": "./images/530.jpg"
+        }
+    ]
+}

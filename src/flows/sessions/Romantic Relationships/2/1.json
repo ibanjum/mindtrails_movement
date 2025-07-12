@@ -1,0 +1,14 @@
+{
+    "header_text": "Recently, your partner mentioned that they find a certain celebrity attractive. This celebrity looks nothing like you, and you wonder if your partner has changed their preferences since the beginning of your relationship. You think that they still find you attractive.  ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Recently, your partner mentioned that they find a certain celebrity attractive. This celebrity looks nothing like you, and you wonder if your partner has changed their preferences since the beginning of your relationship. You think that they still find you attractive.  "
+        },
+        {
+            "type": "Media",
+            "url": "./images/372.jpg"
+        }
+    ]
+}

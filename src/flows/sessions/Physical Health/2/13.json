@@ -1,0 +1,14 @@
+{
+    "header_text": "It's Wednesday night and you and your friend go on a walk. About halfway through you stop walking, because you feel you can't catch your breath. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "It's Wednesday night and you and your friend go on a walk. About halfway through you stop walking, because you feel you can't catch your breath. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/360.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You and your partner decide to spend time at the pool. You notice you forgot to pack sunscreen, even after your partner specifically told you to remember it. You think your partner will be angry. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You and your partner decide to spend time at the pool. You notice you forgot to pack sunscreen, even after your partner specifically told you to remember it. You think your partner will be angry. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/400.jpg"
+        }
+    ]
+}

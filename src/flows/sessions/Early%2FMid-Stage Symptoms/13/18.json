@@ -1,0 +1,23 @@
+{
+    "header_text": "You go to the gym twice a week to do strength training exercises. Although you enjoy your time at the gym, you can't help but notice the difference between your mobility and others. You've noticed that thinking about this gets you in a bad mood. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You go to the gym twice a week to do strength training exercises. Although you enjoy your time at the gym, you can't help but notice the difference between your mobility and others. You've noticed that thinking about this gets you in a bad... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You go to the gym twice a week to do strength training exercises. Although you enjoy your time at the gym, you can't help but notice the difference between your mobility and others. You've noticed that thinking about this gets you in a bad mood. _Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "mood"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

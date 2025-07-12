@@ -1,0 +1,27 @@
+{
+    "header_text": "You decide to come up with a creative post that is very different from what you usually post. You post something new and do not get any responses yet. When you think about the challenge of making creative content, you feel excited.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you let the challenge of making creative posts hold you back? "
+        },
+        {
+            "type": "Buttons",
+            "name": "You decide to come up with a creative post that is very different from what you usually post. You post something new and do not get any responses yet. When you think about the challenge of making creative content, you feel excited._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

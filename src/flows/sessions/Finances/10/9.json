@@ -1,0 +1,14 @@
+{
+    "header_text": "Budgeting and paying bills has always been your job in the family. Recently, you have been late on some important bills. The idea that one day you might not be able to keep up your normal role in the family is disheartening.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Budgeting and paying bills has always been your job in the family. Recently, you have been late on some important bills. The idea that one day you might not be able to keep up your normal role in the family is disheartening."
+        },
+        {
+            "type": "Media",
+            "url": "./images/297.jpg"
+        }
+    ]
+}

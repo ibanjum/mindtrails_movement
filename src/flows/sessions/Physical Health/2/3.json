@@ -1,0 +1,27 @@
+{
+    "header_text": "You are taking a skydiving lesson. When you think about jumping out of the airplane, your body begins to tremble. This is exhilarating.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you feeling excited?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are taking a skydiving lesson. When you think about jumping out of the airplane, your body begins to tremble. This is exhilarating._Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

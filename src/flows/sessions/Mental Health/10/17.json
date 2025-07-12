@@ -1,0 +1,15 @@
+{
+    "header_text": "It's Sunday morning and you are taking a walk in the park. After some time, you feel out of breath and decide to break for a minute at a bench. Gasping for breath makes you feel anxious, and you want to stop walking. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's Sunday morning and you are taking a walk in the park. After some time, you feel out of breath and decide to break for a minute at a bench. Gasping for breath makes you feel anxious, and you want to stop... "
+        },
+        {
+            "type": "Entry",
+            "name": "It's Sunday morning and you are taking a walk in the park. After some time, you feel out of breath and decide to break for a minute at a bench. Gasping for breath makes you feel anxious, and you want to stop walking. _Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

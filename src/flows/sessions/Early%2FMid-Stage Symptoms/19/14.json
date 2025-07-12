@@ -1,0 +1,27 @@
+{
+    "header_text": "You are working on some house projects. You've been moving slower lately, so you are struggling to get the work done as quickly as you'd like. You begin to feel anxious about not being able to finish the projects. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "If the projects take longer than they used to, then..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are working on some house projects. You've been moving slower lately, so you are struggling to get the work done as quickly as you'd like. You begin to feel anxious about not being able to finish the projects. _Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "The house will become a disaster.",
+                "That is okay."
+            ],
+            "columnCount": 1,
+            "correct_value": "That is okay."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

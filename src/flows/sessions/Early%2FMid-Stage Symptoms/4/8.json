@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been feeling more unsteady on your feet recently. When walking through your home, you worry you will fall. You decide to be safe by sitting down and recovering.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been feeling more unsteady on your feet recently. When walking through your home, you worry you will fall. You decide to be safe by sitting down and recovering."
+        },
+        {
+            "type": "Media",
+            "url": "./images/749.jpg"
+        }
+    ]
+}

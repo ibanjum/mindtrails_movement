@@ -1,0 +1,15 @@
+{
+    "header_text": "You are lying in your bed and about to go to sleep. You start to feel a heaviness in your chest as you try to sleep. You think about this pressure and feel tired.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are lying in your bed and about to go to sleep. You start to feel a heaviness in your chest as you try to sleep. You think about this pressure and feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "You are lying in your bed and about to go to sleep. You start to feel a heaviness in your chest as you try to sleep. You think about this pressure and feel tired._Physical Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You are going on a blind date and just arrived at the restaurant. As you walk up to the entrance, you suddenly feel very nervous and turn around to leave, but quickly change your mind. At this moment, your date arrives and looks very offended.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your date's impression of you is probably ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are going on a blind date and just arrived at the restaurant. As you walk up to the entrance, you suddenly feel very nervous and turn around to leave, but quickly change your mind. At this moment, your date arrives and looks very offended._Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Negative.",
+                "Positive"
+            ],
+            "columnCount": 1,
+            "correct_value": "Positive"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

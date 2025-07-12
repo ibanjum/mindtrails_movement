@@ -1,0 +1,14 @@
+{
+    "header_text": "You've been feeling sick to your stomach for a few days. You make an appointment with your doctor. The nausea probably means that you are sick.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You've been feeling sick to your stomach for a few days. You make an appointment with your doctor. The nausea probably means that you are sick."
+        },
+        {
+            "type": "Media",
+            "url": "./images/482.jpg"
+        }
+    ]
+}

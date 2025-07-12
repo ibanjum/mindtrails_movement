@@ -1,0 +1,27 @@
+{
+    "header_text": "You are at the store when you see a friend, and stop to catch up with them. During this conversation, you're finding that your words come more slowly than usual. Despite these difficulties, talking to your friend is enjoyable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you like catching up with your friend?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are at the store when you see a friend, and stop to catch up with them. During this conversation, you're finding that your words come more slowly than usual. Despite these difficulties, talking to your friend is enjoyable. _Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

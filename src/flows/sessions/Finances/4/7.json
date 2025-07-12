@@ -1,0 +1,27 @@
+{
+    "header_text": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at work. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you think you will save enough to make your rent payment?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at work. _Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

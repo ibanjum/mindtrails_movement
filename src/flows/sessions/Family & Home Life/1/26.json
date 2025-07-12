@@ -1,0 +1,14 @@
+{
+    "header_text": "At home there are a lot of chores on the schedule for you to accomplish. You have a big project to work on that will take a lot of time. Balancing your home life and work life is stressful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "At home there are a lot of chores on the schedule for you to accomplish. You have a big project to work on that will take a lot of time. Balancing your home life and work life is stressful."
+        },
+        {
+            "type": "Media",
+            "url": "./images/136.jpg"
+        }
+    ]
+}

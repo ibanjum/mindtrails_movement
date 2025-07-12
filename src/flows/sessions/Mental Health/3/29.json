@@ -1,0 +1,14 @@
+{
+    "header_text": "You and your colleagues are at a restaurant. While your colleagues all order the same dish, you want to order something adventurous but worry that they'll think it's gross. You decide to order the dish anyway, and enjoy the new flavors.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You and your colleagues are at a restaurant. While your colleagues all order the same dish, you want to order something adventurous but worry that they'll think it's gross. You decide to order the dish anyway, and enjoy the new flavors."
+        },
+        {
+            "type": "Media",
+            "url": "./images/344.jpg"
+        }
+    ]
+}

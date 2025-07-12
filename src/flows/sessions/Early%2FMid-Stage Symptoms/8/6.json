@@ -1,0 +1,23 @@
+{
+    "header_text": "You receive an email from work marked \"EMERGENCY.\" You've been having difficulty typing, so you close the email and decide to respond later. When you return to your computer 30 minutes later, you find that your boss has sent you a message, and you worry that he is disappointed. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to check in with your boss to see how he's feeling. His nice response leaves you feeling..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "You receive an email from work marked \"EMERGENCY.\" You've been having difficulty typing, so you close the email and decide to respond later. When you return to your computer 30 minutes later, you find that your boss has sent you a message, and you worry that he is disappointed. _Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "upbeat"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

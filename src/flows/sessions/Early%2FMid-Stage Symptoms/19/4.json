@@ -1,0 +1,27 @@
+{
+    "header_text": "It is the morning, and you are getting ready for the day. You're feeling particularly off balance and you think about your ability to get ready safely and independently in the future. The progression of your disease makes you feel worried.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Thinking about the help and support from your family makes you feel..."
+        },
+        {
+            "type": "Buttons",
+            "name": "It is the morning, and you are getting ready for the day. You're feeling particularly off balance and you think about your ability to get ready safely and independently in the future. The progression of your disease makes you feel worried._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Worried.",
+                "Calm."
+            ],
+            "columnCount": 1,
+            "correct_value": "Calm."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

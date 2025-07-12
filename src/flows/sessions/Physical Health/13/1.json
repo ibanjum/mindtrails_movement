@@ -1,0 +1,14 @@
+{
+    "header_text": "While doing work on your computer, you notice your head starting to hurt. Your headache persists, and you begin to worry that it means you are getting sick. You haven't been exposed to anyone who has been ill, so you conclude that your headache is from looking at your computer for too long.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "While doing work on your computer, you notice your head starting to hurt. Your headache persists, and you begin to worry that it means you are getting sick. You haven't been exposed to anyone who has been ill, so you conclude that your headache is from looking at your computer for too long."
+        },
+        {
+            "type": "Media",
+            "url": "./images/504.jpg"
+        }
+    ]
+}

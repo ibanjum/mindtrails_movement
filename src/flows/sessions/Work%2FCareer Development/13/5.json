@@ -1,0 +1,14 @@
+{
+    "header_text": "You have been in the same post for five years, and you are beginning to feel bored and unchallenged in your job. You would like to try for a new position, but you worry if you will be competitive on the job market. Thinking about your career trajectory, you believe your chances of finding a new job that you find fulfilling are likely.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have been in the same post for five years, and you are beginning to feel bored and unchallenged in your job. You would like to try for a new position, but you worry if you will be competitive on the job market. Thinking about your career trajectory, you believe your chances of finding a new job that you find fulfilling are likely."
+        },
+        {
+            "type": "Media",
+            "url": "./images/94.jpg"
+        }
+    ]
+}

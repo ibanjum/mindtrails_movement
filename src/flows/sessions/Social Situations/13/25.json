@@ -1,0 +1,14 @@
+{
+    "header_text": "You arrive to a morning meeting exactly on time, but you are the last one to arrive. Your coworkers look at you as you pull out your chair, and it squeaks loudly. They all turn to look at you with a slight frown.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You arrive to a morning meeting exactly on time, but you are the last one to arrive. Your coworkers look at you as you pull out your chair, and it squeaks loudly. They all turn to look at you with a slight frown."
+        },
+        {
+            "type": "Media",
+            "url": "./images/664.jpg"
+        }
+    ]
+}

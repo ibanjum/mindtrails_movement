@@ -1,0 +1,14 @@
+{
+    "header_text": "You got someone's number from a dating app and have been texting them for a few days now. You do not feel very interested in them, but they text you today saying they want to meet up for a date. After worrying that they will be angry if you decline their offer, you decide to tell them the truth that you do not see your relationship going any further and end up feeling relieved.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You got someone's number from a dating app and have been texting them for a few days now. You do not feel very interested in them, but they text you today saying they want to meet up for a date. After worrying that they will be angry if you decline their offer, you decide to tell them the truth that you do not see your relationship going any further and end up feeling relieved."
+        },
+        {
+            "type": "Media",
+            "url": "./images/345.jpg"
+        }
+    ]
+}

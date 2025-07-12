@@ -1,0 +1,14 @@
+{
+    "header_text": "You're watching a TV show about people travelling to other countries. The idea of taking an airplane makes you feel anxious. You think you will deal with your anxiety successfully.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're watching a TV show about people travelling to other countries. The idea of taking an airplane makes you feel anxious. You think you will deal with your anxiety successfully."
+        },
+        {
+            "type": "Media",
+            "url": "./images/328.jpg"
+        }
+    ]
+}

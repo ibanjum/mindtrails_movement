@@ -1,0 +1,27 @@
+{
+    "header_text": "You notice your home is smaller and not as spacious as the homes of others that you know. Your coworkers have never been to your place, but they want to come over. You think about their reaction to your home and that they will be respectful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will your coworkers judge your home?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You notice your home is smaller and not as spacious as the homes of others that you know. Your coworkers have never been to your place, but they want to come over. You think about their reaction to your home and that they will be respectful._Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "All of your friends have been dating significant others for a while or are just starting new relationships. You have not been on a single date. You feel isolated, but you know that you will still be able to see your friends even if they are in relationships.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "All of your friends have been dating significant others for a while or are just starting new relationships. You have not been on a single date. You feel isolated, but you know that you will still be able to see your friends even if they are in relationships."
+        },
+        {
+            "type": "Media",
+            "url": "./images/543.jpg"
+        }
+    ]
+}

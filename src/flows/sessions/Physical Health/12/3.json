@@ -1,0 +1,27 @@
+{
+    "header_text": "You're at the library when another person sits next to you. They are coughing and sneezing without using a tissue or their elbow, and it makes you feel uneasy. When you lean over to politely ask them to cough and sneeze into their elbow, they decide to follow this healthy habit.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you make the right decision by talking to the person sitting next to you?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You're at the library when another person sits next to you. They are coughing and sneezing without using a tissue or their elbow, and it makes you feel uneasy. When you lean over to politely ask them to cough and sneeze into their elbow, they decide to follow this healthy habit._Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You are going over your monthly expenses, and realize you spent more than you had planned on a new hobby. It doesn't put you in a financial bind now, but you are trying to save up money to go on a ski trip you have been planning for months. As you think about cutting back on your expenses, you think that saving enough for your trip is doable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "The chances you will go on your ski trip are..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are going over your monthly expenses, and realize you spent more than you had planned on a new hobby. It doesn't put you in a financial bind now, but you are trying to save up money to go on a ski trip you have been planning for months. As you think about cutting back on your expenses, you think that saving enough for your trip is doable._Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Slim because saving up enough money is unlikely",
+                "Good because you will be able to save more money in the coming months"
+            ],
+            "columnCount": 1,
+            "correct_value": "Good because you will be able to save more money in the coming months"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

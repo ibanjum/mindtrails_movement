@@ -1,0 +1,14 @@
+{
+    "header_text": "This summer you want to take your family on a beach trip. You realize that you are not the best when it comes to saving money. After you give it some thought, you think your chances of going to the beach are slim. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "This summer you want to take your family on a beach trip. You realize that you are not the best when it comes to saving money. After you give it some thought, you think your chances of going to the beach are slim. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/308.jpg"
+        }
+    ]
+}

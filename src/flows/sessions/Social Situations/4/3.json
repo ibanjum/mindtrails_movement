@@ -1,0 +1,27 @@
+{
+    "header_text": "You are at an event with people you do not know well. You decide to join some people who are sitting on a couch and talking. When you try to enter the conversation, the people on the couch continue talking to each other because they were probably distracted.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "The group that was talking probably ignored you because they..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are at an event with people you do not know well. You decide to join some people who are sitting on a couch and talking. When you try to enter the conversation, the people on the couch continue talking to each other because they were probably distracted._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Did not see you there",
+                "Do not like you"
+            ],
+            "columnCount": 1,
+            "correct_value": "Did not see you there"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

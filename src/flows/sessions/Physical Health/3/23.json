@@ -1,0 +1,14 @@
+{
+    "header_text": "You go on a ride at a carnival. When you get off, you feel dizzy. You are delighted.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You go on a ride at a carnival. When you get off, you feel dizzy. You are delighted."
+        },
+        {
+            "type": "Media",
+            "url": "./images/448.jpg"
+        }
+    ]
+}

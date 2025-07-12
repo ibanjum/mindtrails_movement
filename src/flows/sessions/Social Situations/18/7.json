@@ -1,0 +1,14 @@
+{
+    "header_text": "You see from social media stories that a group of your colleagues are hanging out together. You weren't invited, and it looks like they're having a great time. Your colleagues probably didn't invite you because they forgot.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You see from social media stories that a group of your colleagues are hanging out together. You weren't invited, and it looks like they're having a great time. Your colleagues probably didn't invite you because they forgot."
+        },
+        {
+            "type": "Media",
+            "url": "./images/682.jpg"
+        }
+    ]
+}

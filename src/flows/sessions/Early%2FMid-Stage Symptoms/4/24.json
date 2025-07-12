@@ -1,0 +1,14 @@
+{
+    "header_text": "You are a dog owner. You've had difficulty with your balance lately, and you worry that it will become harder to take your dog for a walk. Thinking about whether you will be able to continue to care for your dog makes you feel overwhelmed.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are a dog owner. You've had difficulty with your balance lately, and you worry that it will become harder to take your dog for a walk. Thinking about whether you will be able to continue to care for your dog makes you feel overwhelmed."
+        },
+        {
+            "type": "Media",
+            "url": "./images/201.jpg"
+        }
+    ]
+}

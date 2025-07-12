@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at a coffee shop, and it's your turn to order. Your words are coming out unclear and you see confusion on the employee's face. You remind yourself that there's no rush and the employee is likely just trying to hear, not judging you.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at a coffee shop, and it's your turn to order. Your words are coming out unclear and you see confusion on the employee's face. You remind yourself that there's no rush and the employee is likely just trying to hear, not judging you."
+        },
+        {
+            "type": "Media",
+            "url": "./images/766.jpg"
+        }
+    ]
+}

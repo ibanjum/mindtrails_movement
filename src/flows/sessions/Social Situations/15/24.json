@@ -1,0 +1,14 @@
+{
+    "header_text": "You are in the car with your mother-in-law and you put on the radio. As you discuss which station to listen to, you realize that you and your mother-in-law have musical tastes that are wildly clashing.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are in the car with your mother-in-law and you put on the radio. As you discuss which station to listen to, you realize that you and your mother-in-law have musical tastes that are wildly clashing."
+        },
+        {
+            "type": "Media",
+            "url": "./images/675.jpg"
+        }
+    ]
+}

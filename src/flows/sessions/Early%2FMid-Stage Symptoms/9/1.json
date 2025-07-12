@@ -1,0 +1,14 @@
+{
+    "header_text": "You feel as if HD has become central to your identity. You have recently been feeling the burden of explaining your diagnosis in every conversation, especially with new people. You begin to understand your disease as something that can be both shared and kept private. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You feel as if HD has become central to your identity. You have recently been feeling the burden of explaining your diagnosis in every conversation, especially with new people. You begin to understand your disease as something that can be both shared and kept private. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/404.jpg"
+        }
+    ]
+}

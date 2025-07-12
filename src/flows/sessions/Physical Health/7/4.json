@@ -1,0 +1,14 @@
+{
+    "header_text": "You are on holiday at a lake and are riding a speed boat for the first time. You're buckled in. Your friend is about to make a turn at moderate speed, and you think that riding a boat is exhilarating.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are on holiday at a lake and are riding a speed boat for the first time. You're buckled in. Your friend is about to make a turn at moderate speed, and you think that riding a boat is exhilarating."
+        },
+        {
+            "type": "Media",
+            "url": "./images/466.jpg"
+        }
+    ]
+}

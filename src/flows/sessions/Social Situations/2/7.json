@@ -1,0 +1,14 @@
+{
+    "header_text": "You buy a new camera, but when you get home, you find that you do not like it. You return it to the store and get your money back. At the counter, the assistant is not very talkative as they help you, and you think they view you as crazy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You buy a new camera, but when you get home, you find that you do not like it. You return it to the store and get your money back. At the counter, the assistant is not very talkative as they help you, and you think they view you as crazy."
+        },
+        {
+            "type": "Media",
+            "url": "./images/603.jpg"
+        }
+    ]
+}

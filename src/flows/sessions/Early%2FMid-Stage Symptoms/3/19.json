@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at your child’s wedding. They ask you to dance with them, but you are reluctant because you feel unsteady on your feet. Whether or not your child notices, you know that you are a good parent.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at your child’s wedding. They ask you to dance with them, but you are reluctant because you feel unsteady on your feet. Whether or not your child notices, you know that you are a good parent."
+        },
+        {
+            "type": "Media",
+            "url": "./images/730.jpg"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You've been feeling run down lately and cancel on plans that you made with your friends. Your friends express frustration, saying that they planned this a long time ago and were looking forward to seeing you. You think that you made the best decision for yourself. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you glad you canceled your plans to rest?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You've been feeling run down lately and cancel on plans that you made with your friends. Your friends express frustration, saying that they planned this a long time ago and were looking forward to seeing you. You think that you made the best decision for yourself. _Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

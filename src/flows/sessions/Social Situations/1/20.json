@@ -1,0 +1,14 @@
+{
+    "header_text": "You decide to go to a dance lesson. Walking into a dance studio for the first time, you feel that the things around you are very unreal. This is interesting.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You decide to go to a dance lesson. Walking into a dance studio for the first time, you feel that the things around you are very unreal. This is interesting."
+        },
+        {
+            "type": "Media",
+            "url": "./images/600.jpg"
+        }
+    ]
+}

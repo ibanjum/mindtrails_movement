@@ -1,0 +1,14 @@
+{
+    "header_text": "One evening, your coworkers decide to go out to eat and ask you to join them. You accept but will have to wear your work clothes. When you arrive, the other diners turn to look at you. You think this is because they think you look stylish.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "One evening, your coworkers decide to go out to eat and ask you to join them. You accept but will have to wear your work clothes. When you arrive, the other diners turn to look at you. You think this is because they think you look stylish."
+        },
+        {
+            "type": "Media",
+            "url": "./images/606.jpg"
+        }
+    ]
+}

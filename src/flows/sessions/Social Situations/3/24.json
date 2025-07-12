@@ -1,0 +1,14 @@
+{
+    "header_text": "An old acquaintance just moved to town and asks you out to coffee. You are nervous about seeing them again after many years and could easily tell them that you are too busy. You are at home when they call about meeting, and you decline the call. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "An old acquaintance just moved to town and asks you out to coffee. You are nervous about seeing them again after many years and could easily tell them that you are too busy. You are at home when they call about meeting, and you decline the call. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/618.jpg"
+        }
+    ]
+}

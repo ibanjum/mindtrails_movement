@@ -1,0 +1,14 @@
+{
+    "header_text": "Your spouse has been spending a lot of time with their friends lately. You feel as though they would rather hang out with their friends than you. You decide to tell your spouse how you feel. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your spouse has been spending a lot of time with their friends lately. You feel as though they would rather hang out with their friends than you. You decide to tell your spouse how you feel. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/367.jpg"
+        }
+    ]
+}

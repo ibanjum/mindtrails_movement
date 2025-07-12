@@ -1,0 +1,14 @@
+{
+    "header_text": "You are outside working in your garden with your neighbor. You look over at your completed rows and notice they are much more uneven and scattered than in past years. That evening, you reflect on the day working in your garden and feel grateful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are outside working in your garden with your neighbor. You look over at your completed rows and notice they are much more uneven and scattered than in past years. That evening, you reflect on the day working in your garden and feel grateful."
+        },
+        {
+            "type": "Media",
+            "url": "./images/827.jpg"
+        }
+    ]
+}

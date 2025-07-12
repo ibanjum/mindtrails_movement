@@ -1,0 +1,14 @@
+{
+    "header_text": "You're out shopping and you notice that your body is moving uncontrollably. There are other shoppers around, and you wonder what they will think of you if they glance your way. The probability that people will judge you is low.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're out shopping and you notice that your body is moving uncontrollably. There are other shoppers around, and you wonder what they will think of you if they glance your way. The probability that people will judge you is low."
+        },
+        {
+            "type": "Media",
+            "url": "./images/718.jpg"
+        }
+    ]
+}

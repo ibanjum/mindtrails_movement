@@ -1,0 +1,27 @@
+{
+    "header_text": "During a visit to the dentist, you experience difficulty staying still during a procedure. You worry about the dentist's perception of you. You talk openly to the dentist about your condition, and she seems understanding.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "The dentist is..."
+        },
+        {
+            "type": "Buttons",
+            "name": "During a visit to the dentist, you experience difficulty staying still during a procedure. You worry about the dentist's perception of you. You talk openly to the dentist about your condition, and she seems understanding._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Accepting.",
+                "Bothered."
+            ],
+            "columnCount": 1,
+            "correct_value": "Accepting."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

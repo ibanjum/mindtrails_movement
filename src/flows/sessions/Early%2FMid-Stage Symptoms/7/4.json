@@ -1,0 +1,14 @@
+{
+    "header_text": "You are catching up with a group of friends you haven't seen in a while. In the middle of telling a story, you lose track of what you intended to say and worry about your friends' reactions. You tell your friends that you lost your train of thought, and they are understanding. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are catching up with a group of friends you haven't seen in a while. In the middle of telling a story, you lose track of what you intended to say and worry about your friends' reactions. You tell your friends that you lost your train of thought, and they are understanding. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/767.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You just sent an important email. As you reread what you've sent, you see a typo in the first sentence. You believe that you should be concerned.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You just sent an important email. As you reread what you've sent, you see a typo in the first sentence. You believe that you should be concerned."
+        },
+        {
+            "type": "Media",
+            "url": "./images/63.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Your friends are all in relationships. You are not currently in a relationship, and you wonder if there is something wrong with you. You think that you are undesirable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your friends are all in relationships. You are not currently in a relationship, and you wonder if there is something wrong with you. You think that you are undesirable. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/367.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You've been looking forward to your family reunion all year. As you give a toast at dinner, your speech is a bit slurred, and your family members' expressions are blank as they listen. They are probably concentrating. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You've been looking forward to your family reunion all year. As you give a toast at dinner, your speech is a bit slurred, and your family members' expressions are blank as they listen. They are probably concentrating. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/235.jpg"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "header_text": "You and your therapist meet once a week to process events in your life. This week as you meet, you notice a sudden shift in your mood towards them. You feel agitated, but choose to share about this feeling so that it can be managed. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your therapist meet once a week to process events in your life. This week as you meet, you notice a sudden shift in your mood towards them. You feel agitated, but choose to share about this feeling so that it can be... "
+        },
+        {
+            "type": "Entry",
+            "name": "You and your therapist meet once a week to process events in your life. This week as you meet, you notice a sudden shift in your mood towards them. You feel agitated, but choose to share about this feeling so that it can be managed. _Mental Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

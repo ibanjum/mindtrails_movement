@@ -1,0 +1,14 @@
+{
+    "header_text": "Arguments have been happening with your spouse more frequently. Today, your spouse takes their frustration out on you with unkind words. Instead of retaliating, you step outside to walk the dog and have time to think.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Arguments have been happening with your spouse more frequently. Today, your spouse takes their frustration out on you with unkind words. Instead of retaliating, you step outside to walk the dog and have time to think."
+        },
+        {
+            "type": "Media",
+            "url": "./images/593.jpg"
+        }
+    ]
+}

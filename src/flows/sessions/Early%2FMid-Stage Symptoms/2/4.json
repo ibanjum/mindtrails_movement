@@ -1,0 +1,14 @@
+{
+    "header_text": "At a meeting at work, you forget the answer to an important question. Your colleagues exchange glances that leave you unsure about how they perceive your capabilities due to your HD diagnosis. However, one colleague extends a helping hand offering to fill you in, and you think that your colleagues are supportive.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "At a meeting at work, you forget the answer to an important question. Your colleagues exchange glances that leave you unsure about how they perceive your capabilities due to your HD diagnosis. However, one colleague extends a helping hand offering to fill you in, and you think that your colleagues are supportive."
+        },
+        {
+            "type": "Media",
+            "url": "./images/733.jpg"
+        }
+    ]
+}

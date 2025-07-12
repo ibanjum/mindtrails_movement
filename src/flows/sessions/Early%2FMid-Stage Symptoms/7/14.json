@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at your workplace, and a colleague asks you to perform a task that you have completed countless times before. Today, you struggle to recall the steps needed to complete the task, and your colleague starts to look concerned. Regardless of what they think, you do not question your own competence.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at your workplace, and a colleague asks you to perform a task that you have completed countless times before. Today, you struggle to recall the steps needed to complete the task, and your colleague starts to look concerned. Regardless of what they think, you do not question your own competence."
+        },
+        {
+            "type": "Media",
+            "url": "./images/770.jpg"
+        }
+    ]
+}

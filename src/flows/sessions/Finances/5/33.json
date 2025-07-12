@@ -1,0 +1,27 @@
+{
+    "header_text": "You want to build up your credit score and decide to get a credit card. You start to research different cards and feel overwhelmed with the options, worrying you'll pick one that will only make your score worse. You take a deep breath and remember that you will find something that works for you.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Will you find a good credit card?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You want to build up your credit score and decide to get a credit card. You start to research different cards and feel overwhelmed with the options, worrying you'll pick one that will only make your score worse. You take a deep breath and remember that you will find something that works for you._Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

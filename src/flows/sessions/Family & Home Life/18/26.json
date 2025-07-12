@@ -1,0 +1,14 @@
+{
+    "header_text": "Building model cars has been a hobby of yours since you were young. You start a new model and find it hard to follow the instructions and place the pieces correctly. In the end, you work very slowly, and the final model is perfect.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Building model cars has been a hobby of yours since you were young. You start a new model and find it hard to follow the instructions and place the pieces correctly. In the end, you work very slowly, and the final model is perfect."
+        },
+        {
+            "type": "Media",
+            "url": "./images/243.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at an educational event about Huntington's disease, and one of the speakers is using unfamiliar medical terms. You feel lost, and you become nervous that you are the only person having trouble understanding the presentation. You look around at the people near you and notice that everyone else seems confused.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at an educational event about Huntington's disease, and one of the speakers is using unfamiliar medical terms. You feel lost, and you become nervous that you are the only person having trouble understanding the presentation. You look around at the people near you and notice that everyone else seems confused."
+        },
+        {
+            "type": "Media",
+            "url": "./images/126.jpg"
+        }
+    ]
+}

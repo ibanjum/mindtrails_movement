@@ -1,0 +1,14 @@
+{
+    "header_text": "You are on a walk with your sibling, catching up on recent events. Several minutes in, you trip and stumble on the uneven pavement. Your sibling supports you with their arm, and you feel steady.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are on a walk with your sibling, catching up on recent events. Several minutes in, you trip and stumble on the uneven pavement. Your sibling supports you with their arm, and you feel steady."
+        },
+        {
+            "type": "Media",
+            "url": "./images/236.jpg"
+        }
+    ]
+}

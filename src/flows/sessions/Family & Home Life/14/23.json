@@ -1,0 +1,27 @@
+{
+    "header_text": "Your children are thinking about going to college, but you think you would have to take out a loan to help send them. You remember stories you have heard of people still paying their loans when they are in retirement. Imagining yourself in retirement, you think your loans will be outstanding.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You realize that well into retirement, you will probably be"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your children are thinking about going to college, but you think you would have to take out a loan to help send them. You remember stories you have heard of people still paying their loans when they are in retirement. Imagining yourself in retirement, you think your loans will be outstanding._Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Financially stable with your loans paid off.",
+                "Still burdened by your  loans."
+            ],
+            "columnCount": 1,
+            "correct_value": "Still burdened by your  loans."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

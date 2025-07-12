@@ -1,0 +1,14 @@
+{
+    "header_text": "Rent for the next month is due soon. You’ve been under financial stress lately, and you’re unsure if you have enough money to make your rent payment. You think that making a plan to pay your rent on time will be feasible. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Rent for the next month is due soon. You’ve been under financial stress lately, and you’re unsure if you have enough money to make your rent payment. You think that making a plan to pay your rent on time will be feasible. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/289.jpg"
+        }
+    ]
+}

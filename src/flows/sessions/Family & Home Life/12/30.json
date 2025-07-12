@@ -1,0 +1,14 @@
+{
+    "header_text": "You apply for a new job in a foreign country, but no one in your family has ever been abroad. You think about how your family will react when you tell them your decision, and they may not like the idea of you living abroad. As you imagine telling them, you feel excited.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You apply for a new job in a foreign country, but no one in your family has ever been abroad. You think about how your family will react when you tell them your decision, and they may not like the idea of you living abroad. As you imagine telling them, you feel excited."
+        },
+        {
+            "type": "Media",
+            "url": "./images/142.jpg"
+        }
+    ]
+}

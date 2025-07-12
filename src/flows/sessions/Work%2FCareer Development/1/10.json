@@ -1,0 +1,27 @@
+{
+    "header_text": "You are at work and find out that an opportunity for promotion in your department just came up. You think you might be eligible and decide to ask your boss for more details. Your boss tells you that the selection criteria are very strict and that your application will likely be rejected.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your boss thinks you shouldn't apply for a promotion now because ..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are at work and find out that an opportunity for promotion in your department just came up. You think you might be eligible and decide to ask your boss for more details. Your boss tells you that the selection criteria are very strict and that your application will likely be rejected._Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You will never be capable.",
+                "You will be ready for one next year."
+            ],
+            "columnCount": 1,
+            "correct_value": "You will be ready for one next year."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

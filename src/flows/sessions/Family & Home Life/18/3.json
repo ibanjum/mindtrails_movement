@@ -1,0 +1,27 @@
+{
+    "header_text": "You are on a walk with your sibling, catching up on recent events. Several minutes in, you trip and stumble on the uneven pavement. Your sibling supports you with their arm, and you feel steady.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "With you sibling's help, you will..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are on a walk with your sibling, catching up on recent events. Several minutes in, you trip and stumble on the uneven pavement. Your sibling supports you with their arm, and you feel steady._Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Trip again",
+                "Not fall"
+            ],
+            "columnCount": 1,
+            "correct_value": "Not fall"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

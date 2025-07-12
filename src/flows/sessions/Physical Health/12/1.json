@@ -1,0 +1,14 @@
+{
+    "header_text": "You're at the library when another person sits next to you. They are coughing and sneezing without using a tissue or their elbow, and it makes you feel uneasy. When you lean over to politely ask them to cough and sneeze into their elbow, they decide to follow this healthy habit.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You're at the library when another person sits next to you. They are coughing and sneezing without using a tissue or their elbow, and it makes you feel uneasy. When you lean over to politely ask them to cough and sneeze into their elbow, they decide to follow this healthy habit."
+        },
+        {
+            "type": "Media",
+            "url": "./images/494.jpg"
+        }
+    ]
+}

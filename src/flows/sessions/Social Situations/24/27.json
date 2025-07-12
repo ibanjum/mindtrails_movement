@@ -1,0 +1,14 @@
+{
+    "header_text": "Your supervisor calls a meeting tied to a new initiative and asks each of you in turn to present your ideas and prior experience. When it is your turn to speak, you pause frequently. As you reflect on the meeting later in the day, you feel that the supervisor thought you sounded capable.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your supervisor calls a meeting tied to a new initiative and asks each of you in turn to present your ideas and prior experience. When it is your turn to speak, you pause frequently. As you reflect on the meeting later in the day, you feel that the supervisor thought you sounded capable."
+        },
+        {
+            "type": "Media",
+            "url": "./images/9.jpg"
+        }
+    ]
+}

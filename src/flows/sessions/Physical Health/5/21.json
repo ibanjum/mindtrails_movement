@@ -1,0 +1,14 @@
+{
+    "header_text": "You have a routine dentist appointment and find out that you need some tests to check the health of your gums and teeth. After the dentist performs the tests, you continue to lie in the dentist chair while waiting for the results. You think your teeth and gums are probably diseased.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have a routine dentist appointment and find out that you need some tests to check the health of your gums and teeth. After the dentist performs the tests, you continue to lie in the dentist chair while waiting for the results. You think your teeth and gums are probably diseased."
+        },
+        {
+            "type": "Media",
+            "url": "./images/348.jpg"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "Tonight, you find out the results of your yearly performance evaluation at work. Your rankings are low in one category, and you know your supervisor will want to meet with you to discuss your performance. When you think about what your supervisor will say to you, you feel ok.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Tonight, you find out the results of your yearly performance evaluation at work. Your rankings are low in one category, and you know your supervisor will want to meet with you to discuss your performance. When you think about what your supervisor will say to you, you feel ok."
+        },
+        {
+            "type": "Media",
+            "url": "./images/69.jpg"
+        }
+    ]
+}

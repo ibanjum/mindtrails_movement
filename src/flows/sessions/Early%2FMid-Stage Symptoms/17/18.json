@@ -1,0 +1,14 @@
+{
+    "header_text": "Every Saturday morning you go to a bakery with your neighbor. Today as you browse around, you can't remember what pastries you wanted to buy. Your neighbor suggests your favorites, and you think that it is nice to feel known.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Every Saturday morning you go to a bakery with your neighbor. Today as you browse around, you can't remember what pastries you wanted to buy. Your neighbor suggests your favorites, and you think that it is nice to feel known."
+        },
+        {
+            "type": "Media",
+            "url": "./images/825.jpg"
+        }
+    ]
+}

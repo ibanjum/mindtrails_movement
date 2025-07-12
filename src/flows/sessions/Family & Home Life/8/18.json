@@ -1,0 +1,14 @@
+{
+    "header_text": "Your fiance has children, while you do not. You are trying to adapt to living with younger children and how to bond with them. You think you will be able to work out a routine and adapt to this new family dynamic. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your fiance has children, while you do not. You are trying to adapt to living with younger children and how to bond with them. You think you will be able to work out a routine and adapt to this new family dynamic. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/176.jpg"
+        }
+    ]
+}

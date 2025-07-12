@@ -1,0 +1,14 @@
+{
+    "header_text": "When you think about the next 10 years, you wonder which friends will still be a part of your life. You hope to keep in touch with your closest friends but know that it will be difficult. When you imagine yourself in 10 years, you see you and your close friends having stayed close.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "When you think about the next 10 years, you wonder which friends will still be a part of your life. You hope to keep in touch with your closest friends but know that it will be difficult. When you imagine yourself in 10 years, you see you and your close friends having stayed close."
+        },
+        {
+            "type": "Media",
+            "url": "./images/707.jpg"
+        }
+    ]
+}

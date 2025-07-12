@@ -1,0 +1,14 @@
+{
+    "header_text": "Your neighbors were really loud last night so you couldn't sleep. You have a huge presentation to give to your coworkers this morning on a complicated topic. As you think about how you'll do in the presentation, you feel prepared.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Your neighbors were really loud last night so you couldn't sleep. You have a huge presentation to give to your coworkers this morning on a complicated topic. As you think about how you'll do in the presentation, you feel prepared."
+        },
+        {
+            "type": "Media",
+            "url": "./images/50.jpg"
+        }
+    ]
+}

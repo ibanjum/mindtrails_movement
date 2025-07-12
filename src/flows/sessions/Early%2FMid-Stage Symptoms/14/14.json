@@ -1,0 +1,14 @@
+{
+    "header_text": "As you're typing an email, you notice it's taking longer than usual to find the right words. It's concerning to experience this mental fog, and you wonder if you'll be able to finish the email at all. You take a break to drink some water, and when you return to the email, you decide to keep trying.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "As you're typing an email, you notice it's taking longer than usual to find the right words. It's concerning to experience this mental fog, and you wonder if you'll be able to finish the email at all. You take a break to drink some water, and when you return to the email, you decide to keep trying."
+        },
+        {
+            "type": "Media",
+            "url": "./images/815.jpg"
+        }
+    ]
+}

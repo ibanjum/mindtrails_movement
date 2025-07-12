@@ -1,0 +1,14 @@
+{
+    "header_text": "You arrange to meet your new coworker at 8 p.m. at a local bar. You arrive on time and find that your new coworker is not there yet. Reflecting on your last conversation as you wait for a table, you remember that they found your life interesting.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You arrange to meet your new coworker at 8 p.m. at a local bar. You arrive on time and find that your new coworker is not there yet. Reflecting on your last conversation as you wait for a table, you remember that they found your life interesting."
+        },
+        {
+            "type": "Media",
+            "url": "./images/527.jpg"
+        }
+    ]
+}

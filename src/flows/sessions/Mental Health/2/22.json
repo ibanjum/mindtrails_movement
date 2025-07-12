@@ -1,0 +1,14 @@
+{
+    "header_text": "You just received recognition for a project you worked on. You’ve only received congratulations from a few people, and you thought you’d have more reactions by now. You wonder if people aren't congratulating you because they are busy.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You just received recognition for a project you worked on. You’ve only received congratulations from a few people, and you thought you’d have more reactions by now. You wonder if people aren't congratulating you because they are busy."
+        },
+        {
+            "type": "Media",
+            "url": "./images/335.jpg"
+        }
+    ]
+}

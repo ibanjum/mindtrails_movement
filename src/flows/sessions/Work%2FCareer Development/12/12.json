@@ -1,0 +1,27 @@
+{
+    "header_text": "Your boss is talking about one of your role models in your field of work during a meeting, and she asks if anyone knows about their work. You quickly raise your hand in front of everyone, and your colleagues turn to you. You realize that you feel confident.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are you embarrassed that you raised your hand?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your boss is talking about one of your role models in your field of work during a meeting, and she asks if anyone knows about their work. You quickly raise your hand in front of everyone, and your colleagues turn to you. You realize that you feel confident._Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

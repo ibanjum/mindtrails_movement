@@ -1,0 +1,14 @@
+{
+    "header_text": "You've been struggling with your memory lately, so you've started learning a new technique for remembering lists of items. Training your brain to memorize lists has been a challenge. You remember more items as you practice the technique more, and this is very rewarding. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You've been struggling with your memory lately, so you've started learning a new technique for remembering lists of items. Training your brain to memorize lists has been a challenge. You remember more items as you practice the technique more, and this is very rewarding. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/893.jpg"
+        }
+    ]
+}

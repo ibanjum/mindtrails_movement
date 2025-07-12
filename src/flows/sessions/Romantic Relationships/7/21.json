@@ -1,0 +1,27 @@
+{
+    "header_text": "Your partner let you know that they're grabbing dinner with a friend from work. You've never heard your partner talk about any work friends, and you're concerned about who your partner is having dinner with. However, you trust your partner and tell them to enjoy their dinner.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you trust your partner going to dinner with a work friend?"
+        },
+        {
+            "type": "Buttons",
+            "name": "Your partner let you know that they're grabbing dinner with a friend from work. You've never heard your partner talk about any work friends, and you're concerned about who your partner is having dinner with. However, you trust your partner and tell them to enjoy their dinner._Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

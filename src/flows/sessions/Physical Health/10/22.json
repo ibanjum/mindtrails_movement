@@ -1,0 +1,15 @@
+{
+    "header_text": "You see an old friend you haven't spoken to in years. Your heart skips a beat. You feel excited.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You see an old friend you haven't spoken to in years. Your heart skips a beat. You feel..."
+        },
+        {
+            "type": "Entry",
+            "name": "You see an old friend you haven't spoken to in years. Your heart skips a beat. You feel excited._Physical Health_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

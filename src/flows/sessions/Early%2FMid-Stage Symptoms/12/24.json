@@ -1,0 +1,14 @@
+{
+    "header_text": "You are attending your weekly workout class. While doing the exercises, you start to wonder if you will be able to attend your classes in the future as your HD symptoms worsen. You decide that, over time, your workouts will adapt.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are attending your weekly workout class. While doing the exercises, you start to wonder if you will be able to attend your classes in the future as your HD symptoms worsen. You decide that, over time, your workouts will adapt."
+        },
+        {
+            "type": "Media",
+            "url": "./images/802.jpg"
+        }
+    ]
+}

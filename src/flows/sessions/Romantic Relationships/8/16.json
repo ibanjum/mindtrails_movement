@@ -1,0 +1,15 @@
+{
+    "header_text": "You are reading an article that talks about the rising divorce rate. You’ve been with your spouse for a while now, but you start to wonder whether your relationship will last. You remind yourself that things are stable right now and that your relationship is unique.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are reading an article that talks about the rising divorce rate. You’ve been with your spouse for a while now, but you start to wonder whether your relationship will last. You remind yourself that things are stable right now and that your relationship is..."
+        },
+        {
+            "type": "Entry",
+            "name": "You are reading an article that talks about the rising divorce rate. You’ve been with your spouse for a while now, but you start to wonder whether your relationship will last. You remind yourself that things are stable right now and that your relationship is unique._Romantic Relationships_entry1"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You enroll in a class to learn a new language, a task that's been on your bucket list for years. You find it difficult to remember new vocabulary, and you're dreading the day that the teacher will call on you in front of everyone. When the day comes, it is obvious to everyone that you have practiced. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your classmates notice your..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You enroll in a class to learn a new language, a task that's been on your bucket list for years. You find it difficult to remember new vocabulary, and you're dreading the day that the teacher will call on you in front of everyone. When the day comes, it is obvious to everyone that you have practiced. _Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Hard work",
+                "Mistakes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Hard work"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

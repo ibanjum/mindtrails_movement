@@ -1,0 +1,27 @@
+{
+    "header_text": "You are volunteering at the check-in desk for a local event. You are having trouble keeping track of all the check-in tasks and a huge line forms. The event organizer starts walking your direction, and you worry that they think you are incapable. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "The event organizer thought that you were..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are volunteering at the check-in desk for a local event. You are having trouble keeping track of all the check-in tasks and a huge line forms. The event organizer starts walking your direction, and you worry that they think you are incapable. _Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Incapable.",
+                "Helpful."
+            ],
+            "columnCount": 1,
+            "correct_value": "Helpful."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

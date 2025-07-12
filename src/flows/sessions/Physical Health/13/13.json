@@ -1,0 +1,14 @@
+{
+    "header_text": "You are going on a long walk tomorrow with a friend who walks a long distance every day. You have not been on a long walk in quite some time, and you worry about whether you'll be able to keep up. You think you will match your friend's pace.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are going on a long walk tomorrow with a friend who walks a long distance every day. You have not been on a long walk in quite some time, and you worry about whether you'll be able to keep up. You think you will match your friend's pace."
+        },
+        {
+            "type": "Media",
+            "url": "./images/497.jpg"
+        }
+    ]
+}

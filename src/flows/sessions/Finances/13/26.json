@@ -1,0 +1,27 @@
+{
+    "header_text": "You're hosting a dinner at your place with some neighborhood friends. The price of food at the grocery store is higher than you expected, and you worry if you'll be able to get the desserts you had planned. You talk to your friends, and they say they'd be happy to bring desserts to help out.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Are your friends upset with you about dessert?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You're hosting a dinner at your place with some neighborhood friends. The price of food at the grocery store is higher than you expected, and you worry if you'll be able to get the desserts you had planned. You talk to your friends, and they say they'd be happy to bring desserts to help out._Finances_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

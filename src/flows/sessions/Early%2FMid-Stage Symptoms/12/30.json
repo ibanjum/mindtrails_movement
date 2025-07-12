@@ -1,0 +1,14 @@
+{
+    "header_text": "You are watching a new movie at a local movie theater. As the first scene begins, you start to worry that your chorea will be distracting for those sitting around you. You remember that your symptoms are out of your control, and you decide to focus on the movie.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are watching a new movie at a local movie theater. As the first scene begins, you start to worry that your chorea will be distracting for those sitting around you. You remember that your symptoms are out of your control, and you decide to focus on the movie."
+        },
+        {
+            "type": "Media",
+            "url": "./images/804.jpg"
+        }
+    ]
+}

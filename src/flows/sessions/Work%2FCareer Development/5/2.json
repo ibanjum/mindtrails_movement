@@ -1,0 +1,14 @@
+{
+    "header_text": "You are preparing to meet with your boss for a performance review. You heard from other people that your boss is in an incredibly bad mood today. You worked hard this semester and think it is likely you will get a good review.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are preparing to meet with your boss for a performance review. You heard from other people that your boss is in an incredibly bad mood today. You worked hard this semester and think it is likely you will get a good review."
+        },
+        {
+            "type": "Media",
+            "url": "./images/40.jpg"
+        }
+    ]
+}

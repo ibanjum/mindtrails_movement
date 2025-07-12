@@ -1,0 +1,14 @@
+{
+    "header_text": "Playing musical instruments has been a favorite hobby of yours since childhood. Reading the sheet music used to be a strength, but now you have trouble following it. When you take a deep breath and slow down, you are able to refocus and continue.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Playing musical instruments has been a favorite hobby of yours since childhood. Reading the sheet music used to be a strength, but now you have trouble following it. When you take a deep breath and slow down, you are able to refocus and continue."
+        },
+        {
+            "type": "Media",
+            "url": "./images/416.jpg"
+        }
+    ]
+}

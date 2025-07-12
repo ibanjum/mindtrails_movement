@@ -1,0 +1,27 @@
+{
+    "header_text": "You are going on a long walk tomorrow with a friend who walks a long distance every day. You have not been on a long walk in quite some time, and you worry about whether you'll be able to keep up. You think you will match your friend's pace.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Tomorrow, you will probably..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are going on a long walk tomorrow with a friend who walks a long distance every day. You have not been on a long walk in quite some time, and you worry about whether you'll be able to keep up. You think you will match your friend's pace._Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Fall way behind your friend during your walk",
+                "Be able to keep up with your friend"
+            ],
+            "columnCount": 1,
+            "correct_value": "Be able to keep up with your friend"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "header_text": "You notice your home is not like your peers' homes. A good friend of yours has never been to your place, but wants to come over for dinner one night. You think about their reaction to your home and that they will be respectful.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You notice your home is not like your peers' homes. A good friend of yours has never been to your place, but wants to come over for dinner one night. You think about their reaction to your home and that they will be respectful."
+        },
+        {
+            "type": "Media",
+            "url": "./images/161.jpg"
+        }
+    ]
+}

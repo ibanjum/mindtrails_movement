@@ -1,0 +1,14 @@
+{
+    "header_text": "You are at a party and start to dance with your friends. You start to feel dizzy and sit down. The dizziness goes away, and you think that it was a feeling of excitement.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You are at a party and start to dance with your friends. You start to feel dizzy and sit down. The dizziness goes away, and you think that it was a feeling of excitement."
+        },
+        {
+            "type": "Media",
+            "url": "./images/486.jpg"
+        }
+    ]
+}

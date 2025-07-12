@@ -1,0 +1,14 @@
+{
+    "header_text": "As you sit down to pay bills, you find it difficult to organize paperwork and add up expenses. You start to doubt whether these bills will ever get paid. Your son offers to help you, and the two of you tackle it together.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "As you sit down to pay bills, you find it difficult to organize paperwork and add up expenses. You start to doubt whether these bills will ever get paid. Your son offers to help you, and the two of you tackle it together."
+        },
+        {
+            "type": "Media",
+            "url": "./images/875.jpg"
+        }
+    ]
+}

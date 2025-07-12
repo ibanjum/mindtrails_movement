@@ -1,0 +1,27 @@
+{
+    "header_text": "At your routine doctor’s appointment, you are asked to take a test for a disease. After the test, you wait for your results in the waiting room for a long time. You think the chances that you have the disease are minimal. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Do you think the test results will say you have the disease?"
+        },
+        {
+            "type": "Buttons",
+            "name": "At your routine doctor’s appointment, you are asked to take a test for a disease. After the test, you wait for your results in the waiting room for a long time. You think the chances that you have the disease are minimal. _Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

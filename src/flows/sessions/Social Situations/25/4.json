@@ -1,0 +1,27 @@
+{
+    "header_text": "You are having dinner with a coworker. While you're eating dinner together, you take a phone call from a family member and you switch back and forth between English and another language. You never told your coworker that your family members are bilingual. You think about your coworker's reaction, and think that she'll think it is interesting.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Is your coworker judgmental of your bilingual family?"
+        },
+        {
+            "type": "Buttons",
+            "name": "You are having dinner with a coworker. While you're eating dinner together, you take a phone call from a family member and you switch back and forth between English and another language. You never told your coworker that your family members are bilingual. You think about your coworker's reaction, and think that she'll think it is interesting._Social Situations_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "header_text": "You are crossing the street to the grocery store when a car pulls up. You are worried they might judge you because you are taking a while to cross the street. You realize that regardless of what the driver thinks, all that matters is that you make it across the street safely.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You realize that the most important thing is..."
+        },
+        {
+            "type": "Buttons",
+            "name": "You are crossing the street to the grocery store when a car pulls up. You are worried they might judge you because you are taking a while to cross the street. You realize that regardless of what the driver thinks, all that matters is that you make it across the street safely._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "The driver's opinion.",
+                "Your safety."
+            ],
+            "columnCount": 1,
+            "correct_value": "Your safety."
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

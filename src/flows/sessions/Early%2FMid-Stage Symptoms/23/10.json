@@ -1,0 +1,27 @@
+{
+    "header_text": "Your neighbor has you over for tea every Wednesday. As you are over for tea today, you begin to experience a sadness you can't seem to shake. Your neighbor notices a change in your demeanor and looks at you encouragingly.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Your neighbor is ready to..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Your neighbor has you over for tea every Wednesday. As you are over for tea today, you begin to experience a sadness you can't seem to shake. Your neighbor notices a change in your demeanor and looks at you encouragingly._Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Reject you",
+                "Listen"
+            ],
+            "columnCount": 1,
+            "correct_value": "Listen"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ]
+}

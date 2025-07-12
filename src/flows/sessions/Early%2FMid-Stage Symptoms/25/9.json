@@ -1,0 +1,23 @@
+{
+    "header_text": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in moderation.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in moderation._Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "moderation"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct"
+}

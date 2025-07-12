@@ -1,0 +1,14 @@
+{
+    "header_text": "You have just been given a job in an office that you really admire. To eventually receive the promotion you want, you know that you will have to work very hard for several years and the outcome is uncertain. As you envision your likely position in the company down the road, you expect the job you want will be given to someone else.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You have just been given a job in an office that you really admire. To eventually receive the promotion you want, you know that you will have to work very hard for several years and the outcome is uncertain. As you envision your likely position in the company down the road, you expect the job you want will be given to someone else."
+        },
+        {
+            "type": "Media",
+            "url": "./images/36.jpg"
+        }
+    ]
+}

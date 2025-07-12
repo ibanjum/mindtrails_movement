@@ -1,0 +1,14 @@
+{
+    "header_text": "While at a family dinner, your family member mentions that you are a good piano player and asks you to play something on the piano for the rest of the family. You know a few pieces you can play well. Although, you feel nervous playing on the spot without practice.",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "While at a family dinner, your family member mentions that you are a good piano player and asks you to play something on the piano for the rest of the family. You know a few pieces you can play well. Although, you feel nervous playing on the spot without practice."
+        },
+        {
+            "type": "Media",
+            "url": "./images/187.jpg"
+        }
+    ]
+}

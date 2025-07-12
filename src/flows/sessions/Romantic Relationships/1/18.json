@@ -1,0 +1,14 @@
+{
+    "header_text": "You texted your partner several hours ago. They haven't responded to it yet, even though they usually respond right away. You think that they probably forgot to reply. ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "You texted your partner several hours ago. They haven't responded to it yet, even though they usually respond right away. You think that they probably forgot to reply. "
+        },
+        {
+            "type": "Media",
+            "url": "./images/529.jpg"
+        }
+    ]
+}
