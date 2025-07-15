@@ -24,11 +24,14 @@ with open(f"{dir_csv}/MTM Short Scenarios by Session - Images.csv", "r", encodin
             image_id = url[start_index:end_index]
 
             if not Path(f"./src/images/{name}").exists():
-                time.sleep(2)
+                time.sleep(1)
                 with request.urlopen(f"https://drive.usercontent.google.com/u/1/uc?id={image_id}&export=download") as r:
                     with open(f"./src/images/{name}", mode="wb+") as f:
                         shutil.copyfileobj(r,f)
-        except:
+        except (KeyboardInterrupt,FileNotFoundError):
+            raise
+        except Exception as e:
             print("-----------------------------------")
+            print(str(e))
             print(name)
             print(url)
