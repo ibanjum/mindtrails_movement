@@ -7,7 +7,7 @@ from pathlib import Path
 
 from helpers_pages import create_discrimination_page, create_scenario_pages, create_survey_page,create_resource_page
 from helpers_pages import create_long_pages, create_write_your_own_page, create_video_page
-from helpers_utilities import get_motivations, get_ER, get_tips, clean_up_unicode, has_value, create_puzzle, dir_safe, shuffle, write_output, media_url
+from helpers_utilities import get_motivations, get_ER, get_tips, clean_up_unicode, has_value, create_puzzle, dir_safe, shuffle, write_output, media_url, lower
 
 dir_root = "./make"
 dir_csv    = f"{dir_root}/CSV"
@@ -21,7 +21,7 @@ dir_after  = f"{dir_doses}/__first__"
 Path(dir_out).mkdir(parents=True,exist_ok=True)
 
 def flat(dictionary, key):
-    return list(chain.from_iterable(dictionary[key.lower()].values()))
+    return list(chain.from_iterable(dictionary[lower(key)].values()))
 
 def _create_practice_pages(i):
     with open(f"{dir_csv}/MTM dose1_scenarios.csv", "r", encoding="utf-8") as dose1_read_obj:  # scenarios for first dose in file
@@ -129,12 +129,13 @@ def create_short_sessions(popname,i):
     with open(f"{dir_csv}/MTM Short Scenarios by Session - MTM {popname} Final for app_old.csv","r", encoding="utf-8", newline='') as read_obj:
         for row in islice(csv.reader(read_obj),1,None):
 
-            domain    = row[3].strip()
-            label     = row[7]
+            domain = row[3].strip()
+            label  = row[7]
+            tipe   = lower(row[2]).strip()
 
             if not domain or not label: continue
 
-            is_wyo = "write your own" in label.lower()
+            is_wyo = "write your own" in lower(label)
 
             if len(scenarios[domain]) == 10 or is_wyo and len(scenarios[domain]) > 6:
                 sessions[domain].append(sum(scenarios[domain],[]))
@@ -145,7 +146,6 @@ def create_short_sessions(popname,i):
                 scenarios[domain] = []
 
             else:
-                
                 image_url = media_url(row[i+6])
                 puzzle1,puzzle2 = map(create_puzzle,row[i:i+2])
 
@@ -156,7 +156,7 @@ def create_short_sessions(popname,i):
                 choices = [c.strip() for c in choices]
                 answer = answer.strip()
 
-                if choices[0].strip().lower() in ['yes','no']: choices = ["Yes","No"]
+                if lower(choices[0]).strip() in ['yes','no']: choices = ["Yes","No"]
 
                 shuffle(choices)
 
@@ -176,7 +176,7 @@ def create_short_sessions(popname,i):
                         n_missing=letters_missing,
                         include_lessons_learned=show_lessons_learned,
                         lessons_learned_dict=lessons_learned_dict,
-                        is_first=is_first_scenario
+                        is_first=is_first_scenario, tipe=tipe
                     )
                 )
 
@@ -184,7 +184,7 @@ def create_short_sessions(popname,i):
 
 def create_surveys(popname,i):
     accepted = [f"{popname}_beforedomain_all", f"{popname}_afterdomain_all", f"{popname}_dose_1", f"{popname}_control_dose_1"]
-    accepted = [a.lower() for a in accepted]
+    accepted = [lower(a) for a in accepted]
     surveys  = defaultdict(lambda:defaultdict(list))
 
     # Open the file with all the content

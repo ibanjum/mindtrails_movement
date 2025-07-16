@@ -6,7 +6,7 @@ from itertools import islice, chain
 from pathlib import Path
 
 from helpers_pages import create_survey_page
-from helpers_utilities import clean_up_unicode, write_output, media_url
+from helpers_utilities import clean_up_unicode, write_output, media_url, lower
 
 dir_root = "./make"
 dir_csv  = f"{dir_root}/CSV"
@@ -63,15 +63,15 @@ for pop_name in populations:
             # Each flow can be uniquely identified by the flow it
             # belongs to and which run of that flow it appears on
 
-            dose        = row[2].lower()
-            subject     = row[3].lower()
+            dose        = lower(row[2])
+            subject     = lower(row[3])
             group_id    = (dose,subject)
             subgroup_id = row[0]
 
             if row[2] and row[0] != "Practice CBM-I": 
                 survey_pages[group_id][subgroup_id].append(_create_survey_page(row))
 
-    pop_name = pop_name.lower()
+    pop_name = lower(pop_name)
     # Define folders
     folders = {
         #TREATMENT
