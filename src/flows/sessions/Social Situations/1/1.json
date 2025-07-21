@@ -1,14 +1,16 @@
 {
-    "header_text": "It's the weekend, and you are in town. You see a friend you haven't seen in ages. Your friend gives you a big hug, and you feel smothered. This feeling is nice.",
+    "header_text": "A welcome greeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It's the weekend, and you are in town. You see a friend you haven't seen in ages. Your friend gives you a big hug, and you feel smothered. This feeling is nice."
+            "text": "A welcome greeting"
         },
         {
             "type": "Media",
             "url": "./images/596.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

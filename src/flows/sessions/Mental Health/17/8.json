@@ -1,23 +1,25 @@
 {
-    "header_text": "It's a cold day, and you are out walking to clear your mind. Your hands start to shake and your heart beats quickly as you walk up a hill. This is scary.",
+    "header_text": "An Invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's a cold day, and you are out walking to clear your mind. Your hands start to shake and your heart beats quickly as you walk up a hill. This is..."
+            "text": "You invite your supervisor to an event this weekend. You're the only one of your friends that's close with their supervisor and are unsure of how others will perceive you. As you get ready for the event, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "It's a cold day, and you are out walking to clear your mind. Your hands start to shake and your heart beats quickly as you walk up a hill. This is scary._Mental Health_puzzle1",
+            "name": "An Invitation_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "scary"
+                "happy"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "Your best friend is organizing a birthday party for you at their home. They invited a lot of people who will all be there for you. When you think about all of the people coming, you feel excited.",
+    "header_text": "Your Birthday Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your best friend is organizing a birthday party for you at their home. They invited a lot of people who will all be there for you. When you think about all of the people coming, you feel excited."
+            "text": "Your Birthday Party"
         },
         {
             "type": "Media",
             "url": "./images/145.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

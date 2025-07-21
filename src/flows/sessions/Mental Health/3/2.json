@@ -1,5 +1,5 @@
 {
-    "header_text": "During a meeting, your boss puts you in a group of colleagues to collaborate on finding a solution for an issue. There is one topic that people are unsure how to address, but you have an idea. Even though you have not spoken up with this group yet, you trust your instincts and hope to guide the group in the right direction.",
+    "header_text": "Speaking Up During Collaboration",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "During a meeting, your boss puts you in a group of colleagues to collaborate on finding a solution for an issue. There is one topic that people are unsure how to address, but you have an idea. Even though you have not spoken up with this group yet, you trust your instincts and hope to guide the group in the right direction._Mental Health_puzzle1",
+            "name": "Speaking Up During Collaboration_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

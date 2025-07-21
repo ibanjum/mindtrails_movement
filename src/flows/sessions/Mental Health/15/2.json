@@ -1,14 +1,16 @@
 {
-    "header_text": "You notice your home is smaller and not as spacious as the homes of others that you know. Your coworkers have never been to your place, but they want to come over. You think about their reaction to your home and that they will be respectful.",
+    "header_text": "Mental Health Resources",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You notice your home is smaller and not as spacious as the homes of others that you know. Your coworkers have never been to your place, but they want to come over. You think about their reaction to your home and that they will be respectful."
+            "text": "Mental Health Resources"
         },
         {
             "type": "Media",
-            "url": "./images/387.jpg"
+            "url": "./images/386.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

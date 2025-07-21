@@ -1,27 +1,25 @@
 {
-    "header_text": "You are at the pet store looking for a new bird feeder when you notice a kitten up for adoption. You have been thinking about adopting an animal, but fear your HD will limit your ability to care for it in the future. You remember that you will also have your family's support, and you decide to adopt.",
+    "header_text": "Trying Times",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your kitten be cared for?"
+            "text": "You are spending some time with your young granddaughter over the weekend. Your granddaughter is very sweet, but sometimes you get frustrated with her. When you think about your relationship with her as she grows up, you see yourself as being..."
         },
         {
-            "type": "Buttons",
-            "name": "You are at the pet store looking for a new bird feeder when you notice a kitten up for adoption. You have been thinking about adopting an animal, but fear your HD will limit your ability to care for it in the future. You remember that you will also have your family's support, and you decide to adopt._Family & Home Life_comp_question",
+            "type": "WordPuzzle",
+            "name": "Trying Times_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "frustrated"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 3
 }

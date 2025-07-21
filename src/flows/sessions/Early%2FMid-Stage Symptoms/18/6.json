@@ -1,23 +1,25 @@
 {
-    "header_text": "While walking across the backyard during a family barbecue, you stumble and trip unexpectedly in front of your family. Your once-confident stride is now replaced by an unsteady gait. After tripping, you feel overwhelmed.",
+    "header_text": "Shopping for Clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A family member comes over to check in to see if you're okay. You express how you're feeling about your unsteadiness and start to feel..."
+            "text": "You're looking through clothes at a store and decide to try on a sweater right off the rack. You're having a difficult time getting the sweater on and start to worry that someone will notice how uncoordinated you are. As you glance around, you see that others are focused on their..."
         },
         {
             "type": "WordPuzzle",
-            "name": "While walking across the backyard during a family barbecue, you stumble and trip unexpectedly in front of your family. Your once-confident stride is now replaced by an unsteady gait. After tripping, you feel overwhelmed._Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "Shopping for Clothes_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "relieved"
+                "shopping"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You visit a childhood friend for the holidays and notice that they are getting older. You find yourself wondering what their health will be like in the future. You think their health will likely be declining.",
+    "header_text": "Health and aging",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You visit a childhood friend for the holidays and notice that they are getting older. You find yourself wondering what their health will be like in the future. You think their health will likely be declining."
+            "text": "Health and aging"
         },
         {
             "type": "Media",
             "url": "./images/131.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 3
 }

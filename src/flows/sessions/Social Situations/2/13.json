@@ -1,14 +1,16 @@
 {
-    "header_text": "During a discussion, you end up debating an issue with colleagues. You later discover that they found your views unusual. When the issue comes up again in a group conversation, you expect that you will be excluded.",
+    "header_text": "Unusual views",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "During a discussion, you end up debating an issue with colleagues. You later discover that they found your views unusual. When the issue comes up again in a group conversation, you expect that you will be excluded."
+            "text": "Unusual views"
         },
         {
             "type": "Media",
             "url": "./images/607.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

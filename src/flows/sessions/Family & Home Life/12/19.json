@@ -1,27 +1,16 @@
 {
-    "header_text": "You have been very busy and are having trouble keeping in contact with most of your family. You are usually good about calling them. Lately, your schedule has been very hectic. ",
+    "header_text": "Keeping Up With Family ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Will your family understand why you have been out of touch lately?"
+            "type": "Label",
+            "text": "Keeping Up With Family "
         },
         {
-            "type": "Buttons",
-            "name": "You have been very busy and are having trouble keeping in contact with most of your family. You are usually good about calling them. Lately, your schedule has been very hectic. _Family & Home Life_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/82.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

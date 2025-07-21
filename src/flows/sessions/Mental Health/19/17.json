@@ -1,14 +1,16 @@
 {
-    "header_text": "You were very excited to return to in-person office work and decided to commit to a lot of activities. You've found it challenging to meet all of your responsibilities, and you worry that you are failing at everything. ",
+    "header_text": "Disease and Identity",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You were very excited to return to in-person office work and decided to commit to a lot of activities. You've found it challenging to meet all of your responsibilities, and you worry that you are failing at everything. "
+            "text": "Disease and Identity"
         },
         {
             "type": "Media",
-            "url": "./images/77.jpg"
+            "url": "./images/404.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

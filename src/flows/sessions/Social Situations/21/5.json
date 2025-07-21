@@ -1,19 +1,19 @@
 {
-    "header_text": "No response: Thoughts",
+    "header_text": "Strong opinions: Thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been texting with someone you really like and they're usually quick to respond. You notice that they saw your message a couple of hours ago and did not respond. \n\nHere are some thoughts that might pop into mind:"
+            "text": "Your family members have some strong opinions and you don't always agree with them. One evening, you invite a friend over for dinner. \n\nHere are some thoughts that might pop into mind:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I am a nice person to talk to.",
-                "They're just busy.",
-                "They may think I'm boring, but no one is interesting all the time.",
-                "They may not be interested in me romantically, but I can move on to someone else.",
-                "They must not like me."
+                "My family is to say something that makes me upset.",
+                "If my friend doesn't agree with my family members' perspectives, they'll still want to be friends with me.",
+                "My friend will be interested in hearing what my family has to say.",
+                "If my family say something that I don't agree with, my friend and I can always talk about it later.",
+                "I appreciate having different views than my family."
             ],
             "Duration": 15
         }

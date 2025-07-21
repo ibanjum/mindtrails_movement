@@ -1,14 +1,16 @@
 {
-    "header_text": "You had a very busy day, and you are finally able to relax in the evening. As you sit on your couch, you feel spaced-out. You are calm.",
+    "header_text": "Comfortable couch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You had a very busy day, and you are finally able to relax in the evening. As you sit on your couch, you feel spaced-out. You are calm."
+            "text": "Comfortable couch"
         },
         {
             "type": "Media",
             "url": "./images/451.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

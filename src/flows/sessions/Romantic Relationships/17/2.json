@@ -1,23 +1,25 @@
 {
-    "header_text": "You have always been known for your hospitality and ability to plan fun events. You go to the store with your spouse to buy supplies for a surprise event for your relative, but you can't remember the items on your list. Your spouse finds you in the store to give you a written list, and you feel supported.",
+    "header_text": "Making a Choice",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have always been known for your hospitality and ability to plan fun events. You go to the store with your spouse to buy supplies for a surprise event for your relative, but you can't remember the items on your list. Your spouse finds you in the store to give you a written list, and you feel..."
+            "text": "Your partner wants you to take on a specific job. You would rather work in a different place but your partner has made it clear they are not on board with the job choice. When you think about talking with your partner about your choice, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You have always been known for your hospitality and ability to plan fun events. You go to the store with your spouse to buy supplies for a surprise event for your relative, but you can't remember the items on your list. Your spouse finds you in the store to give you a written list, and you feel supported._Romantic Relationships_puzzle1",
+            "name": "Making a Choice_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "supported"
+                "prepared"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

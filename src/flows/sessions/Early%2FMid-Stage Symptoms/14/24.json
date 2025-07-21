@@ -1,14 +1,16 @@
 {
-    "header_text": "You're organizing your closet when you struggle to remember where you placed your favorite sweater. You remember that you have been misplacing a lot of items, causing you to wonder if your symptoms are progressing. However, you realize that many people misplace items, and it's better to stay calm.",
+    "header_text": "Future Workouts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're organizing your closet when you struggle to remember where you placed your favorite sweater. You remember that you have been misplacing a lot of items, causing you to wonder if your symptoms are progressing. However, you realize that many people misplace items, and it's better to stay calm."
+            "text": "Future Workouts"
         },
         {
             "type": "Media",
-            "url": "./images/405.jpg"
+            "url": "./images/802.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

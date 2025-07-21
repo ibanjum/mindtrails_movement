@@ -1,15 +1,17 @@
 {
-    "header_text": "You are heading out of town for a few days. You decide to double-check that all the appliances in your house are turned off. As you close the door to your house, you feel nervous.",
+    "header_text": "Waking Up Ready",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are heading out of town for a few days. You decide to double-check that all the appliances in your house are turned off. As you close the door to your house, you feel..."
+            "text": "As you're finishing an assignment at midnight, you realize you still have a couple of tasks left. You plan to wake up a little early to finish them. While you're setting your alarm and thinking about your plan, you feel..."
         },
         {
             "type": "Entry",
-            "name": "You are heading out of town for a few days. You decide to double-check that all the appliances in your house are turned off. As you close the door to your house, you feel nervous._Mental Health_entry1"
+            "name": "Waking Up Ready_Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

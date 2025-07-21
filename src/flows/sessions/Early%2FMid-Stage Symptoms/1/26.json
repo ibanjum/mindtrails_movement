@@ -1,14 +1,29 @@
 {
-    "header_text": "You forget your PIN and text your family to ask if they know where the notebook is where you've jotted it down. You're worried if you're annoying them by asking repeatedly. Since no one responds right away, you begin to feel like a burden.",
+    "header_text": "Babysitting Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You forget your PIN and text your family to ask if they know where the notebook is where you've jotted it down. You're worried if you're annoying them by asking repeatedly. Since no one responds right away, you begin to feel like a burden."
+            "type": "Text",
+            "Text": "Your grandchild is..."
         },
         {
-            "type": "Media",
-            "url": "./images/744.jpg"
+            "type": "Buttons",
+            "name": "Babysitting Questions_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Feeling impatient.",
+                "Happy to be with you."
+            ],
+            "columnCount": 1,
+            "correct_value": "Happy to be with you."
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

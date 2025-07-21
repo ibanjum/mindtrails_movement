@@ -1,23 +1,39 @@
 {
-    "header_text": "At the toy store, your young niece eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before HD. An excited giggle snaps your attention back to the present, and you decide to focus on your niece's joy.",
+    "header_text": "Easily Agitated",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At the toy store, your young grandchild eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before PD. An excited giggle snaps your attention back to the present, and you decide to focus on your grandchild's..."
+            "Text": "Taking a break to calm down is a..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "At the toy store, your young niece eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before HD. An excited giggle snaps your attention back to the present, and you decide to focus on your niece's joy._Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Easily Agitated_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "joy"
+            "buttons": [
+                "Good idea.",
+                "Bad idea."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Good idea."
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Every small shift in perspective leads to bigger changes over time. Keep going—you're training your brain to think in more balanced and helpful ways!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

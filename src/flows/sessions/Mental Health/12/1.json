@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been working hard all day and have not had much to eat. As you stand up from your desk, you feel dizzy and weak, and this makes you a little worried. ",
+    "header_text": "Waking Up Ready",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been working hard all day and have not had much to eat. As you stand up from your desk, you feel dizzy and weak, and this makes you a little worried. "
+            "text": "Waking Up Ready"
         },
         {
             "type": "Media",
-            "url": "./images/364.jpg"
+            "url": "./images/76.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

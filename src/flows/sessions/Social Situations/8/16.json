@@ -1,14 +1,16 @@
 {
-    "header_text": "You are talking with a group of friends about TV shows. When you share your opinion on an old TV show that you just discovered, no one responds. They are probably thinking about how interesting the plot sounds.",
+    "header_text": "Talking about TV",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are talking with a group of friends about TV shows. When you share your opinion on an old TV show that you just discovered, no one responds. They are probably thinking about how interesting the plot sounds."
+            "text": "Talking about TV"
         },
         {
             "type": "Media",
             "url": "./images/641.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

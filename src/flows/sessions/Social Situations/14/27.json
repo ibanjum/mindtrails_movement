@@ -1,14 +1,16 @@
 {
-    "header_text": "You use your phone to send a photo to a friend, and you can see that they opened it without responding. You've seen them posting other things online, so they're definitely on their phone. Your friend probably didn't respond because they forgot.",
+    "header_text": "Ignored by a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You use your phone to send a photo to a friend, and you can see that they opened it without responding. You've seen them posting other things online, so they're definitely on their phone. Your friend probably didn't respond because they forgot."
+            "text": "Ignored by a Friend"
         },
         {
             "type": "Media",
             "url": "./images/672.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You are going on a date tonight. You don't know the person well and you know there will be some silences in the conversation. Even though it might be awkward, you know you'll have fun.",
+    "header_text": "Going on a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are going on a date tonight. You don't know the person well and you know there will be some silences in the conversation. Even though it might be awkward, you know you'll have fun."
+            "text": "Going on a Date"
         },
         {
             "type": "Media",
             "url": "./images/530.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

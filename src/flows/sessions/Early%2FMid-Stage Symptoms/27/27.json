@@ -1,14 +1,16 @@
 {
-    "header_text": "During a game night with friends, you begin playing a fast-paced card game. You are soon falling behind and don't want to ruin the fun. You tell your friends you need to slow down, and they are agreeable. ",
+    "header_text": "New Friendship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "During a game night with friends, you begin playing a fast-paced card game. You are soon falling behind and don't want to ruin the fun. You tell your friends you need to slow down, and they are agreeable. "
+            "text": "New Friendship"
         },
         {
             "type": "Media",
-            "url": "./images/871.jpg"
+            "url": "./images/854.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

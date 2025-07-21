@@ -1,23 +1,25 @@
 {
-    "header_text": "Saturday brunch with relatives is a monthly tradition you cherish. Today, your relatives point out the change in your weight since they last saw you. You recognize they aren't pointing out your flaws, but are demonstrating their concern.",
+    "header_text": "Changing Household Roles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Saturday brunch with relatives is a monthly tradition you cherish. Today, your relatives point out the change in your weight since they last saw you. You recognize they aren't pointing out your flaws, but are demonstrating their..."
+            "text": "You set a family meeting to talk things over. Everyone feels that if you take on different responsibilities around the house, they will..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Saturday brunch with relatives is a monthly tradition you cherish. Today, your relatives point out the change in your weight since they last saw you. You recognize they aren't pointing out your flaws, but are demonstrating their concern._Family & Home Life_puzzle1",
+            "name": "Changing Household Roles_Family & Home Life_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "concern"
+                "adjust"
             ],
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

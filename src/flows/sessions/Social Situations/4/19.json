@@ -1,5 +1,5 @@
 {
-    "header_text": "You arrange to meet a friend in town. Last time you met, you disagreed on something you were discussing. Just before you leave, they call to say that they can't make it. As you put down the phone, you think that this is because they are busy.",
+    "header_text": "Cancelled plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You arrange to meet a friend in town. Last time you met, you disagreed on something you were discussing. Just before you leave, they call to say that they can't make it. As you put down the phone, you think that this is because they are busy._Social Situations_comp_question",
+            "name": "Cancelled plans_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "They remembered they had an important meeting at work at the same time",
-                "They are mad at you because of your previous disagreement"
+                "They are mad at you because of your previous disagreement",
+                "They remembered they had an important meeting at work at the same time"
             ],
             "columnCount": 1,
             "correct_value": "They remembered they had an important meeting at work at the same time"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "You are hosting a baby shower for a family member today and both the parents of the mom-to-be are attending. They're divorced and sometimes cause an embarrassing scene in public. During the shower, you think about her parents.",
+    "header_text": "Parents Visiting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You are hosting a baby shower for a family member today and both the parents of the mom-to-be are attending. They're divorced and sometimes cause an embarrassing scene in public. During the shower, you think about her parents._Family & Home Life_puzzle1",
+            "name": "Parents Visiting _Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

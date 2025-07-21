@@ -1,27 +1,25 @@
 {
-    "header_text": "You are dedicated to your job as a teacher. Since your HD diagnosis, you have been worried about doing a good job in the classroom. You reassure yourself that even if your symptoms slow you down, your years of experience will help.",
+    "header_text": "Babysitting Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You should be able to…"
+            "text": "You are babysitting your grandchild and playing toys with them. You start having difficulty getting words out when they bombard you with questions. You remember that even if you can't answer all their questions, your presence already makes them..."
         },
         {
-            "type": "Buttons",
-            "name": "You are dedicated to your job as a teacher. Since your HD diagnosis, you have been worried about doing a good job in the classroom. You reassure yourself that even if your symptoms slow you down, your years of experience will help._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Babysitting Questions_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Teach well",
-                "Teach poorly"
+            "display_delay": 2000,
+            "words": [
+                "h(a)ppy"
             ],
-            "columnCount": 1,
-            "correct_value": "Teach well"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "Your last relationship did not end very well. You are entering a new relationship, but you are still dealing with the feelings from your past relationship. You think you can work out a compromise together. ",
+    "header_text": "Heart Rate Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your last relationship did not end very well. You are entering a new relationship, but you are still dealing with the feelings from your past relationship. You think you can work out a compromise together. "
+            "text": "Heart Rate Worries"
         },
         {
             "type": "Media",
-            "url": "./images/384.jpg"
+            "url": "./images/383.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

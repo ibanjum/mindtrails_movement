@@ -1,14 +1,16 @@
 {
-    "header_text": "During a meeting, your boss puts you in a group of colleagues to collaborate on finding a solution for an issue. There is one topic that people are unsure how to address, but you have an idea. Even though you have not spoken up with this group yet, you trust your instincts and hope to guide the group in the right direction.",
+    "header_text": "Speaking Up During Collaboration",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "During a meeting, your boss puts you in a group of colleagues to collaborate on finding a solution for an issue. There is one topic that people are unsure how to address, but you have an idea. Even though you have not spoken up with this group yet, you trust your instincts and hope to guide the group in the right direction."
+            "text": "Speaking Up During Collaboration"
         },
         {
             "type": "Media",
             "url": "./images/2.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

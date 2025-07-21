@@ -1,14 +1,16 @@
 {
-    "header_text": "You are carrying laundry down your basement stairs. You notice you are more unbalanced than you used to be and walking down is now more difficult. You note to take more care in the future and hold onto the railing so that you are steady.",
+    "header_text": "Planning a Family Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are carrying laundry down your basement stairs. You notice you are more unbalanced than you used to be and walking down is now more difficult. You note to take more care in the future and hold onto the railing so that you are steady."
+            "text": "Planning a Family Vacation"
         },
         {
             "type": "Media",
-            "url": "./images/728.jpg"
+            "url": "./images/735.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

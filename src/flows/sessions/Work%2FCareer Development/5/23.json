@@ -1,5 +1,5 @@
 {
-    "header_text": "A friend suggests that you join a creative writing organization. He tells you that members of the organization will read and critique your writing. As you listen to your friend, the thought of other people looking at your writing makes you feel enthusiastic.",
+    "header_text": "Letting Others See Your Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "A friend suggests that you join a creative writing organization. He tells you that members of the organization will read and critique your writing. As you listen to your friend, the thought of other people looking at your writing makes you feel enthusiastic._Work/Career Development_comp_question",
+            "name": "Letting Others See Your Work_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

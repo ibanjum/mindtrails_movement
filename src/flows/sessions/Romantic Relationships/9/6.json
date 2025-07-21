@@ -1,5 +1,5 @@
 {
-    "header_text": "You have just broken up with your partner, who you were with longer than any other significant other you've had before. You believe it was for the best, but you also worry if you will ever meet someone else you feel so strongly about. ",
+    "header_text": "Future Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You have just broken up with your partner, who you were with longer than any other significant other you've had before. You believe it was for the best, but you also worry if you will ever meet someone else you feel so strongly about. _Romantic Relationships_entry2"
+            "name": "Future Relationships_Romantic Relationships_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

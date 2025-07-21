@@ -1,14 +1,16 @@
 {
-    "header_text": "You have recently joined a local book club and think the other members are very cool. You would like to invite them over and host more often. Although, you worry about the tidiness of your home because lately you've been feeling really overwhelmed.",
+    "header_text": "Yoga Routine",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have recently joined a local book club and think the other members are very cool. You would like to invite them over and host more often. Although, you worry about the tidiness of your home because lately you've been feeling really overwhelmed."
+            "text": "Yoga Routine"
         },
         {
             "type": "Media",
-            "url": "./images/417.jpg"
+            "url": "./images/415.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

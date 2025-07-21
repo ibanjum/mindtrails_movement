@@ -1,14 +1,16 @@
 {
-    "header_text": "You are walking to an important meeting with your supervisor. Suddenly your mind goes blank as you reach for the doorknob to her office. You think about your mind going blank and think that this is normal.",
+    "header_text": "The Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are walking to an important meeting with your supervisor. Suddenly your mind goes blank as you reach for the doorknob to her office. You think about your mind going blank and think that this is normal."
+            "text": "The Meeting"
         },
         {
             "type": "Media",
             "url": "./images/53.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

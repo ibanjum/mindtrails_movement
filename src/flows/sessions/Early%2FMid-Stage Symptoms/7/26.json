@@ -1,14 +1,29 @@
 {
-    "header_text": "You have always been known for your hospitality and ability to plan fun events. You go to the store with your spouse to buy supplies for a surprise event for your relative, but you can't remember the items on your list. Your spouse finds you in the store to give you a written list, and you feel supported.",
+    "header_text": "Night of Bad Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You have always been known for your hospitality and ability to plan fun events. You go to the store with your spouse to buy supplies for a surprise event for your relative, but you can't remember the items on your list. Your spouse finds you in the store to give you a written list, and you feel supported."
+            "type": "Text",
+            "Text": "After deciding to prioritize rest, you feel... "
         },
         {
-            "type": "Media",
-            "url": "./images/581.jpg"
+            "type": "Buttons",
+            "name": "Night of Bad Sleep_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Better",
+                "Worse"
+            ],
+            "columnCount": 1,
+            "correct_value": "Better"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

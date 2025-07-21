@@ -1,14 +1,16 @@
 {
-    "header_text": "You are giving a presentation to your coworkers about a new training plan. You feel that your hands are shaking a little. Wondering if it is obvious, you look around and see that a few people have noticed.",
+    "header_text": "New Apartment to Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are giving a presentation to your coworkers about a new training plan. You feel that your hands are shaking a little. Wondering if it is obvious, you look around and see that a few people have noticed."
+            "text": "New Apartment to Yourself"
         },
         {
             "type": "Media",
-            "url": "./images/639.jpg"
+            "url": "./images/181.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

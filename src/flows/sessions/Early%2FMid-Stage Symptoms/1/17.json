@@ -1,14 +1,39 @@
 {
-    "header_text": "You are babysitting your nephew and playing toys with him. You start having difficulty getting words out when he bombards you with questions. You remember that even if you can't answer all his questions, your presence already makes him h(a)ppy.",
+    "header_text": "Weekly Game Night",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You are babysitting your nephew and playing toys with him. You start having difficulty getting words out when he bombards you with questions. You remember that even if you can't answer all his questions, your presence already makes him h(a)ppy."
+            "type": "Text",
+            "Text": "Thinking about your family succeeding in game night makes you feel... "
         },
         {
-            "type": "Media",
-            "url": "./images/204.jpg"
+            "type": "Buttons",
+            "name": "Weekly Game Night_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Awesome.",
+                "Terribly."
+            ],
+            "columnCount": 1,
+            "correct_value": "Awesome."
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

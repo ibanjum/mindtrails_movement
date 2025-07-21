@@ -1,14 +1,16 @@
 {
-    "header_text": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be understanding.",
+    "header_text": "Retirement Celebration",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be understanding."
+            "text": "Retirement Celebration"
         },
         {
             "type": "Media",
-            "url": "./images/222.jpg"
+            "url": "./images/221.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

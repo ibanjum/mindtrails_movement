@@ -1,27 +1,16 @@
 {
-    "header_text": "You are staying late to get extra work done and notice two coworkers. They are leaving together, and they say hi as they're walking by. Since you're the only one working late, you feel embarrassed.",
+    "header_text": "Working Late",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Do you feel okay about seeing your coworkers? "
+            "type": "Label",
+            "text": "Working Late"
         },
         {
-            "type": "Buttons",
-            "name": "You are staying late to get extra work done and notice two coworkers. They are leaving together, and they say hi as they're walking by. Since you're the only one working late, you feel embarrassed._Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/290.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

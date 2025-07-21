@@ -1,14 +1,16 @@
 {
-    "header_text": "You've been wanting to go to therapy for a while. However, you aren't sure whether you have the budget to pay for it. You think that it's likely that you will find a provider whose services are affordable. ",
+    "header_text": "Affording Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You've been wanting to go to therapy for a while. However, you aren't sure whether you have the budget to pay for it. You think that it's likely that you will find a provider whose services are affordable. "
+            "text": "Affording Therapy"
         },
         {
             "type": "Media",
             "url": "./images/173.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

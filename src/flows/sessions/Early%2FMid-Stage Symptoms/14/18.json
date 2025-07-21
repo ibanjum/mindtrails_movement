@@ -1,23 +1,25 @@
 {
-    "header_text": "You are eating a cup of soup. Your arms move suddenly, and you accidentally spill some of the soup on your lap. As you wonder if anyone will notice the spill, you become anxious.",
+    "header_text": "Feeling Unsteady",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are eating a cup of soup. You experience a tremor, and you accidentally spill some of the soup on your lap. As you wonder if anyone will notice the spill, you become..."
+            "text": "You are carrying a plate of food to your family at the dining table and begin to feel unsteady. You drop the plate of food on the ground as your reach to grab the counter to steady yourself. You know that it was an accident and your family will be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "You are eating a cup of soup. Your arms move suddenly, and you accidentally spill some of the soup on your lap. As you wonder if anyone will notice the spill, you become anxious._Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Feeling Unsteady_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "anxious"
+                "forgiving"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

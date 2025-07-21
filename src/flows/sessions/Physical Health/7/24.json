@@ -1,14 +1,16 @@
 {
-    "header_text": "It's a cool morning, and you're walking to get to your office. You start to feel really winded as you make it to the door. You take a second to breathe and feel calm.",
+    "header_text": "Catching Your Breath",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It's a cool morning, and you're walking to get to your office. You start to feel really winded as you make it to the door. You take a second to breathe and feel calm."
+            "text": "Catching Your Breath"
         },
         {
             "type": "Media",
             "url": "./images/470.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

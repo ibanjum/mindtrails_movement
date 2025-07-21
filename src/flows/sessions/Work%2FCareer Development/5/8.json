@@ -1,14 +1,16 @@
 {
-    "header_text": "Your boss calls on you to answer a question about the plans you just discussed. You don't know what to say. Your mind goes blank.",
+    "header_text": "Mind Going Blank",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your boss calls on you to answer a question about the plans you just discussed. You don't know what to say. Your mind goes blank."
+            "text": "Mind Going Blank"
         },
         {
             "type": "Media",
             "url": "./images/42.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "No response: Behaviors",
+    "header_text": "Meeting someone new: Behaviors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been texting with someone you really like and they're usually quick to respond. You notice that they saw your message a couple of hours ago and did not respond. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+            "text": "At a work party, your friend introduces you to an attractive friend of theirs you have not met before. The next morning, you notice that they sent you an email.\n\nHere are some behaviors that someone might do at that moment or in the future:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I want to remove them from my phone, but decide to give the situation some time and cool off.",
-                "I reach out to a friend.",
-                "I start working on other important things I want to do today.",
-                "I want to send a bunch of messages to this person, but instead call a friend.",
-                "I cancel my plans for the day."
+                "I make a joke in my response.",
+                "I want to ask them why they emailed me, but I decide to just see how things play out.",
+                "I talk to my friend about how excited I am.",
+                "I'm nervous about sending the perfect reply, but I decide to just be myself.",
+                "I ignore their email because I'm anxious about responding."
             ],
             "Duration": 15
         }

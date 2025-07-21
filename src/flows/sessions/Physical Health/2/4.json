@@ -1,14 +1,26 @@
 {
-    "header_text": "At your routine doctor's appointment, your doctor decides to run a few tests to evaluate your health. They tell you that they will have your results within a week. While you wait for your results, you think you are likely healthy.",
+    "header_text": "Health evaluation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "At your routine doctor's appointment, your doctor decides to run a few tests to evaluate your health. They tell you that they will have your results within a week. While you wait for your results, you think you are likely healthy."
+            "text": "Health evaluation"
         },
         {
             "type": "Media",
             "url": "./images/438.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

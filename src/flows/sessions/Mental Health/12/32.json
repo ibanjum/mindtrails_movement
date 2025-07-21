@@ -1,14 +1,14 @@
 {
-    "header_text": "You have been feeling really overwhelmed and drained recently and want to go on a trip to take a break. When you look into flights, you realize that the cost of a trip may be totally out of your budget. You remind yourself you can go for a short trip somewhere nearby and still have fun. ",
+    "header_text": "Trip to the Dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you still take time for yourself on a budget?"
+            "Text": "Does the dentist provide comfort?"
         },
         {
             "type": "Buttons",
-            "name": "You have been feeling really overwhelmed and drained recently and want to go on a trip to take a break. When you look into flights, you realize that the cost of a trip may be totally out of your budget. You remind yourself you can go for a short trip somewhere nearby and still have fun. _Mental Health_comp_question",
+            "name": "Trip to the Dentist_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, the more you practice thinking about situations in new ways on our app, the more you'll be able to think positively about scary situations in your life!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

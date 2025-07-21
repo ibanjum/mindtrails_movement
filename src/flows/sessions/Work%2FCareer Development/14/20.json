@@ -1,14 +1,16 @@
 {
-    "header_text": "You recently received poor feedback on a presentation. Your colleague, who delivered a similar presentation, received wonderful feedback. You think that your next presentation will be better. ",
+    "header_text": "Comparing Your Work to Others'",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You recently received poor feedback on a presentation. Your colleague, who delivered a similar presentation, received wonderful feedback. You think that your next presentation will be better. "
+            "text": "Comparing Your Work to Others'"
         },
         {
             "type": "Media",
             "url": "./images/104.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

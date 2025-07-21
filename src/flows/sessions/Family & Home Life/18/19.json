@@ -1,27 +1,29 @@
 {
-    "header_text": "One evening before bed, you begin a new book. While the plot progresses, you can't seem to concentrate on the storyline. You make a plan to take notes and decide this added task will be fun. ",
+    "header_text": "Building Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you find a way to work around your concentration difficulties?"
+            "Text": "Making a new memory with your son is..."
         },
         {
             "type": "Buttons",
-            "name": "One evening before bed, you begin a new book. While the plot progresses, you can't seem to concentrate on the storyline. You make a plan to take notes and decide this added task will be fun. _Family & Home Life_comp_question",
+            "name": "Building Project_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Tiring",
+                "Exciting"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Exciting"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

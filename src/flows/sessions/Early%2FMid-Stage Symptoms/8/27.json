@@ -1,14 +1,16 @@
 {
-    "header_text": "You enjoy going to the local farmer's market every week. Lately, you've been struggling to get the motivation to go, fearing that others will notice your HD symptoms, but you get the courage to go today. When you arrive at the market, you see many familiar faces that look at you with a smile.",
+    "header_text": "Thinking fast at work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You enjoy going to the local farmer's market every week. Lately, you've been struggling to get the motivation to go, fearing that others will notice your HD symptoms, but you get the courage to go today. When you arrive at the market, you see many familiar faces that look at you with a smile."
+            "text": "Thinking fast at work"
         },
         {
             "type": "Media",
-            "url": "./images/781.jpg"
+            "url": "./images/770.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

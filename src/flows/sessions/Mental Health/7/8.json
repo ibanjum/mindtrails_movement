@@ -1,5 +1,5 @@
 {
-    "header_text": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel miserable.",
+    "header_text": "Important Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel miserable._Mental Health_puzzle1",
+            "name": "Important Email_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 2
 }

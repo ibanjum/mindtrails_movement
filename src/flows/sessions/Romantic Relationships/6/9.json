@@ -1,19 +1,19 @@
 {
-    "header_text": "No response: Feelings",
+    "header_text": "Meeting someone new: Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been texting with someone you really like and they're usually quick to respond. You notice that they saw your message a couple of hours ago and did not respond. \n\nHere are some feelings that might happen in the moment:"
+            "text": "At a work party, your friend introduces you to an attractive friend of theirs you have not met before. The next morning, you notice that they sent you an email.\n\nHere are some feelings that might happen in the moment:"
         },
         {
             "type": "TimedText",
             "text": [
-                "The anticipation of waiting to hear back feels exciting.",
-                "I'm sad that they didn't respond quickly, but know that I won't feel sad forever.",
-                "I feel happy with my ability to send fun messages.",
-                "I'm worried this has something to do with me, but realize this person has a lot of other things going on in their life.",
-                "I'm upset that they didn't respond immediately."
+                "I feel flattered that they wanted to email me.",
+                "I'm unsure about the reason they emailed me, but realize it is just because they wanted to.",
+                "I'm excited to read their response.",
+                "I feel worried about what they think of me, but know that I can deal with not knowing.",
+                "I feel insecure about maintaining a conversation with them."
             ],
             "Duration": 15
         }

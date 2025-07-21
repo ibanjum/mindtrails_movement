@@ -1,14 +1,16 @@
 {
-    "header_text": "You are going on a long walk tomorrow with a friend who walks a long distance every day. You have not been on a long walk in quite some time, and worry if you can keep up or not.",
+    "header_text": "Walking with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are going on a long walk tomorrow with a friend who walks a long distance every day. You have not been on a long walk in quite some time, and worry if you can keep up or not."
+            "text": "Walking with a Friend"
         },
         {
             "type": "Media",
             "url": "./images/497.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 2
 }

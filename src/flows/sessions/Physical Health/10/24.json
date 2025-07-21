@@ -1,5 +1,5 @@
 {
-    "header_text": "Over the last couple days, you've developed a cough. You went out over the weekend and wonder if you may have gotten sick. On the other hand, you think it may be allergies. ",
+    "header_text": "Cough After Going Out ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "Over the last couple days, you've developed a cough. You went out over the weekend and wonder if you may have gotten sick. On the other hand, you think it may be allergies. _Physical Health_entry1"
+            "name": "Cough After Going Out _Physical Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

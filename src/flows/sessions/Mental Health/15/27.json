@@ -1,27 +1,16 @@
 {
-    "header_text": "You are at the airport rushing to catch a plane. You feel your heart racing as you step on the plan and sit down. Starting to sweat and breathe quickly, you fear that you might have a panic attack.",
+    "header_text": "Catching Transportation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Is it necessary to get off the plane because you feel your heart beating rapidly?"
+            "type": "Label",
+            "text": "Catching Transportation"
         },
         {
-            "type": "Buttons",
-            "name": "You are at the airport rushing to catch a plane. You feel your heart racing as you step on the plan and sit down. Starting to sweat and breathe quickly, you fear that you might have a panic attack._Mental Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/100.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

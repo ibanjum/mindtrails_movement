@@ -1,14 +1,25 @@
 {
-    "header_text": "You notice that you forgot to do the laundry and will have to do it tomorrow. Tasks like this slip your mind more often now, and you worry about how you will function in the future. You acknowledge that things are changing, but you are still capable.\n",
+    "header_text": "Hardware Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You notice that you forgot to do the laundry and will have to do it tomorrow. Tasks like this slip your mind more often now, and you worry about how you will function in the future. You acknowledge that things are changing, but you are still capable.\n"
+            "type": "Text",
+            "text": "You are in the checkout line at the hardware store, and you notice your hands begin shaking. The cashier glances down towards your hands, and you wonder what they think of you. When the cashier looks up, they give you a...  "
         },
         {
-            "type": "Media",
-            "url": "./images/739.jpg"
+            "type": "WordPuzzle",
+            "name": "Hardware Store_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "smile"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
 }

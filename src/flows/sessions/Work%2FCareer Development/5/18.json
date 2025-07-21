@@ -1,14 +1,16 @@
 {
-    "header_text": "Today, you will receive an important email. It will tell you whether you received or didn't get a promotion that would really advance your career.  As you think about waiting for the email, you feel dread.",
+    "header_text": "Waiting for Big News",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Today, you will receive an important email. It will tell you whether you received or didn't get a promotion that would really advance your career.  As you think about waiting for the email, you feel dread."
+            "text": "Waiting for Big News"
         },
         {
             "type": "Media",
             "url": "./images/43.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

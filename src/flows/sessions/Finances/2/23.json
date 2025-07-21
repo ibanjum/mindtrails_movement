@@ -1,5 +1,5 @@
 {
-    "header_text": "You are going over your monthly expenses, and realize you spent more than you had planned on a new hobby. It doesn't put you in a financial bind now, but you are trying to save up money to go on a ski trip you have been planning for months. ",
+    "header_text": "Saving up Money",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You are going over your monthly expenses, and realize you spent more than you had planned on a new hobby. It doesn't put you in a financial bind now, but you are trying to save up money to go on a ski trip you have been planning for months. _Finances_comp_question",
+            "name": "Saving up Money_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

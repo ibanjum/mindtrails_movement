@@ -1,14 +1,17 @@
 {
-    "header_text": "While attending a community meeting, you find it challenging to concentrate and keep up with the conversation. You worry you will be perceived as less capable. Instead of dwelling on this, you actively participate by asking clarifying questions and showing your enthusiasm.",
+    "header_text": "Farmer's Market Sweets",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "While attending a community meeting, you find it challenging to concentrate and keep up with the conversation. You worry you will be perceived as less capable. Instead of dwelling on this, you actively participate by asking clarifying questions and showing your enthusiasm."
+            "type": "Text",
+            "text": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in..."
         },
         {
-            "type": "Media",
-            "url": "./images/422.jpg"
+            "type": "Entry",
+            "name": "Farmer's Market Sweets_Mental Health_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

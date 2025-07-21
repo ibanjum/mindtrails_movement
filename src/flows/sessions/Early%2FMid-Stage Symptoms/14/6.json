@@ -1,27 +1,25 @@
 {
-    "header_text": "You're working on a project at home, fully involved in the task at hand. You're having difficulty moving on to the next task, finding yourself repeatedly going back to double-check small details you've already completed, causing you to feel frustrated by the lack of progress. After taking a break, you remember that taking a step back to reassess is wise.",
+    "header_text": "Record Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Taking a step back to reassess is..."
+            "text": "You give yourself a moment to breathe. You pick up the record and realize that it is..."
         },
         {
-            "type": "Buttons",
-            "name": "You're working on a project at home, fully involved in the task at hand. You're having difficulty moving on to the next task, finding yourself repeatedly going back to double-check small details you've already completed, causing you to feel frustrated by the lack of progress. After taking a break, you remember that taking a step back to reassess is wise._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Record Store_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Wise.",
-                "Weak."
+            "display_delay": 2000,
+            "words": [
+                "fine"
             ],
-            "columnCount": 1,
-            "correct_value": "Wise."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

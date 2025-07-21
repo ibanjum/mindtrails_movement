@@ -1,23 +1,29 @@
 {
-    "header_text": "You're in a big group of your friends. Everyone is sharing stories, but you haven't said anything the whole conversation. Your friends probably think you're boring.",
+    "header_text": "Call Ending Suddenly",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While listening to your friends, you remember that your friend was quiet the other day. You decide that not always sharing is..."
+            "Text": "Did your friend mean to hang up on you?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You're in a big group of your friends. Everyone is sharing stories, but you haven't said anything the whole conversation. Your friends probably think you're boring._Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "Call Ending Suddenly_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "normal"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

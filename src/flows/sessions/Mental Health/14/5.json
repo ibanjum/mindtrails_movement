@@ -1,23 +1,25 @@
 {
-    "header_text": "You have feelings for someone, and you have been enjoying getting to know them. You are feeling self-conscious and wondering if they are judging you based on the way you look. You remind yourself of how much you enjoy each other's company.",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have feelings for someone, and you have been enjoying getting to know them. You are feeling self-conscious and wondering if they are judging you based on the way you look. You remind yourself of how much you enjoy each other's..."
+            "text": "You're at a party, and some of the partygoers notice your symptoms and stare. You feel uncomfortable and decide not to engage in conversation with them. You confide in your close friend that is also at the party, and your friend thinks that your decision is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You have feelings for someone, and you have been enjoying getting to know them. You are feeling self-conscious and wondering if they are judging you based on the way you look. You remind yourself of how much you enjoy each other's company._Mental Health_puzzle1",
+            "name": "Party with Friends_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "company"
+                "justified"
             ],
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

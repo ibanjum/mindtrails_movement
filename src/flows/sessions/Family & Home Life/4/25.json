@@ -1,23 +1,29 @@
 {
-    "header_text": "You and a family member had tension build up during a conversation a couple months back. You have not talked since that interaction, but there is a holiday event coming up that you and your family member will both attend. You wonder if they will confront you again.",
+    "header_text": "Your First Grandchild",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After thinking about it, you decide that the topic that you disagreed upon is still an important issue for you. You decide to avoid the family member to keep yourself from an uncomfortable..."
+            "Text": "You expect your relationship with your grandchild to be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You and a family member had tension build up during a conversation a couple months back. You have not talked since that interaction, but there is a holiday event coming up that you and your family member will both attend. You wonder if they will confront you again._Family & Home Life_puzzle_word2",
+            "type": "Buttons",
+            "name": "Your First Grandchild_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "situation"
+            "buttons": [
+                "Distant and estranged",
+                "Loving and close"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Loving and close"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

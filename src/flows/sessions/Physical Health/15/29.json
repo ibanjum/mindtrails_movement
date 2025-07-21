@@ -1,5 +1,5 @@
 {
-    "header_text": "At work you've noticed more difficulty typing. You decide to email your boss to ask to take time off to focus on your health. You see a reply pop up in your email after a while, and you feel scared. ",
+    "header_text": "Taking Time Off",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "At work you've noticed more difficulty typing. You decide to email your boss to ask to take time off to focus on your health. You see a reply pop up in your email after a while, and you feel scared. _Physical Health_puzzle_word2",
+            "name": "Taking Time Off_Physical Health_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

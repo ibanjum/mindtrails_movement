@@ -1,14 +1,16 @@
 {
-    "header_text": "Your colleagues ask you to go to a conference, but it's the night of an important cultural celebration for your family. You are looking forward to the celebration with your family, but don't want your colleagues to think you're different. As you think about telling your colleagues, you realize that your culture is important.",
+    "header_text": "Showcasing your experience",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your colleagues ask you to go to a conference, but it's the night of an important cultural celebration for your family. You are looking forward to the celebration with your family, but don't want your colleagues to think you're different. As you think about telling your colleagues, you realize that your culture is important."
+            "text": "Showcasing your experience"
         },
         {
             "type": "Media",
-            "url": "./images/84.jpg"
+            "url": "./images/9.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

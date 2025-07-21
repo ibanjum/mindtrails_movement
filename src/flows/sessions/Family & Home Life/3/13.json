@@ -1,5 +1,5 @@
 {
-    "header_text": "You'd like to take some time off to travel after a long and stressful year. Your family expects you to work more hours to help with finances, and you don't want to let them down. When considering your plans for the end of the year, you feel excited.",
+    "header_text": "Prospective Excitement",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You'd like to take some time off to travel after a long and stressful year. Your family expects you to work more hours to help with finances, and you don't want to let them down. When considering your plans for the end of the year, you feel excited._Family & Home Life_comp_question",
+            "name": "Prospective Excitement_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You are hosting book club tonight. As you look around at the friends you love, you begin to feel an overwhelming sadness. You open up to the group, knowing your book club is a safe haven. ",
+    "header_text": "Cleaning the House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are hosting book club tonight. As you look around at the friends you love, you begin to feel an overwhelming sadness. You open up to the group, knowing your book club is a safe haven. "
+            "text": "Cleaning the House"
         },
         {
             "type": "Media",
-            "url": "./images/860.jpg"
+            "url": "./images/227.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

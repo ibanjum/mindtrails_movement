@@ -1,23 +1,29 @@
 {
-    "header_text": "You and your partner decide to spend time at the pool. You notice you forgot to pack sunscreen, even after your partner specifically told you to remember it. You think your partner will be angry. ",
+    "header_text": "Family Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You apologize to your partner and volunteer to go get sunscreen somewhere. Your partner thanks you for the offer and is not... "
+            "Text": "Are you upset that you're single? "
         },
         {
-            "type": "WordPuzzle",
-            "name": "You and your partner decide to spend time at the pool. You notice you forgot to pack sunscreen, even after your partner specifically told you to remember it. You think your partner will be angry. _Mental Health_puzzle_word2",
+            "type": "Buttons",
+            "name": "Family Questions_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "upset"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

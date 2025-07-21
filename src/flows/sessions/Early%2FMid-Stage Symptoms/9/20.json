@@ -1,14 +1,16 @@
 {
-    "header_text": "While you're in a shopping mall, your chorea is worse than usual while trying on clothes. You wonder whether to call your doctor but worry they will think you are overreacting. You decide to call and make an appointment while feeling nervous.",
+    "header_text": "At Home Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "While you're in a shopping mall, your chorea is worse than usual while trying on clothes. You wonder whether to call your doctor but worry they will think you are overreacting. You decide to call and make an appointment while feeling nervous."
+            "text": "At Home Alone"
         },
         {
             "type": "Media",
-            "url": "./images/786.jpg"
+            "url": "./images/584.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

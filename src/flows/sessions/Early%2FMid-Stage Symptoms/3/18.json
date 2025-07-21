@@ -1,27 +1,25 @@
 {
-    "header_text": "You're sitting on a bench outside enjoying the fresh air when you notice that your arms are moving. Just then, you hear someone call your name and look up to see your neighbors walking by. You wonder if they've noticed your movements as well, but remember it is normal for people with your condition and won't take away from enjoying the moment.",
+    "header_text": "Shopping in a Crowd",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you be able to wave and talk to your neighbors?"
+            "text": "You're out shopping, and you freeze as you try to navigate an unfamiliar store. There are other shoppers around, and you wonder what they will think of you if they glance your way. The probability that people will judge you is..."
         },
         {
-            "type": "Buttons",
-            "name": "You're sitting on a bench outside enjoying the fresh air when you notice that your arms are moving. Just then, you hear someone call your name and look up to see your neighbors walking by. You wonder if they've noticed your movements as well, but remember it is normal for people with your condition and won't take away from enjoying the moment._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Shopping in a Crowd_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "low"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

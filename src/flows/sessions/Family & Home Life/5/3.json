@@ -1,23 +1,25 @@
 {
-    "header_text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. As time goes on, you think that your family will become more loving.",
+    "header_text": "Approaching Deadline",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. As time goes on, you think that your family will become more..."
+            "text": "You and your partner share a computer. You have a work assignment due tonight but they're using the computer. When you think about completing the work on time, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. As time goes on, you think that your family will become more loving._Family & Home Life_puzzle1",
+            "name": "Approaching Deadline_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "loving"
+                "confident"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

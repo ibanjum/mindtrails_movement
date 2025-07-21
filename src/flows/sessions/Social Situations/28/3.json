@@ -1,23 +1,29 @@
 {
-    "header_text": "You and your significant other have been living together for a few months, and some issues have started coming up. Your friend is visiting soon. When you ask your significant other if your friend can stay with you while they're in town, your significant other gets angry and starts to raise their voice. ",
+    "header_text": "High Anxiety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After talking about it, your significant other calms down and hears your side. The conversation ends up being productive, and you look forward to communicating with each other about issues more in the..."
+            "Text": "Would the people in your life support you getting help? "
         },
         {
-            "type": "WordPuzzle",
-            "name": "You and your significant other have been living together for a few months, and some issues have started coming up. Your friend is visiting soon. When you ask your significant other if your friend can stay with you while they're in town, your significant other gets angry and starts to raise their voice. _Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "High Anxiety_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "future"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

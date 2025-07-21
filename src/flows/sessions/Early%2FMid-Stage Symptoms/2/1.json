@@ -1,14 +1,26 @@
 {
-    "header_text": "You have always taken pride in being independent and providing care to your family. As your symptoms progress, you notice you are less able to do things on your own, now seeking help from your family. Throughout these changes, your family is understanding.",
+    "header_text": "Forgetting PIN Number",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have always taken pride in being independent and providing care to your family. As your symptoms progress, you notice you are less able to do things on your own, now seeking help from your family. Throughout these changes, your family is understanding."
+            "text": "Forgetting PIN Number"
         },
         {
             "type": "Media",
-            "url": "./images/717.jpg"
+            "url": "./images/744.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "The more you immerse yourself in the story, the more likely you are to benefit from our program – really picture yourself in the situation at hand."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Saying hi to friends: Behaviors",
+    "header_text": "Halloween party: Behaviors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are outside on a cool day and see your friends down the street. You decide to jog over to say hi. When you get to your friends, you feel out of breath.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+            "text": "You are invited to a Halloween party with your coworkers and you're only close to a couple of people there. You decide to wear a costume. When you arrive, everyone looks at you. \n\nHere are some behaviors that someone might do at that moment or in the future:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I want to walk away quickly from my friends so they don't see how out of breath I am, but I know that this is normal and they won't judge me.",
-                "I crack a joke when I see my friends.",
-                "I take a second to catch my breath when I get to my friends.",
-                "I want to go see a doctor because I'm worried about how tight my chest is, but know that this feeling is normal after a quick jog.",
-                "I try to cover up that my breathing is heavy."
+                "I will smile and wear my outfit proudly.",
+                "I want to start crying, but then remind myself I did a great job on this costume.",
+                "I want to go to the bathroom and try to tone down what I'm wearing.",
+                "I want to ask someone if my costume is too much, but decide not to ask for opinions.",
+                "I'll start dancing because there's great music on."
             ],
             "Duration": 15
         }

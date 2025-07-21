@@ -1,14 +1,16 @@
 {
-    "header_text": "You are about to do your first online interview for an important promotion. You click the link when it is time to join the meeting,  but your internet cuts out. You think about the interviewers assuming you are late and feel nauseous.",
+    "header_text": "Ending Long Distance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are about to do your first online interview for an important promotion. You click the link when it is time to join the meeting,  but your internet cuts out. You think about the interviewers assuming you are late and feel nauseous."
+            "text": "Ending Long Distance"
         },
         {
             "type": "Media",
-            "url": "./images/65.jpg"
+            "url": "./images/381.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

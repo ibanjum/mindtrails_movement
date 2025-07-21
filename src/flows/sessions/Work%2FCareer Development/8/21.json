@@ -1,14 +1,16 @@
 {
-    "header_text": "You are about to do your first online interview for an important promotion. You click the link when it is time to join the meeting,  but your internet cuts out. You think about the interviewers assuming you are late and feel nauseous.",
+    "header_text": "Out of Your Control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are about to do your first online interview for an important promotion. You click the link when it is time to join the meeting,  but your internet cuts out. You think about the interviewers assuming you are late and feel nauseous."
+            "text": "Out of Your Control"
         },
         {
             "type": "Media",
             "url": "./images/65.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

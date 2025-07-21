@@ -1,14 +1,16 @@
 {
-    "header_text": "Your family loves to talk about big future life events like weddings and once-in-a-decade vacations. Recently, these conversations have made you feel uneasy, since you can't predict how your disease will progress. You consider withdrawing from these conversations, and ultimately decide that it's best if you communicate.",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your family loves to talk about big future life events like weddings and once-in-a-decade vacations. Recently, these conversations have made you feel uneasy, since you can't predict how your disease will progress. You consider withdrawing from these conversations, and ultimately decide that it's best if you communicate."
+            "text": "Beach Vacation"
         },
         {
             "type": "Media",
-            "url": "./images/207.jpg"
+            "url": "./images/206.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

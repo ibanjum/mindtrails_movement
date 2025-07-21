@@ -1,14 +1,16 @@
 {
-    "header_text": "Your therapist recommended that you try journaling as a way to process some of your emotions. You're very frustrated with this practice because it takes you a lot longer to write anything lately. You decide to accept this as part of the process, and you cultivate more patience.",
+    "header_text": "Assembling Furniture",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your therapist recommended that you try journaling as a way to process some of your emotions. You're very frustrated with this practice because it takes you a lot longer to write anything lately. You decide to accept this as part of the process, and you cultivate more patience."
+            "text": "Assembling Furniture"
         },
         {
             "type": "Media",
-            "url": "./images/409.jpg"
+            "url": "./images/408.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

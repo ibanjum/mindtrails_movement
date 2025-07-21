@@ -1,14 +1,16 @@
 {
-    "header_text": "Your partner's birthday is coming up, and you planned on buying them something nice. On top of this expense, your child broke their phone and needs a new one, and you don't know if you can afford both things at once. You decide to sit down and write out a budget to figure out a way to pay for both, and you feel confident. ",
+    "header_text": "Spending Time With Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your partner's birthday is coming up, and you planned on buying them something nice. On top of this expense, your child broke their phone and needs a new one, and you don't know if you can afford both things at once. You decide to sit down and write out a budget to figure out a way to pay for both, and you feel confident. "
+            "text": "Spending Time With Family"
         },
         {
             "type": "Media",
-            "url": "./images/162.jpg"
+            "url": "./images/156.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 6
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "Your HD has been causing you to lose interest in intimacy with your spouse due to difficulty with movements. Your spouse has noticed this change and is upset with your lack of touch and care. You recognize you haven't voiced your concern to your spouse and decide to communicate.  ",
+    "header_text": "Social Media Messaging",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your HD has been causing you to lose interest in intimacy with your spouse due to difficulty with movements. Your spouse has noticed this change and is upset with your lack of touch and care. You recognize you haven't voiced your concern to your spouse and decide to communicate.  "
+            "text": "Social Media Messaging"
         },
         {
             "type": "Media",
-            "url": "./images/587.jpg"
+            "url": "./images/586.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 7
 }

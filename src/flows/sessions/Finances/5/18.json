@@ -1,14 +1,16 @@
 {
-    "header_text": "You woke up feeling a little sick, so you decide to go to the doctor. They write you a prescription, but the price is a little higher than you expected when you get to the pharmacy. You think the price will be manageable.",
+    "header_text": "Affording Medicine",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You woke up feeling a little sick, so you decide to go to the doctor. They write you a prescription, but the price is a little higher than you expected when you get to the pharmacy. You think the price will be manageable."
+            "text": "Affording Medicine"
         },
         {
             "type": "Media",
             "url": "./images/269.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "While walking across the backyard during a family barbecue, you stumble and trip unexpectedly in front of your family. Your once-confident stride is now replaced by an unsteady gait. After tripping, you feel overwhelmed.",
+    "header_text": "Family Trivia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "While walking across the backyard during a family barbecue, you stumble and trip unexpectedly in front of your family. Your once-confident stride is now replaced by an unsteady gait. After tripping, you feel overwhelmed."
+            "text": "Family Trivia"
         },
         {
             "type": "Media",
-            "url": "./images/215.jpg"
+            "url": "./images/214.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

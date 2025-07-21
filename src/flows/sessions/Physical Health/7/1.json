@@ -1,14 +1,16 @@
 {
-    "header_text": "You are at a birthday party for a friend of a friend. You notice that you are flushed and a little sweaty. Standing there, you think that these sensations are normal.",
+    "header_text": "Sensational Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at a birthday party for a friend of a friend. You notice that you are flushed and a little sweaty. Standing there, you think that these sensations are normal."
+            "text": "Sensational Party"
         },
         {
             "type": "Media",
             "url": "./images/465.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

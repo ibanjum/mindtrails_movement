@@ -1,23 +1,29 @@
 {
-    "header_text": "It's your sibling's birthday, so your family decides to go out to a nice dinner. The waiter is taking your order and asks what side you want. Your disease has been affecting your memory so you can't remember the sides on the menu, and you begin to feel anxious.",
+    "header_text": "Garden Changes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to ask the waiter about the options for sides, and they politely explain. After this, you easily pick your side dish with..."
+            "Text": "As you think about this year's garden, you feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "It's your sibling's birthday, so your family decides to go out to a nice dinner. The waiter is taking your order and asks what side you want. Your disease has been affecting your memory so you can't remember the sides on the menu, and you begin to feel anxious._Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Garden Changes_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "confidence"
+            "buttons": [
+                "Thankful",
+                "Discouraged"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Thankful"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

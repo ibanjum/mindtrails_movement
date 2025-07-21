@@ -1,14 +1,16 @@
 {
-    "header_text": "You have an important presentation today. You've been working hard on it because it is a requirement for your job. When you begin the presentation, you feel prepared.",
+    "header_text": "Putting Preparation to the Test",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have an important presentation today. You've been working hard on it because it is a requirement for your job. When you begin the presentation, you feel prepared."
+            "text": "Putting Preparation to the Test"
         },
         {
             "type": "Media",
             "url": "./images/38.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

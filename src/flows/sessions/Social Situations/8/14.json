@@ -1,5 +1,5 @@
 {
-    "header_text": "You are at the department store to return a jacket. When you speak with a sales associate at the counter, they do not smile, and stare at you looking very annoyed.",
+    "header_text": "Jacket Return",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You are at the department store to return a jacket. When you speak with a sales associate at the counter, they do not smile, and stare at you looking very annoyed._Social Situations_entry1"
+            "name": "Jacket Return_Social Situations_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

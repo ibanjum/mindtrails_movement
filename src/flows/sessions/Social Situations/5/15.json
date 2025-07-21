@@ -1,14 +1,16 @@
 {
-    "header_text": "You are out to lunch with a friend. As you eat your salad and talk with them, they stare at you. They probably think that you are interesting.",
+    "header_text": "Lunch with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are out to lunch with a friend. As you eat your salad and talk with them, they stare at you. They probably think that you are interesting."
+            "text": "Lunch with a Friend"
         },
         {
             "type": "Media",
             "url": "./images/626.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

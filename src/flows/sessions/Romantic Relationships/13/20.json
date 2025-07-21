@@ -1,14 +1,16 @@
 {
-    "header_text": "For the past few weeks, your partner has become more isolated and distant. You want to check in on their mental health, but you’re not sure how they’ll react since this isn’t something you tend to talk about. You decide to be upfront about your concerns, and they are very appreciative.",
+    "header_text": "Supporting Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "For the past few weeks, your partner has become more isolated and distant. You want to check in on their mental health, but you’re not sure how they’ll react since this isn’t something you tend to talk about. You decide to be upfront about your concerns, and they are very appreciative."
+            "text": "Supporting Partner"
         },
         {
             "type": "Media",
             "url": "./images/392.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

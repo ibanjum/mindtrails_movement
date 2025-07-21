@@ -1,27 +1,25 @@
 {
-    "header_text": "You used to be quick at completing your to-do list. Lately, you find yourself needing more time to complete tasks. You tell yourself you'll get back into the swing of things soon, and this helps you relax.",
+    "header_text": "Comparing at the Gym",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Even though it takes you more time to finish your to-do list, you still feel... "
+            "text": "Your decide to confide in your trainer who highlights the improvement you've been making in a relatively short period of time. Their encouragement allows you to look at the situation more..."
         },
         {
-            "type": "Buttons",
-            "name": "You used to be quick at completing your to-do list. Lately, you find yourself needing more time to complete tasks. You tell yourself you'll get back into the swing of things soon, and this helps you relax._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Comparing at the Gym_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Calm.",
-                "Stressed."
+            "display_delay": 2000,
+            "words": [
+                "positively"
             ],
-            "columnCount": 1,
-            "correct_value": "Calm."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

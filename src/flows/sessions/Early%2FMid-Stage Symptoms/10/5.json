@@ -1,27 +1,16 @@
 {
-    "header_text": "You are meeting a new friend for lunch soon. You have recently been a bit messier when you eat, and you are worried they will judge you. When you begin to eat your food, you notice your new friend is looking at you strangely.",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Was your new friend judging you for being a messy eater?"
+            "type": "Label",
+            "text": "Beach Vacation"
         },
         {
-            "type": "Buttons",
-            "name": "You are meeting a new friend for lunch soon. You have recently been a bit messier when you eat, and you are worried they will judge you. When you begin to eat your food, you notice your new friend is looking at you strangely._Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/206.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "positive",
+    "scenario_num": 1
 }

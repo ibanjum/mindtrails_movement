@@ -1,14 +1,16 @@
 {
-    "header_text": "You are at an amusement park on the weekend with friends. They all go to the highest ride in the park, and you are assigned to sit in the front. Soon, the ride starts, and you feel excited. ",
+    "header_text": "Weekend horseback riding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at an amusement park on the weekend with friends. They all go to the highest ride in the park, and you are assigned to sit in the front. Soon, the ride starts, and you feel excited. "
+            "text": "Weekend horseback riding"
         },
         {
             "type": "Media",
             "url": "./images/441.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

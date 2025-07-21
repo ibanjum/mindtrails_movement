@@ -1,14 +1,16 @@
 {
-    "header_text": "You have a presentation for your department coming up, and you’ve been working hard in the hopes that you'll impress your supervisor. The night before, you find out a friend you had dinner with has a virus, and now you're feeling sick. You think your supervisor will understand and help you arrange a better time to present.",
+    "header_text": "Rearranging After Exposure",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have a presentation for your department coming up, and you’ve been working hard in the hopes that you'll impress your supervisor. The night before, you find out a friend you had dinner with has a virus, and now you're feeling sick. You think your supervisor will understand and help you arrange a better time to present."
+            "text": "Rearranging After Exposure"
         },
         {
             "type": "Media",
             "url": "./images/75.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

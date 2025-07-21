@@ -1,14 +1,16 @@
 {
-    "header_text": "This year, you've been feeling very anxious, and you haven't been able to enjoy your life without worrying. You wonder what people in your life would think of you if you got help. You think that they would consider you to be brave. ",
+    "header_text": "High Anxiety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "This year, you've been feeling very anxious, and you haven't been able to enjoy your life without worrying. You wonder what people in your life would think of you if you got help. You think that they would consider you to be brave. "
+            "text": "High Anxiety"
         },
         {
             "type": "Media",
             "url": "./images/101.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

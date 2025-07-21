@@ -1,14 +1,16 @@
 {
-    "header_text": "You're called to stand up and introduce yourself to a new team member at your department's meeting. You stumble as you get up from your chair. When you think about everyone seeing you stumble, you feel embarrassed.",
+    "header_text": "Tripping in Public",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're called to stand up and introduce yourself to a new team member at your department's meeting. You stumble as you get up from your chair. When you think about everyone seeing you stumble, you feel embarrassed."
+            "text": "Tripping in Public"
         },
         {
             "type": "Media",
             "url": "./images/622.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 2
 }

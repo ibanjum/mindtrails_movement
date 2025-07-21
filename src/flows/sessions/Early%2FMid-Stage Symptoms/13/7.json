@@ -1,27 +1,16 @@
 {
-    "header_text": "You are responding to a text on your phone. It's taking you a long time to type a short response, and you wonder whether the recipient will be annoyed. You realize that the response at hand is not an emergency, and the recipient will be patient. ",
+    "header_text": "Research Study Risks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "The recipient of your text will..."
+            "type": "Label",
+            "text": "Research Study Risks"
         },
         {
-            "type": "Buttons",
-            "name": "You are responding to a text on your phone. It's taking you a long time to type a short response, and you wonder whether the recipient will be annoyed. You realize that the response at hand is not an emergency, and the recipient will be patient. _Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Be frustrated",
-                "Happily wait"
-            ],
-            "columnCount": 1,
-            "correct_value": "Happily wait"
+            "type": "Media",
+            "url": "./images/791.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "positive",
+    "scenario_num": 2
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Missing spider: Thoughts",
+    "header_text": "Babysitting: Thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you're getting into the shower, you see a huge spider on the wall. You turn away for a second and look back and realize it's gone. \n\nHere are some thoughts that might pop into mind:"
+            "text": "You are looking after a friend's child and you're watching TV while they sleep. It's dark outside and you suddenly hear noises against the window. \n\nHere are some thoughts that might pop into mind:"
         },
         {
             "type": "TimedText",
             "text": [
-                "The spider's movements are really interesting.",
-                "The spider isn't going to hurt me.",
-                "It's going to jump on me!",
-                "I think about all of the places the spider could be, but I can't control what it's doing.",
-                "I think about how scary the spider looked, but also how small it really was."
+                "There are lots of noises at night.",
+                "I picture something trying to get me, but then tell myself that it was most likely the wind on the window.",
+                "It is quieter at night so it's easier to hear lots of things.",
+                "My brain immediately thinks that there's something dangerous outside, but I remind myself that I'm probably safe.",
+                "I wonder if I'm in danger."
             ],
             "Duration": 15
         }

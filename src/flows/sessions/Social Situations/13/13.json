@@ -1,14 +1,16 @@
 {
-    "header_text": "You are invited to a Halloween get-together and will only know a couple of people there. You decide to wear a really elaborate costume. When you arrive, everyone looks at you and probably thinks that you are creative.",
+    "header_text": "Creative Confidence ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are invited to a Halloween get-together and will only know a couple of people there. You decide to wear a really elaborate costume. When you arrive, everyone looks at you and probably thinks that you are creative."
+            "text": "Creative Confidence "
         },
         {
             "type": "Media",
             "url": "./images/661.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

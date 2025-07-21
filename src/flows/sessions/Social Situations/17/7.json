@@ -1,14 +1,16 @@
 {
-    "header_text": "You just received an award for a project you worked on. You’ve only received congratulations from a few people, and you thought you’d have more reactions by now. You wonder if people aren’t congratulating you because they don’t think you deserve it.",
+    "header_text": "Not Feeling Supported",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You just received an award for a project you worked on. You’ve only received congratulations from a few people, and you thought you’d have more reactions by now. You wonder if people aren’t congratulating you because they don’t think you deserve it."
+            "text": "Not Feeling Supported"
         },
         {
             "type": "Media",
             "url": "./images/678.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

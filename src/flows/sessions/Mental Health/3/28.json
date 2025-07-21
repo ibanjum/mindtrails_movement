@@ -1,5 +1,5 @@
 {
-    "header_text": "You just started a new job and some friends from work  want to take you to a dinner tonight. You let them know that you have to be up early tomorrow morning for an important event and that you can't go with them and they seem disappointed. You think that your new friends will respect your decision to put your needs first.",
+    "header_text": "Early Morning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You just started a new job and some friends from work  want to take you to a dinner tonight. You let them know that you have to be up early tomorrow morning for an important event and that you can't go with them and they seem disappointed. You think that your new friends will respect your decision to put your needs first._Mental Health_comp_question",
+            "name": "Early Morning_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

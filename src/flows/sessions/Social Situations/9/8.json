@@ -1,5 +1,5 @@
 {
-    "header_text": "You walk into a quiet meeting room a few minutes late. The door squeaks really loudly as you enter, and your coworkers look in your direction. They are probably feeling surprised.",
+    "header_text": "Disrupting the Silence",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You walk into a quiet meeting room a few minutes late. The door squeaks really loudly as you enter, and your coworkers look in your direction. They are probably feeling surprised._Social Situations_entry1"
+            "name": "Disrupting the Silence_Social Situations_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

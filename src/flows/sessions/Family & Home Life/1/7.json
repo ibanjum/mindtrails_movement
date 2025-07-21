@@ -1,14 +1,16 @@
 {
-    "header_text": "You're going on a long car ride with your family to visit family in another part of the state. After an hour, you notice your phone battery is almost dead and you don't have a charger. You think about the rest of the car ride and feel like you will be miserable.",
+    "header_text": "Running Low on Battery",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're going on a long car ride with your family to visit family in another part of the state. After an hour, you notice your phone battery is almost dead and you don't have a charger. You think about the rest of the car ride and feel like you will be miserable."
+            "text": "Running Low on Battery"
         },
         {
             "type": "Media",
             "url": "./images/130.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

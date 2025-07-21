@@ -1,23 +1,29 @@
 {
-    "header_text": "You can't find your keys and initially become upset with your family because you suspect that someone hid them. The next day, you discover the keys in one of your pockets. You realized you treated your family too harshly.",
+    "header_text": "Talking about the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You apologize to your family for treating them that way. They say that they don't think you treated them badly, so you feel..."
+            "Text": "The next time your family is talking about a life event in the distant future, you will..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You can't find your keys and initially become upset with your family because you suspect that someone hid them. The next day, you discover the keys in one of your pockets. You realized you treated your family too harshly._Family & Home Life_puzzle_word2",
+            "type": "Buttons",
+            "name": "Talking about the Future_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "better"
+            "buttons": [
+                "Avoid the conversation",
+                "Tell them how you're feeling"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Tell them how you're feeling"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

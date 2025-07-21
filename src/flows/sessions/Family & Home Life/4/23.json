@@ -1,14 +1,16 @@
 {
-    "header_text": "You and a family member had tension build up during a conversation a couple months back. You have not talked since that interaction, but there is a holiday event coming up that you and your family member will both attend. You wonder if they will confront you again.",
+    "header_text": "Your First Grandchild",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and a family member had tension build up during a conversation a couple months back. You have not talked since that interaction, but there is a holiday event coming up that you and your family member will both attend. You wonder if they will confront you again."
+            "text": "Your First Grandchild"
         },
         {
             "type": "Media",
-            "url": "./images/158.jpg"
+            "url": "./images/157.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

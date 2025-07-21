@@ -1,0 +1,16 @@
+{
+    "header_text": "Follow-up at Doctor's Office",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Follow-up at Doctor's Office"
+        },
+        {
+            "type": "Media",
+            "url": "./images/879.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 2
+}

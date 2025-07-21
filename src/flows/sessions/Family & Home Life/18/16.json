@@ -1,27 +1,39 @@
 {
-    "header_text": "You are buying tools at the hardware store with your brother to start a new project. You think about how your brother will have to do most of the building because of your HD. You are still eager to complete the project, knowing you both will make a new memory. ",
+    "header_text": "Long Distance Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Making a new memory with your son is..."
+            "Text": "You can see your spouse saying"
         },
         {
             "type": "Buttons",
-            "name": "You are buying tools at the hardware store with your brother to start a new project. You think about how your brother will have to do most of the building because of your HD. You are still eager to complete the project, knowing you both will make a new memory. _Family & Home Life_comp_question",
+            "name": "Long Distance Relationship_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Tiring",
-                "Exciting"
+                "\"I'm so glad we are able to do this together.\"",
+                "\"I don't think this is working out.\""
             ],
             "columnCount": 1,
-            "correct_value": "Exciting"
+            "correct_value": "\"I don't think this is working out.\""
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Just like a muscle, your brain strengthens the pathways it uses the most. That's why practicing lots of situations helps you change your thinking habits. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

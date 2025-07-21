@@ -1,5 +1,5 @@
 {
-    "header_text": "During your work meeting over Zoom, everyone is placed into breakout rooms. Your camera is on when you start the discussion, but everyone else leaves their cameras off. You assume that the others will think that you are ready.",
+    "header_text": "Taking Charge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "During your work meeting over Zoom, everyone is placed into breakout rooms. Your camera is on when you start the discussion, but everyone else leaves their cameras off. You assume that the others will think that you are ready._Social Situations_comp_question",
+            "name": "Taking Charge_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

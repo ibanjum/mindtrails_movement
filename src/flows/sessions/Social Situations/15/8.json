@@ -1,14 +1,16 @@
 {
-    "header_text": "You make a new friend, and they ask you for your email so that they can reach out to make plans. When you tell them you rarely get emails, they grow quiet. They must think that you are different, and that's alright.",
+    "header_text": "Sharing Social Media with New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You make a new friend, and they ask you for your email so that they can reach out to make plans. When you tell them you rarely get emails, they grow quiet. They must think that you are different, and that's alright."
+            "text": "Sharing Social Media with New Friend"
         },
         {
             "type": "Media",
             "url": "./images/673.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

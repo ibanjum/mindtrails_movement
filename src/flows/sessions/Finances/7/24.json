@@ -1,14 +1,16 @@
 {
-    "header_text": "Last month, you accepted an offer to take on extra responsibilities at work for a pay increase. However, this has caused you to spend much less time on other important areas of your life, like family and friends. You talk with your supervisor and make a plan to reduce your responsibilities slightly, making you feel relieved. ",
+    "header_text": "Work-Life Balance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Last month, you accepted an offer to take on extra responsibilities at work for a pay increase. However, this has caused you to spend much less time on other important areas of your life, like family and friends. You talk with your supervisor and make a plan to reduce your responsibilities slightly, making you feel relieved. "
+            "text": "Work-Life Balance"
         },
         {
             "type": "Media",
             "url": "./images/106.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You walk into a friend's birthday party after traveling in from out of town. An unfamiliar woman approaches you, and you become nervous she will notice your HD symptoms. The woman introduces herself and asks about your trip.",
+    "header_text": "Online Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You walk into a friend's birthday party after traveling in from out of town. An unfamiliar woman approaches you, and you become nervous she will notice your HD symptoms. The woman introduces herself and asks about your trip."
+            "text": "Online Shopping"
         },
         {
             "type": "Media",
-            "url": "./images/844.jpg"
+            "url": "./images/222.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

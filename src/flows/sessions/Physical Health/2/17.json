@@ -1,14 +1,16 @@
 {
-    "header_text": "You accidentally cut your finger slightly while cooking. You promptly clean the cut and put on a bandage. The cut hurts a little bit later that evening, and you think that it is likely healing.",
+    "header_text": "Finger cut",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You accidentally cut your finger slightly while cooking. You promptly clean the cut and put on a bandage. The cut hurts a little bit later that evening, and you think that it is likely healing."
+            "text": "Finger cut"
         },
         {
             "type": "Media",
             "url": "./images/440.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

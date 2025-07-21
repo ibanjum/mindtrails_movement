@@ -1,14 +1,16 @@
 {
-    "header_text": "This morning you hear the news that a lot of companies are currently downsizing. You think about what will happen if you lose your job. You decide that finding another job will be possible.",
+    "header_text": "Future limitations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "This morning you hear the news that a lot of companies are currently downsizing. You think about what will happen if you lose your job. You decide that finding another job will be possible."
+            "text": "Future limitations"
         },
         {
             "type": "Media",
             "url": "./images/16.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

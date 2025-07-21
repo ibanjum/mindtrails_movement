@@ -1,14 +1,16 @@
 {
-    "header_text": "Your car needs important repairs. Your friends invite you to go out with them this weekend, but you need to save your money to pay for your car. You deny your friends' invitation, and you feel okay. ",
+    "header_text": "Saving for Repairs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your car needs important repairs. Your friends invite you to go out with them this weekend, but you need to save your money to pay for your car. You deny your friends' invitation, and you feel okay. "
+            "text": "Saving for Repairs"
         },
         {
             "type": "Media",
             "url": "./images/264.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

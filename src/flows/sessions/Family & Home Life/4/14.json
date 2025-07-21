@@ -1,14 +1,16 @@
 {
-    "header_text": "A long weekend is coming up, and you planned to travel to a family reunion. However, this morning you found out that your younger child tested positive for and exposed you to RSV. You are vaccinated, but unsure of your risk for catching RSV and possibly passing it on. You think the rest of your family will understand if you decide not to attend in order to keep them healthy. ",
+    "header_text": "Visiting Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A long weekend is coming up, and you planned to travel to a family reunion. However, this morning you found out that your younger child tested positive for and exposed you to RSV. You are vaccinated, but unsure of your risk for catching RSV and possibly passing it on. You think the rest of your family will understand if you decide not to attend in order to keep them healthy. "
+            "text": "Visiting Family"
         },
         {
             "type": "Media",
             "url": "./images/155.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

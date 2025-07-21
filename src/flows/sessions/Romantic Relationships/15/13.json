@@ -1,27 +1,29 @@
 {
-    "header_text": "You are on a date with your partner. They always pick up the bill, despite you wanting to pay. When you think about talking to them about paying equally, you think they will understand. ",
+    "header_text": "Relationship Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your partner understand your concerns?"
+            "Text": "When you think far into the future, you can see yourself"
         },
         {
             "type": "Buttons",
-            "name": "You are on a date with your partner. They always pick up the bill, despite you wanting to pay. When you think about talking to them about paying equally, you think they will understand. _Romantic Relationships_comp_question",
+            "name": "Relationship Worries_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Enjoying your golden years with your spouse.",
+                "Regretting that your spouse and you couldn't make things work."
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Regretting that your spouse and you couldn't make things work."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 3
 }

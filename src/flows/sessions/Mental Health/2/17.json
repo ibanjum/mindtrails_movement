@@ -1,5 +1,5 @@
 {
-    "header_text": "In one of your meetings recently, your boss asks everyone to raise their hands if they've heard of a work technique before. When you look around, you notice the majority of your coworkers have their hands raised, but you don't. This makes you feel like you're not prepared to do the job.",
+    "header_text": "Not Feeling Prepared",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "In one of your meetings recently, your boss asks everyone to raise their hands if they've heard of a work technique before. When you look around, you notice the majority of your coworkers have their hands raised, but you don't. This makes you feel like you're not prepared to do the job._Mental Health_puzzle1",
+            "name": "Not Feeling Prepared_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

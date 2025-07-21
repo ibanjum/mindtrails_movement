@@ -1,14 +1,16 @@
 {
-    "header_text": "Your home is a mess, and you decide to tackle some chores. You start to fold the laundry, but you find that you're struggling to fold clothes neatly. At first this causes you to feel overwhelmed, but you remind yourself to take a deep breath and relax.",
+    "header_text": "Pet Schedule",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your home is a mess, and you decide to tackle some chores. You start to fold the laundry, but you find that you're struggling to fold clothes neatly. At first this causes you to feel overwhelmed, but you remind yourself to take a deep breath and relax."
+            "text": "Pet Schedule"
         },
         {
             "type": "Media",
-            "url": "./images/212.jpg"
+            "url": "./images/211.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

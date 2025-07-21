@@ -1,27 +1,25 @@
 {
-    "header_text": "One evening before bed, you begin a new book. While the plot progresses, you can't seem to concentrate on the storyline. You make a plan to take notes and decide this added task will be fun. ",
+    "header_text": "Trip Planning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you find a way to work around your concentration difficulties?"
+            "text": "This year, you and your spouse are taking an anniversary trip. As you plan hotel stays and activities, you become afraid of forgetting important reservations and steps. You decide to make a checklist, and as you lie in bed that night, you think about the trip with..."
         },
         {
-            "type": "Buttons",
-            "name": "One evening before bed, you begin a new book. While the plot progresses, you can't seem to concentrate on the storyline. You make a plan to take notes and decide this added task will be fun. _Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Trip Planning_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "excitement"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You got the flu shot this season to protect yourself and others from the flu. Your boss, on the other hand, has been telling you about the parties they've frequently attended during this flu season despite not being vaccinated. You want to encourage them to either get the flu shot or wear a mask to work, but you think it will start a fight.",
+    "header_text": "Risky Behavior",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You got the flu shot this season to protect yourself and others from the flu. Your boss, on the other hand, has been telling you about the parties they've frequently attended during this flu season despite not being vaccinated. You want to encourage them to either get the flu shot or wear a mask to work, but you think it will start a fight."
+            "text": "Risky Behavior"
         },
         {
             "type": "Media",
             "url": "./images/670.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

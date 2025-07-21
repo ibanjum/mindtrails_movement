@@ -1,14 +1,16 @@
 {
-    "header_text": "You have a lot of tasks to finish tomorrow. You've been procrastinating getting it done because it is going to be hard. When you think about doing your work tonight, you feel ready.",
+    "header_text": "Ready to Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have a lot of tasks to finish tomorrow. You've been procrastinating getting it done because it is going to be hard. When you think about doing your work tonight, you feel ready."
+            "text": "Ready to Work"
         },
         {
             "type": "Media",
             "url": "./images/83.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

@@ -1,27 +1,25 @@
 {
-    "header_text": "You love creating collages, and you're really proud of what you've created. As you think about getting older, you wonder how your ability to cut out images and do this hobby will change. You remind yourself to enjoy doing what you love in the present.",
+    "header_text": "Dinner Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you still enjoy collaging today?"
+            "text": "You are excited to attend a dinner with friends. However, you find that you are having more difficulty swallowing than usual. Whether or not your friends notice, you know your friends care about you, and your presence is..."
         },
         {
-            "type": "Buttons",
-            "name": "You love creating collages, and you're really proud of what you've created. As you think about getting older, you wonder how your ability to cut out images and do this hobby will change. You remind yourself to enjoy doing what you love in the present._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Dinner Party_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "appreciated"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been feeling a little sick lately, so you schedule a doctor's appointment. The soonest appointment you can get is a few days away. While you wait for your doctor's appointment, you think your sickness is probably temporary.",
+    "header_text": "Appointment with the doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been feeling a little sick lately, so you schedule a doctor's appointment. The soonest appointment you can get is a few days away. While you wait for your doctor's appointment, you think your sickness is probably temporary."
+            "text": "Appointment with the doctor"
         },
         {
             "type": "Media",
             "url": "./images/433.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

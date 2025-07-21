@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your spouse have been together for a long time and are dealing with a recurring argument. You love your spouse, but you wonder if you're compatible because you disagree every time a specific topic comes up in conversation. You remember that having disagreements is normal, and many couples have challenging conversations.",
+    "header_text": "Tough Topics",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your spouse have been together for a long time and are dealing with a recurring argument. You love your spouse, but you wonder if you're compatible because you disagree every time a specific topic comes up in conversation. You remember that having disagreements is normal, and many couples have challenging conversations."
+            "text": "Tough Topics"
         },
         {
             "type": "Media",
             "url": "./images/361.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

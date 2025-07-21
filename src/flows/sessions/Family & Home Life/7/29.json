@@ -1,27 +1,16 @@
 {
-    "header_text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. ",
+    "header_text": "Differing Beliefs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Will your family's relationships become more strained as time goes on?"
+            "type": "Label",
+            "text": "Differing Beliefs"
         },
         {
-            "type": "Buttons",
-            "name": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. _Family & Home Life_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/160.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

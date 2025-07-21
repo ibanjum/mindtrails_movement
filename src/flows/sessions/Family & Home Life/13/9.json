@@ -1,23 +1,25 @@
 {
-    "header_text": "Your significant other's parents have invited you to join them for the holidays. You are excited to spend time with your partner's family, but you worry your own parents will be disappointed that you are not with them. When you think about telling your parents you would like to spend the holidays with your partner, you believe that they will take the news poorly.",
+    "header_text": "At the Playground ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your significant other's siblings have invited you to join them for the holidays. You are excited to spend time with your their family, but you worry your own siblings will be disappointed that you are not with them. When you think about telling your siblings you would like to spend the holidays with your partner, you believe that they will take the news..."
+            "text": "You reassure yourself that your grandchildren are loved and you will find other ways to foster connection. Ultimately, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Your significant other's parents have invited you to join them for the holidays. You are excited to spend time with your partner's family, but you worry your own parents will be disappointed that you are not with them. When you think about telling your parents you would like to spend the holidays with your partner, you believe that they will take the news poorly._Family & Home Life_puzzle1",
+            "name": "At the Playground _Family & Home Life_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "poorly"
+                "optimistic"
             ],
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

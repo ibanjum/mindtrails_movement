@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your best friend have known each other since college. You then worked in different fields and now have different interests, and you worry that you won't understand each other as you continue to get older. When you think about upcoming major life events, you expect your best friend to be supportive.",
+    "header_text": "Friendships in the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your best friend have known each other since college. You then worked in different fields and now have different interests, and you worry that you won't understand each other as you continue to get older. When you think about upcoming major life events, you expect your best friend to be supportive."
+            "text": "Friendships in the Future"
         },
         {
             "type": "Media",
-            "url": "./images/708.jpg"
+            "url": "./images/707.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

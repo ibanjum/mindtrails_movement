@@ -1,14 +1,16 @@
 {
-    "header_text": "You put on a new outfit in the morning before leaving for the day. In the middle of the day, you notice you feel a bit different in this new outfit. You love this feeling and are happy you chose to wear the outfit. ",
+    "header_text": "New Outfit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You put on a new outfit in the morning before leaving for the day. In the middle of the day, you notice you feel a bit different in this new outfit. You love this feeling and are happy you chose to wear the outfit. "
+            "text": "New Outfit"
         },
         {
             "type": "Media",
             "url": "./images/343.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

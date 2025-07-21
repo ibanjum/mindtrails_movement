@@ -1,14 +1,16 @@
 {
-    "header_text": "During a family movie night, you can't keep up with the plot. You keep pausing the movie to ask questions, and you worry your family is annoyed. You decide to ask them if they mind the interruptions, and they all agree that your questions are helpful.",
+    "header_text": "Paying your Bills",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "During a family movie night, you can't keep up with the plot. You keep pausing the movie to ask questions, and you worry your family is annoyed. You decide to ask them if they mind the interruptions, and they all agree that your questions are helpful."
+            "text": "Paying your Bills"
         },
         {
             "type": "Media",
-            "url": "./images/245.jpg"
+            "url": "./images/862.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You look through your social media feed and notice that your kids only post pictures with their friends. You want to post a family picture and tag your kids. You ask your kids if they mind, and they say that it is a great photo.",
+    "header_text": "Keeping Up With Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You look through your social media feed and notice that your kids only post pictures with their friends. You want to post a family picture and tag your kids. You ask your kids if they mind, and they say that it is a great photo."
+            "text": "Keeping Up With Friends "
         },
         {
             "type": "Media",
-            "url": "./images/175.jpg"
+            "url": "./images/82.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

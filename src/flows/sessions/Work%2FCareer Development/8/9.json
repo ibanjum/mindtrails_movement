@@ -1,5 +1,5 @@
 {
-    "header_text": "Your boss is watching your presentation in your meeting today. During the presentation, you stumble over your words a lot. You feel defeated.",
+    "header_text": "A Little Stumble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "Your boss is watching your presentation in your meeting today. During the presentation, you stumble over your words a lot. You feel defeated._Work/Career Development_entry1"
+            "name": "A Little Stumble_Work/Career Development_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

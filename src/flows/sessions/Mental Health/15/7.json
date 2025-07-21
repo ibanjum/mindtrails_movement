@@ -1,27 +1,29 @@
 {
-    "header_text": "You are talking with a group of coworkers about TV shows. When you say what you like about an old TV show that you just discovered, no one responds. They probably think that you are weird.",
+    "header_text": "Having a New Friend Over",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do your coworkers judge you for what you said about the TV show? "
+            "Text": "Will your coworkers judge your home?"
         },
         {
             "type": "Buttons",
-            "name": "You are talking with a group of coworkers about TV shows. When you say what you like about an old TV show that you just discovered, no one responds. They probably think that you are weird._Mental Health_comp_question",
+            "name": "Having a New Friend Over_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

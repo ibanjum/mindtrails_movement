@@ -1,19 +1,19 @@
 {
-    "header_text": "Saying hi to friends: Feelings",
+    "header_text": "Halloween party: Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are outside on a cool day and see your friends down the street. You decide to jog over to say hi. When you get to your friends, you feel out of breath.\n\nHere are some feelings that might happen in the moment:"
+            "text": "You are invited to a Halloween party with your coworkers and you're only close to a couple of people there. You decide to wear a costume. When you arrive, everyone looks at you. \n\nHere are some feelings that might happen in the moment:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I'm really excited to see these friends who I haven't seen in a while.",
-                "I'm embarrassed that I have to catch my breath when I see my friends.",
-                "I'm worried that I'm sick because of this feeling in my chest, but realistically I know I'm fine and it was just the jog.",
-                "I'm happy to be able to stretch out my legs.",
-                "Even though I'm feeling miserable, I know this feeling will pass."
+                "I worry about what others are thinking, but realize that I'm allowed to wear what makes me happy.",
+                "I'm worried that others are making fun of me behind my back.",
+                "I feel so liberated wearing something so fun.",
+                "I'm really embarrassed that I stand out so much, but honestly people will forget about it in a few minutes.",
+                "I feel happy wearing what I love."
             ],
             "Duration": 15
         }

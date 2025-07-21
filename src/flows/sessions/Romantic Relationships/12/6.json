@@ -1,5 +1,5 @@
 {
-    "header_text": "You have been asked out on a date for the first time in a while! You feel nervous about this somewhat new experience, and you worry you might do something embarrassing. When you think about the date, you feel excited.",
+    "header_text": "For the First Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You have been asked out on a date for the first time in a while! You feel nervous about this somewhat new experience, and you worry you might do something embarrassing. When you think about the date, you feel excited._Romantic Relationships_comp_question",
+            "name": "For the First Time_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You arrange to meet up with a friend you have not seen for many years. You drive to the train station to pick them up. When you arrive, you know they will find spending time with you fun.",
+    "header_text": "Collecting an old friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You arrange to meet up with a friend you have not seen for many years. You drive to the train station to pick them up. When you arrive, you know they will find spending time with you fun."
+            "text": "Collecting an old friend"
         },
         {
             "type": "Media",
             "url": "./images/610.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

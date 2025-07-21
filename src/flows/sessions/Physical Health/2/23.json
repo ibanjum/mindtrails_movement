@@ -1,14 +1,16 @@
 {
-    "header_text": "It's Sunday morning and you are taking a walk in the park. After some time, you feel out of breath and decide to break for a minute at a bench. Gasping for breath makes you feel anxious, and you want to stop walking. ",
+    "header_text": "Difficult walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It's Sunday morning and you are taking a walk in the park. After some time, you feel out of breath and decide to break for a minute at a bench. Gasping for breath makes you feel anxious, and you want to stop walking. "
+            "text": "Difficult walk"
         },
         {
             "type": "Media",
             "url": "./images/363.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

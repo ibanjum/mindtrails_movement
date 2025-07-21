@@ -1,14 +1,16 @@
 {
-    "header_text": "Your significant other of four years has recently asked how you feel about marriage. You feel very much in love with your significant other, but worry about the high rates of divorce and whether that could happen to you. ",
+    "header_text": "Marrying Your Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your significant other of four years has recently asked how you feel about marriage. You feel very much in love with your significant other, but worry about the high rates of divorce and whether that could happen to you. "
+            "text": "Marrying Your Partner"
         },
         {
             "type": "Media",
             "url": "./images/538.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

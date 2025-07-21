@@ -1,14 +1,16 @@
 {
-    "header_text": "At work, you are told you need to give a presentation to your coworkers. When it is time to present, you have a sip of water. As you begin to speak, you feel scared and decide to continue.",
+    "header_text": "A sip of water",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "At work, you are told you need to give a presentation to your coworkers. When it is time to present, you have a sip of water. As you begin to speak, you feel scared and decide to continue."
+            "text": "A sip of water"
         },
         {
             "type": "Media",
             "url": "./images/113.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

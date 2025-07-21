@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been feeling really overwhelmed and drained recently and want to go on a trip to take a break. When you look into flights, you realize that the cost of a trip may be totally out of your budget. You remind yourself you can go for a short trip somewhere nearby and still have fun. ",
+    "header_text": "Trip to the Dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been feeling really overwhelmed and drained recently and want to go on a trip to take a break. When you look into flights, you realize that the cost of a trip may be totally out of your budget. You remind yourself you can go for a short trip somewhere nearby and still have fun. "
+            "text": "Trip to the Dentist"
         },
         {
             "type": "Media",
-            "url": "./images/314.jpg"
+            "url": "./images/369.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

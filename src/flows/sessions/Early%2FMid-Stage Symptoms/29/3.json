@@ -1,27 +1,29 @@
 {
-    "header_text": "You're at the first session with a new therapist, and you hesitate to disclose your HD diagnosis. You are stressed as you anticipate their reaction and understanding about HD. Ultimately, you decide to tell them and leave the appointment feeling supported.",
+    "header_text": "Walk with Counselor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your therapist is..."
+            "Text": "Will your counselor understand your reluctance to share?"
         },
         {
             "type": "Buttons",
-            "name": "You're at the first session with a new therapist, and you hesitate to disclose your HD diagnosis. You are stressed as you anticipate their reaction and understanding about HD. Ultimately, you decide to tell them and leave the appointment feeling supported._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Walk with Counselor_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Insensitive",
-                "Understanding"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Understanding"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

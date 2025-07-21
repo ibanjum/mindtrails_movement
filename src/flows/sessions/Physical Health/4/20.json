@@ -1,14 +1,16 @@
 {
-    "header_text": "You are watching a movie in a theater. There are many quick-paced camera shots that make you feel dizzy. This sensation is scary.",
+    "header_text": "Flashing movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are watching a movie in a theater. There are many quick-paced camera shots that make you feel dizzy. This sensation is scary."
+            "text": "Flashing movie"
         },
         {
             "type": "Media",
             "url": "./images/443.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 6
 }

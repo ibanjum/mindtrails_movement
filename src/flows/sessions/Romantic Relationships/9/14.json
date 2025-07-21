@@ -1,14 +1,16 @@
 {
-    "header_text": "Your partner is very extroverted and has a lot of friends. You really enjoy the time you spend with your partner, but you sometimes wonder if they’d rather be hanging out with their other friends. Reflecting on your relationship with them so far, you feel secure. ",
+    "header_text": "Texting Other People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your partner is very extroverted and has a lot of friends. You really enjoy the time you spend with your partner, but you sometimes wonder if they’d rather be hanging out with their other friends. Reflecting on your relationship with them so far, you feel secure. "
+            "text": "Texting Other People"
         },
         {
             "type": "Media",
             "url": "./images/564.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,15 +1,17 @@
 {
-    "header_text": "You just moved to a new city and have met a lot of really interesting people. However, you feel like you still don't have a very close group of friends to rely on, and you miss your close friends from your old city. You decide to spend more time with the people you have met so that you can become closer friends.",
+    "header_text": "Absent Sister",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You just moved to a new city and have met a lot of really interesting people. However, you feel like you still don't have a very close group of friends to rely on, and you miss your close friends from your old city. You decide to spend more time with the people you have met so that you can become closer..."
+            "text": "You are visiting your sibling in a different city for an extended period of time. Your sibling is always out of the apartment, leaving you alone. You think it is nice that they are not home often because you prefer to be alone to relax at the end of the..."
         },
         {
             "type": "Entry",
-            "name": "You just moved to a new city and have met a lot of really interesting people. However, you feel like you still don't have a very close group of friends to rely on, and you miss your close friends from your old city. You decide to spend more time with the people you have met so that you can become closer friends._Social Situations_entry1"
+            "name": "Absent Sister_Social Situations_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
 }

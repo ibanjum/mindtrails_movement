@@ -1,14 +1,16 @@
 {
-    "header_text": "You've never met your significant other's colleagues. They have just told you their colleagues have invited you to dinner tonight, and your significant other mentions that they can be critical. When you think about meeting their colleagues, your anxiety is tolerable.",
+    "header_text": "Making a Good Impression",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You've never met your significant other's colleagues. They have just told you their colleagues have invited you to dinner tonight, and your significant other mentions that they can be critical. When you think about meeting their colleagues, your anxiety is tolerable."
+            "text": "Making a Good Impression"
         },
         {
             "type": "Media",
             "url": "./images/149.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

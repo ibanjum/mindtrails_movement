@@ -1,27 +1,16 @@
 {
-    "header_text": "You are enjoying a meal with your family at a restaurant. You choke on a bite that is too big and begin to cough very loudly. A few people turn to look over at your table, and you feel embarrassed. ",
+    "header_text": "Fresh Air",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "After getting some fresh air and talking it over, were you able to see things from a different perspective?"
+            "type": "Label",
+            "text": "Fresh Air"
         },
         {
-            "type": "Buttons",
-            "name": "You are enjoying a meal with your family at a restaurant. You choke on a bite that is too big and begin to cough very loudly. A few people turn to look over at your table, and you feel embarrassed. _Family & Home Life_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/210.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

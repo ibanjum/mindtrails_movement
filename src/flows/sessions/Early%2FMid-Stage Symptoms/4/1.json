@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your significant other had been doing fine financially, but your insurance plan recently changed and your treatments now cost more. Your significant other is being passive aggressive about your new financial situation, which makes you upset since the situation is out of your control. You remember that you can work together to find a solution.",
+    "header_text": "Meeting up with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your significant other had been doing fine financially, but your insurance plan recently changed and your treatments now cost more. Your significant other is being passive aggressive about your new financial situation, which makes you upset since the situation is out of your control. You remember that you can work together to find a solution."
+            "text": "Meeting up with a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/747.jpg"
+            "url": "./images/727.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

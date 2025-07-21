@@ -1,14 +1,16 @@
 {
-    "header_text": "You are having a conversation with a coworker about a recent controversial story in the news. You voice your opinion on the matter, and your coworker looks surprised and strongly disagrees.",
+    "header_text": "Controversial news story",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are having a conversation with a coworker about a recent controversial story in the news. You voice your opinion on the matter, and your coworker looks surprised and strongly disagrees."
+            "text": "Controversial news story"
         },
         {
             "type": "Media",
             "url": "./images/598.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

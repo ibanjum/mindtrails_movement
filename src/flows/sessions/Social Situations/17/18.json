@@ -1,23 +1,25 @@
 {
-    "header_text": "You sent a text to a good friend. A day goes by, and they still have not replied. You think about how your friend doesn't use their phone often, and you feel better.",
+    "header_text": "Fundraiser presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You sent a text to a good friend. A day goes by, and they still have not replied. You think about how your friend doesn't use their phone often, and you feel..."
+            "text": "You are put in charge of your office's fundraising efforts and quickly realize that your coworkers are not very interested in the fundraising. At a meeting, you give a presentation about the importance of helping with the fundraising, during which your coworkers remain quiet. As you sit down after your presentation, you think they seemed..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You sent a text to a good friend. A day goes by, and they still have not replied. You think about how your friend doesn't use their phone often, and you feel better._Social Situations_puzzle1",
+            "name": "Fundraiser presentation_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "better"
+                "bored"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

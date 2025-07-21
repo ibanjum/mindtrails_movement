@@ -1,14 +1,16 @@
 {
-    "header_text": "You arrange to meet a friend in town. Last time you met, you disagreed on something you were discussing. Just before you leave, they call to say that they can't make it. As you put down the phone, you think that this is because they are busy.",
+    "header_text": "Cancelled plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You arrange to meet a friend in town. Last time you met, you disagreed on something you were discussing. Just before you leave, they call to say that they can't make it. As you put down the phone, you think that this is because they are busy."
+            "text": "Cancelled plans"
         },
         {
             "type": "Media",
             "url": "./images/345.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

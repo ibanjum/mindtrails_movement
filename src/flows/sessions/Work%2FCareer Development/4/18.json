@@ -1,5 +1,5 @@
 {
-    "header_text": "Although you are normally on time for work events, today you receive an email from your boss saying that you are a few minutes late for a scheduled meeting with them, which you had completely forgotten about. As you quickly head to the office, you wonder whether they are going to judge you for being late. As you walk into the room, your anxiety is tolerable.",
+    "header_text": "Missing meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Although you are normally on time for work events, today you receive an email from your boss saying that you are a few minutes late for a scheduled meeting with them, which you had completely forgotten about. As you quickly head to the office, you wonder whether they are going to judge you for being late. As you walk into the room, your anxiety is tolerable._Work/Career Development_puzzle1",
+            "name": "Missing meeting_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

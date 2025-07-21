@@ -1,23 +1,25 @@
 {
-    "header_text": "You notice that you haven't seen your older neighbor recently. You visit them regularly, so it's strange that you haven't seen them lately. Your neighbor has probably been fine.",
+    "header_text": "Cohabitation Conflicts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You notice that you haven't seen your older neighbor recently. You visit them regularly, so it's strange that you haven't seen them lately. Your neighbor has probably been..."
+            "text": "After talking about it, your significant other calms down and hears your side. The conversation ends up being productive, and you look forward to communicating with each other about issues more in the..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You notice that you haven't seen your older neighbor recently. You visit them regularly, so it's strange that you haven't seen them lately. Your neighbor has probably been fine._Social Situations_puzzle1",
+            "name": "Cohabitation Conflicts_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "fine"
+                "future"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

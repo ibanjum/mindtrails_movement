@@ -1,23 +1,25 @@
 {
-    "header_text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. ",
+    "header_text": "Attending a dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your... "
+            "text": "Your partner asks you to go to a dinner with their new friends. You have not met these friends before and wonder what they will think of you. Getting ready to go, you think that the new people will find you..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. _Family & Home Life_puzzle1",
+            "name": "Attending a dinner_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "family"
+                "interesting"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
 }

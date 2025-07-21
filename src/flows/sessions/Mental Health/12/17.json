@@ -1,14 +1,16 @@
 {
-    "header_text": "At your last doctor's appointment, your doctor took a few blood tests. Your doctor told you that they will have your results in a few days, and you feel nervous as you wait for them. You think your nervousness is manageable.",
+    "header_text": "Session Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "At your last doctor's appointment, your doctor took a few blood tests. Your doctor told you that they will have your results in a few days, and you feel nervous as you wait for them. You think your nervousness is manageable."
+            "text": "Session Costs"
         },
         {
             "type": "Media",
-            "url": "./images/366.jpg"
+            "url": "./images/190.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

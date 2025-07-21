@@ -1,14 +1,26 @@
 {
-    "header_text": "You are at a car dealership looking to buy a new car. You are torn between two cars, and you are worried that you may make the wrong financial decision. When you tell the dealer which car you've decided to buy, you feel content.",
+    "header_text": "Choosing a New Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at a car dealership looking to buy a new car. You are torn between two cars, and you are worried that you may make the wrong financial decision. When you tell the dealer which car you've decided to buy, you feel content."
+            "text": "Choosing a New Car"
         },
         {
             "type": "Media",
             "url": "./images/254.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "The more you immerse yourself in the story, the more likely you are to benefit from our program – really picture yourself in the situation at hand."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

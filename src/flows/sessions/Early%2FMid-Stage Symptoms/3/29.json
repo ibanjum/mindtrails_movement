@@ -1,14 +1,16 @@
 {
-    "header_text": "You have just become a parent. You are scared about how your HD might affect your child's future. When thinking about being a parent, you remind yourself that you will fill your child's life with love.",
+    "header_text": "Music Venue ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have just become a parent. You are scared about how your HD might affect your child's future. When thinking about being a parent, you remind yourself that you will fill your child's life with love."
+            "text": "Music Venue "
         },
         {
             "type": "Media",
-            "url": "./images/746.jpg"
+            "url": "./images/723.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

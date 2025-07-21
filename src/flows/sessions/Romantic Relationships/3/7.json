@@ -1,14 +1,26 @@
 {
-    "header_text": "You have been hanging out with a cute coworker a lot lately, but aren't sure if your attraction is reciprocated. Today your coworker asks for your number. our coworker will probably use your phone number to ask you about work",
+    "header_text": "Texting Your Crush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been hanging out with a cute coworker a lot lately, but aren't sure if your attraction is reciprocated. Today your coworker asks for your number. our coworker will probably use your phone number to ask you about work"
+            "text": "Texting Your Crush"
         },
         {
             "type": "Media",
             "url": "./images/346.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 2,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

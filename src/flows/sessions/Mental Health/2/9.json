@@ -1,5 +1,5 @@
 {
-    "header_text": "You are driving to a friend's house in the town you previously lived in. When you arrive at the entrance, you have a strong flashback to when you used to visit this house many years back. You start to feel anxious about being disoriented, and you decide that what you will do about these feelings is to just let them pass.",
+    "header_text": "Driving flashback ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You are driving to a friend's house in the town you previously lived in. When you arrive at the entrance, you have a strong flashback to when you used to visit this house many years back. You start to feel anxious about being disoriented, and you decide that what you will do about these feelings is to just let them pass._Mental Health_comp_question",
+            "name": "Driving flashback _Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Get anxious about feeling disoriented.",
-                "Simply observe and accept the feelings."
+                "Simply observe and accept the feelings.",
+                "Get anxious about feeling disoriented."
             ],
             "columnCount": 1,
             "correct_value": "Simply observe and accept the feelings."
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

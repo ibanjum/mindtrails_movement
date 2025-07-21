@@ -1,19 +1,19 @@
 {
-    "header_text": "Saying hi to friends: Thoughts",
+    "header_text": "Giving a Presentation: Thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are outside on a cool day and see your friends down the street. You decide to jog over to say hi. When you get to your friends, you feel out of breath.\n\nHere are some thoughts that might pop into mind:"
+            "text": "You have to give a presentation in a meeting today. When you stand up in front of the group, you feel your cheeks get hot and your hands start to tremble.\n\nHere are some thoughts that might pop into mind:"
         },
         {
             "type": "TimedText",
             "text": [
-                "It is a nice day for a jog.",
-                "The tightness in my chest is really uncomfortable, but I know it'll go away soon.",
-                "I think I'm being judged by my friends for being out of breath, but they probably don't even notice.",
-                "It's great to see my friends.",
-                "I feel like I'm going to die."
+                "I've done everything I can to prepare for this presentation.",
+                "It's normal to feel a little warm when you're anxious about presenting.",
+                "Everyone will see that my hands are shaking.",
+                "I want to cover my face, but know I can do this even if it's uncomfortable.",
+                "I want to sit back down, but decide to go forward with the presentation knowing my hard work will pay off."
             ],
             "Duration": 15
         }

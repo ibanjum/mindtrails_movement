@@ -1,5 +1,5 @@
 {
-    "header_text": "You made plans with a group of friends to go out to dinner on a Friday night. You see that they are dressed casually when they pick you up, but you think they might judge you because you dressed up a bit. You decide that you like what you're wearing and go to dinner happy. ",
+    "header_text": "Your Own Style",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You made plans with a group of friends to go out to dinner on a Friday night. You see that they are dressed casually when they pick you up, but you think they might judge you because you dressed up a bit. You decide that you like what you're wearing and go to dinner happy. _Mental Health_comp_question",
+            "name": "Your Own Style_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

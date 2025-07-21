@@ -1,14 +1,16 @@
 {
-    "header_text": "You are filing your taxes for the previous year. You have several forms to include, and you find the process confusing. You believe that you are trying your best. ",
+    "header_text": "Filing Your Taxes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are filing your taxes for the previous year. You have several forms to include, and you find the process confusing. You believe that you are trying your best. "
+            "text": "Filing Your Taxes"
         },
         {
             "type": "Media",
             "url": "./images/258.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

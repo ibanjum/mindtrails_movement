@@ -1,27 +1,29 @@
 {
-    "header_text": "Recently, you have felt like you are in a good place financially and were looking into getting the car you have always wanted. However, after getting your HD diagnosis, you feel like getting the car will be a waste since you may not be able to drive in a couple years. You are disappointed. ",
+    "header_text": "Weekly Tea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you still be excited about your dream car?"
+            "Text": "Your neighbor is ready to..."
         },
         {
             "type": "Buttons",
-            "name": "Recently, you have felt like you are in a good place financially and were looking into getting the car you have always wanted. However, after getting your HD diagnosis, you feel like getting the car will be a waste since you may not be able to drive in a couple years. You are disappointed. _Early/Mid-Stage Symptoms_comp_question",
+            "name": "Weekly Tea_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Listen",
+                "Reject you"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Listen"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

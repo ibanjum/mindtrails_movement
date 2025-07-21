@@ -1,27 +1,39 @@
 {
-    "header_text": "You are talking with a close friend and have gotten lost in the conversation a couple of times. You ask them to repeat something they said earlier, and you are concerned that they might become annoyed. As you both continue the conversation, you know your friend is aware of your diagnosis and is understanding.",
+    "header_text": "Question at Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your conversation will be..."
+            "Text": "Your neighbors make you feel..."
         },
         {
             "type": "Buttons",
-            "name": "You are talking with a close friend and have gotten lost in the conversation a couple of times. You ask them to repeat something they said earlier, and you are concerned that they might become annoyed. As you both continue the conversation, you know your friend is aware of your diagnosis and is understanding._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Question at Work_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Disagreeable",
-                "Enjoyable"
+                "self-conscious.",
+                "supported."
             ],
             "columnCount": 1,
-            "correct_value": "Enjoyable"
+            "correct_value": "supported."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "An old acquaintance just moved to town and asks you out to coffee. You are nervous about seeing them again after many years and could easily tell them that you are too busy. You are at home when they call about meeting, and you decide to answer.",
+    "header_text": "Meeting an old acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "An old acquaintance just moved to town and asks you out to coffee. You are nervous about seeing them again after many years and could easily tell them that you are too busy. You are at home when they call about meeting, and you decide to answer."
+            "text": "Meeting an old acquaintance"
         },
         {
             "type": "Media",
             "url": "./images/618.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

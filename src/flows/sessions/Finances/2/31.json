@@ -1,5 +1,5 @@
 {
-    "header_text": "You've recently been feeling overwhelmed with work, but you know that you need to get a second job to be in a more stable financial situation. While searching online for jobs, you saw an application for a job that sounds really fun for you. You think that working this second job will be manageable. ",
+    "header_text": "Extra Income",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You've recently been feeling overwhelmed with work, but you know that you need to get a second job to be in a more stable financial situation. While searching online for jobs, you saw an application for a job that sounds really fun for you. You think that working this second job will be manageable. _Finances_puzzle1",
+            "name": "Extra Income_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

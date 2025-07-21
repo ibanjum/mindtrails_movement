@@ -1,14 +1,16 @@
 {
-    "header_text": "Your significant other's parents have invited you to join them for the holidays. You are excited to spend time with your partner's family, but you worry your own parents will be disappointed that you are not with them. ",
+    "header_text": "Holiday Away From Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your significant other's parents have invited you to join them for the holidays. You are excited to spend time with your partner's family, but you worry your own parents will be disappointed that you are not with them. "
+            "text": "Holiday Away From Home"
         },
         {
             "type": "Media",
             "url": "./images/156.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

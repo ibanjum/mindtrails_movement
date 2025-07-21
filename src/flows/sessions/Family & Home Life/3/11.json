@@ -1,14 +1,16 @@
 {
-    "header_text": "You'd like to take some time off to travel after a long and stressful year. Your family expects you to work more hours to help with finances, and you don't want to let them down. When considering your plans for the end of the year, you feel excited.",
+    "header_text": "Prospective Excitement",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You'd like to take some time off to travel after a long and stressful year. Your family expects you to work more hours to help with finances, and you don't want to let them down. When considering your plans for the end of the year, you feel excited."
+            "text": "Prospective Excitement"
         },
         {
             "type": "Media",
             "url": "./images/100.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

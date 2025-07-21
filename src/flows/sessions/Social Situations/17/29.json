@@ -1,14 +1,16 @@
 {
-    "header_text": "There's an important question that you've been wanting to ask your friend for a while, but you haven't. You picture yourself asking when you meet next. As you think about the question, you feel ready.",
+    "header_text": "Posting New Content",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "There's an important question that you've been wanting to ask your friend for a while, but you haven't. You picture yourself asking when you meet next. As you think about the question, you feel ready."
+            "text": "Posting New Content"
         },
         {
             "type": "Media",
-            "url": "./images/680.jpg"
+            "url": "./images/679.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

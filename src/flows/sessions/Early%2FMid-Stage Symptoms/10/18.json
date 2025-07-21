@@ -1,14 +1,16 @@
 {
-    "header_text": "You were recently invited to participate in an HD research study. As you review the study information and potential side effects, you begin to feel hesitant. After talking it over with the study coordinator, you decide that the risks of the study are low.",
+    "header_text": "Farmer's Market",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You were recently invited to participate in an HD research study. As you review the study information and potential side effects, you begin to feel hesitant. After talking it over with the study coordinator, you decide that the risks of the study are low."
+            "text": "Farmer's Market"
         },
         {
             "type": "Media",
-            "url": "./images/791.jpg"
+            "url": "./images/781.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

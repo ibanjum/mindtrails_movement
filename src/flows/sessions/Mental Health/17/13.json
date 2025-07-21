@@ -1,14 +1,14 @@
 {
-    "header_text": "As you scroll through your feed on social media, you see a screenshot of your friends that shows them having a great time together over video chat. You weren't invited to hang out with them online. You think about it and decide that you can cope.",
+    "header_text": "Long Walk Outside",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you handle that sometimes your friends hang out without you?"
+            "Text": "Does your rapid heart rate mean something bad is happening?"
         },
         {
             "type": "Buttons",
-            "name": "As you scroll through your feed on social media, you see a screenshot of your friends that shows them having a great time together over video chat. You weren't invited to hang out with them online. You think about it and decide that you can cope._Mental Health_comp_question",
+            "name": "Long Walk Outside_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,11 +17,13 @@
                 "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

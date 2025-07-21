@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your partner plan a date night to reconnect because you haven't been spending quality time together recently. As the evening approaches, you are nervous that you won't have as much fun as you used to or that the spark has faded. Thinking about how your relationship has changed, you are happy about the deep connection that has grown over time.",
+    "header_text": "Anticipating a date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your partner plan a date night to reconnect because you haven't been spending quality time together recently. As the evening approaches, you are nervous that you won't have as much fun as you used to or that the spark has faded. Thinking about how your relationship has changed, you are happy about the deep connection that has grown over time."
+            "text": "Anticipating a date"
         },
         {
             "type": "Media",
             "url": "./images/375.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You are out to dinner and realize that you are not wearing your favorite watch. You don't remember taking it off earlier but think it is probably where you always keep it. You become a little anxious thinking about where the watch is, and your dinner ends up being enjoyable.",
+    "header_text": "Favorite watch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are out to dinner and realize that you are not wearing your favorite watch. You don't remember taking it off earlier but think it is probably where you always keep it. You become a little anxious thinking about where the watch is, and your dinner ends up being enjoyable."
+            "text": "Favorite watch"
         },
         {
             "type": "Media",
             "url": "./images/327.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

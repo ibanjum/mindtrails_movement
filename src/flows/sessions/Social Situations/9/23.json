@@ -1,5 +1,5 @@
 {
-    "header_text": "You are sitting in an online meeting and space out for a minute. Your boss asks you a question, and you don't hear it. You ask her to repeat her question, and this makes you feel ok.",
+    "header_text": "Zoning Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You are sitting in an online meeting and space out for a minute. Your boss asks you a question, and you don't hear it. You ask her to repeat her question, and this makes you feel ok._Social Situations_entry1"
+            "name": "Zoning Out_Social Situations_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

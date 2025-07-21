@@ -1,23 +1,29 @@
 {
-    "header_text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently.",
+    "header_text": "Mental Health Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you prepare for the review, you do not think your boss will forget your good work, and you think that your meeting will probably focus on your..."
+            "Text": "Will you partner be understanding?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently._Mental Health_puzzle_word2",
+            "type": "Buttons",
+            "name": "Mental Health Issues_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "accomplishments"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

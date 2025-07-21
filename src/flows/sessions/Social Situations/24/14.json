@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your coworkers are comparing work experiences. You have struggled with completing paperwork in time and your coworkers start lightheartedly teasing you. You begin to feel insecure.",
+    "header_text": "Your Friend's Support",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your coworkers are comparing work experiences. You have struggled with completing paperwork in time and your coworkers start lightheartedly teasing you. You begin to feel insecure."
+            "text": "Your Friend's Support"
         },
         {
             "type": "Media",
-            "url": "./images/640.jpg"
+            "url": "./images/708.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

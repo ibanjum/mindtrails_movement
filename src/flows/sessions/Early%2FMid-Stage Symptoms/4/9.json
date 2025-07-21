@@ -1,23 +1,29 @@
 {
-    "header_text": "You have been feeling more unsteady on your feet recently. When walking through your home, you worry you will fall. You decide to be safe by sitting down and recovering.",
+    "header_text": "April Proposal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been feeling more unsteady on your feet recently. When walking through your home, you worry you will fall. You decide to be safe by sitting down and..."
+            "Text": "You are confident that as your PD progresses, your fiancé will..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You have been feeling more unsteady on your feet recently. When walking through your home, you worry you will fall. You decide to be safe by sitting down and recovering._Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "April Proposal_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "recovering"
+            "buttons": [
+                "Support you",
+                "Abandon you"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Support you"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

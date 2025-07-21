@@ -1,5 +1,5 @@
 {
-    "header_text": "As you scroll through your social media, you see that your friends hung out without you last night. You didn't get an invite to hang out with them. You realize that sometimes your friends hang out without you and that next time you can initiate.",
+    "header_text": "Friends Hanging Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "As you scroll through your social media, you see that your friends hung out without you last night. You didn't get an invite to hang out with them. You realize that sometimes your friends hang out without you and that next time you can initiate._Social Situations_comp_question",
+            "name": "Friends Hanging Out_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, the more you practice thinking about situations in new ways on our app, the more you'll be able to think positively about scary situations in your life!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

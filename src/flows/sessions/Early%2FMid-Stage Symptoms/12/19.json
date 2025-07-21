@@ -1,27 +1,29 @@
 {
-    "header_text": "You are carrying a plate of food to your family at the dining table and begin to feel unsteady. You drop the plate of food on the ground as your reach to grab the counter to steady yourself. You know that it was an accident and your family will be forgiving. ",
+    "header_text": "Meal Program Volunteering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your family will..."
+            "Text": "Your doctor's orders are..."
         },
         {
             "type": "Buttons",
-            "name": "You are carrying a plate of food to your family at the dining table and begin to feel unsteady. You drop the plate of food on the ground as your reach to grab the counter to steady yourself. You know that it was an accident and your family will be forgiving. _Early/Mid-Stage Symptoms_comp_question",
+            "name": "Meal Program Volunteering_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Be annoyed.",
-                "Forgive you."
+                "Disappointing",
+                "Welcomed"
             ],
             "columnCount": 1,
-            "correct_value": "Forgive you."
+            "correct_value": "Disappointing"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

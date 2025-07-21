@@ -1,14 +1,16 @@
 {
-    "header_text": "Some friends have reached out to you about going out to dinner for a friend's birthday. You've had some unexpected expenses this month, and you're worried about being able to afford a nice dinner. You talk to your friends, and they reassure you that the restaurant they choose won't be expensive.",
+    "header_text": "Buying New Clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Some friends have reached out to you about going out to dinner for a friend's birthday. You've had some unexpected expenses this month, and you're worried about being able to afford a nice dinner. You talk to your friends, and they reassure you that the restaurant they choose won't be expensive."
+            "text": "Buying New Clothes"
         },
         {
             "type": "Media",
             "url": "./images/292.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

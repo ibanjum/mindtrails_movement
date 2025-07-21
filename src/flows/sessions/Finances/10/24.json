@@ -1,5 +1,5 @@
 {
-    "header_text": "You recently picked up a new hobby in an effort to improve your work-life balance, and you’re really enjoying it so far. However, this new hobby requires you to purchase materials from the store, and the expenses can quickly add up. You decide to do some research online and realize that many places sell the materials you need at a discount. ",
+    "header_text": "Funding Good Habits ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You recently picked up a new hobby in an effort to improve your work-life balance, and you’re really enjoying it so far. However, this new hobby requires you to purchase materials from the store, and the expenses can quickly add up. You decide to do some research online and realize that many places sell the materials you need at a discount. _Finances_entry1"
+            "name": "Funding Good Habits _Finances_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

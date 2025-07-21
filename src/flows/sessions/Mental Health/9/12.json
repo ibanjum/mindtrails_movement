@@ -1,14 +1,16 @@
 {
-    "header_text": "You are heading out of town for a few days. You decide to double-check that all the appliances in your house are turned off. As you close the door to your house, you feel nervous.",
+    "header_text": "Waking Up Ready",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are heading out of town for a few days. You decide to double-check that all the appliances in your house are turned off. As you close the door to your house, you feel nervous."
+            "text": "Waking Up Ready"
         },
         {
             "type": "Media",
-            "url": "./images/148.jpg"
+            "url": "./images/76.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

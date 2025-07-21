@@ -1,15 +1,17 @@
 {
-    "header_text": "At the toy store, your young niece eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before HD. An excited giggle snaps your attention back to the present, and you decide to focus on your niece's joy.",
+    "header_text": "Applying for a Grant",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At the toy store, your young grandchild eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before PD. An excited giggle snaps your attention back to the present, and you decide to focus on your grandchild's..."
+            "text": "You apply for a grant to fund a new initiative in your office. Without this funding, you won't be able to move forward with your initiative. You don't know if your proposal is good enough, and you think it will probably be..."
         },
         {
             "type": "Entry",
-            "name": "At the toy store, your young niece eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before HD. An excited giggle snaps your attention back to the present, and you decide to focus on your niece's joy._Mental Health_entry1"
+            "name": "Applying for a Grant_Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

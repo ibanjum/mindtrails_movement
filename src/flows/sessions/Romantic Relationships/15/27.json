@@ -1,27 +1,16 @@
 {
-    "header_text": "Your partner hasn't been home much recently. However, when they do come home, they forget their garbage on the table, leave crumbs on the counter, and never lock the door on their way out. You think it's time to bring it up to them. ",
+    "header_text": "Messy to Live With ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Are you mad at your partner?"
+            "type": "Label",
+            "text": "Messy to Live With "
         },
         {
-            "type": "Buttons",
-            "name": "Your partner hasn't been home much recently. However, when they do come home, they forget their garbage on the table, leave crumbs on the counter, and never lock the door on their way out. You think it's time to bring it up to them. _Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/580.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

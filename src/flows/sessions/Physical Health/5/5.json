@@ -1,14 +1,16 @@
 {
-    "header_text": "You are in a meeting listening to someone speak. You stop paying attention and space out for a minute or two. When you begin to pay attention again, you are relaxed.",
+    "header_text": "Spacing out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are in a meeting listening to someone speak. You stop paying attention and space out for a minute or two. When you begin to pay attention again, you are relaxed."
+            "text": "Spacing out"
         },
         {
             "type": "Media",
             "url": "./images/457.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

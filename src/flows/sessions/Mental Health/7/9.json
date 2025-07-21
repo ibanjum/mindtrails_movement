@@ -1,5 +1,5 @@
 {
-    "header_text": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel miserable.",
+    "header_text": "Important Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel miserable._Mental Health_comp_question",
+            "name": "Important Email_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 2
 }

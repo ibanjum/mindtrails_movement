@@ -1,5 +1,5 @@
 {
-    "header_text": "Your child wants to go trick-or-treating, and they begged you to dress up with them. You wear a costume and run into some people from work who aren't dressed up. They think your costume is awesome.",
+    "header_text": "Trick or Treat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Your child wants to go trick-or-treating, and they begged you to dress up with them. You wear a costume and run into some people from work who aren't dressed up. They think your costume is awesome._Social Situations_puzzle1",
+            "name": "Trick or Treat_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

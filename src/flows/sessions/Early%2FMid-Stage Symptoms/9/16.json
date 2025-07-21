@@ -1,20 +1,20 @@
 {
-    "header_text": "Your spiritual journey has become more important to you in recent years. As your HD symptoms progress, you find it difficult to concentrate on developing your spiritual practice more. After taking some time to reflect on your struggles, you feel that your spiritual practice will adapt.",
+    "header_text": "Family Wedding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you find new ways of continuing your spiritual practice?"
+            "Text": "Did your memory lapse upset your granddaughter?"
         },
         {
             "type": "Buttons",
-            "name": "Your spiritual journey has become more important to you in recent years. As your HD symptoms progress, you find it difficult to concentrate on developing your spiritual practice more. After taking some time to reflect on your struggles, you feel that your spiritual practice will adapt._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Family Wedding_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,0 +1,16 @@
+{
+    "header_text": "Trouble Getting Dressed",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Trouble Getting Dressed"
+        },
+        {
+            "type": "Media",
+            "url": "./images/876.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 3
+}

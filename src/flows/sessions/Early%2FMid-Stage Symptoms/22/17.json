@@ -1,14 +1,16 @@
 {
-    "header_text": "This year, you and your spouse are taking an anniversary trip. As you plan hotel stays and activities, you become afraid of forgetting important reservations and steps. You decide to make a checklist, and as you lie in bed that night, you think about the trip with excitement.",
+    "header_text": "Off Balance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "This year, you and your spouse are taking an anniversary trip. As you plan hotel stays and activities, you become afraid of forgetting important reservations and steps. You decide to make a checklist, and as you lie in bed that night, you think about the trip with excitement."
+            "text": "Off Balance"
         },
         {
             "type": "Media",
-            "url": "./images/847.jpg"
+            "url": "./images/830.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

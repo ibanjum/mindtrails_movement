@@ -1,14 +1,16 @@
 {
-    "header_text": "Your children have been relying on you financially, and you want them to start to be more independent. You know this is an important next step, but the thought of providing them less support is overwhelming. As you think to the future, you are confident that their financial independence will be possible. ",
+    "header_text": "Financial Dependence ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your children have been relying on you financially, and you want them to start to be more independent. You know this is an important next step, but the thought of providing them less support is overwhelming. As you think to the future, you are confident that their financial independence will be possible. "
+            "text": "Financial Dependence "
         },
         {
             "type": "Media",
             "url": "./images/196.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

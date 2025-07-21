@@ -1,23 +1,25 @@
 {
-    "header_text": "You are planting flowers in your garden with your spouse. Suddenly you drop the flowers, causing dirt to spill all over the sidewalk. You know that accidents happen and that your spouse will understand.  ",
+    "header_text": "Paying With Cash",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are planting flowers in your garden with your spouse. You start to tremor while holding the flowers, causing you to drop them and spill dirt all over the sidewalk. You know that accidents happen and that your spouse will..."
+            "text": "You are at the grocery store restocking food for the week. When you go to give cash to the cashier, all of your change falls to the floor. You look to the people behind you in line, and they offer to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You are planting flowers in your garden with your spouse. Suddenly you drop the flowers, causing dirt to spill all over the sidewalk. You know that accidents happen and that your spouse will understand.  _Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Paying With Cash_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "understand"
+                "help"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

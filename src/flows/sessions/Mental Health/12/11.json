@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been nervous about an upcoming evaluation at work. The day of the evaluation, you notice that your stomach is aching. You think that the stomach ache must be from anxiety. ",
+    "header_text": "Burn Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been nervous about an upcoming evaluation at work. The day of the evaluation, you notice that your stomach is aching. You think that the stomach ache must be from anxiety. "
+            "text": "Burn Out"
         },
         {
             "type": "Media",
-            "url": "./images/365.jpg"
+            "url": "./images/294.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

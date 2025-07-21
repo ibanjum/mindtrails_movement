@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your partner have started couples counseling. You've been to a few sessions, but you and your partner are still having issues. You think that the process will just take time. ",
+    "header_text": "Disclosing Your Mental Health",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your partner have started couples counseling. You've been to a few sessions, but you and your partner are still having issues. You think that the process will just take time. "
+            "text": "Disclosing Your Mental Health"
         },
         {
             "type": "Media",
-            "url": "./images/394.jpg"
+            "url": "./images/393.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

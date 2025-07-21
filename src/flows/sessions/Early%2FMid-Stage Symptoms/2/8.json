@@ -1,23 +1,29 @@
 {
-    "header_text": "Your family is planning a big vacation in a few years' time. You wonder what life will look like for you by then, and whether the vacation will be possible. No matter what the future holds, you will still be able to enjoy time with your family- whether or not that includes traveling- and your family will be supportive.  ",
+    "header_text": "Keys Forgotten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your family is planning a big vacation in a few years' time. You wonder what life will look like for you by then, and whether the vacation will be possible. No matter what the future holds, you will still be able to enjoy time with your family- whether or not that includes traveling- and your family will be...  "
+            "Text": "Your family's response makes you feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Your family is planning a big vacation in a few years' time. You wonder what life will look like for you by then, and whether the vacation will be possible. No matter what the future holds, you will still be able to enjoy time with your family- whether or not that includes traveling- and your family will be supportive.  _Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Keys Forgotten_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "supportive"
+            "buttons": [
+                "Good",
+                "Ashamed"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Good"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been in the same post for five years, and you are beginning to feel bored and unchallenged in your job. You would like to try for a new position, but you worry if you will be competitive on the job market. ",
+    "header_text": "Changing Your Trajectory",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been in the same post for five years, and you are beginning to feel bored and unchallenged in your job. You would like to try for a new position, but you worry if you will be competitive on the job market. "
+            "text": "Changing Your Trajectory"
         },
         {
             "type": "Media",
             "url": "./images/94.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

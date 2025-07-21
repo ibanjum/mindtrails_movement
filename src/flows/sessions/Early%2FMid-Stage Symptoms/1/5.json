@@ -1,14 +1,16 @@
 {
-    "header_text": "Throughout the past week, you've continuously lost track of things, like your keys and your wallet. You've had some recent stressors in your life, and losing track of your things makes you even more anxious. You remember that stress can make your memory worse, and as things calm down, your memory will probably get better.",
+    "header_text": "Lost Things",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Throughout the past week, you've continuously lost track of things, like your keys and your wallet. You've had some recent stressors in your life, and losing track of your things makes you even more anxious. You remember that stress can make your memory worse, and as things calm down, your memory will probably get better."
+            "text": "Lost Things"
         },
         {
             "type": "Media",
             "url": "./images/734.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

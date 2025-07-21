@@ -1,5 +1,5 @@
 {
-    "header_text": "Your family expects you to get promoted at your job. You haven't told them yet that you actually want to take a few years off to travel. You think about telling them and feel anxious.",
+    "header_text": "Job Hiatus",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Your family expects you to get promoted at your job. You haven't told them yet that you actually want to take a few years off to travel. You think about telling them and feel anxious._Family & Home Life_comp_question",
+            "name": "Job Hiatus_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, the more you practice thinking about situations in new ways on our app, the more you'll be able to think positively about scary situations in your life!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

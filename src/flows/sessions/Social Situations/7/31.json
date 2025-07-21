@@ -1,5 +1,5 @@
 {
-    "header_text": "Your best friend is organizing a birthday party for you at their home. They invited a lot of people who will all be there for you. When you think about all of the people coming, you feel excited.",
+    "header_text": "Your Birthday Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Your best friend is organizing a birthday party for you at their home. They invited a lot of people who will all be there for you. When you think about all of the people coming, you feel excited._Social Situations_puzzle1",
+            "name": "Your Birthday Party_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

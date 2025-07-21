@@ -1,14 +1,16 @@
 {
-    "header_text": "You buy a new camera, but you find that you do not like it when you get home. You return it to the store and get your money back. At the counter, the assistant is not very talkative as they help you, and you think they view you as rational.",
+    "header_text": "A new camera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You buy a new camera, but you find that you do not like it when you get home. You return it to the store and get your money back. At the counter, the assistant is not very talkative as they help you, and you think they view you as rational."
+            "text": "A new camera"
         },
         {
             "type": "Media",
             "url": "./images/603.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

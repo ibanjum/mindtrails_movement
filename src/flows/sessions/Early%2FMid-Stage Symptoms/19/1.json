@@ -1,14 +1,16 @@
 {
-    "header_text": "It is the morning, and you are getting ready for the day. You're feeling particularly off balance and you think about your ability to get ready safely and independently in the future. The progression of your disease makes you feel worried.",
+    "header_text": "Lost Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It is the morning, and you are getting ready for the day. You're feeling particularly off balance and you think about your ability to get ready safely and independently in the future. The progression of your disease makes you feel worried."
+            "text": "Lost Phone"
         },
         {
             "type": "Media",
-            "url": "./images/830.jpg"
+            "url": "./images/346.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

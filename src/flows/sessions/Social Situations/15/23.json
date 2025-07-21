@@ -1,5 +1,5 @@
 {
-    "header_text": "You recently downloaded a social media app. When you look at your score compared to other people you know, you notice that yours is really low. You realize you don't use the app as much as others, and this makes you feel unbothered.",
+    "header_text": "Social Media Scores",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You recently downloaded a social media app. When you look at your score compared to other people you know, you notice that yours is really low. You realize you don't use the app as much as others, and this makes you feel unbothered._Social Situations_comp_question",
+            "name": "Social Media Scores_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

@@ -1,27 +1,10 @@
 {
-    "header_text": "You're looking through clothes at a store and decide to try on a sweater right off the rack. You're having a difficult time getting the sweater on and start to worry that someone will notice how uncoordinated you are. As you glance around, you see that others are focused on their shopping.",
+    "header_text": "Manage Your Feelings: Early/Mid-Stage Symptoms",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Everyone is..."
-        },
-        {
-            "type": "Buttons",
-            "name": "You're looking through clothes at a store and decide to try on a sweater right off the rack. You're having a difficult time getting the sweater on and start to worry that someone will notice how uncoordinated you are. As you glance around, you see that others are focused on their shopping._Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Busy shopping.",
-                "Watching you."
-            ],
-            "columnCount": 1,
-            "correct_value": "Busy shopping."
+            "text": "Communicate to your partner about how you are feeling and what you think you might need from them in order to feel better."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

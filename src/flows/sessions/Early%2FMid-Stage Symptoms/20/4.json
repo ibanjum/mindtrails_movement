@@ -1,23 +1,29 @@
 {
-    "header_text": "You have been invited to a gala for your partner's work. While dancing, you feel unsteady and start to fall, but your partner catches you in time. Regardless, you feel embarrassed. ",
+    "header_text": "New Kitten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After you finish dancing, you speak with your partner. You realize they were just happy that you were able to dance together, and that you are...  "
+            "Text": "Will your kitten be cared for?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You have been invited to a gala for your partner's work. While dancing, you feel unsteady and start to fall, but your partner catches you in time. Regardless, you feel embarrassed. _Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "New Kitten_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "safe"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

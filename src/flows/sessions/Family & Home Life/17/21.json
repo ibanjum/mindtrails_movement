@@ -1,14 +1,16 @@
 {
-    "header_text": "You are playing an old board game during family game night. On one of your turns, you knock over all of the pieces. You instantly expect your family to be frustrated, but they are tired of the game and begin to laugh.",
+    "header_text": "Hosting a Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are playing an old board game during family game night. On one of your turns, you knock over all of the pieces. You instantly expect your family to be frustrated, but they are tired of the game and begin to laugh."
+            "text": "Hosting a Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/232.jpg"
+            "url": "./images/231.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

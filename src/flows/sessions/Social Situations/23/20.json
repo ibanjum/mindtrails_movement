@@ -1,14 +1,16 @@
 {
-    "header_text": "You are afraid of the wilderness. This weekend, you are going walking with friends and you know wild animals have been frequently spotted in the area. As you think about the outing, you feel scared.",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are afraid of the wilderness. This weekend, you are going walking with friends and you know wild animals have been frequently spotted in the area. As you think about the outing, you feel scared."
+            "text": "Party with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/703.jpg"
+            "url": "./images/379.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

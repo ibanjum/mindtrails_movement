@@ -1,14 +1,16 @@
 {
-    "header_text": "You haven't been feeling like yourself lately and want to ask your partner for help. Although you trust them, you are struggling to find the right words to say. You decide to sit down with your partner, and you feel confident. ",
+    "header_text": "Sharing Favorite Shows",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You haven't been feeling like yourself lately and want to ask your partner for help. Although you trust them, you are struggling to find the right words to say. You decide to sit down with your partner, and you feel confident. "
+            "text": "Sharing Favorite Shows"
         },
         {
             "type": "Media",
-            "url": "./images/389.jpg"
+            "url": "./images/388.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 2
 }

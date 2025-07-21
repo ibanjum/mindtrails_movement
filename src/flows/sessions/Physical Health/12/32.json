@@ -1,5 +1,5 @@
 {
-    "header_text": "You are at the doctor’s office and they ask you if you are having any COVID symptoms. They list headaches as a possible symptom, and that scares you because this is something you've been experiencing. You remember that headaches are common, and you can rest until you feel better.",
+    "header_text": "Headache at the Doctor's Office",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You are at the doctor’s office and they ask you if you are having any COVID symptoms. They list headaches as a possible symptom, and that scares you because this is something you've been experiencing. You remember that headaches are common, and you can rest until you feel better._Physical Health_puzzle1",
+            "name": "Headache at the Doctor's Office_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

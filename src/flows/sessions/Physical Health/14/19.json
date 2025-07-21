@@ -1,14 +1,16 @@
 {
-    "header_text": "Your partner doesn’t take the necessary precautions to prevent the flu. This worries you because someone you know is immunocompromised. When you think about talking to your partner about their actions, you think they will understand.",
+    "header_text": "Flu Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your partner doesn’t take the necessary precautions to prevent the flu. This worries you because someone you know is immunocompromised. When you think about talking to your partner about their actions, you think they will understand."
+            "text": "Flu Worries"
         },
         {
             "type": "Media",
             "url": "./images/514.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

@@ -1,15 +1,27 @@
 {
-    "header_text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your successes.",
+    "header_text": "Putting Yourself Out There",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your..."
+            "text": "You decide to share how you're feeling with them, and they tell you they've just been tired from work and home responsibilities, and didn't realize how much it was affecting your relationship. You feel...  "
         },
         {
             "type": "Entry",
-            "name": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your successes._Mental Health_entry1"
+            "name": "Putting Yourself Out There_Mental Health_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

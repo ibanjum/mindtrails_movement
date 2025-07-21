@@ -1,14 +1,16 @@
 {
-    "header_text": "You receive an email from work marked \"EMERGENCY.\" You've been having difficulty typing, so you close the email and decide to respond later. When you return to your computer 30 minutes later, you find that your boss has sent you a message, and you worry that he is disappointed. ",
+    "header_text": "Crowded Waiting Room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You receive an email from work marked \"EMERGENCY.\" You've been having difficulty typing, so you close the email and decide to respond later. When you return to your computer 30 minutes later, you find that your boss has sent you a message, and you worry that he is disappointed. "
+            "text": "Crowded Waiting Room"
         },
         {
             "type": "Media",
-            "url": "./images/776.jpg"
+            "url": "./images/967.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 1
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You're attending a support group for people with HD. You feel a mix of emotions as you share your experiences. As it turns out, being in the group helps you feel understood.",
+    "header_text": "Building Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're attending a support group for people with HD. You feel a mix of emotions as you share your experiences. As it turns out, being in the group helps you feel understood."
+            "text": "Building Project"
         },
         {
             "type": "Media",
-            "url": "./images/427.jpg"
+            "url": "./images/239.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

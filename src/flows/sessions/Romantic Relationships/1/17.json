@@ -1,5 +1,5 @@
 {
-    "header_text": "You have a dinner date scheduled with someone you've been wanting to hang out with for a while. On the day of the dinner, you feel a little nervous wondering whether they will appreciate you as much as you appreciate them. You realize that feeling a little anxious is okay.",
+    "header_text": "Special Day",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You have a dinner date scheduled with someone you've been wanting to hang out with for a while. On the day of the dinner, you feel a little nervous wondering whether they will appreciate you as much as you appreciate them. You realize that feeling a little anxious is okay._Romantic Relationships_comp_question",
+            "name": "Special Day_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

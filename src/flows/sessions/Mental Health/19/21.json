@@ -1,15 +1,17 @@
 {
-    "header_text": "You're organizing your closet when you struggle to remember where you placed your favorite sweater. You remember that you have been misplacing a lot of items, causing you to wonder if your symptoms are progressing. However, you realize that many people misplace items, and it's better to stay calm.",
+    "header_text": "Committing to Activities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're organizing your closet when you struggle to remember where you placed your favorite sweater. You remember that you have been misplacing a lot of items, causing you to wonder if your symptoms are progressing. However, you realize that many people misplace items, and it's better to stay..."
+            "text": "You realize that being back in-person is an adjustment, and it will take some time to get used to the business of an in-person workplace. You think that with everything you have going on, you're doing a great... "
         },
         {
             "type": "Entry",
-            "name": "You're organizing your closet when you struggle to remember where you placed your favorite sweater. You remember that you have been misplacing a lot of items, causing you to wonder if your symptoms are progressing. However, you realize that many people misplace items, and it's better to stay calm._Mental Health_entry1"
+            "name": "Committing to Activities_Mental Health_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

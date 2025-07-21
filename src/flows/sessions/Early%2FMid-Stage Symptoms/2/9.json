@@ -1,27 +1,16 @@
 {
-    "header_text": "Your family is planning a big vacation in a few years' time. You wonder what life will look like for you by then, and whether the vacation will be possible. No matter what the future holds, you will still be able to enjoy time with your family- whether or not that includes traveling- and your family will be supportive.  ",
+    "header_text": "The Movies Solo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "This vacation..."
+            "type": "Label",
+            "text": "The Movies Solo"
         },
         {
-            "type": "Buttons",
-            "name": "Your family is planning a big vacation in a few years' time. You wonder what life will look like for you by then, and whether the vacation will be possible. No matter what the future holds, you will still be able to enjoy time with your family- whether or not that includes traveling- and your family will be supportive.  _Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "will cause tension between you and your family.",
-                "will not stand between you and your family."
-            ],
-            "columnCount": 1,
-            "correct_value": "will not stand between you and your family."
+            "type": "Media",
+            "url": "./images/724.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "negative",
+    "scenario_num": 2
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You are on a walk with your sibling, catching up on recent events. Several minutes in, you trip and stumble on the uneven pavement. Your sibling supports you with their arm, and you feel steady.",
+    "header_text": "Giving a Toast",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are on a walk with your sibling, catching up on recent events. Several minutes in, you trip and stumble on the uneven pavement. Your sibling supports you with their arm, and you feel steady."
+            "text": "Giving a Toast"
         },
         {
             "type": "Media",
-            "url": "./images/236.jpg"
+            "url": "./images/235.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

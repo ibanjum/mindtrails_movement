@@ -1,5 +1,5 @@
 {
-    "header_text": "You have been nervous about an upcoming evaluation at work. The day of the evaluation, you notice that your stomach is aching. You think that the stomach ache must be from anxiety. ",
+    "header_text": "Stomach Ache",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You have been nervous about an upcoming evaluation at work. The day of the evaluation, you notice that your stomach is aching. You think that the stomach ache must be from anxiety. _Physical Health_entry1"
+            "name": "Stomach Ache_Physical Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 5
 }

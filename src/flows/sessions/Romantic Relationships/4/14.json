@@ -1,14 +1,16 @@
 {
-    "header_text": "You are single. Most of the people in your life are in a relationship. When you think about not having a partner, you feel good. ",
+    "header_text": "Being Single",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are single. Most of the people in your life are in a relationship. When you think about not having a partner, you feel good. "
+            "text": "Being Single"
         },
         {
             "type": "Media",
             "url": "./images/542.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

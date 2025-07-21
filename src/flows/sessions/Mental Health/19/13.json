@@ -1,14 +1,17 @@
 {
-    "header_text": "You have a lot of tasks to finish tomorrow. You've been procrastinating getting it done because it is going to be hard. When you think about doing your work tonight, you feel ready.",
+    "header_text": "Working to Get Ahead",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You have a lot of tasks to finish tomorrow. You've been procrastinating getting it done because it is going to be hard. When you think about doing your work tonight, you feel ready."
+            "type": "Text",
+            "text": "You have just been given a job in an office that you really admire. To eventually receive the promotion you want, you know that you will have to work very hard for several years and the outcome is..."
         },
         {
-            "type": "Media",
-            "url": "./images/83.jpg"
+            "type": "Entry",
+            "name": "Working to Get Ahead_Mental Health_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

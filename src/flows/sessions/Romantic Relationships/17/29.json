@@ -1,14 +1,16 @@
 {
-    "header_text": "You are planting flowers in your garden with your spouse. Suddenly you drop the flowers, causing dirt to spill all over the sidewalk. You know that accidents happen and that your spouse will understand.  ",
+    "header_text": "Dating Again",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are planting flowers in your garden with your spouse. Suddenly you drop the flowers, causing dirt to spill all over the sidewalk. You know that accidents happen and that your spouse will understand.  "
+            "text": "Dating Again"
         },
         {
             "type": "Media",
-            "url": "./images/590.jpg"
+            "url": "./images/959.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

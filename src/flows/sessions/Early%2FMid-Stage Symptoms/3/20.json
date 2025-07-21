@@ -1,23 +1,26 @@
 {
-    "header_text": "You are at your child’s wedding. They ask you to dance with them, but you are reluctant because you feel unsteady on your feet. Whether or not your child notices, you know that you are a good parent.",
+    "header_text": "Gardening",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You are at your child’s wedding. They ask you to dance with them, but you are reluctant because you feel unsteady on your feet. Whether or not your child notices, you know that you are a good..."
+            "type": "Label",
+            "text": "Gardening"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You are at your child’s wedding. They ask you to dance with them, but you are reluctant because you feel unsteady on your feet. Whether or not your child notices, you know that you are a good parent._Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "parent"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/937.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "type": "negative",
+    "scenario_num": 6,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

@@ -1,15 +1,17 @@
 {
-    "header_text": "It is a cousin's birthday next month, and you are attending a large family gathering. You are bringing your partner to the event, and it is the first time some of your family is meeting them. When you think about everyone meeting each other, you think that everything will go well.",
+    "header_text": "Gift Giving",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It is a cousin's birthday next month, and you are attending a large family gathering. You are bringing your partner to the event, and it is the first time some of your family is meeting them. When you think about everyone meeting each other, you think that everything will go..."
+            "text": "Your children's birthdays are approaching, and you want to show them how much you appreciate them through gifts. However, you're worried about if you'll be able to afford the gifts you think they deserve. When you think about their birthdays, you think that they will be happy with something..."
         },
         {
             "type": "Entry",
-            "name": "It is a cousin's birthday next month, and you are attending a large family gathering. You are bringing your partner to the event, and it is the first time some of your family is meeting them. When you think about everyone meeting each other, you think that everything will go well._Family & Home Life_entry1"
+            "name": "Gift Giving_Family & Home Life_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

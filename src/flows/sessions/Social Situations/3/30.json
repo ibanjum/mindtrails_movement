@@ -1,14 +1,16 @@
 {
-    "header_text": "You are on a long drive with a friend. You notice that neither of you has said anything for a few minutes. Focused on the road, you think your friend feels that the silence is completely normal.",
+    "header_text": "Silence on a drive",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are on a long drive with a friend. You notice that neither of you has said anything for a few minutes. Focused on the road, you think your friend feels that the silence is completely normal."
+            "text": "Silence on a drive"
         },
         {
             "type": "Media",
             "url": "./images/619.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

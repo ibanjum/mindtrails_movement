@@ -1,27 +1,25 @@
 {
-    "header_text": "You are at your child’s wedding. They ask you to dance with them, but you are reluctant because you feel unsteady on your feet. Whether or not your child notices, you know that you are a good parent.",
+    "header_text": "Gardening",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your presence on the dance floor be appreciated?"
+            "text": "You have a garden you're really proud of and enjoy getting to work on every year. As you think about getting older, you wonder how your ability to do this pastime will change. You think about how your Parkinson's symptoms could prevent you from caring for your plants, and they'll..."
         },
         {
-            "type": "Buttons",
-            "name": "You are at your child’s wedding. They ask you to dance with them, but you are reluctant because you feel unsteady on your feet. Whether or not your child notices, you know that you are a good parent._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Gardening_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "die"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 6
 }

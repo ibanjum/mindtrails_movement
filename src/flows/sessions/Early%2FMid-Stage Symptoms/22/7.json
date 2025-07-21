@@ -1,14 +1,16 @@
 {
-    "header_text": "You have more free time lately, so you've been trying new activities. While trying a new yoga routine, you can't seem to strike the correct pose. You decide that your attempt to learn this new skill is worthwhile.",
+    "header_text": "Baking Cookies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have more free time lately, so you've been trying new activities. While trying a new yoga routine, you can't seem to strike the correct pose. You decide that your attempt to learn this new skill is worthwhile."
+            "text": "Baking Cookies"
         },
         {
             "type": "Media",
-            "url": "./images/415.jpg"
+            "url": "./images/223.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

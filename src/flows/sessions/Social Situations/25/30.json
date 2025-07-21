@@ -1,14 +1,14 @@
 {
-    "header_text": "You post a short video. Your best friend comments something really embarrassing. Your followers will think that you and your friend are close.",
+    "header_text": "Spending Money with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do others judge you for your friend's comment on your post?"
+            "Text": "Will your friends judge you for your suggestion?"
         },
         {
             "type": "Buttons",
-            "name": "You post a short video. Your best friend comments something really embarrassing. Your followers will think that you and your friend are close._Social Situations_comp_question",
+            "name": "Spending Money with Friends_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

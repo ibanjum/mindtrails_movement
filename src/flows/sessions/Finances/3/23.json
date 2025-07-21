@@ -1,14 +1,16 @@
 {
-    "header_text": "Your family values education. You want your kids to be able to attend good colleges, but you understand that this comes with a high price tag. When you think about your children, you think supporting their college education will be doable.",
+    "header_text": "Providing for Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your family values education. You want your kids to be able to attend good colleges, but you understand that this comes with a high price tag. When you think about your children, you think supporting their college education will be doable."
+            "text": "Providing for Family"
         },
         {
             "type": "Media",
             "url": "./images/165.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

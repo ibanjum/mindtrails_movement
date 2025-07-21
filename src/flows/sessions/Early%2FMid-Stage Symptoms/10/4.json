@@ -1,23 +1,29 @@
 {
-    "header_text": "You are meeting a new friend for lunch soon. You have recently been a bit messier when you eat, and you are worried they will judge you. When you begin to eat your food, you notice your new friend is looking at you strangely.",
+    "header_text": "Birthday Cards",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend laughs and points out that the waiter accidentally switched your plates. As you giggle and slide your plate over to them, you feel..."
+            "Text": "You most likely forgot to send the cards due to..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You are meeting a new friend for lunch soon. You have recently been a bit messier when you eat, and you are worried they will judge you. When you begin to eat your food, you notice your new friend is looking at you strangely._Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Birthday Cards_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relieved"
+            "buttons": [
+                "Developing symptoms of dementia",
+                "Being busy"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Being busy"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

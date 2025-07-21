@@ -1,14 +1,16 @@
 {
-    "header_text": "A coworker suggests that your team participates in a workshop on writing for the workplace. You go online and read information about the workshop. As you navigate through the site, the thought of other people looking at your writing makes you feel enthusiastic",
+    "header_text": "Writing workshop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A coworker suggests that your team participates in a workshop on writing for the workplace. You go online and read information about the workshop. As you navigate through the site, the thought of other people looking at your writing makes you feel enthusiastic"
+            "text": "Writing workshop"
         },
         {
             "type": "Media",
             "url": "./images/25.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

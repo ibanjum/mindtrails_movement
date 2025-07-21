@@ -1,14 +1,16 @@
 {
-    "header_text": "Your family has strong opinions that you don't always agree with. As you listen to your family talk, you feel that you are pretty different from them. You feel having your own unique views is okay.",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your family has strong opinions that you don't always agree with. As you listen to your family talk, you feel that you are pretty different from them. You feel having your own unique views is okay."
+            "text": "Reviewing Your Work "
         },
         {
             "type": "Media",
-            "url": "./images/146.jpg"
+            "url": "./images/91.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

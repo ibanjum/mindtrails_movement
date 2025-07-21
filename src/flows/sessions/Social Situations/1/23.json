@@ -1,14 +1,16 @@
 {
-    "header_text": "You are invited to an event and decide to wear a new outfit that is not your typical style. The next day you see that your photograph has been posted on a social media website. The thought of everyone seeing your photo makes you feel embarrassed. ",
+    "header_text": "Social media photo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are invited to an event and decide to wear a new outfit that is not your typical style. The next day you see that your photograph has been posted on a social media website. The thought of everyone seeing your photo makes you feel embarrassed. "
+            "text": "Social media photo"
         },
         {
             "type": "Media",
             "url": "./images/601.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

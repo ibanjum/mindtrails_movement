@@ -1,5 +1,5 @@
 {
-    "header_text": "You post a short video. Your best friend comments something really embarrassing. Your followers will think that you and your friend are close.",
+    "header_text": "Inside Jokes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You post a short video. Your best friend comments something really embarrassing. Your followers will think that you and your friend are close._Mental Health_comp_question",
+            "name": "Inside Jokes_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

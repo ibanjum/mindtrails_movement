@@ -1,19 +1,19 @@
 {
-    "header_text": "Halloween party: Behaviors",
+    "header_text": "Sitting on the bus: Behaviors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are invited to a Halloween party with your coworkers and you're only close to a couple of people there. You decide to wear a costume. When you arrive, everyone looks at you. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+            "text": "You are sitting on the bus and see your friend get on. They walk past you and sit with another friend.\n\nHere are some behaviors that someone might do at that moment or in the future:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I will smile and wear my outfit proudly.",
-                "I want to start crying, but then remind myself I did a great job on this costume.",
-                "I want to go to the bathroom and try to tone down what I'm wearing.",
-                "I want to ask someone if my costume is too much, but decide not to ask for opinions.",
-                "I'll start dancing because there's great music on."
+                "I pull out a book and read until I get to my stop.",
+                "I want to put my head between my knees and disappear, but I take a deep breath and smile.",
+                "I call out to my friend and smile.",
+                "I start to cry.",
+                "I'll want to ignore my friend the rest of the day, but I decide to talk to them instead."
             ],
             "Duration": 15
         }

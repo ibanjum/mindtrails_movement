@@ -1,5 +1,5 @@
 {
-    "header_text": "As you wake up in the morning, you sit up quickly. Your vision goes blurry and then goes black briefly. Your vision comes back after a moment, and you tell yourself that it happened because you sat up too quickly.",
+    "header_text": "Waking Up Dizzy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "As you wake up in the morning, you sit up quickly. Your vision goes blurry and then goes black briefly. Your vision comes back after a moment, and you tell yourself that it happened because you sat up too quickly._Physical Health_entry1"
+            "name": "Waking Up Dizzy_Physical Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You arrive at a gathering and notice that your friends haven't arrived yet. No one talks to you initially, and after 30 minutes pass there is still no sign of your friends. As you finish eating some food in the kitchen, you feel self-conscious and decide to leave.",
+    "header_text": "Late friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You arrive at a gathering and notice that your friends haven't arrived yet. No one talks to you initially, and after 30 minutes pass there is still no sign of your friends. As you finish eating some food in the kitchen, you feel self-conscious and decide to leave."
+            "text": "Late friends"
         },
         {
             "type": "Media",
             "url": "./images/624.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

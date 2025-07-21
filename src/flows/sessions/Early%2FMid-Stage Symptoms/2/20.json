@@ -1,14 +1,25 @@
 {
-    "header_text": "You're out shopping and you notice that your body is moving uncontrollably. There are other shoppers around, and you wonder what they will think of you if they glance your way. The probability that people will judge you is low.",
+    "header_text": "Morning errands",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You're out shopping and you notice that your body is moving uncontrollably. There are other shoppers around, and you wonder what they will think of you if they glance your way. The probability that people will judge you is low."
+            "type": "Text",
+            "text": "You are running errands and have spent much of the morning on your feet when suddenly, your heart starts racing and you feel lightheaded. You rush to your car, worried that you might be having a panic attack. After sitting down, you remember that these feelings could also be caused by low blood pressure related to your Parkinson’s; you turn on the air conditioning and drink some water, and soon your body starts to..."
         },
         {
-            "type": "Media",
-            "url": "./images/718.jpg"
+            "type": "WordPuzzle",
+            "name": "Morning errands_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "relax"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

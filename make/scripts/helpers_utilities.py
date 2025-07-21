@@ -144,6 +144,41 @@ def lower(str):
 
 def media_url(media):
     if media and media.strip():
-        assert Path(f"./src/images/{media.strip()}").exists()
-        return f"./images/{media.strip()}"
+        media = lower(media).strip()
+        assert Path(f"./src/images/{media}").exists()
+        return f"./images/{media}"
     return ""
+
+def get_page_index(scenario, session, position):
+    curr_num  = None
+    scn_index = 0
+    neg_index = 0
+
+    scenario = lower(scenario).strip()
+
+    for i, page in enumerate(session):
+        if curr_num != page["scenario_num"]:
+            curr_num = page["scenario_num"]
+            scn_index += 1
+            neg_index += int(page.get("type") == "negative")
+
+            if position == "before":
+                if scenario == "first negative" and neg_index == 1:
+                    return i
+                if scenario != "first negative" and scn_index == int(scenario[8:]):
+                    return i
+
+            if position == "after":
+                if scenario == "first negative" and neg_index == 1 and page.get("type") != "negative":
+                    return i-1
+                if scenario != "first negative" and scn_index == int(scenario[8:])+1:
+                    return i-1
+
+    if position == "after" and scenario != "first negative" and scn_index == int(scenario[8:]):
+        return i
+
+    return None
+
+def get_reminder_element(reminder):
+    is_image = ".png" in reminder or ".jpg" in reminder or ".jpeg" in reminder
+    return {"type":"text", "text": reminder} if not is_image else {"type":"media", "url": media_url(reminder)}

@@ -1,5 +1,5 @@
 {
-    "header_text": "One evening, your coworkers decide to go out to eat and ask you to join them. You accept but will have to wear your work clothes. When you arrive, the other diners turn to look at you. You think this is because they think you look stylish.",
+    "header_text": "Going out in day clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "One evening, your coworkers decide to go out to eat and ask you to join them. You accept but will have to wear your work clothes. When you arrive, the other diners turn to look at you. You think this is because they think you look stylish._Social Situations_comp_question",
+            "name": "Going out in day clothes_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

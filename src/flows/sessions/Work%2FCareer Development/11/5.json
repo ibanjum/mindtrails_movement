@@ -1,19 +1,19 @@
 {
-    "header_text": "Walking up stairs: Thoughts",
+    "header_text": "Working in Groups: Thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are meeting with your boss. To make it on-time, you just walked up two flights of stairs quickly, and feel your heart beating very rapidly.\n\nHere are some thoughts that might pop into mind:"
+            "text": "Your boss tells everyone that tomorrow you'll divide into small groups to plan out new work projects. They also say that you'll have to pick your group, but you realize you don't have any close friends in your workplace.\n\nHere are some thoughts that might pop into mind:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I made it up those stairs really quickly.",
-                "Am I having a heart attack?",
-                "I am excited for the meeting.",
-                "It's scary to feel my heart beating fast, but I know that it will be over soon.",
-                "My boss might notice how out of breath I am, and it's okay if they do."
+                "People might disagree with my ideas, but I think we'll still have an interesting discussion.",
+                "No one will want to be in my group.",
+                "There are lots of nice people in my workplace.",
+                "I'll find the right group for me.",
+                "Everyone will decide they want to be with people they already know, but I understand that."
             ],
             "Duration": 15
         }

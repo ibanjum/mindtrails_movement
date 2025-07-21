@@ -1,14 +1,16 @@
 {
-    "header_text": "You are excited to attend a dinner with friends. However, you find that you are having more difficulty swallowing than usual. Whether or not your friends notice, you know your friends care about you, and your presence is appreciated.",
+    "header_text": "Forgetting the Laundry",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are excited to attend a dinner with friends. However, you find that you are having more difficulty swallowing than usual. Whether or not your friends notice, you know your friends care about you, and your presence is appreciated."
+            "text": "Forgetting the Laundry"
         },
         {
             "type": "Media",
-            "url": "./images/732.jpg"
+            "url": "./images/739.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

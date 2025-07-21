@@ -1,14 +1,29 @@
 {
-    "header_text": "Your grandchild loves puzzles, so you are working on one together. You feel like the puzzle should be easy, but you are struggling to find and fit the pieces. You allow your grandchild to complete the puzzle alone, and watching them makes you joyful.",
+    "header_text": "Online Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Your grandchild loves puzzles, so you are working on one together. You feel like the puzzle should be easy, but you are struggling to find and fit the pieces. You allow your grandchild to complete the puzzle alone, and watching them makes you joyful."
+            "type": "Text",
+            "Text": "When you tell your child about the mix-up, they will probably respond..."
         },
         {
-            "type": "Media",
-            "url": "./images/224.jpg"
+            "type": "Buttons",
+            "name": "Online Shopping_Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Gently",
+                "Harshly"
+            ],
+            "columnCount": 1,
+            "correct_value": "Gently"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

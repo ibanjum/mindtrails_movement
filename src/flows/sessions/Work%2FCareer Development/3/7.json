@@ -1,14 +1,16 @@
 {
-    "header_text": "You have to make a presentation about your work to your colleagues and your boss. As you start, you stumble on your first few words. Continuing with it, you think that your performance will be evaluated positively.",
+    "header_text": "Word stumbling",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have to make a presentation about your work to your colleagues and your boss. As you start, you stumble on your first few words. Continuing with it, you think that your performance will be evaluated positively."
+            "text": "Word stumbling"
         },
         {
             "type": "Media",
             "url": "./images/20.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You have a busy week ahead, so you sit down to write a to-do list. You notice your handwriting doesn't look as neat as it has always been, which concerns you. You consider that if your writing worsens over time, technology will help you adapt.",
+    "header_text": "Toy Store Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have a busy week ahead, so you sit down to write a to-do list. You notice your handwriting doesn't look as neat as it has always been, which concerns you. You consider that if your writing worsens over time, technology will help you adapt."
+            "text": "Toy Store Trip"
         },
         {
             "type": "Media",
-            "url": "./images/411.jpg"
+            "url": "./images/410.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

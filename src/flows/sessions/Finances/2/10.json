@@ -1,14 +1,16 @@
 {
-    "header_text": "Your car needs expensive repairs. You have savings but are reluctant to use them. When you pay for the car repairs, you will be fine.",
+    "header_text": "Paying for Repairs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your car needs expensive repairs. You have savings but are reluctant to use them. When you pay for the car repairs, you will be fine."
+            "text": "Paying for Repairs"
         },
         {
             "type": "Media",
             "url": "./images/257.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

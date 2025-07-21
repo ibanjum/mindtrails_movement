@@ -1,14 +1,16 @@
 {
-    "header_text": "You are at your friend's house for dinner and they ask you about your parents. You're not sure how to answer because your parents are divorced, and you haven't seen your mother for a long time. You think about what you'll say, and feel confident.",
+    "header_text": "Keeping Up With Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at your friend's house for dinner and they ask you about your parents. You're not sure how to answer because your parents are divorced, and you haven't seen your mother for a long time. You think about what you'll say, and feel confident."
+            "text": "Keeping Up With Friends "
         },
         {
             "type": "Media",
-            "url": "./images/150.jpg"
+            "url": "./images/82.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 7
 }

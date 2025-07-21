@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your therapist meet once a week to process events in your life. This week as you meet, you notice a sudden shift in your mood towards them. You feel agitated, but choose to share about this feeling so that it can be managed. ",
+    "header_text": "Playing Music",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your therapist meet once a week to process events in your life. This week as you meet, you notice a sudden shift in your mood towards them. You feel agitated, but choose to share about this feeling so that it can be managed. "
+            "text": "Playing Music"
         },
         {
             "type": "Media",
-            "url": "./images/418.jpg"
+            "url": "./images/416.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

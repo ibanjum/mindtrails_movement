@@ -1,14 +1,16 @@
 {
-    "header_text": "You are trying to meet new people, and you decide to join a book club. The book for the week is really interesting, but people are asking questions about the book at the meeting that seem more in depth than you can answer. You remember that you read the book too and have valuable thoughts just like everyone else.",
+    "header_text": "Joining a New Club",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are trying to meet new people, and you decide to join a book club. The book for the week is really interesting, but people are asking questions about the book at the meeting that seem more in depth than you can answer. You remember that you read the book too and have valuable thoughts just like everyone else."
+            "text": "Joining a New Club"
         },
         {
             "type": "Media",
             "url": "./images/356.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

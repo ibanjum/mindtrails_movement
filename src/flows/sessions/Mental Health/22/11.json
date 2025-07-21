@@ -1,15 +1,16 @@
 {
-    "header_text": "You have recently joined a local book club and think the other members are very cool. You would like to invite them over and host more often. Although, you worry about the tidiness of your home because lately you've been feeling really overwhelmed.",
+    "header_text": "Playing Music",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You consider inviting them over for dinner. You make a plan to have someone help you tidy up because your book club friends are..."
+            "type": "Label",
+            "text": "Playing Music"
         },
         {
-            "type": "Entry",
-            "name": "You have recently joined a local book club and think the other members are very cool. You would like to invite them over and host more often. Although, you worry about the tidiness of your home because lately you've been feeling really overwhelmed._Mental Health_entry2"
+            "type": "Media",
+            "url": "./images/416.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "type": "positive",
+    "scenario_num": 4
 }

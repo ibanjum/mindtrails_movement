@@ -1,14 +1,16 @@
 {
-    "header_text": "You recently were elected to be in charge of a group of new hires at your job. When you meet the other coworkers also in charge of groups of new hires, you feel as though you didn't work as hard as they did and that you don't deserve this position. You take a minute to think about how much effort you put in at your job and realize that you've been giving it your all.",
+    "header_text": "Being in Charge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You recently were elected to be in charge of a group of new hires at your job. When you meet the other coworkers also in charge of groups of new hires, you feel as though you didn't work as hard as they did and that you don't deserve this position. You take a minute to think about how much effort you put in at your job and realize that you've been giving it your all."
+            "text": "Being in Charge"
         },
         {
             "type": "Media",
             "url": "./images/109.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

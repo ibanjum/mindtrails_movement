@@ -1,14 +1,16 @@
 {
-    "header_text": "You recently attended a retirement party for an older colleague. Thinking about your retirement funds, you wonder if you've been saving enough to retire when you want to. You feel behind. ",
+    "header_text": "Retirement Funds",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You recently attended a retirement party for an older colleague. Thinking about your retirement funds, you wonder if you've been saving enough to retire when you want to. You feel behind. "
+            "text": "Retirement Funds"
         },
         {
             "type": "Media",
             "url": "./images/293.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

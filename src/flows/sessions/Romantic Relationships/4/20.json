@@ -1,14 +1,16 @@
 {
-    "header_text": "With kids in the house, you and your spouse don't get to spend a lot of quality time together. You feel as though you and your spouse are drifting apart. You decide to plan a date night just for the two of you. ",
+    "header_text": "Quality Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "With kids in the house, you and your spouse don't get to spend a lot of quality time together. You feel as though you and your spouse are drifting apart. You decide to plan a date night just for the two of you. "
+            "text": "Quality Time"
         },
         {
             "type": "Media",
             "url": "./images/172.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

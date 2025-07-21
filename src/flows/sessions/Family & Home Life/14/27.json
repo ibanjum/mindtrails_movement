@@ -1,14 +1,16 @@
 {
-    "header_text": "You're playing trivia with family. As the questions get harder, you struggle to recall answers you once knew, making you feel concerned about the progression of your memory lapses. You remember that being there with family is the most important. ",
+    "header_text": "Easily Agitated",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're playing trivia with family. As the questions get harder, you struggle to recall answers you once knew, making you feel concerned about the progression of your memory lapses. You remember that being there with family is the most important. "
+            "text": "Easily Agitated"
         },
         {
             "type": "Media",
-            "url": "./images/214.jpg"
+            "url": "./images/213.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

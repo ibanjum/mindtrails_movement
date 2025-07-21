@@ -1,14 +1,29 @@
 {
-    "header_text": "You just retired because of your HD diagnosis, and your family decides to throw you a surprise party. You realize that not everyone knows about your diagnosis. Wondering if the rest of your family will find out before you get the chance to tell them leaves you with a feeling of uncertainty.",
+    "header_text": "Texting and TV",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You just retired because of your HD diagnosis, and your family decides to throw you a surprise party. You realize that not everyone knows about your diagnosis. Wondering if the rest of your family will find out before you get the chance to tell them leaves you with a feeling of uncertainty."
+            "type": "Text",
+            "Text": "Taking a little longer to respond to your friend's text is..."
         },
         {
-            "type": "Media",
-            "url": "./images/221.jpg"
+            "type": "Buttons",
+            "name": "Texting and TV_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Rude.",
+                "Okay."
+            ],
+            "columnCount": 1,
+            "correct_value": "Okay."
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

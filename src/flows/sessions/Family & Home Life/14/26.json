@@ -1,27 +1,29 @@
 {
-    "header_text": "You're at a family dinner, enjoying the meal. You notice you are becoming increasingly agitated, reacting strongly to minor disruptions and getting frustrated with small issues. You consider excusing yourself from the table and remember that taking a break to calm down is sensible.",
+    "header_text": "Affording Education",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Taking a break to calm down is a..."
+            "Text": "You realize that well into retirement, you will probably be"
         },
         {
             "type": "Buttons",
-            "name": "You're at a family dinner, enjoying the meal. You notice you are becoming increasingly agitated, reacting strongly to minor disruptions and getting frustrated with small issues. You consider excusing yourself from the table and remember that taking a break to calm down is sensible._Family & Home Life_comp_question",
+            "name": "Affording Education_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Good idea.",
-                "Bad idea."
+                "Still burdened by your  loans.",
+                "Financially stable with your loans paid off."
             ],
             "columnCount": 1,
-            "correct_value": "Good idea."
+            "correct_value": "Still burdened by your  loans."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 7
 }

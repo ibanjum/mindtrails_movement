@@ -1,14 +1,16 @@
 {
-    "header_text": "Today you are washing your car with your spouse's help. Your chorea causes you to spill the container of soap, making you feel defeated. Your spouse takes your hand and reminds you of their love.",
+    "header_text": "Hiking Incident",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Today you are washing your car with your spouse's help. Your chorea causes you to spill the container of soap, making you feel defeated. Your spouse takes your hand and reminds you of their love."
+            "text": "Hiking Incident"
         },
         {
             "type": "Media",
-            "url": "./images/595.jpg"
+            "url": "./images/230.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

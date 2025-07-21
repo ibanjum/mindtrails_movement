@@ -1,14 +1,16 @@
 {
-    "header_text": "You're enjoying a sunny beach day and notice unsteadiness in your steps while walking along the shore. You worry that someone will notice your walk and wonder if something is wrong. However, you realize that everyone is probably just enjoying the beach and not focused on you, which makes you feel comforted.",
+    "header_text": "Family Dinner Fight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're enjoying a sunny beach day and notice unsteadiness in your steps while walking along the shore. You worry that someone will notice your walk and wonder if something is wrong. However, you realize that everyone is probably just enjoying the beach and not focused on you, which makes you feel comforted."
+            "text": "Family Dinner Fight"
         },
         {
             "type": "Media",
-            "url": "./images/809.jpg"
+            "url": "./images/795.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 6
 }

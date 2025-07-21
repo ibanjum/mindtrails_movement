@@ -1,27 +1,29 @@
 {
-    "header_text": "You recently had to pay a large sum of money toward repairs for your car. This unexpected expense cut into the money you use to pay your therapy copays, and you are concerned about what will happen if you miss sessions to save money. You call the therapy office, and they help you come up with a solution. ",
+    "header_text": "Stomach Ache",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do finances get in the way of therapy?"
+            "Text": "Is the stomach ache from anxiety?"
         },
         {
             "type": "Buttons",
-            "name": "You recently had to pay a large sum of money toward repairs for your car. This unexpected expense cut into the money you use to pay your therapy copays, and you are concerned about what will happen if you miss sessions to save money. You call the therapy office, and they help you come up with a solution. _Mental Health_comp_question",
+            "name": "Stomach Ache_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

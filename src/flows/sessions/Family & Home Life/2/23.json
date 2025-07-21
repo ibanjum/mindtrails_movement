@@ -1,14 +1,16 @@
 {
-    "header_text": "You are home alone and it's night time. You hear a loud noise outside. You think about what it can be, and think it is your neighbors.",
+    "header_text": "Noises in the Night ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are home alone and it's night time. You hear a loud noise outside. You think about what it can be, and think it is your neighbors."
+            "text": "Noises in the Night "
         },
         {
             "type": "Media",
             "url": "./images/141.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

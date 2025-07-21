@@ -1,5 +1,5 @@
 {
-    "header_text": "Your friend has been coughing for a few days and when you ask them to go to the doctor, they refuse, saying they shouldn’t have to. You think this is strange. So you talk to them about it and find out that your friend doesn't want to go to the doctor because they are scared of spreading a virus.",
+    "header_text": "Virus Fear",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "Your friend has been coughing for a few days and when you ask them to go to the doctor, they refuse, saying they shouldn’t have to. You think this is strange. So you talk to them about it and find out that your friend doesn't want to go to the doctor because they are scared of spreading a virus._Physical Health_comp_question",
+            "name": "Virus Fear_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

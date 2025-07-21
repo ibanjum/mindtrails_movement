@@ -1,14 +1,16 @@
 {
-    "header_text": "You are watching a new movie at a local movie theater. As the first scene begins, you start to worry that your chorea will be distracting for those sitting around you. You remember that your symptoms are out of your control, and you decide to focus on the movie.",
+    "header_text": "Intimacy and Communication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are watching a new movie at a local movie theater. As the first scene begins, you start to worry that your chorea will be distracting for those sitting around you. You remember that your symptoms are out of your control, and you decide to focus on the movie."
+            "text": "Intimacy and Communication"
         },
         {
             "type": "Media",
-            "url": "./images/804.jpg"
+            "url": "./images/587.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

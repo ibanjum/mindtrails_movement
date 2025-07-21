@@ -1,27 +1,29 @@
 {
-    "header_text": "You were recently invited to participate in an HD research study. As you review the study information and potential side effects, you begin to feel hesitant. After talking it over with the study coordinator, you decide that the risks of the study are low.",
+    "header_text": "Farmer's Market",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The study's side effects are likely to be..."
+            "Text": "The familiar vendors greet you with..."
         },
         {
             "type": "Buttons",
-            "name": "You were recently invited to participate in an HD research study. As you review the study information and potential side effects, you begin to feel hesitant. After talking it over with the study coordinator, you decide that the risks of the study are low._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Farmer's Market_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Mild",
-                "Severe"
+                "Suspicion",
+                "Joy"
             ],
             "columnCount": 1,
-            "correct_value": "Mild"
+            "correct_value": "Joy"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

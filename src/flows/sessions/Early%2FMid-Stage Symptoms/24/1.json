@@ -1,14 +1,16 @@
 {
-    "header_text": "Saturday brunch with relatives is a monthly tradition you cherish. Today, your relatives point out the change in your weight since they last saw you. You recognize they aren't pointing out your flaws, but are demonstrating their concern.",
+    "header_text": "Side Dish Selection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saturday brunch with relatives is a monthly tradition you cherish. Today, your relatives point out the change in your weight since they last saw you. You recognize they aren't pointing out your flaws, but are demonstrating their concern."
+            "text": "Side Dish Selection"
         },
         {
             "type": "Media",
-            "url": "./images/238.jpg"
+            "url": "./images/839.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

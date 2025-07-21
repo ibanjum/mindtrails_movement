@@ -1,14 +1,16 @@
 {
-    "header_text": "You can't find your keys and initially become upset with your family because you suspect that someone hid them. The next day, you discover the keys in one of your pockets. You realized you treated your family too harshly.",
+    "header_text": "Dedicated Teacher",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You can't find your keys and initially become upset with your family because you suspect that someone hid them. The next day, you discover the keys in one of your pockets. You realized you treated your family too harshly."
+            "text": "Dedicated Teacher"
         },
         {
             "type": "Media",
-            "url": "./images/208.jpg"
+            "url": "./images/736.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

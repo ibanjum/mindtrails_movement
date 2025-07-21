@@ -1,14 +1,29 @@
 {
-    "header_text": "You are playing a board game with a couple of friends. You are trying to place your piece onto the board but your chorea is making it difficult to play on the specific spot. Your turn is taking longer than your friends', so you are worry they are getting annoyed.",
+    "header_text": "Gardening",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You are playing a board game with a couple of friends. You are trying to place your piece onto the board but your chorea is making it difficult to play on the specific spot. Your turn is taking longer than your friends', so you are worry they are getting annoyed."
+            "type": "Text",
+            "Text": "In the future, your symptoms will cause your plants to..."
         },
         {
-            "type": "Media",
-            "url": "./images/716.jpg"
+            "type": "Buttons",
+            "name": "Gardening_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Thrive",
+                "Die"
+            ],
+            "columnCount": 1,
+            "correct_value": "Die"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 6
 }

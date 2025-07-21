@@ -1,27 +1,29 @@
 {
-    "header_text": "During a holiday gathering, you have difficulty choosing your words during conversations. Anxiety builds as you think about how your family perceives your speech difficulties. You focus on listening actively and still add to the conversation meaningfully. ",
+    "header_text": "Boxing Class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to share meaningful connections?"
+            "Text": "The class is..."
         },
         {
             "type": "Buttons",
-            "name": "During a holiday gathering, you have difficulty choosing your words during conversations. Anxiety builds as you think about how your family perceives your speech difficulties. You focus on listening actively and still add to the conversation meaningfully. _Early/Mid-Stage Symptoms_comp_question",
+            "name": "Boxing Class_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Enjoyable",
+                "Pointless"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Enjoyable"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

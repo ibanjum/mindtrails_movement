@@ -1,5 +1,5 @@
 {
-    "header_text": "You are out shopping with a friend who tends to be very loud. When you both enter an electronics store, other shoppers stop and look at you and your friend. The experience is tolerable.",
+    "header_text": "Loud friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You are out shopping with a friend who tends to be very loud. When you both enter an electronics store, other shoppers stop and look at you and your friend. The experience is tolerable._Social Situations_comp_question",
+            "name": "Loud friend_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

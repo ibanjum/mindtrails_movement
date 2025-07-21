@@ -1,19 +1,19 @@
 {
-    "header_text": "Shattered glass: Behaviors",
+    "header_text": "Balancing responsibilities: Behaviors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a quiet restaurant with a lot of your family members for dinner. While taking a drink of your water, you accidently drop the glass on the floor and it shatters.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+            "text": "You have a lot of housework that you have to do tonight, and you also have a big project that's due tomorrow. Both have to get done, and you think about how you'll handle it all. \n\nHere are some behaviors that someone might do at that moment or in the future:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I want to never come back to the restaurant, but if my family wants to eat here again it will be okay.",
-                "I offer to pick up overtime hours at my job and come back another day with money to replace the glass.",
-                "I cry because I feel terrible.",
-                "I want to cry, but decide that would not be helpful.",
-                "I offer to leave extra money for the tip."
+                "I start on the project first.",
+                "I just want to be lazy and take a nap, but decide to start with one task.",
+                "I want to avoid all of the tasks, but decide to make a schedule to help organize my time.",
+                "I sit and do nothing.",
+                "I get started on the housework."
             ],
             "Duration": 15
         }

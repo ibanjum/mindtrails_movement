@@ -1,14 +1,16 @@
 {
-    "header_text": "You are in a talk on a challenging topic you're really excited about. You have a lot of thoughts on the subject, but you feel like the questions everyone else are asking are smarter than yours. You think about how all of them probably get nervous about talking too, and know they aren't there to judge.",
+    "header_text": "Coming up with Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are in a talk on a challenging topic you're really excited about. You have a lot of thoughts on the subject, but you feel like the questions everyone else are asking are smarter than yours. You think about how all of them probably get nervous about talking too, and know they aren't there to judge."
+            "text": "Coming up with Questions"
         },
         {
             "type": "Media",
             "url": "./images/114.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

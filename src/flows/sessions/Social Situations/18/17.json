@@ -1,14 +1,16 @@
 {
-    "header_text": "You're in a big group of your friends. Everyone is sharing stories, but you haven't said anything the whole conversation. Your friends probably think you're boring.",
+    "header_text": "Call Ending Suddenly",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're in a big group of your friends. Everyone is sharing stories, but you haven't said anything the whole conversation. Your friends probably think you're boring."
+            "text": "Call Ending Suddenly"
         },
         {
             "type": "Media",
-            "url": "./images/684.jpg"
+            "url": "./images/683.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

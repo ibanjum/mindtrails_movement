@@ -1,14 +1,16 @@
 {
-    "header_text": "Your coworkers are talking about a current issue, and you realize you have a different opinion than them. You want to express it, but worry if they will judge you. You decide that it is better to be honest.",
+    "header_text": "Voicing Your Opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your coworkers are talking about a current issue, and you realize you have a different opinion than them. You want to express it, but worry if they will judge you. You decide that it is better to be honest."
+            "text": "Voicing Your Opinion"
         },
         {
             "type": "Media",
             "url": "./images/341.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

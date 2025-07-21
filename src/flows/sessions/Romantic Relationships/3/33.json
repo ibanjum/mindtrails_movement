@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Think of something that caused you anxiety the first time you did it. What strategies helped you work through that?"
+            "text": "Is there a situation that you used to find scary or anxiety-provoking, but are comfortable in now? What did you used to tell yourself in that situation? How do you think about it now? "
         },
         {
             "type": "Entry",
-            "name": "Tip #1_entry"
+            "name": "Tip #3_entry"
         }
     ]
 }

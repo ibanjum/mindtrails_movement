@@ -1,14 +1,16 @@
 {
-    "header_text": "You are meeting a new friend for lunch soon. You have recently been a bit messier when you eat, and you are worried they will judge you. When you begin to eat your food, you notice your new friend is looking at you strangely.",
+    "header_text": "Birthday Cards",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are meeting a new friend for lunch soon. You have recently been a bit messier when you eat, and you are worried they will judge you. When you begin to eat your food, you notice your new friend is looking at you strangely."
+            "text": "Birthday Cards"
         },
         {
             "type": "Media",
-            "url": "./images/790.jpg"
+            "url": "./images/779.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

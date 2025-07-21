@@ -1,14 +1,16 @@
 {
-    "header_text": "You are buying tools at the hardware store with your brother to start a new project. You think about how your brother will have to do most of the building because of your HD. You are still eager to complete the project, knowing you both will make a new memory. ",
+    "header_text": "Long Distance Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are buying tools at the hardware store with your brother to start a new project. You think about how your brother will have to do most of the building because of your HD. You are still eager to complete the project, knowing you both will make a new memory. "
+            "text": "Long Distance Relationship"
         },
         {
             "type": "Media",
-            "url": "./images/239.jpg"
+            "url": "./images/191.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

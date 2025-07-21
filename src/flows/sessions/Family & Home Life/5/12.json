@@ -1,14 +1,16 @@
 {
-    "header_text": "You are going to see your family for a holiday. You enjoy seeing your family, but recently it has been getting more difficult to get out to see them. ",
+    "header_text": "Supportive Person ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are going to see your family for a holiday. You enjoy seeing your family, but recently it has been getting more difficult to get out to see them. "
+            "text": "Supportive Person "
         },
         {
             "type": "Media",
-            "url": "./images/156.jpg"
+            "url": "./images/61.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

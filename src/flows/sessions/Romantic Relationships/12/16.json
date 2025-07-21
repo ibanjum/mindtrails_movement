@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your partner have known each other since college. You now have different interests and expectations. You worry that you won't understand each other as you get older. ",
+    "header_text": "Evolving Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your partner have known each other since college. You now have different interests and expectations. You worry that you won't understand each other as you get older. "
+            "text": "Evolving Relationship"
         },
         {
             "type": "Media",
             "url": "./images/572.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

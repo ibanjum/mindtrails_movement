@@ -1,14 +1,16 @@
 {
-    "header_text": "You are trying to buy supplies needed for your job, and your employer typically pays you back. However, you’ve noticed that the price of an item you buy often has gone way up, and you worry that you will have to pay for some of it out of pocket. You reach out to your supervisor to discuss the change, and they confirm you will still be fully reimbursed.",
+    "header_text": "Buying Supplies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are trying to buy supplies needed for your job, and your employer typically pays you back. However, you’ve noticed that the price of an item you buy often has gone way up, and you worry that you will have to pay for some of it out of pocket. You reach out to your supervisor to discuss the change, and they confirm you will still be fully reimbursed."
+            "text": "Buying Supplies"
         },
         {
             "type": "Media",
             "url": "./images/288.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

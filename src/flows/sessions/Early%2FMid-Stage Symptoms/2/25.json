@@ -1,27 +1,16 @@
 {
-    "header_text": "You're having dinner at a nice restaurant with some friends you haven't seen in a while. In the middle of dinner, your arms start moving uncontrollably, and your friends all turn and look at you. Your friends think having dinner with you is nice.  ",
+    "header_text": "Hardware Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Do your friends think poorly of you because of your symptoms?"
+            "type": "Label",
+            "text": "Hardware Store"
         },
         {
-            "type": "Buttons",
-            "name": "You're having dinner at a nice restaurant with some friends you haven't seen in a while. In the middle of dinner, your arms start moving uncontrollably, and your friends all turn and look at you. Your friends think having dinner with you is nice.  _Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/964.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "positive",
+    "scenario_num": 7
 }

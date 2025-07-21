@@ -1,5 +1,5 @@
 {
-    "header_text": "You and your sister recently had an argument, and you haven't talked to each other in weeks. You love your sister very much, but both of you are still upset by what the other said the last time you two spoke. As you think about talking to your sister again, you believe the two of you will remain close.",
+    "header_text": "Argument With Your Sister",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You and your sister recently had an argument, and you haven't talked to each other in weeks. You love your sister very much, but both of you are still upset by what the other said the last time you two spoke. As you think about talking to your sister again, you believe the two of you will remain close._Family & Home Life_comp_question",
+            "name": "Argument With Your Sister_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

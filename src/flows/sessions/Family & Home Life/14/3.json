@@ -1,27 +1,29 @@
 {
-    "header_text": "Your family loves to talk about big future life events like weddings and once-in-a-decade vacations. Recently, these conversations have made you feel uneasy, since you can't predict how your disease will progress. You consider withdrawing from these conversations, and ultimately decide that it's best if you communicate.",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The next time your family is talking about a life event in the distant future, you will..."
+            "Text": "Swimming in the ocean with your nieces and nephews will be..."
         },
         {
             "type": "Buttons",
-            "name": "Your family loves to talk about big future life events like weddings and once-in-a-decade vacations. Recently, these conversations have made you feel uneasy, since you can't predict how your disease will progress. You consider withdrawing from these conversations, and ultimately decide that it's best if you communicate._Family & Home Life_comp_question",
+            "name": "Beach Vacation_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Avoid the conversation",
-                "Tell them how you're feeling"
+                "Unpleasant",
+                "Amusing"
             ],
             "columnCount": 1,
-            "correct_value": "Tell them how you're feeling"
+            "correct_value": "Amusing"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

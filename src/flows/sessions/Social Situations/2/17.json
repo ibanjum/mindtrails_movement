@@ -1,14 +1,16 @@
 {
-    "header_text": "You are looking after a friend's child. The child asks to go to a park in a different neighborhood. In your opinion, an ordinary outing like this is safe.",
+    "header_text": "A child's request",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are looking after a friend's child. The child asks to go to a park in a different neighborhood. In your opinion, an ordinary outing like this is safe."
+            "text": "A child's request"
         },
         {
             "type": "Media",
             "url": "./images/608.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Missing spider: Behaviors",
+    "header_text": "Babysitting: Behaviors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you're getting into the shower, you see a huge spider on the wall. You turn away for a second and look back and realize it's gone. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+            "text": "You are looking after a friend's child and you're watching TV while they sleep. It's dark outside and you suddenly hear noises against the window. \n\nHere are some behaviors that someone might do at that moment or in the future:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I want to scream, but instead gently move the spider outside.",
-                "I leave the bathroom immediately and don't take a shower.",
-                "I go on with my bathroom routine.",
-                "I want to run away, but decide to stay and face my fears.",
-                "I put on my favorite song and hop in the shower."
+                "I want to call my friend to have them come home soon, but tell myself that I can face my fear and that the anxiety will go away.",
+                "I feel the urge to hide, but tell myself that it was probably nothing outside.",
+                "I put on a funny movie.",
+                "I decide to play some of my favorite music.",
+                "I call my partner and start crying."
             ],
             "Duration": 15
         }

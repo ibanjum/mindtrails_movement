@@ -1,14 +1,16 @@
 {
-    "header_text": "You are having an intellectual discussion with your colleague. On one of the questions they ask you, you are 90% certain that you know the correct answer. When you respond, you feel confident.",
+    "header_text": "Certainty of being correct",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are having an intellectual discussion with your colleague. On one of the questions they ask you, you are 90% certain that you know the correct answer. When you respond, you feel confident."
+            "text": "Certainty of being correct"
         },
         {
             "type": "Media",
             "url": "./images/10.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

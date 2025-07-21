@@ -1,5 +1,5 @@
 {
-    "header_text": "You and your friends have decided to go hiking, even though you are scared you will become too exhausted. A while into the hike, you start breathing heavily. You think the chances you will have to stop are large.",
+    "header_text": "Hiking with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You and your friends have decided to go hiking, even though you are scared you will become too exhausted. A while into the hike, you start breathing heavily. You think the chances you will have to stop are large._Physical Health_comp_question",
+            "name": "Hiking with Friends_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

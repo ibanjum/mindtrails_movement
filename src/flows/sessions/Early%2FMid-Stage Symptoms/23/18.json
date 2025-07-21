@@ -1,14 +1,29 @@
 {
-    "header_text": "You are having lunch with some friends from your past. They haven't seen you in a couple years, so you're afraid they will be shocked to see how your HD has progressed. As you sit down at the table, you immediately feel comfortable.",
+    "header_text": "Setting up Camp",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You are having lunch with some friends from your past. They haven't seen you in a couple years, so you're afraid they will be shocked to see how your HD has progressed. As you sit down at the table, you immediately feel comfortable."
+            "type": "Text",
+            "Text": "After putting up your tent at your own pace, you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/851.jpg"
+            "type": "Buttons",
+            "name": "Setting up Camp_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Giddy",
+                "Self-conscious"
+            ],
+            "columnCount": 1,
+            "correct_value": "Giddy"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,14 +1,17 @@
 {
-    "header_text": "You have more free time lately, so you've been trying new activities. While trying a new yoga routine, you can't seem to strike the correct pose. You decide that your attempt to learn this new skill is worthwhile.",
+    "header_text": "Forgotten Item",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You have more free time lately, so you've been trying new activities. While trying a new yoga routine, you can't seem to strike the correct pose. You decide that your attempt to learn this new skill is worthwhile."
+            "type": "Text",
+            "text": "You are almost ready to check out at the grocery store, but you have forgotten the last item you meant to buy. Whenever you forget something like this, it makes you think about when your mom had dementia. You think you probably can't remember the last item because lately you have been so..."
         },
         {
-            "type": "Media",
-            "url": "./images/415.jpg"
+            "type": "Entry",
+            "name": "Forgotten Item_Mental Health_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You are talking with a group of coworkers about TV shows. When you say what you like about an old TV show that you just discovered, no one responds. They probably think that you are weird.",
+    "header_text": "Sharing Favorite Shows",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are talking with a group of coworkers about TV shows. When you say what you like about an old TV show that you just discovered, no one responds. They probably think that you are weird."
+            "text": "Sharing Favorite Shows"
         },
         {
             "type": "Media",
             "url": "./images/388.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

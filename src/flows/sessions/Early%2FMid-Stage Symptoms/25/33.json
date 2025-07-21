@@ -1,27 +1,29 @@
 {
-    "header_text": "Fitness classes have always motivated you to stay active. Recently, your inability to focus on the instructor and coordinate movements with theirs has discouraged you. Instead of dropping the class, you decide to do your best each time, knowing that any exercise is healthy.",
+    "header_text": "Painting Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to remain active?"
+            "Text": "The new project will be..."
         },
         {
             "type": "Buttons",
-            "name": "Fitness classes have always motivated you to stay active. Recently, your inability to focus on the instructor and coordinate movements with theirs has discouraged you. Instead of dropping the class, you decide to do your best each time, knowing that any exercise is healthy._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Painting Project_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Impossible",
+                "Completed"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Completed"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

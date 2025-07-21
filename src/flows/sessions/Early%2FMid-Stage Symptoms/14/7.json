@@ -1,14 +1,29 @@
 {
-    "header_text": "You are at a family gathering. One of your relatives asks you to pass their phone near you to them. Lately, you've been more uncoordinated, and you're worried that your handoff will be clumsy.",
+    "header_text": "Record Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You are at a family gathering. One of your relatives asks you to pass their phone near you to them. Lately, you've been more uncoordinated, and you're worried that your handoff will be clumsy."
+            "type": "Text",
+            "Text": "After taking a moment, you see that you..."
         },
         {
-            "type": "Media",
-            "url": "./images/813.jpg"
+            "type": "Buttons",
+            "name": "Record Store_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Did not cause damage",
+                "Did cause damage"
+            ],
+            "columnCount": 1,
+            "correct_value": "Did not cause damage"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

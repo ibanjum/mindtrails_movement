@@ -1,14 +1,16 @@
 {
-    "header_text": "You have a cold, but you decide to go to the grocery store since you feel well enough. You can't help but cough a few times, and you worry that others are judging you. No one has noticed you coughing, so you feel better about your decision to go to the store.",
+    "header_text": "The Dance Showcase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have a cold, but you decide to go to the grocery store since you feel well enough. You can't help but cough a few times, and you worry that others are judging you. No one has noticed you coughing, so you feel better about your decision to go to the store."
+            "text": "The Dance Showcase"
         },
         {
             "type": "Media",
-            "url": "./images/513.jpg"
+            "url": "./images/575.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 7
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You have just started a new job, and need to select one of the retirement plans that your company offers. You have been doing some research into the different types of plans, but you feel a little overwhelmed by the deadline that is quickly approaching. You think that the plan you choose will leave you in a financial position that is solid.",
+    "header_text": "Planning Payments",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have just started a new job, and need to select one of the retirement plans that your company offers. You have been doing some research into the different types of plans, but you feel a little overwhelmed by the deadline that is quickly approaching. You think that the plan you choose will leave you in a financial position that is solid."
+            "text": "Planning Payments"
         },
         {
             "type": "Media",
             "url": "./images/262.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

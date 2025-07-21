@@ -1,5 +1,5 @@
 {
-    "header_text": "You are planning your wedding with your fiancé. Planning your wedding has sometimes put stress on your relationship, and you and your fiancé have had a few arguments during the process. ",
+    "header_text": "Stress in Your Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You are planning your wedding with your fiancé. Planning your wedding has sometimes put stress on your relationship, and you and your fiancé have had a few arguments during the process. _Romantic Relationships_puzzle1",
+            "name": "Stress in Your Relationship_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

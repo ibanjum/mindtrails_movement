@@ -1,27 +1,29 @@
 {
-    "header_text": "Your therapist recommends starting meditation to help manage your anxiety. At first, you struggle to quiet your mind and feel frustrated with the process. Over time, though, you notice that these moments of meditation bring you a sense of calm and clarity.",
+    "header_text": "Pool Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Meditation..."
+            "Text": "Is your partner mad at you?"
         },
         {
             "type": "Buttons",
-            "name": "Your therapist recommends starting meditation to help manage your anxiety. At first, you struggle to quiet your mind and feel frustrated with the process. Over time, though, you notice that these moments of meditation bring you a sense of calm and clarity._Mental Health_comp_question",
+            "name": "Pool Time_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Makes you more anxious than before.",
-                "Helps improve your well-being."
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Helps improve your well-being."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

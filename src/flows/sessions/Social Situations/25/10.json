@@ -1,27 +1,29 @@
 {
-    "header_text": "You invited your spouse to meet your friends from work tonight. You know that they can often tell embarrassing stories about you to other people. You think about what they're going to do tonight, and feel calm.",
+    "header_text": "Book Club Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you worried about what your spouse will say tonight? "
+            "Text": "If the members of the book club accepted your dinner invitation, they would probably"
         },
         {
             "type": "Buttons",
-            "name": "You invited your spouse to meet your friends from work tonight. You know that they can often tell embarrassing stories about you to other people. You think about what they're going to do tonight, and feel calm._Social Situations_comp_question",
+            "name": "Book Club Friends _Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Enjoy the get together over dinner.",
+                "Be disappointed in your company."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Be disappointed in your company."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 2
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "You have a lot of unread emails. When you check your inbox today, you notice an explicit message from an email address you don't know. You decide to block the sender and feel more relaxed.",
+    "header_text": "Receiving Explicit Email Messages",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You have a lot of unread emails. When you check your inbox today, you notice an explicit message from an email address you don't know. You decide to block the sender and feel more relaxed._Social Situations_puzzle1",
+            "name": "Receiving Explicit Email Messages_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

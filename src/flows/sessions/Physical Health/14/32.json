@@ -1,10 +1,10 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Manage Your Feelings: Physical Health",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #7 \n\n Anxiety often distorts our perception. Challenging these thoughts can bring relief."
+            "text": "Try to identify the TEBs in your situation: what THOUGHTS are you having? What EMOTIONS are you feeling? What BEHAVIORS are you engaging in? After that, think about whether you can change your thoughts or behavior to feel better."
         }
     ]
 }

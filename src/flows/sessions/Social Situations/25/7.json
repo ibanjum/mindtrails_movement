@@ -1,27 +1,29 @@
 {
-    "header_text": "You have recently joined a local book club, and think the other members are very cool. You would like to hang out more often, but you worry about whether they will want to be friends outside of the book club. You consider inviting them over for dinner, and you think that they will think you are boring",
+    "header_text": "Guest in a Bilingual Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "If the members of the book club accepted your dinner invitation, they would probably"
+            "Text": "Is your coworker judgmental of your bilingual family?"
         },
         {
             "type": "Buttons",
-            "name": "You have recently joined a local book club, and think the other members are very cool. You would like to hang out more often, but you worry about whether they will want to be friends outside of the book club. You consider inviting them over for dinner, and you think that they will think you are boring_Social Situations_comp_question",
+            "name": "Guest in a Bilingual Home_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Be disappointed in your company.",
-                "Enjoy the get together over dinner."
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Be disappointed in your company."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

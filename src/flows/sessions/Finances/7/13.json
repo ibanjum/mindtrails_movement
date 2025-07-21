@@ -1,14 +1,16 @@
 {
-    "header_text": "You want your family to have good educational opportunities. You want your kids to be able to attend good colleges but understand that this comes with a high price tag.",
+    "header_text": "Paying for College",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You want your family to have good educational opportunities. You want your kids to be able to attend good colleges but understand that this comes with a high price tag."
+            "text": "Paying for College"
         },
         {
             "type": "Media",
             "url": "./images/279.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

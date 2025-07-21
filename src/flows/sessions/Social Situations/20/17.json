@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been taking a dance class at the local community center, and the time has come for your end of class showcase. You want to invite your friends and family to the showcase, but you worry you'll embarrass yourself if you are not very good. While deciding whether or not to invite people to your show, you see yourself bombing.",
+    "header_text": "Vaccination Reassurance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been taking a dance class at the local community center, and the time has come for your end of class showcase. You want to invite your friends and family to the showcase, but you worry you'll embarrass yourself if you are not very good. While deciding whether or not to invite people to your show, you see yourself bombing."
+            "text": "Vaccination Reassurance"
         },
         {
             "type": "Media",
-            "url": "./images/575.jpg"
+            "url": "./images/695.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

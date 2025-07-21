@@ -1,5 +1,5 @@
 {
-    "header_text": "You are on a long drive with a friend. You notice that neither of you has said anything for a few minutes. Focused on the road, you think your friend feels that the silence is completely normal.",
+    "header_text": "Silence on a drive",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You are on a long drive with a friend. You notice that neither of you has said anything for a few minutes. Focused on the road, you think your friend feels that the silence is completely normal._Social Situations_comp_question",
+            "name": "Silence on a drive_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

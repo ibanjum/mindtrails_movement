@@ -1,23 +1,29 @@
 {
-    "header_text": "You enjoy making art. As you are considering your next project, you can't help but think about how HD might affect your creative ability in the future. Thinking about this makes you feel down.",
+    "header_text": "Future Gym Visits",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You then realize that you can adapt the way you currently create. Knowing that there are many ways to be an artist leaves you feeling..."
+            "Text": "You embrace the future with..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You enjoy making art. As you are considering your next project, you can't help but think about how HD might affect your creative ability in the future. Thinking about this makes you feel down._Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Future Gym Visits_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "hopeful"
+            "buttons": [
+                "Optimism.",
+                "Pessimism."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Optimism."
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

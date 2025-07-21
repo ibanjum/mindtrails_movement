@@ -1,23 +1,25 @@
 {
-    "header_text": "Your spiritual journey has become more important to you in recent years. As your HD symptoms progress, you find it difficult to concentrate on developing your spiritual practice more. After taking some time to reflect on your struggles, you feel that your spiritual practice will adapt.",
+    "header_text": "Family Wedding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your spiritual journey has become more important to you in recent years. As your HD symptoms progress, you find it difficult to concentrate on developing your spiritual practice more. After taking some time to reflect on your struggles, you feel that your spiritual practice will..."
+            "text": "You're helping your granddaughter prepare for her wedding. When you meet with the bridal party, you forget the groom's name. Desperate to hide this from her, you secretively ask your daughter for his name while your granddaughter glances over at you with a look of..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Your spiritual journey has become more important to you in recent years. As your HD symptoms progress, you find it difficult to concentrate on developing your spiritual practice more. After taking some time to reflect on your struggles, you feel that your spiritual practice will adapt._Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Family Wedding_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "adapt"
+                "disappointment"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "This year, you've decided to take on more weekly hours. This is your first time working this many hours and you've heard from your peers that it's difficult. When you think about the workload, you think that you will be able to handle it well.",
+    "header_text": "Putting in the Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "This year, you've decided to take on more weekly hours. This is your first time working this many hours and you've heard from your peers that it's difficult. When you think about the workload, you think that you will be able to handle it well._Work/Career Development_entry1"
+            "name": "Putting in the Work_Work/Career Development_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
 }

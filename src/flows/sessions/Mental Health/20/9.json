@@ -1,15 +1,17 @@
 {
-    "header_text": "You recently ordered furniture online that you have to assemble yourself. You struggle to make out the diagrams and wonder if you are particularly struggling because of HD. You think to yourself that the manufacturer's instructions are bad, and this makes you laugh. ",
+    "header_text": "Trouble Making Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You recently ordered furniture online that you have to assemble yourself. You struggle to make out the diagrams and wonder if you are particularly struggling because of PD. You think to yourself that the manufacturer's instructions are bad, and this makes you... "
+            "text": "As you think about life in your new city, you do not see yourself having to go through this alone. You decide finding a local therapist will be..."
         },
         {
             "type": "Entry",
-            "name": "You recently ordered furniture online that you have to assemble yourself. You struggle to make out the diagrams and wonder if you are particularly struggling because of HD. You think to yourself that the manufacturer's instructions are bad, and this makes you laugh. _Mental Health_entry1"
+            "name": "Trouble Making Friends_Mental Health_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You are volunteering at the check-in desk for a local event. You are having trouble keeping track of all the check-in tasks and a huge line forms. The event organizer starts walking your direction, and you worry that they think you are incapable. ",
+    "header_text": "Balancing Checkbook",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are volunteering at the check-in desk for a local event. You are having trouble keeping track of all the check-in tasks and a huge line forms. The event organizer starts walking your direction, and you worry that they think you are incapable. "
+            "text": "Balancing Checkbook"
         },
         {
             "type": "Media",
-            "url": "./images/826.jpg"
+            "url": "./images/318.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

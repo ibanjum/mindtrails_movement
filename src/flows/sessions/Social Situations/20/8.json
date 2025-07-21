@@ -1,14 +1,16 @@
 {
-    "header_text": "You make plans to go out to dinner with a friend. When you finish dinner, they take sips of water and say that their throat is sore. You figure it's probably from talking a lot at dinner. ",
+    "header_text": "New Opportunity at Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You make plans to go out to dinner with a friend. When you finish dinner, they take sips of water and say that their throat is sore. You figure it's probably from talking a lot at dinner. "
+            "text": "New Opportunity at Work"
         },
         {
             "type": "Media",
-            "url": "./images/692.jpg"
+            "url": "./images/108.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

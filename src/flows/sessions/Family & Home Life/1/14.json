@@ -1,14 +1,26 @@
 {
-    "header_text": "You are at home alone watching TV at night. You must have been dozing, because you suddenly wake up after hearing a loud noise. You look outside and see an intruder.",
+    "header_text": "A loud sound",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at home alone watching TV at night. You must have been dozing, because you suddenly wake up after hearing a loud noise. You look outside and see an intruder."
+            "text": "A loud sound"
         },
         {
             "type": "Media",
             "url": "./images/132.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

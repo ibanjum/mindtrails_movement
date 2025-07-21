@@ -1,14 +1,16 @@
 {
-    "header_text": "You have a project due at work next week. You haven't started it yet because you're unsure how to best complete it. When you think about completing the project on time, you feel confident.",
+    "header_text": "Finishing Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have a project due at work next week. You haven't started it yet because you're unsure how to best complete it. When you think about completing the project on time, you feel confident."
+            "text": "Finishing Work"
         },
         {
             "type": "Media",
             "url": "./images/48.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

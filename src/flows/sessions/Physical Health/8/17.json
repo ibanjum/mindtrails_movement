@@ -1,14 +1,16 @@
 {
-    "header_text": "You have experienced a toothache for a few days. This is something you haven't felt before. You go to the dentist, and they provide reassurance. ",
+    "header_text": "Trip to the Dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have experienced a toothache for a few days. This is something you haven't felt before. You go to the dentist, and they provide reassurance. "
+            "text": "Trip to the Dentist"
         },
         {
             "type": "Media",
             "url": "./images/369.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

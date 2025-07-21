@@ -1,19 +1,19 @@
 {
-    "header_text": "No response: Feelings",
+    "header_text": "Strong opinions: Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been texting with someone you really like and they're usually quick to respond. You notice that they saw your message a couple of hours ago and did not respond. \n\nHere are some feelings that might happen in the moment:"
+            "text": "Your family members have some strong opinions and you don't always agree with them. One evening, you invite a friend over for dinner. \n\nHere are some feelings that might happen in the moment:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I feel okay that they haven't responded.",
-                "I'm anxious that I haven't heard back, but realize that I don't need to hear back immediately about what I sent.",
-                "I'm embarrassed that I put myself out there.",
-                "I feel bad about not getting a quick reply, but remember I don't need to try and control the situation.",
-                "I'm happy with who I am whether they respond or not."
+                "I'm excited to watch a movie with my friend after we eat.",
+                "I'm calm sitting at dinner with my family and my friend.",
+                "I'm worried that my family will say something that will make my friend dislike me, but I am more confident in the strength of our friendship.",
+                "I'm anxious about what my family members might say.",
+                "I'm embarrassed that my family has such a different point of view than me, but remind myself that everyone has different beliefs."
             ],
             "Duration": 15
         }

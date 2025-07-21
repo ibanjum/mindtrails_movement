@@ -1,15 +1,17 @@
 {
-    "header_text": "You want your family to have good educational opportunities. You want your kids to be able to attend good colleges but understand that this comes with a high price tag. When you think about your children, you think supporting their college education will be impossible.",
+    "header_text": "Unexpected Medical Visit ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You want your family to have good educational opportunities. You want your grandkids to be able to attend good colleges but understand that this comes with a high price tag. When you think about your grandchildren, you think supporting their college education will be..."
+            "text": "You recently had an unexpected medical visit. You and your spouse share an insurance plan, and you’re worried that your spouse will be concerned about finances if they see it on your insurance statement. If they ask you about it, you think they will be... "
         },
         {
             "type": "Entry",
-            "name": "You want your family to have good educational opportunities. You want your kids to be able to attend good colleges but understand that this comes with a high price tag. When you think about your children, you think supporting their college education will be impossible._Family & Home Life_entry1"
+            "name": "Unexpected Medical Visit _Family & Home Life_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

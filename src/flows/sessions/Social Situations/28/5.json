@@ -1,14 +1,25 @@
 {
-    "header_text": "You notice that you haven't seen your older neighbor recently. You visit them regularly, so it's strange that you haven't seen them lately. Your neighbor has probably been fine.",
+    "header_text": "Cohabitation Conflicts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You notice that you haven't seen your older neighbor recently. You visit them regularly, so it's strange that you haven't seen them lately. Your neighbor has probably been fine."
+            "type": "Text",
+            "text": "You and your significant other have been living together for a few months, and some issues have started coming up. Your friend is visiting soon. When you ask your significant other if your friend can stay with you while they're in town, your significant other gets angry and starts to raise their... "
         },
         {
-            "type": "Media",
-            "url": "./images/467.jpg"
+            "type": "WordPuzzle",
+            "name": "Cohabitation Conflicts_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "voice"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

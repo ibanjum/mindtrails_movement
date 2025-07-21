@@ -1,27 +1,29 @@
 {
-    "header_text": "You are known for being extroverted, some of your friends even call you \"the life of the party.\" Recently, the thought of going out in public makes your heart race and palms sweat. When a friend calls you to invite you to dinner, the first thing you do is breathe. ",
+    "header_text": "New Baby",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your reaction to your friend's invitation keeps you..."
+            "Text": "Will you still be able to spend quality time with your grandchild?"
         },
         {
             "type": "Buttons",
-            "name": "You are known for being extroverted, some of your friends even call you \"the life of the party.\" Recently, the thought of going out in public makes your heart race and palms sweat. When a friend calls you to invite you to dinner, the first thing you do is breathe. _Early/Mid-Stage Symptoms_comp_question",
+            "name": "New Baby_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Panicked",
-                "Grounded"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Grounded"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

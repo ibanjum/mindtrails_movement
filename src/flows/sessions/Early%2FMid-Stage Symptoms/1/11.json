@@ -1,14 +1,29 @@
 {
-    "header_text": "You've been struggling with your memory lately, so you've started learning a new technique for remembering lists of items. Training your brain to memorize lists has been a challenge. You remember more items as you practice the technique more, and this is very rewarding. ",
+    "header_text": "Brushing Teeth",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You've been struggling with your memory lately, so you've started learning a new technique for remembering lists of items. Training your brain to memorize lists has been a challenge. You remember more items as you practice the technique more, and this is very rewarding. "
+            "type": "Text",
+            "Text": "As your medication kicks in, you begin to..."
         },
         {
-            "type": "Media",
-            "url": "./images/893.jpg"
+            "type": "Buttons",
+            "name": "Brushing Teeth_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Calm down",
+                "Panic even more"
+            ],
+            "columnCount": 1,
+            "correct_value": "Calm down"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

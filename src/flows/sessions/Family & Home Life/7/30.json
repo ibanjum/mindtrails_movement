@@ -1,14 +1,25 @@
 {
-    "header_text": "During a holiday gathering, you have difficulty choosing your words during conversations. Anxiety builds as you think about how your family perceives your speech difficulties. You focus on listening actively and still add to the conversation meaningfully. ",
+    "header_text": "Differing Beliefs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "During a holiday gathering, you have difficulty choosing your words during conversations. Anxiety builds as you think about how your family perceives your speech difficulties. You focus on listening actively and still add to the conversation meaningfully. "
+            "type": "Text",
+            "text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your... "
         },
         {
-            "type": "Media",
-            "url": "./images/171.jpg"
+            "type": "WordPuzzle",
+            "name": "Differing Beliefs_Family & Home Life_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "family"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

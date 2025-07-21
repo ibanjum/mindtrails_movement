@@ -1,27 +1,29 @@
 {
-    "header_text": "You were invited to join a picnic with several friends. As you pack, you can't seem to remember what to bring. You grab paper and a pencil and call your friends again, knowing they will give you a reminder. ",
+    "header_text": "Giving a Toast",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you struggle to remember, will your friends abandon you?"
+            "Text": "During your toast, your family members are..."
         },
         {
             "type": "Buttons",
-            "name": "You were invited to join a picnic with several friends. As you pack, you can't seem to remember what to bring. You grab paper and a pencil and call your friends again, knowing they will give you a reminder. _Early/Mid-Stage Symptoms_comp_question",
+            "name": "Giving a Toast_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Disappointed",
+                "Focused"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Focused"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

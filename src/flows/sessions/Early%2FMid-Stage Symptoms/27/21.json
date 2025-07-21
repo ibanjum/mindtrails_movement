@@ -1,23 +1,16 @@
 {
-    "header_text": "There is a particular way you've always done laundry, making sure to separate colors. When you take a load out of the dryer, you notice several articles have been stained and feel frustrated that your attention seems to be slipping. ",
+    "header_text": "Dining Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "There is a particular way you've always done laundry, making sure to separate colors. When you take a load out of the dryer, you notice several articles have been stained and feel frustrated that your attention seems to be... "
+            "type": "Label",
+            "text": "Dining Out"
         },
         {
-            "type": "WordPuzzle",
-            "name": "There is a particular way you've always done laundry, making sure to separate colors. When you take a load out of the dryer, you notice several articles have been stained and feel frustrated that your attention seems to be slipping. _Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "slipping"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/852.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "type": "negative",
+    "scenario_num": 6
 }

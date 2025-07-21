@@ -1,14 +1,26 @@
 {
-    "header_text": "Your supervisor calls a meeting tied to a new initiative and asks each of you in turn to present your ideas and prior experience. When it is your turn to speak, you pause frequently. As you reflect on the meeting later in the day, you feel that the supervisor thought you sounded silly.",
+    "header_text": "Showcasing your experience",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your supervisor calls a meeting tied to a new initiative and asks each of you in turn to present your ideas and prior experience. When it is your turn to speak, you pause frequently. As you reflect on the meeting later in the day, you feel that the supervisor thought you sounded silly."
+            "text": "Showcasing your experience"
         },
         {
             "type": "Media",
             "url": "./images/9.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 8,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

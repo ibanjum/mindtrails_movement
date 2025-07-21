@@ -1,14 +1,16 @@
 {
-    "header_text": "In the middle of the night, you wake up abruptly and feel weird as you sit up. It's as if your mind isn't working correctly, and you start to think you might be losing control. This thought frightens you, and you decide to lie back down and just observe it.",
+    "header_text": "Late night sensation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "In the middle of the night, you wake up abruptly and feel weird as you sit up. It's as if your mind isn't working correctly, and you start to think you might be losing control. This thought frightens you, and you decide to lie back down and just observe it."
+            "text": "Late night sensation"
         },
         {
             "type": "Media",
             "url": "./images/329.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

@@ -1,27 +1,29 @@
 {
-    "header_text": "You're at your best friend's birthday party, surrounded by laughter and conversation. Suddenly, your chorea causes some water to slosh out of the cup you're holding, making you worry that others will judge you. However, you know that if you open up to your friends about your concerns, they will be understanding and supportive.",
+    "header_text": "Neighbor Chat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friends will be..."
+            "Text": "Your neighbor is asking if you are okay because..."
         },
         {
             "type": "Buttons",
-            "name": "You're at your best friend's birthday party, surrounded by laughter and conversation. Suddenly, your chorea causes some water to slosh out of the cup you're holding, making you worry that others will judge you. However, you know that if you open up to your friends about your concerns, they will be understanding and supportive._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Neighbor Chat_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Judgmental.",
-                "Supportive."
+                "They are offended.",
+                "They care about you."
             ],
             "columnCount": 1,
-            "correct_value": "Supportive."
+            "correct_value": "They care about you."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

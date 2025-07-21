@@ -1,14 +1,29 @@
 {
-    "header_text": "You are writing in your journal and start to flip back through some previous entries. You notice how much your handwriting has changed and begin to worry about your ability to journal in the future. You begin to brainstorm other ways to keep track of your thoughts and feelings and soon feel confident that you can adapt.",
+    "header_text": "Directions to Thrift Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You are writing in your journal and start to flip back through some previous entries. You notice how much your handwriting has changed and begin to worry about your ability to journal in the future. You begin to brainstorm other ways to keep track of your thoughts and feelings and soon feel confident that you can adapt."
+            "type": "Text",
+            "Text": "Focusing on positives..."
         },
         {
-            "type": "Media",
-            "url": "./images/819.jpg"
+            "type": "Buttons",
+            "name": "Directions to Thrift Store_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Didn't change a thing",
+                "Helped you"
+            ],
+            "columnCount": 1,
+            "correct_value": "Helped you"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

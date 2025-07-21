@@ -1,15 +1,17 @@
 {
-    "header_text": "While at a friend's house for a dinner party, your host mentions that you are a good piano player and asks you to play something for the other guests. You know a few pieces you can play well, but you feel nervous playing on the spot. Walking up to the piano, you think to yourself that everyone will enjoy the music.",
+    "header_text": "Cooking a Casserole",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While at a friend's house for a dinner party, your host mentions that you are a good piano player, and asks you to play something on the piano for the other guests. You know a few pieces you can play well, but you feel nervous playing on the spot without practice. Walking up to the piano, you think to yourself that everyone will enjoy...  "
+            "text": "You are going to a potluck dinner party, and you want to make your family's macaroni casserole to bring. You have the recipe your parents gave you, but you worry you don't have the cooking skills to pull off the dish. You think that people at the party will probably think your casserole tastes..."
         },
         {
             "type": "Entry",
-            "name": "While at a friend's house for a dinner party, your host mentions that you are a good piano player and asks you to play something for the other guests. You know a few pieces you can play well, but you feel nervous playing on the spot. Walking up to the piano, you think to yourself that everyone will enjoy the music._Social Situations_entry1"
+            "name": "Cooking a Casserole_Social Situations_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 1
 }

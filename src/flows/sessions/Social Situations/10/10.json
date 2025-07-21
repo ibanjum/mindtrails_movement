@@ -1,14 +1,16 @@
 {
-    "header_text": "You run into someone you don't know well on the street who you look up to. You ask them how they are doing, and they continue to keep walking. This acquaintance probably thinks you are nice.",
+    "header_text": "An Acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You run into someone you don't know well on the street who you look up to. You ask them how they are doing, and they continue to keep walking. This acquaintance probably thinks you are nice."
+            "text": "An Acquaintance"
         },
         {
             "type": "Media",
             "url": "./images/650.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

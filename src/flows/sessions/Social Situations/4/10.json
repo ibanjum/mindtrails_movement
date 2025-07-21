@@ -1,14 +1,16 @@
 {
-    "header_text": "You are out to dinner with a few friends. During the meal, one friend says something that you really disagree with. As you voice your opinion, your friends become quiet because they are impressed.",
+    "header_text": "A different perspective",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are out to dinner with a few friends. During the meal, one friend says something that you really disagree with. As you voice your opinion, your friends become quiet because they are impressed."
+            "text": "A different perspective"
         },
         {
             "type": "Media",
             "url": "./images/623.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

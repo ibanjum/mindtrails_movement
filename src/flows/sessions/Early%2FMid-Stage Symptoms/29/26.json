@@ -1,27 +1,29 @@
 {
-    "header_text": "At work you've noticed more difficulty typing. You decide to email your boss to ask to take time off to focus on your health. You see a reply pop up in your email after a while, and you feel scared. ",
+    "header_text": "House For Sale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You did not want to ask for time off because... "
+            "Text": "Do you trust that you'll be able to pull off the move?"
         },
         {
             "type": "Buttons",
-            "name": "At work you've noticed more difficulty typing. You decide to email your boss to ask to take time off to focus on your health. You see a reply pop up in your email after a while, and you feel scared. _Early/Mid-Stage Symptoms_comp_question",
+            "name": "House For Sale_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You were fearful",
-                "You did not need time off"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "You were fearful"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

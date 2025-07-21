@@ -1,5 +1,5 @@
 {
-    "header_text": "You are sitting watching TV and realize you forgot to pay your credit card. You’ve never been late on your credit card payment before, and you start to worry that you’ll have to pay a large fee. You think that the consequences of making the payment a few days late will be minimal. ",
+    "header_text": "Managing Your Credit Card",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You are sitting watching TV and realize you forgot to pay your credit card. You’ve never been late on your credit card payment before, and you start to worry that you’ll have to pay a large fee. You think that the consequences of making the payment a few days late will be minimal. _Finances_puzzle1",
+            "name": "Managing Your Credit Card_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "You are going on a date tonight. You don't know the person well and you know there will be some silences in the conversation. Even though it might be awkward, you know you'll have fun.",
+    "header_text": "Going on a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You are going on a date tonight. You don't know the person well and you know there will be some silences in the conversation. Even though it might be awkward, you know you'll have fun._Romantic Relationships_comp_question",
+            "name": "Going on a Date_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

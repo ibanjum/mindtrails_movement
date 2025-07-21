@@ -1,5 +1,5 @@
 {
-    "header_text": "You are hanging out with some friends. One friend invites another friend to come over to their house in a few days without inviting you. You think about it and realize you feel alright.",
+    "header_text": "Hanging Out with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,20 @@
         },
         {
             "type": "Entry",
-            "name": "You are hanging out with some friends. One friend invites another friend to come over to their house in a few days without inviting you. You think about it and realize you feel alright._Social Situations_entry1"
+            "name": "Hanging Out with Friends_Social Situations_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

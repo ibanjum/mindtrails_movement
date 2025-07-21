@@ -1,14 +1,16 @@
 {
-    "header_text": "You notice your home is not like your peers' homes. A good friend of yours has never been to your place, but wants to come over for dinner one night. You think about their reaction to your home and that they will be respectful.",
+    "header_text": "Home Introductions ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You notice your home is not like your peers' homes. A good friend of yours has never been to your place, but wants to come over for dinner one night. You think about their reaction to your home and that they will be respectful."
+            "text": "Home Introductions "
         },
         {
             "type": "Media",
             "url": "./images/161.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

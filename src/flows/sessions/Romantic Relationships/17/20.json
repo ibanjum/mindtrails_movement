@@ -1,14 +1,16 @@
 {
-    "header_text": "You send a sweet text to your partner and they read it but don't respond. You've both been busy with work all week, and you wonder if they still care about you in the same way. Thinking about how you've barely talked this week, you think you are drifting apart.",
+    "header_text": "April Proposal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You send a sweet text to your partner and they read it but don't respond. You've both been busy with work all week, and you wonder if they still care about you in the same way. Thinking about how you've barely talked this week, you think you are drifting apart."
+            "text": "April Proposal"
         },
         {
             "type": "Media",
-            "url": "./images/586.jpg"
+            "url": "./images/585.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

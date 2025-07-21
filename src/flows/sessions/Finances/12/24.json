@@ -1,14 +1,16 @@
 {
-    "header_text": "Your sibling is in a tight spot and is asking for money. You really want to help them, but you are dealing with your own financial challenges as you need to put your money toward rent. Thinking about the other types of support you can offer your sibling, you think they will be grateful. ",
+    "header_text": "Family Money Troubles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your sibling is in a tight spot and is asking for money. You really want to help them, but you are dealing with your own financial challenges as you need to put your money toward rent. Thinking about the other types of support you can offer your sibling, you think they will be grateful. "
+            "text": "Family Money Troubles"
         },
         {
             "type": "Media",
             "url": "./images/197.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

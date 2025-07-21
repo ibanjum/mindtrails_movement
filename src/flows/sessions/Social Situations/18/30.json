@@ -1,14 +1,16 @@
 {
-    "header_text": "It is a long weekend, and you are invited to a friend's wedding. You notice that many people have brought a plus one when you arrive, but you are alone. You realize that you can still enjoy yourself at the wedding and get to know other guests.",
+    "header_text": "Alone at Lunch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It is a long weekend, and you are invited to a friend's wedding. You notice that many people have brought a plus one when you arrive, but you are alone. You realize that you can still enjoy yourself at the wedding and get to know other guests."
+            "text": "Alone at Lunch"
         },
         {
             "type": "Media",
-            "url": "./images/686.jpg"
+            "url": "./images/685.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

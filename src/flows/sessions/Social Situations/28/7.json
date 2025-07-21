@@ -1,27 +1,29 @@
 {
-    "header_text": "You notice that you haven't seen your older neighbor recently. You visit them regularly, so it's strange that you haven't seen them lately. Your neighbor has probably been fine.",
+    "header_text": "Cohabitation Conflicts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Has your elder neighbor likely been sick?"
+            "Text": "The next time you and your significant other have a problem you will likely..."
         },
         {
             "type": "Buttons",
-            "name": "You notice that you haven't seen your older neighbor recently. You visit them regularly, so it's strange that you haven't seen them lately. Your neighbor has probably been fine._Social Situations_comp_question",
+            "name": "Cohabitation Conflicts_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Get into a huge argument.",
+                "Talk it out and find common ground."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Talk it out and find common ground."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

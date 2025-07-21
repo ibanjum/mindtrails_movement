@@ -1,14 +1,16 @@
 {
-    "header_text": "You rushed out of your house this morning. Once at work, you wonder whether you forgot to turn off your space heater. The likelihood that the space heater will cause a fire is minimal.",
+    "header_text": "Space heater",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You rushed out of your house this morning. Once at work, you wonder whether you forgot to turn off your space heater. The likelihood that the space heater will cause a fire is minimal."
+            "text": "Space heater"
         },
         {
             "type": "Media",
             "url": "./images/133.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

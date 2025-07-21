@@ -1,23 +1,29 @@
 {
-    "header_text": "Your partner hasn't been home much recently. However, when they do come home, they forget their garbage on the table, leave crumbs on the counter, and never lock the door on their way out. You think it's time to bring it up to them. ",
+    "header_text": "Introducing Your Spouse to New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "When you bring it up, they explain that they've been extremely overwhelmed recently, and it's been hard for them to keep up with things. You come to an agreement on how to keep the space..."
+            "Text": "Are you worried about what your spouse will say tonight? "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Your partner hasn't been home much recently. However, when they do come home, they forget their garbage on the table, leave crumbs on the counter, and never lock the door on their way out. You think it's time to bring it up to them. _Romantic Relationships_puzzle_word2",
+            "type": "Buttons",
+            "name": "Introducing Your Spouse to New Friends_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "clean"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

@@ -1,15 +1,17 @@
 {
-    "header_text": "You have been going to therapy lately. You haven't told your family because they have expressed negative views of therapy in the past. You think that this time they will be supportive. ",
+    "header_text": "Holiday Conversations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been going to therapy lately. You haven't told your family because they have expressed negative views of therapy in the past. You think that this time they will be... "
+            "text": "During a holiday gathering, you have difficulty choosing your words during conversations. Anxiety builds as you think about how your family perceives your speech difficulties. You focus on listening actively and still add to the conversation... "
         },
         {
             "type": "Entry",
-            "name": "You have been going to therapy lately. You haven't told your family because they have expressed negative views of therapy in the past. You think that this time they will be supportive. _Mental Health_entry1"
+            "name": "Holiday Conversations_Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

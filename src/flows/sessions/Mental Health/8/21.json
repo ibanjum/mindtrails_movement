@@ -1,14 +1,16 @@
 {
-    "header_text": "You applied to a job a few weeks ago and just got a response. They tell you they already filled the position, and you feel like you are not smart enough. You think that in the future, you will get a job.",
+    "header_text": "Applying to Jobs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You applied to a job a few weeks ago and just got a response. They tell you they already filled the position, and you feel like you are not smart enough. You think that in the future, you will get a job."
+            "text": "Applying to Jobs"
         },
         {
             "type": "Media",
             "url": "./images/122.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

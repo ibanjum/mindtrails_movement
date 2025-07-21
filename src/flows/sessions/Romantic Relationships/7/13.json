@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your partner had a disagreement earlier that turned into a large fight. They haven't talked to you since then, and it's been a few hours. You think that they probably just need some alone time, and you'll talk again soon.",
+    "header_text": "Silent Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your partner had a disagreement earlier that turned into a large fight. They haven't talked to you since then, and it's been a few hours. You think that they probably just need some alone time, and you'll talk again soon."
+            "text": "Silent Partner"
         },
         {
             "type": "Media",
             "url": "./images/551.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

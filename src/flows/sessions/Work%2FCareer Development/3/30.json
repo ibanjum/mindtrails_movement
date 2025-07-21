@@ -1,14 +1,26 @@
 {
-    "header_text": "You don't have stable internet access at home and you found out the job you're applying for is remote. You wonder how you'll be able to keep up with your work if you get the job. As you think about the situation, you feel stressed.",
+    "header_text": "Unstable WiFi",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You don't have stable internet access at home and you found out the job you're applying for is remote. You wonder how you'll be able to keep up with your work if you get the job. As you think about the situation, you feel stressed."
+            "text": "Unstable WiFi"
         },
         {
             "type": "Media",
             "url": "./images/23.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

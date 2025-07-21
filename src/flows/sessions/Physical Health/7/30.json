@@ -1,14 +1,16 @@
 {
-    "header_text": "Your tooth has been hurting recently, so you decide to make a dentist appointment. You think about the pain in your tooth and what it might be from. As you wait for your appointment, you will feel calm.",
+    "header_text": "A Toothache",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your tooth has been hurting recently, so you decide to make a dentist appointment. You think about the pain in your tooth and what it might be from. As you wait for your appointment, you will feel calm."
+            "text": "A Toothache"
         },
         {
             "type": "Media",
             "url": "./images/472.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

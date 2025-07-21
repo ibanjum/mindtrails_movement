@@ -1,14 +1,17 @@
 {
-    "header_text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your successes.",
+    "header_text": "Putting Yourself Out There",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your successes."
+            "type": "Text",
+            "text": "You and your significant other have been caught up on your own responsibilities recently, and you feel as though you're drifting apart. You decide to plan a dinner date with them, to spend some quality time just the two of you. At dinner, you feel as though you're starting all of the conversations, and your partner seems... "
         },
         {
-            "type": "Media",
-            "url": "./images/91.jpg"
+            "type": "Entry",
+            "name": "Putting Yourself Out There_Mental Health_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

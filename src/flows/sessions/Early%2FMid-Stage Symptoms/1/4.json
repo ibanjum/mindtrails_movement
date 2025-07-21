@@ -1,5 +1,5 @@
 {
-    "header_text": "You are a dog owner. You've had difficulty with your balance lately, and you worry that it will become harder to take your dog for a walk. Thinking about whether you will be able to continue to care for your dog makes you feel overwhelmed.",
+    "header_text": "Future Dog Walking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You are a dog owner. You've had difficulty with your balance lately, and you worry that it will become harder to take your dog for a walk. Thinking about whether you will be able to continue to care for your dog makes you feel overwhelmed._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Future Dog Walking_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

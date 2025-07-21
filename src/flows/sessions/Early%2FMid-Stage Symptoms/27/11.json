@@ -1,14 +1,16 @@
 {
-    "header_text": "You enroll in a class to learn a new language, a task that's been on your bucket list for years. You find it difficult to remember new vocabulary, and you're dreading the day that the teacher will call on you in front of everyone. When the day comes, it is obvious to everyone that you have practiced. ",
+    "header_text": "Cooking Struggle",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You enroll in a class to learn a new language, a task that's been on your bucket list for years. You find it difficult to remember new vocabulary, and you're dreading the day that the teacher will call on you in front of everyone. When the day comes, it is obvious to everyone that you have practiced. "
+            "text": "Cooking Struggle"
         },
         {
             "type": "Media",
-            "url": "./images/868.jpg"
+            "url": "./images/247.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

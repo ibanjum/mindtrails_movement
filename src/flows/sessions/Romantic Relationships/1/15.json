@@ -1,14 +1,16 @@
 {
-    "header_text": "You have a dinner date scheduled with someone you've been wanting to hang out with for a while. On the day of the dinner, you feel a little nervous wondering whether they will appreciate you as much as you appreciate them. You realize that feeling a little anxious is okay.",
+    "header_text": "Special Day",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have a dinner date scheduled with someone you've been wanting to hang out with for a while. On the day of the dinner, you feel a little nervous wondering whether they will appreciate you as much as you appreciate them. You realize that feeling a little anxious is okay."
+            "text": "Special Day"
         },
         {
             "type": "Media",
             "url": "./images/370.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

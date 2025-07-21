@@ -1,5 +1,5 @@
 {
-    "header_text": "You are looking for a new house. While on your first tour, you fall in love with the place and decide to sign a lease. The fact that you did not check out other houses makes you feel fine.",
+    "header_text": "A lucky find",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You are looking for a new house. While on your first tour, you fall in love with the place and decide to sign a lease. The fact that you did not check out other houses makes you feel fine._Family & Home Life_comp_question",
+            "name": "A lucky find_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "You are going on a date with your spouse. You look in the mirror before you leave and wonder if they will like your look. You realize that the only opinion that matters about your appearance is yours. ",
+    "header_text": "Relationship Struggles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does it matter if your spouse likes your look?"
+            "Text": "Does your partner still love you?"
         },
         {
             "type": "Buttons",
-            "name": "You are going on a date with your spouse. You look in the mirror before you leave and wonder if they will like your look. You realize that the only opinion that matters about your appearance is yours. _Mental Health_comp_question",
+            "name": "Relationship Struggles_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

@@ -1,23 +1,29 @@
 {
-    "header_text": "Your neighbor has you over for tea every Wednesday. As you are over for tea today, you begin to experience a sadness you can't seem to shake. Your neighbor notices a change in your demeanor and looks at you encouragingly.",
+    "header_text": "Movie Mix-Up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your neighbor has you over for tea every Wednesday. As you are over for tea today, you begin to experience a sadness you can't seem to shake. Your neighbor notices a change in your demeanor and looks at you..."
+            "Text": "When you try to focus and follow the movie plot, you are..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Your neighbor has you over for tea every Wednesday. As you are over for tea today, you begin to experience a sadness you can't seem to shake. Your neighbor notices a change in your demeanor and looks at you encouragingly._Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Movie Mix-Up_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "encouragingly"
+            "buttons": [
+                "Hopeless",
+                "Successful"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Successful"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

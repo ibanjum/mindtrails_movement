@@ -1,14 +1,16 @@
 {
-    "header_text": "After reading through a friend's post, you decide to leave a nice comment. The friend replies a bit rudely. You feel worried.",
+    "header_text": "Saving for Repairs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "After reading through a friend's post, you decide to leave a nice comment. The friend replies a bit rudely. You feel worried."
+            "text": "Saving for Repairs"
         },
         {
             "type": "Media",
-            "url": "./images/711.jpg"
+            "url": "./images/264.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

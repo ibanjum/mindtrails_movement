@@ -1,14 +1,16 @@
 {
-    "header_text": "You are dedicated to your job as a therapist. Since your HD diagnosis, you have been worried about maintaining your relationship with patients. You reassure yourself that even if your symptoms slow you down, your years of experience will help you continue to do your job well.",
+    "header_text": "Night of Bad Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are dedicated to your job as a therapist. Since your HD diagnosis, you have been worried about maintaining your relationship with patients. You reassure yourself that even if your symptoms slow you down, your years of experience will help you continue to do your job well."
+            "text": "Night of Bad Sleep"
         },
         {
             "type": "Media",
-            "url": "./images/774.jpg"
+            "url": "./images/760.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "You get a text from a friend that they are in the hospital, but they don't tell you why. You start to worry about whether they're going to be OK. As you think about your friend, you feel calm.",
+    "header_text": "Comparing Yourself to Others",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your friend probably be OK? "
+            "Text": "Is your partner attracted to you?"
         },
         {
             "type": "Buttons",
-            "name": "You get a text from a friend that they are in the hospital, but they don't tell you why. You start to worry about whether they're going to be OK. As you think about your friend, you feel calm._Mental Health_comp_question",
+            "name": "Comparing Yourself to Others_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "You packed a lunch today, and you get it out in front of your friends. It smells really strongly as you notice your friends make faces. You tell your friends about what you're eating, and you feel proud.",
+    "header_text": "Smelly Lunch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You packed a lunch today, and you get it out in front of your friends. It smells really strongly as you notice your friends make faces. You tell your friends about what you're eating, and you feel proud._Social Situations_puzzle1",
+            "name": "Smelly Lunch_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

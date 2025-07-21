@@ -1,10 +1,10 @@
 {
-    "header_text": "Meeting someone new: Write Some Thoughts",
+    "header_text": "Shattered glass: Write Some Thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At a work party, your friend introduces you to an attractive friend of theirs you have not met before. The next morning, you notice that they sent you an email.\n\nPlease take 30 seconds to write different thoughts. The next button will appear automatically. \n\nThoughts in the moment:"
+            "text": "You are at a quiet restaurant with a lot of your family members for dinner. While taking a drink of your water, you accidently drop the glass on the floor and it shatters.\n\nPlease take 30 seconds to write different thoughts. The next button will appear automatically. \n\nThoughts in the moment:"
         },
         {
             "type": "Entry"

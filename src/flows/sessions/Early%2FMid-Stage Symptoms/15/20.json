@@ -1,27 +1,29 @@
 {
-    "header_text": "Your therapist recommended that you try journaling as a way to process some of your emotions. You're very frustrated with this practice because it takes you a lot longer to write anything lately. You decide to accept this as part of the process, and you cultivate more patience.",
+    "header_text": "Cleaning Your Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "As your mind shifts, you..."
+            "Text": "Are you able to calm yourself down?"
         },
         {
             "type": "Buttons",
-            "name": "Your therapist recommended that you try journaling as a way to process some of your emotions. You're very frustrated with this practice because it takes you a lot longer to write anything lately. You decide to accept this as part of the process, and you cultivate more patience._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Cleaning Your Home_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Avoid the task.",
-                "Embrace the difficulty."
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Embrace the difficulty."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

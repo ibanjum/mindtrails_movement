@@ -1,27 +1,16 @@
 {
-    "header_text": "Your HD has been causing you to lose interest in intimacy with your spouse due to difficulty with movements. Your spouse has noticed this change and is upset with your lack of touch and care. You recognize you haven't voiced your concern to your spouse and decide to communicate.  ",
+    "header_text": "Loan Repayment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "You respond to your spouse's upset reaction by... "
+            "type": "Label",
+            "text": "Loan Repayment"
         },
         {
-            "type": "Buttons",
-            "name": "Your HD has been causing you to lose interest in intimacy with your spouse due to difficulty with movements. Your spouse has noticed this change and is upset with your lack of touch and care. You recognize you haven't voiced your concern to your spouse and decide to communicate.  _Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Communicating",
-                "Avoiding them"
-            ],
-            "columnCount": 1,
-            "correct_value": "Communicating"
+            "type": "Media",
+            "url": "./images/316.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "positive",
+    "scenario_num": 3
 }

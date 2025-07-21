@@ -1,14 +1,16 @@
 {
-    "header_text": "You are on a walk with your dog, trying to relax and exercise. You find yourself on an unusual route and don't recognize your surroundings. You take out your cell phone and reroute home, showing that you are able to adapt.",
+    "header_text": "Puzzle Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are on a walk with your dog, trying to relax and exercise. You find yourself on an unusual route and don't recognize your surroundings. You take out your cell phone and reroute home, showing that you are able to adapt."
+            "text": "Puzzle Time"
         },
         {
             "type": "Media",
-            "url": "./images/846.jpg"
+            "url": "./images/224.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

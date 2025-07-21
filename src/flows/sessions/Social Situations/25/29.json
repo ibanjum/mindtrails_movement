@@ -1,23 +1,25 @@
 {
-    "header_text": "You post a short video. Your best friend comments something really embarrassing. Your followers will think that you and your friend are close.",
+    "header_text": "Spending Money with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You post a short video. Your best friend comments something really embarrassing. Your followers will think that you and your friend are..."
+            "text": "Your budget has been tighter this month. Your friends want to go out to eat this weekend, and they choose a very expensive place. If you ask them to choose a different restaurant, you think they will be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "You post a short video. Your best friend comments something really embarrassing. Your followers will think that you and your friend are close._Social Situations_puzzle1",
+            "name": "Spending Money with Friends_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "close"
+                "understanding"
             ],
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "Your significant other, whom you have been dating for a few years, wants to talk about where your relationship is going. This is the first time you have dated someone for such a long time.",
+    "header_text": "Long-Term Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Your significant other, whom you have been dating for a few years, wants to talk about where your relationship is going. This is the first time you have dated someone for such a long time._Romantic Relationships_comp_question",
+            "name": "Long-Term Relationship_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

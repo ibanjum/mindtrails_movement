@@ -1,5 +1,5 @@
 {
-    "header_text": "Your children have been relying on you financially, and you want them to start to be more independent. You know this is an important next step, but the thought of providing them less support is overwhelming. As you think to the future, you are confident that their financial independence will be possible. ",
+    "header_text": "Financial Dependence ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,20 @@
         },
         {
             "type": "Entry",
-            "name": "Your children have been relying on you financially, and you want them to start to be more independent. You know this is an important next step, but the thought of providing them less support is overwhelming. As you think to the future, you are confident that their financial independence will be possible. _Finances_entry1"
+            "name": "Financial Dependence _Finances_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

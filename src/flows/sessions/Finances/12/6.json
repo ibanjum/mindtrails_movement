@@ -1,5 +1,5 @@
 {
-    "header_text": "You want to take a trip to destress. Due to a recent problem with your car, your funds are lower than normal. Despite this, you think that a trip that works for your budget and improves your mental health will be doable. ",
+    "header_text": "Trip After Car Problem",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You want to take a trip to destress. Due to a recent problem with your car, your funds are lower than normal. Despite this, you think that a trip that works for your budget and improves your mental health will be doable. _Finances_comp_question",
+            "name": "Trip After Car Problem_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

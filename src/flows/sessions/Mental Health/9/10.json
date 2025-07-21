@@ -1,14 +1,16 @@
 {
-    "header_text": "As you're finishing an assignment at midnight, you realize you still have a couple of tasks left. You plan to wake up a little early to finish them. While you're setting your alarm and thinking about your plan, you feel confident.",
+    "header_text": "Different Expectations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "As you're finishing an assignment at midnight, you realize you still have a couple of tasks left. You plan to wake up a little early to finish them. While you're setting your alarm and thinking about your plan, you feel confident."
+            "text": "Different Expectations"
         },
         {
             "type": "Media",
-            "url": "./images/76.jpg"
+            "url": "./images/955.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

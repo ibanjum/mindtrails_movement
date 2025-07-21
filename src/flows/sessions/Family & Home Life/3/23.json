@@ -1,5 +1,5 @@
 {
-    "header_text": "Your colleagues ask you to go to a conference, but it's the night of an important cultural celebration for your family. You are looking forward to the celebration with your family, but don't want your colleagues to think you're different. As you think about telling your colleagues, you realize that your culture is important.",
+    "header_text": "Cultural Family Celebrations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Your colleagues ask you to go to a conference, but it's the night of an important cultural celebration for your family. You are looking forward to the celebration with your family, but don't want your colleagues to think you're different. As you think about telling your colleagues, you realize that your culture is important._Family & Home Life_comp_question",
+            "name": "Cultural Family Celebrations_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

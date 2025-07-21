@@ -1,5 +1,5 @@
 {
-    "header_text": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be okay. ",
+    "header_text": "Overhearing an Argument",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be okay. _Romantic Relationships_comp_question",
+            "name": "Overhearing an Argument_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

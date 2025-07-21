@@ -1,5 +1,5 @@
 {
-    "header_text": "You are trying to think of a good joke to put in the next email you send out to your friend group. You find a really funny one on a website after doing a quick search, but this is the first time you're ending your emails with a joke. Your friends will think that it's funny.",
+    "header_text": "Lightening the Mood",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You are trying to think of a good joke to put in the next email you send out to your friend group. You find a really funny one on a website after doing a quick search, but this is the first time you're ending your emails with a joke. Your friends will think that it's funny._Social Situations_comp_question",
+            "name": "Lightening the Mood_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

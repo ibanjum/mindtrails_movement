@@ -1,14 +1,16 @@
 {
-    "header_text": "You present an idea for an event for your department. When you ask people what they think, one colleague raises their hand. They say that they \"hate\" the idea.",
+    "header_text": "Honest Feedback",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You present an idea for an event for your department. When you ask people what they think, one colleague raises their hand. They say that they \"hate\" the idea."
+            "text": "Honest Feedback"
         },
         {
             "type": "Media",
             "url": "./images/119.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

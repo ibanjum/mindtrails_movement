@@ -1,14 +1,16 @@
 {
-    "header_text": "You are at the doctor’s office and they ask you if you are having any COVID symptoms. They list headaches as a possible symptom, and that scares you because this is something you've been experiencing. You remember that headaches are common, and you can rest until you feel better.",
+    "header_text": "Headache at the Doctor's Office",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at the doctor’s office and they ask you if you are having any COVID symptoms. They list headaches as a possible symptom, and that scares you because this is something you've been experiencing. You remember that headaches are common, and you can rest until you feel better."
+            "text": "Headache at the Doctor's Office"
         },
         {
             "type": "Media",
             "url": "./images/503.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

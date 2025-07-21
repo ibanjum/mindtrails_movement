@@ -1,23 +1,25 @@
 {
-    "header_text": "You usually lead the scoreboard during your family's weekly game night. You notice that you've been scoring less points over time. You figure your children must be getting better, and that makes you feel great.",
+    "header_text": "Brushing Teeth",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You usually lead the scoreboard during your family's weekly game night. You notice that you've been scoring less points over time. You figure your children must be getting better, and that makes you feel..."
+            "text": "You wake up feeling particularly anxious and stiff. It is hard to get out of bed, and you struggle as you try to go about your morning routine. You find that you are unable to brush your teeth, and you begin to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You usually lead the scoreboard during your family's weekly game night. You notice that you've been scoring less points over time. You figure your children must be getting better, and that makes you feel great._Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Brushing Teeth_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "great"
+                "panic"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

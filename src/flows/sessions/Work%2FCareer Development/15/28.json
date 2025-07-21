@@ -1,14 +1,16 @@
 {
-    "header_text": "You are moving to a new town and need to start applying for jobs. You start looking at the qualifications for jobs, and you wonder if the work you've done putting your resume together will be enough even though you've worked hard on it. You look back on your accomplishments and know that you've done more than enough.",
+    "header_text": "Looking at your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are moving to a new town and need to start applying for jobs. You start looking at the qualifications for jobs, and you wonder if the work you've done putting your resume together will be enough even though you've worked hard on it. You look back on your accomplishments and know that you've done more than enough."
+            "text": "Looking at your Resume"
         },
         {
             "type": "Media",
             "url": "./images/94.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

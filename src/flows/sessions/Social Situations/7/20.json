@@ -1,14 +1,16 @@
 {
-    "header_text": "You are at a birthday party with some friends. Later in the evening, your friend asks you to give a toast even though you don't have anything prepared. Afterwards, you feel that the others found your toast entertaining.",
+    "header_text": "Making a Toast",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at a birthday party with some friends. Later in the evening, your friend asks you to give a toast even though you don't have anything prepared. Afterwards, you feel that the others found your toast entertaining."
+            "text": "Making a Toast"
         },
         {
             "type": "Media",
             "url": "./images/635.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

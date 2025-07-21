@@ -1,5 +1,5 @@
 {
-    "header_text": "You sent an email to your department a few hours ago, asking for responses on a topic. You check to see who's responded and notice that your boss hasn't responded yet. You think about how your boss didn't read the email from you and you feel sad.",
+    "header_text": "Social Media Feedback",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You sent an email to your department a few hours ago, asking for responses on a topic. You check to see who's responded and notice that your boss hasn't responded yet. You think about how your boss didn't read the email from you and you feel sad._Work/Career Development_entry2"
+            "name": "Social Media Feedback_Work/Career Development_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

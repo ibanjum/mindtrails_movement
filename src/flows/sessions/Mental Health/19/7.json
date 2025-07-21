@@ -1,15 +1,17 @@
 {
-    "header_text": "Today, you will receive an important email. It will tell you whether you received or didn't get a promotion that would really advance your career.  As you think about waiting for the email, you feel dread.",
+    "header_text": "Important Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Today, you will receive an important email. It will tell you whether you received or didn't get a promotion that would really advance your career.  As you think about waiting for the email, you feel..."
+            "text": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel..."
         },
         {
             "type": "Entry",
-            "name": "Today, you will receive an important email. It will tell you whether you received or didn't get a promotion that would really advance your career.  As you think about waiting for the email, you feel dread._Mental Health_entry1"
+            "name": "Important Email_Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 2
 }

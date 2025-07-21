@@ -1,14 +1,16 @@
 {
-    "header_text": "You’ve been talking to someone from a dating app. About a week ago, they stopped texting you, and you haven’t heard anything since. You enjoyed the conversation, but you are moving on well. ",
+    "header_text": "Ghosting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You’ve been talking to someone from a dating app. About a week ago, they stopped texting you, and you haven’t heard anything since. You enjoyed the conversation, but you are moving on well. "
+            "text": "Ghosting "
         },
         {
             "type": "Media",
             "url": "./images/573.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

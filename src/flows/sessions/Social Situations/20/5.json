@@ -1,15 +1,16 @@
 {
-    "header_text": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel overwhelmed.",
+    "header_text": "Overwhelming Options",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You decide to continue to draft the email and send it once you are happy with how it sounds. You look forward to people's..."
+            "type": "Label",
+            "text": "Overwhelming Options"
         },
         {
-            "type": "Entry",
-            "name": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel overwhelmed._Social Situations_entry2"
+            "type": "Media",
+            "url": "./images/691.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

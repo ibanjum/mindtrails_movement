@@ -1,14 +1,16 @@
 {
-    "header_text": "You are sitting watching TV and realize you forgot to pay your credit card. You’ve never been late on your credit card payment before, and you start to worry that you’ll have to pay a large fee. You think that the consequences of making the payment a few days late will be minimal. ",
+    "header_text": "Managing Your Credit Card",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are sitting watching TV and realize you forgot to pay your credit card. You’ve never been late on your credit card payment before, and you start to worry that you’ll have to pay a large fee. You think that the consequences of making the payment a few days late will be minimal. "
+            "text": "Managing Your Credit Card"
         },
         {
             "type": "Media",
             "url": "./images/272.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

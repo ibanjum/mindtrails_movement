@@ -1,15 +1,17 @@
 {
-    "header_text": "It's Sunday morning and you are taking a walk in the park. After some time, you feel out of breath and decide to break for a minute at a bench. Gasping for breath makes you feel anxious, and you want to stop walking. ",
+    "header_text": "Opposing Opinions ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's Sunday morning and you are taking a walk in the park. After some time, you feel out of breath and decide to break for a minute at a bench. Gasping for breath makes you feel anxious, and you want to stop... "
+            "text": "Your family has strong opinions that you don't always agree with. As you listen to your family talk, you feel that you are pretty different from them. You feel having your own unique views is..."
         },
         {
             "type": "Entry",
-            "name": "It's Sunday morning and you are taking a walk in the park. After some time, you feel out of breath and decide to break for a minute at a bench. Gasping for breath makes you feel anxious, and you want to stop walking. _Mental Health_entry1"
+            "name": "Opposing Opinions _Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

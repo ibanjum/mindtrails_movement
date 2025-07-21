@@ -1,27 +1,16 @@
 {
-    "header_text": "You receive an email from work marked \"EMERGENCY.\" You've been having difficulty typing, so you close the email and decide to respond later. When you return to your computer 30 minutes later, you find that your boss has sent you a message, and you worry that he is disappointed. ",
+    "header_text": "At the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Did your boss respond angrily?"
+            "type": "Label",
+            "text": "At the Park"
         },
         {
-            "type": "Buttons",
-            "name": "You receive an email from work marked \"EMERGENCY.\" You've been having difficulty typing, so you close the email and decide to respond later. When you return to your computer 30 minutes later, you find that your boss has sent you a message, and you worry that he is disappointed. _Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/968.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "positive",
+    "scenario_num": 2
 }

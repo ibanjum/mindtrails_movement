@@ -1,14 +1,16 @@
 {
-    "header_text": "Your boss is watching your presentation in your meeting today. During the presentation, you stumble over your words a lot. You feel defeated.",
+    "header_text": "A Little Stumble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your boss is watching your presentation in your meeting today. During the presentation, you stumble over your words a lot. You feel defeated."
+            "text": "A Little Stumble"
         },
         {
             "type": "Media",
             "url": "./images/59.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

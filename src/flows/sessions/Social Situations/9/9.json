@@ -1,14 +1,16 @@
 {
-    "header_text": "You are about to give a presentation, and you feel your body tremble. You don't usually feel this way when you speak in front of people. These trembling feelings mean that you are ready.",
+    "header_text": "Nerves at a Big Moment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are about to give a presentation, and you feel your body tremble. You don't usually feel this way when you speak in front of people. These trembling feelings mean that you are ready."
+            "text": "Nerves at a Big Moment"
         },
         {
             "type": "Media",
             "url": "./images/645.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

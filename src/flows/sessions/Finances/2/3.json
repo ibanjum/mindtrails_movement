@@ -1,5 +1,5 @@
 {
-    "header_text": "You are at a car dealership looking to buy a new car. You are torn between two cars, and you are worried that you may make the wrong financial decision. When you tell the dealer which car you've decided to buy, you feel content.",
+    "header_text": "Choosing a New Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You are at a car dealership looking to buy a new car. You are torn between two cars, and you are worried that you may make the wrong financial decision. When you tell the dealer which car you've decided to buy, you feel content._Finances_comp_question",
+            "name": "Choosing a New Car_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Conflicted",
-                "Happy"
+                "Happy",
+                "Conflicted"
             ],
             "columnCount": 1,
             "correct_value": "Happy"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

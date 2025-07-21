@@ -1,14 +1,16 @@
 {
-    "header_text": "A group of your co-workers are whispering and looking in your direction. Some of them are laughing really hard. You don't have time to go say hi, and you think they were probably laughing at a joke.",
+    "header_text": "Jokes with Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A group of your co-workers are whispering and looking in your direction. Some of them are laughing really hard. You don't have time to go say hi, and you think they were probably laughing at a joke."
+            "text": "Jokes with Friends "
         },
         {
             "type": "Media",
             "url": "./images/660.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

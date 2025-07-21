@@ -1,5 +1,5 @@
 {
-    "header_text": "You want to start eating healthier, so you start researching tips and recipes online. You quickly realize that many foods recommended by health experts cost a lot of money. When you think about eating healthier on a budget, you think you can be successful. ",
+    "header_text": "Healthy But Expensive ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You want to start eating healthier, so you start researching tips and recipes online. You quickly realize that many foods recommended by health experts cost a lot of money. When you think about eating healthier on a budget, you think you can be successful. _Physical Health_comp_question",
+            "name": "Healthy But Expensive _Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

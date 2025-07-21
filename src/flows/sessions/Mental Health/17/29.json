@@ -1,14 +1,16 @@
 {
-    "header_text": "You recently replaced your laptop and had to go with a cheaper option. Your boss asks you to complete a project that will require an application that your new computer doesn't have. When you think about completing your work for this project, you feel capable.",
+    "header_text": "One-on-one thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You recently replaced your laptop and had to go with a cheaper option. Your boss asks you to complete a project that will require an application that your new computer doesn't have. When you think about completing your work for this project, you feel capable."
+            "text": "One-on-one thoughts"
         },
         {
             "type": "Media",
-            "url": "./images/32.jpg"
+            "url": "./images/41.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

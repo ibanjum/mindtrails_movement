@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your partner live together, and you have been arguing lately. You aren't looking forward to going home after work because you don't want another argument to happen. When you get home, you will talk to your partner civilly. ",
+    "header_text": "Balancing Home Life and Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your partner live together, and you have been arguing lately. You aren't looking forward to going home after work because you don't want another argument to happen. When you get home, you will talk to your partner civilly. "
+            "text": "Balancing Home Life and Friends"
         },
         {
             "type": "Media",
-            "url": "./images/195.jpg"
+            "url": "./images/194.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 1
 }

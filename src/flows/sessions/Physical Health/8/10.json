@@ -1,14 +1,16 @@
 {
-    "header_text": "Your friend convinces you to go on a walk through a local park. You have heard that there are poisonous snakes in that park and start to feel worried. You think that the chances that you will see that kind of snake are small.",
+    "header_text": "Poisonous Snakes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your friend convinces you to go on a walk through a local park. You have heard that there are poisonous snakes in that park and start to feel worried. You think that the chances that you will see that kind of snake are small."
+            "text": "Poisonous Snakes"
         },
         {
             "type": "Media",
             "url": "./images/476.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

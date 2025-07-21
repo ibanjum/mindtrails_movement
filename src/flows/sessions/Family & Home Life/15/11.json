@@ -1,27 +1,25 @@
 {
-    "header_text": "You are spending some time with your young daughter over the weekend. Your daughter is very sweet, but sometimes you get frustrated with her. When you think about your relationship with her as she grows up, you see yourself as being frustrated.",
+    "header_text": "A Few Falls",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Thinking about your future relationship with your granddaughter, you see yourself"
+            "text": "They talk with you about using a cane or walker so that you can be more sturdy on your feet, and you agree. Seeing their faces relax makes you..."
         },
         {
-            "type": "Buttons",
-            "name": "You are spending some time with your young daughter over the weekend. Your daughter is very sweet, but sometimes you get frustrated with her. When you think about your relationship with her as she grows up, you see yourself as being frustrated._Family & Home Life_comp_question",
+            "type": "WordPuzzle",
+            "name": "A Few Falls_Family & Home Life_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Having a loving relationship with her.",
-                "Being stressed because of her."
+            "display_delay": 2000,
+            "words": [
+                "happy"
             ],
-            "columnCount": 1,
-            "correct_value": "Being stressed because of her."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

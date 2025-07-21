@@ -1,27 +1,29 @@
 {
-    "header_text": "You are on a trip to the beach with a close friend. Walking in the sand is making you lose your balance, and you are afraid to fall. You stop walking and look out at the horizon, feeling awe.",
+    "header_text": "Bakery Routine",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "At the end of your walk, you feel..."
+            "Text": "Your neighbor's kindness makes you feel..."
         },
         {
             "type": "Buttons",
-            "name": "You are on a trip to the beach with a close friend. Walking in the sand is making you lose your balance, and you are afraid to fall. You stop walking and look out at the horizon, feeling awe._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Bakery Routine_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Awestruck",
-                "Frightened"
+                "Ashamed",
+                "Valued"
             ],
             "columnCount": 1,
-            "correct_value": "Awestruck"
+            "correct_value": "Valued"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

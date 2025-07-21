@@ -1,14 +1,16 @@
 {
-    "header_text": "You invite your supervisor to an event this weekend. You're the only one of your friends that's close with their supervisor and are unsure of how others will perceive you. As you get ready for the event, you feel happy.",
+    "header_text": "Sharing with Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You invite your supervisor to an event this weekend. You're the only one of your friends that's close with their supervisor and are unsure of how others will perceive you. As you get ready for the event, you feel happy."
+            "text": "Sharing with Someone New"
         },
         {
             "type": "Media",
-            "url": "./images/396.jpg"
+            "url": "./images/395.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

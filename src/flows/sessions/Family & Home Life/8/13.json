@@ -1,15 +1,27 @@
 {
-    "header_text": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be okay. ",
+    "header_text": "Political Opinions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be... "
+            "text": "You have a levelheaded discussion with your family about the candidates. You realize that sharing your opinion, even though it's different, contributes a lot to everyone's understanding of the..."
         },
         {
             "type": "Entry",
-            "name": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be okay. _Family & Home Life_entry1"
+            "name": "Political Opinions_Family & Home Life_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Just like a muscle, your brain strengthens the pathways it uses the most. That's why practicing lots of situations helps you change your thinking habits. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

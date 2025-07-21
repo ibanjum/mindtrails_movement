@@ -1,14 +1,16 @@
 {
-    "header_text": "Your friend has been coughing for a few days and when you ask them to go to the doctor, they refuse, saying they shouldn’t have to. You think this is strange. So you talk to them about it and find out that your friend doesn't want to go to the doctor because they are scared of spreading a virus.",
+    "header_text": "Virus Fear",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your friend has been coughing for a few days and when you ask them to go to the doctor, they refuse, saying they shouldn’t have to. You think this is strange. So you talk to them about it and find out that your friend doesn't want to go to the doctor because they are scared of spreading a virus."
+            "text": "Virus Fear"
         },
         {
             "type": "Media",
             "url": "./images/515.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

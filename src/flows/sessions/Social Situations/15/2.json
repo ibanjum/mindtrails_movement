@@ -1,14 +1,16 @@
 {
-    "header_text": "You notice your home is smaller and not as spacious as the homes of others that you know. Your coworkers have never been to your place, but they want to come over. You think about their reaction to your home and that they will be respectful.",
+    "header_text": "Having a New Friend Over",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You notice your home is smaller and not as spacious as the homes of others that you know. Your coworkers have never been to your place, but they want to come over. You think about their reaction to your home and that they will be respectful."
+            "text": "Having a New Friend Over"
         },
         {
             "type": "Media",
             "url": "./images/387.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

@@ -1,23 +1,29 @@
 {
-    "header_text": "You are a parent with young children, and you have just been diagnosed with HD. Lately, you've noticed some difficulty keeping up with your children at the playground. You worry that the impact on your children’s lives will be negative.",
+    "header_text": "Awards Ceremony",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You reassure yourself that your grandchildren are loved and you will find other ways to foster connection. Ultimately, you feel..."
+            "Text": "Are you able to handle your kids fighting? "
         },
         {
-            "type": "WordPuzzle",
-            "name": "You are a parent with young children, and you have just been diagnosed with HD. Lately, you've noticed some difficulty keeping up with your children at the playground. You worry that the impact on your children’s lives will be negative._Family & Home Life_puzzle_word2",
+            "type": "Buttons",
+            "name": "Awards Ceremony_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "optimistic"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

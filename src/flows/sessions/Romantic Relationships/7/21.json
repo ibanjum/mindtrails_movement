@@ -1,5 +1,5 @@
 {
-    "header_text": "Your partner let you know that they're grabbing dinner with a friend from work. You've never heard your partner talk about any work friends, and you're concerned about who your partner is having dinner with. However, you trust your partner and tell them to enjoy their dinner.",
+    "header_text": "Work Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Your partner let you know that they're grabbing dinner with a friend from work. You've never heard your partner talk about any work friends, and you're concerned about who your partner is having dinner with. However, you trust your partner and tell them to enjoy their dinner._Romantic Relationships_comp_question",
+            "name": "Work Friend_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

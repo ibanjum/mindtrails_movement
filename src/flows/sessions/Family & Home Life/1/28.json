@@ -1,5 +1,5 @@
 {
-    "header_text": "At home there are a lot of chores on the schedule for you to accomplish. You have a big project to work on that will take a lot of time. Balancing your home life and work life is stressful.",
+    "header_text": "Finding Balance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "At home there are a lot of chores on the schedule for you to accomplish. You have a big project to work on that will take a lot of time. Balancing your home life and work life is stressful._Family & Home Life_puzzle_word2",
+            "name": "Finding Balance_Family & Home Life_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

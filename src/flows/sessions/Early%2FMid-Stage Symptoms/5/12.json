@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your spouse are planning a weekend trip to celebrate your anniversary. Planning the details of the trip is requiring a lot of thinking, and you feel particularly exhausted. You take a break to walk outside and return feeling refreshed. ",
+    "header_text": "Safety at Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your spouse are planning a weekend trip to celebrate your anniversary. Planning the details of the trip is requiring a lot of thinking, and you feel particularly exhausted. You take a break to walk outside and return feeling refreshed. "
+            "text": "Safety at Home"
         },
         {
             "type": "Media",
-            "url": "./images/759.jpg"
+            "url": "./images/749.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

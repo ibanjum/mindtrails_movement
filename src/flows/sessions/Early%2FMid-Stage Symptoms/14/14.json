@@ -1,14 +1,16 @@
 {
-    "header_text": "As you're typing an email, you notice it's taking longer than usual to find the right words. It's concerning to experience this mental fog, and you wonder if you'll be able to finish the email at all. You take a break to drink some water, and when you return to the email, you decide to keep trying.",
+    "header_text": "Planting Flowers ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "As you're typing an email, you notice it's taking longer than usual to find the right words. It's concerning to experience this mental fog, and you wonder if you'll be able to finish the email at all. You take a break to drink some water, and when you return to the email, you decide to keep trying."
+            "text": "Planting Flowers "
         },
         {
             "type": "Media",
-            "url": "./images/815.jpg"
+            "url": "./images/590.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "Recently, your partner has been struggling with their mental health. You want to help them, but you don’t know how. You decide to do research on possible resources you can share to be supportive. ",
+    "header_text": "A Rude Comment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Recently, your partner has been struggling with their mental health. You want to help them, but you don’t know how. You decide to do research on possible resources you can share to be supportive. "
+            "text": "A Rude Comment"
         },
         {
             "type": "Media",
-            "url": "./images/386.jpg"
+            "url": "./images/385.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

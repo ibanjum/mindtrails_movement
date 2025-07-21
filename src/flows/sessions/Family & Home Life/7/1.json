@@ -1,14 +1,16 @@
 {
-    "header_text": "You have just had your first child. You want to have a good relationship throughout your kid's life, but you worry about making mistakes as a parent.",
+    "header_text": "Providing for Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have just had your first child. You want to have a good relationship throughout your kid's life, but you worry about making mistakes as a parent."
+            "text": "Providing for Family"
         },
         {
             "type": "Media",
-            "url": "./images/157.jpg"
+            "url": "./images/165.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

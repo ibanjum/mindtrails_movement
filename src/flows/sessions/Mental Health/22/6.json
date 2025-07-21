@@ -1,15 +1,16 @@
 {
-    "header_text": "You have more free time lately, so you've been trying new activities. While trying a new yoga routine, you can't seem to strike the correct pose. You decide that your attempt to learn this new skill is worthwhile.",
+    "header_text": "Worsening condition",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You have more free time lately, so you've been trying new activities. While trying a new yoga routine, you can't seem to strike the correct pose. You decide that your attempt to learn this new skill is..."
+            "type": "Label",
+            "text": "Worsening condition"
         },
         {
-            "type": "Entry",
-            "name": "You have more free time lately, so you've been trying new activities. While trying a new yoga routine, you can't seem to strike the correct pose. You decide that your attempt to learn this new skill is worthwhile._Mental Health_entry1"
+            "type": "Media",
+            "url": "./images/414.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

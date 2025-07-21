@@ -1,23 +1,25 @@
 {
-    "header_text": "You decide to spend some of your free time at your favorite record store. You go to grab a vinyl out of the sleeve, and it slips out of your hands. Thinking that you might have just scratched the record makes you feel worried.",
+    "header_text": "Unconditional Love",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to spend some of your free time at your favorite record store. You go to grab a vinyl out of the sleeve, and it slips out of your hands. Thinking that you might have just scratched the record makes you feel..."
+            "text": "Your marriage is extremely important to you. Lately, you have been lashing out at your spouse more often, and you worry about how this will affect your marriage. You seek the advice of a counselor and remember that your spouse's love is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You decide to spend some of your free time at your favorite record store. You go to grab a vinyl out of the sleeve, and it slips out of your hands. Thinking that you might have just scratched the record makes you feel worried._Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Unconditional Love_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "worried"
+                "unconditional"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

@@ -1,14 +1,29 @@
 {
-    "header_text": "You've had a few falls lately around the house and in the garden. Your spouse and child meet with you to talk about this. You can see from the looks on their faces they're worried.",
+    "header_text": "Tripping at Family Barbecue",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You've had a few falls lately around the house and in the garden. Your spouse and child meet with you to talk about this. You can see from the looks on their faces they're worried."
+            "type": "Text",
+            "Text": "In the end, your family made you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/217.jpg"
+            "type": "Buttons",
+            "name": "Tripping at Family Barbecue_Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Better.",
+                "Worse."
+            ],
+            "columnCount": 1,
+            "correct_value": "Better."
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

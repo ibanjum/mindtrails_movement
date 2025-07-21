@@ -1,14 +1,16 @@
 {
-    "header_text": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel miserable.",
+    "header_text": "Important Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel miserable."
+            "text": "Important Email"
         },
         {
             "type": "Media",
             "url": "./images/43.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

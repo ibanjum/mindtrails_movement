@@ -1,27 +1,29 @@
 {
-    "header_text": "Your grandchild loves puzzles, so you are working on one together. You feel like the puzzle should be easy, but you are struggling to find and fit the pieces. You allow your grandchild to complete the puzzle alone, and watching them makes you joyful.",
+    "header_text": "To-do List",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your grandchild's fascination with the puzzle makes you..."
+            "Text": "Even though it takes you more time to finish your to-do list, you still feel... "
         },
         {
             "type": "Buttons",
-            "name": "Your grandchild loves puzzles, so you are working on one together. You feel like the puzzle should be easy, but you are struggling to find and fit the pieces. You allow your grandchild to complete the puzzle alone, and watching them makes you joyful._Early/Mid-Stage Symptoms_comp_question",
+            "name": "To-do List_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Happy",
-                "Jealous"
+                "Stressed.",
+                "Calm."
             ],
             "columnCount": 1,
-            "correct_value": "Happy"
+            "correct_value": "Calm."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Shattered glass: Feelings",
+    "header_text": "Balancing responsibilities: Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a quiet restaurant with a lot of your family members for dinner. While taking a drink of your water, you accidently drop the glass on the floor and it shatters.\n\nHere are some feelings that might happen in the moment:"
+            "text": "You have a lot of housework that you have to do tonight, and you also have a big project that's due tomorrow. Both have to get done, and you think about how you'll handle it all. \n\nHere are some feelings that might happen in the moment:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I'm embarrassed that I dropped the glass, but know that people drop things all of the time.",
-                "I'm happy that the waiter doesn't seem to mind that much.",
-                "I have a knot in my stomach after the whole restaurant looked at me.",
-                "I'm able to stay calm.",
-                "I feel bad, but remind myself that I'll forget about this in a few days."
+                "I'm calm as I prioritize my housework and my project.",
+                "Although I feel overwhelmed, I try and feel grateful for the job that I have and for the home that I live in.",
+                "I'm excited to listen to my favorite artist while I do my chores.",
+                "I feel upset about all I have to do, but I imagine how it will feel to have it all accomplished.",
+                "I'm anxious about being able to get everything done."
             ],
             "Duration": 15
         }

@@ -1,5 +1,5 @@
 {
-    "header_text": "A few days after an argument with your friend, you decide to break the ice by asking them to come over for dinner. You get ready, and as you are about to leave, they call to say they can't make it after all. As you hang up, you think that this is because they are feeling exhausted.",
+    "header_text": "Reconciling with your friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "A few days after an argument with your friend, you decide to break the ice by asking them to come over for dinner. You get ready, and as you are about to leave, they call to say they can't make it after all. As you hang up, you think that this is because they are feeling exhausted._Family & Home Life_puzzle1",
+            "name": "Reconciling with your friend_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

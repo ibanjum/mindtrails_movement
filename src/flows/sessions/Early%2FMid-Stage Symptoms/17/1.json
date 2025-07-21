@@ -1,14 +1,16 @@
 {
-    "header_text": "You enjoy strategy games but have recently had more trouble keeping up. At the last game night, you made a silly mistake during your favorite game. Since then, you can't stop obsessing over whether your friends noticed.",
+    "header_text": "Poor Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You enjoy strategy games but have recently had more trouble keeping up. At the last game night, you made a silly mistake during your favorite game. Since then, you can't stop obsessing over whether your friends noticed."
+            "text": "Poor Sleep"
         },
         {
             "type": "Media",
-            "url": "./images/824.jpg"
+            "url": "./images/591.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

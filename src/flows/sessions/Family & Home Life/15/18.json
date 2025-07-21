@@ -1,14 +1,39 @@
 {
-    "header_text": "You just retired because of your HD diagnosis, and your family decides to throw you a surprise party. You realize that not everyone knows about your diagnosis. Wondering if the rest of your family will find out before you get the chance to tell them leaves you with a feeling of uncertainty.",
+    "header_text": "New Kitten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You just retired because of your HD diagnosis, and your family decides to throw you a surprise party. You realize that not everyone knows about your diagnosis. Wondering if the rest of your family will find out before you get the chance to tell them leaves you with a feeling of uncertainty."
+            "type": "Text",
+            "Text": "Will your kitten be cared for?"
         },
         {
-            "type": "Media",
-            "url": "./images/221.jpg"
+            "type": "Buttons",
+            "name": "New Kitten_Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Sometimes, situations aren't just good or bad. Neutral situations remind us that it's okay to embrace the grey zone!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

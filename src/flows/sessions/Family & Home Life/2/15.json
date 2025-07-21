@@ -1,5 +1,5 @@
 {
-    "header_text": "You just moved to a new house. It's dark out and you suddenly hear noises outside. You peek out the window and see a cat.",
+    "header_text": "Noises from Outside",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You just moved to a new house. It's dark out and you suddenly hear noises outside. You peek out the window and see a cat._Family & Home Life_comp_question",
+            "name": "Noises from Outside_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

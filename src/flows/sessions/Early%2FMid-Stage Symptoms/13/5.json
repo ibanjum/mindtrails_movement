@@ -1,14 +1,25 @@
 {
-    "header_text": "You are responding to a text on your phone. It's taking you a long time to type a short response, and you wonder whether the recipient will be annoyed. You realize that the response at hand is not an emergency, and the recipient will be patient. ",
+    "header_text": "Research Visit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You are responding to a text on your phone. It's taking you a long time to type a short response, and you wonder whether the recipient will be annoyed. You realize that the response at hand is not an emergency, and the recipient will be patient. "
+            "type": "Text",
+            "text": "You are in a research study that requires monthly study visits. At today's visit, as you complete some of the exams with the research coordinator, you feel like you are not performing as well as usual. When the study doctor comes in, they tell you that you are looking..."
         },
         {
-            "type": "Media",
-            "url": "./images/806.jpg"
+            "type": "WordPuzzle",
+            "name": "Research Visit_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "stable"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

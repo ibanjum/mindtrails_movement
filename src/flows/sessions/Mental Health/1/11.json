@@ -1,5 +1,5 @@
 {
-    "header_text": "Today you're taking staff pictures and you got a new haircut for it. It didn't turn out the way you wanted it to. When you think about others seeing your new haircut in the pictures, you feel embarrassed",
+    "header_text": "Haircut Headache ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Today you're taking staff pictures and you got a new haircut for it. It didn't turn out the way you wanted it to. When you think about others seeing your new haircut in the pictures, you feel embarrassed_Mental Health_puzzle1",
+            "name": "Haircut Headache _Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 3
 }

@@ -1,23 +1,25 @@
 {
-    "header_text": "You've had a few falls lately around the house and in the garden. Your spouse and child meet with you to talk about this. You can see from the looks on their faces they're worried.",
+    "header_text": "Workout Whispers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "They talk with you about using a cane or walker so that you can be more sturdy on your feet, and you agree. Seeing their faces relax makes you..."
+            "text": "Exercising at the gym is a form of stress relief for you, though you have had to adapt your workouts lately. Today you notice two people whispering as they look in your direction. You know working out is a personal journey, and decide their opinions are... "
         },
         {
             "type": "WordPuzzle",
-            "name": "You've had a few falls lately around the house and in the garden. Your spouse and child meet with you to talk about this. You can see from the looks on their faces they're worried._Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "Workout Whispers_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "happy"
+                "irrelevant"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

@@ -1,14 +1,17 @@
 {
-    "header_text": "You have been taking a dance class at the local community center and are performing in a showcase. You want to invite your friends and family, but you worry you'll embarrass yourself if you are not very good. While deciding whether or not to invite people to your show, you see yourself doing well.",
+    "header_text": "Pool Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You have been taking a dance class at the local community center and are performing in a showcase. You want to invite your friends and family, but you worry you'll embarrass yourself if you are not very good. While deciding whether or not to invite people to your show, you see yourself doing well."
+            "type": "Text",
+            "text": "You and your partner decide to spend time at the pool. You notice you forgot to pack sunscreen, even after your partner specifically told you to remember it. You think your partner will be... "
         },
         {
-            "type": "Media",
-            "url": "./images/575.jpg"
+            "type": "Entry",
+            "name": "Pool Time_Social Situations_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

@@ -1,19 +1,19 @@
 {
-    "header_text": "Walking up stairs: Behaviors",
+    "header_text": "Working in Groups: Behaviors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are meeting with your boss. To make it on-time, you just walked up two flights of stairs quickly, and feel your heart beating very rapidly.\n\nHere are some behaviors that someone might do at that moment or in the future:"
+            "text": "Your boss tells everyone that tomorrow you'll divide into small groups to plan out new work projects. They also say that you'll have to pick your group, but you realize you don't have any close friends in your workplace.\n\nHere are some behaviors that someone might do at that moment or in the future:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I feel the urge to tell my boss that something's really wrong with me, but remind myself that I'm actually OK.",
-                "I start looking up symptoms of a heart attack online to see if I'm dying.",
-                "I want to panic but remind myself that it's actually just my body's reaction to coming up the stairs quickly.",
-                "I take a few deep breaths.",
-                "I take a few sips from my water bottle."
+                "I'll go to the bathroom so that I don't have to ask anyone to be in their group.",
+                "I want to stay quiet, but decide to contribute.",
+                "I will talk to the people in my workplace and ask to be in a group.",
+                "I want to work alone, but give the group a try.",
+                "I'll express how excited I am to get to know everyone."
             ],
             "Duration": 15
         }

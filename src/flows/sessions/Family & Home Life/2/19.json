@@ -1,14 +1,16 @@
 {
-    "header_text": "Your significant other is currently playing upbeat music very loudly and you need to prepare for an important presentation. You don't want them to think you're rude if you ask them to turn down the music so that you can prepare. You approach them and feel nervous.",
+    "header_text": "Loud Music",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your significant other is currently playing upbeat music very loudly and you need to prepare for an important presentation. You don't want them to think you're rude if you ask them to turn down the music so that you can prepare. You approach them and feel nervous."
+            "text": "Loud Music"
         },
         {
             "type": "Media",
             "url": "./images/140.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

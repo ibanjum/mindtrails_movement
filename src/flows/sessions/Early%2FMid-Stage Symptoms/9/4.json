@@ -1,14 +1,16 @@
 {
-    "header_text": "You love the great outdoors but have discovered recent unsteadiness in your footing when hiking. Friends notice the change and ask you about what's going on. When you answer, your friends realize that your fun escape has become a tricky challenge.",
+    "header_text": "Crowded Grocery Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You love the great outdoors but have discovered recent unsteadiness in your footing when hiking. Friends notice the change and ask you about what's going on. When you answer, your friends realize that your fun escape has become a tricky challenge."
+            "text": "Crowded Grocery Store"
         },
         {
             "type": "Media",
-            "url": "./images/783.jpg"
+            "url": "./images/956.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

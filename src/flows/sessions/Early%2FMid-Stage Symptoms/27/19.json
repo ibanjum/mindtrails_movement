@@ -1,27 +1,25 @@
 {
-    "header_text": "Building model cars has been a hobby of yours since you were young. You start a new model and find it hard to follow the instructions and place the pieces correctly. In the end, you work very slowly, and the final model is perfect.",
+    "header_text": "Morning Coffee",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to successfully build the model?"
+            "text": "You are drinking morning coffee next to your spouse and suddenly cough on the sip you are taking. Your spouse looks at you like they have something to say. Then, they ask if they can get you a..."
         },
         {
-            "type": "Buttons",
-            "name": "Building model cars has been a hobby of yours since you were young. You start a new model and find it hard to follow the instructions and place the pieces correctly. In the end, you work very slowly, and the final model is perfect._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Morning Coffee_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "refill"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

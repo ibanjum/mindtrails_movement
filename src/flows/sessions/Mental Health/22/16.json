@@ -1,14 +1,16 @@
 {
-    "header_text": "You are on an early morning walk with your counselor. Sharing with them is not easy today because you've had a hard few weeks. You don't want to revisit past pain, but you know your vulnerability will be beneficial. ",
+    "header_text": "Therapy Shift",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are on an early morning walk with your counselor. Sharing with them is not easy today because you've had a hard few weeks. You don't want to revisit past pain, but you know your vulnerability will be beneficial. "
+            "text": "Therapy Shift"
         },
         {
             "type": "Media",
-            "url": "./images/419.jpg"
+            "url": "./images/418.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

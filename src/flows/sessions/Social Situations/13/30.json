@@ -1,5 +1,5 @@
 {
-    "header_text": "You are sitting at a coffee shop when you see your friend. They walk past you and sit down next to someone else. They must have been distracted.",
+    "header_text": "Missed Connection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You are sitting at a coffee shop when you see your friend. They walk past you and sit down next to someone else. They must have been distracted._Social Situations_puzzle1",
+            "name": "Missed Connection_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

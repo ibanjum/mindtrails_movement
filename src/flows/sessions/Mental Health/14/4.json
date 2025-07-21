@@ -1,14 +1,16 @@
 {
-    "header_text": "You have feelings for someone, and you have been enjoying getting to know them. You are feeling self-conscious and wondering if they are judging you based on the way you look. You remind yourself of how much you enjoy each other's company.",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have feelings for someone, and you have been enjoying getting to know them. You are feeling self-conscious and wondering if they are judging you based on the way you look. You remind yourself of how much you enjoy each other's company."
+            "text": "Party with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/380.jpg"
+            "url": "./images/379.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

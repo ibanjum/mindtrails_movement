@@ -1,5 +1,5 @@
 {
-    "header_text": "Your child really wants to go to a theme park for vacation this year. You've been researching the cost of the trip, and you don't think you can afford it. You think that you can find an alternative trip that your child will still enjoy. ",
+    "header_text": "Affording a Trip ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "Your child really wants to go to a theme park for vacation this year. You've been researching the cost of the trip, and you don't think you can afford it. You think that you can find an alternative trip that your child will still enjoy. _Finances_comp_question",
+            "name": "Affording a Trip _Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

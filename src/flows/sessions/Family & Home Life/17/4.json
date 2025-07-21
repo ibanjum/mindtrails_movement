@@ -1,14 +1,16 @@
 {
-    "header_text": "Home renovations are long overdue, so today you are cleaning your house before the workers arrive. You are working slower than usual, and your spouse points out several spots you missed. Annoyed, you ask your spouse for help finishing up and communicate your feelings. ",
+    "header_text": "Family Board Game",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Home renovations are long overdue, so today you are cleaning your house before the workers arrive. You are working slower than usual, and your spouse points out several spots you missed. Annoyed, you ask your spouse for help finishing up and communicate your feelings. "
+            "text": "Family Board Game"
         },
         {
             "type": "Media",
-            "url": "./images/227.jpg"
+            "url": "./images/226.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "Returning home on a very hot day, you quickly drink a large glass of water. You soon feel abnormally full and a bit sick to your stomach. This feeling is surprising and uncomfortable, but you realize that it is something you can simply observe.",
+    "header_text": "Hot day ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "Returning home on a very hot day, you quickly drink a large glass of water. You soon feel abnormally full and a bit sick to your stomach. This feeling is surprising and uncomfortable, but you realize that it is something you can simply observe._Physical Health_comp_question",
+            "name": "Hot day _Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Observing the sensations without doing anything.",
-                "Panicking about the sensations and calling an ambulance."
+                "Panicking about the sensations and calling an ambulance.",
+                "Observing the sensations without doing anything."
             ],
             "columnCount": 1,
             "correct_value": "Observing the sensations without doing anything."
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

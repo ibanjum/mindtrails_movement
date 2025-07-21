@@ -1,14 +1,16 @@
 {
-    "header_text": "You are about to give an important presentation. You are anxious about it. This feeling makes you exhilarated.",
+    "header_text": "A big presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are about to give an important presentation. You are anxious about it. This feeling makes you exhilarated."
+            "text": "A big presentation"
         },
         {
             "type": "Media",
             "url": "./images/111.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

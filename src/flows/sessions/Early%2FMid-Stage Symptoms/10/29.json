@@ -1,23 +1,25 @@
 {
-    "header_text": "After coming home from running errands, you can't find your wallet. Recently, you have struggled to control your emotions and become angry at the thought of someone stealing it. Later, you find the wallet in the car and feel annoyed.",
+    "header_text": "A Tricky Hike",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After coming home from running errands, you can't find your wallet. Recently, you have struggled to control your emotions and become angry at the thought of someone stealing it. Later, you find the wallet in the car and feel..."
+            "text": "One of your friends finds the perfect walking stick and hands it to you. You continue on your walk feeling..."
         },
         {
             "type": "WordPuzzle",
-            "name": "After coming home from running errands, you can't find your wallet. Recently, you have struggled to control your emotions and become angry at the thought of someone stealing it. Later, you find the wallet in the car and feel annoyed._Early/Mid-Stage Symptoms_puzzle1",
+            "name": "A Tricky Hike_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "annoyed"
+                "supported"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

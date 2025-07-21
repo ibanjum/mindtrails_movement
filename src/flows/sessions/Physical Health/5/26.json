@@ -1,5 +1,5 @@
 {
-    "header_text": "Your friend enjoys ice skating and persuades you to try it out. At the rink, you put on the skates and step on the ice. You glide forward slowly at first, then faster as you think your chances of getting injured are minimal.",
+    "header_text": "First time ice skating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Your friend enjoys ice skating and persuades you to try it out. At the rink, you put on the skates and step on the ice. You glide forward slowly at first, then faster as you think your chances of getting injured are minimal._Physical Health_comp_question",
+            "name": "First time ice skating_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

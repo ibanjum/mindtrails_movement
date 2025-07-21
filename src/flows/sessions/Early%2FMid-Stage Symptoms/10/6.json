@@ -1,14 +1,25 @@
 {
-    "header_text": "You have been dating someone seriously and are looking forward to the possibility of getting married — even though some people may think it's too \"late\" in life. On a warm April day, they propose to you at your favorite spot downtown. You say yes knowing HD will be something you get through together.",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You have been dating someone seriously and are looking forward to the possibility of getting married — even though some people may think it's too \"late\" in life. On a warm April day, they propose to you at your favorite spot downtown. You say yes knowing HD will be something you get through together."
+            "type": "Text",
+            "text": "You are on your family's annual beach vacation. Your nieces and nephews want you to go in the water with them, but you are nervous about staying balanced with the crash and force of the waves. You think about how they will be with you in the water and decide to go have some... "
         },
         {
-            "type": "Media",
-            "url": "./images/585.jpg"
+            "type": "WordPuzzle",
+            "name": "Beach Vacation_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "fun"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

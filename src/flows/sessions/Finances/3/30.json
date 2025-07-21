@@ -1,14 +1,16 @@
 {
-    "header_text": "You are going over your monthly expenses, and realize you spent more than you had planned on a new hobby. It doesn't put you in a financial bind now, but you are trying to save up money to go on a ski trip you have been planning for months. As you think about cutting back on your expenses, you think that saving enough for your trip is doable.",
+    "header_text": "Saving up Money",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are going over your monthly expenses, and realize you spent more than you had planned on a new hobby. It doesn't put you in a financial bind now, but you are trying to save up money to go on a ski trip you have been planning for months. As you think about cutting back on your expenses, you think that saving enough for your trip is doable."
+            "text": "Saving up Money"
         },
         {
             "type": "Media",
             "url": "./images/258.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

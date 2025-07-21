@@ -1,23 +1,25 @@
 {
-    "header_text": "Recently, you have felt like you are in a good place financially and were looking into getting the car you have always wanted. However, after getting your HD diagnosis, you feel like getting the car will be a waste since you may not be able to drive in a couple years. You are disappointed. ",
+    "header_text": "Weekly Tea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your partner says that they will be happy to drive you around in your new car one day, if needed. This makes you feel..."
+            "text": "Your neighbor has you over for tea every Wednesday. As you are over for tea today, you begin to experience a sadness you can't seem to shake. Your neighbor notices a change in your demeanor and looks at you..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Recently, you have felt like you are in a good place financially and were looking into getting the car you have always wanted. However, after getting your HD diagnosis, you feel like getting the car will be a waste since you may not be able to drive in a couple years. You are disappointed. _Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "Weekly Tea_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "hopeful"
+                "encouragingly"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

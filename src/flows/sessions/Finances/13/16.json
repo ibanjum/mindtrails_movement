@@ -1,5 +1,5 @@
 {
-    "header_text": "You want to buy your partner something nice because they've been working hard. You have some money saved but realize you are short on your bills. You might not be able to buy your partner something, making you feel defeated. ",
+    "header_text": "Expensive Gift",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You want to buy your partner something nice because they've been working hard. You have some money saved but realize you are short on your bills. You might not be able to buy your partner something, making you feel defeated. _Finances_comp_question",
+            "name": "Expensive Gift_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "The more you immerse yourself in the story, the more likely you are to benefit from our program – really picture yourself in the situation at hand."
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

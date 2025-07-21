@@ -1,14 +1,16 @@
 {
-    "header_text": "You are having a debate with coworkers about a task at your job. The other people have more experience than you do. When you think about arguing your position, you feel confident.",
+    "header_text": "Peer Evaluations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are having a debate with coworkers about a task at your job. The other people have more experience than you do. When you think about arguing your position, you feel confident."
+            "text": "Peer Evaluations"
         },
         {
             "type": "Media",
             "url": "./images/55.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

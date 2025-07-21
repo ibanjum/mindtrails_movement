@@ -1,14 +1,16 @@
 {
-    "header_text": "You want to build up your credit score and decide to get a credit card. You start to research different cards and feel overwhelmed with the options, worrying you'll pick one that will only make your score worse. You take a deep breath and remember that you will find something that works for you.",
+    "header_text": "Getting a Credit Card",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You want to build up your credit score and decide to get a credit card. You start to research different cards and feel overwhelmed with the options, worrying you'll pick one that will only make your score worse. You take a deep breath and remember that you will find something that works for you."
+            "text": "Getting a Credit Card"
         },
         {
             "type": "Media",
             "url": "./images/267.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

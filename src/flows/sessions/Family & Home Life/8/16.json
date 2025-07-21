@@ -1,14 +1,16 @@
 {
-    "header_text": "You have just had your first child. You want to have a good relationship throughout your kid's life, but you worry about making mistakes as a parent. When your child is an adult, you believe that relationship will be strained.",
+    "header_text": "Posting about Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have just had your first child. You want to have a good relationship throughout your kid's life, but you worry about making mistakes as a parent. When your child is an adult, you believe that relationship will be strained."
+            "text": "Posting about Family"
         },
         {
             "type": "Media",
-            "url": "./images/157.jpg"
+            "url": "./images/175.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

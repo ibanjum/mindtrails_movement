@@ -1,23 +1,25 @@
 {
-    "header_text": "Your spouse's job has taken you all over the country with new opportunities. Your spouse's boss approaches them at work asking if they can take a position a few hours away. The thought of a new city, friends, and even medical providers is exciting. ",
+    "header_text": "Dismissive Doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your spouse's job has taken you all over the country with new opportunities. Your spouse's boss approaches them at work asking if they can take a position a few hours away. The thought of a new city, friends, and even medical providers is... "
+            "text": "You have a visit with your doctor today in regards to some new symptoms of PD you've been experiencing. Your doctor doesn't seem to be listening intentionally and forgets some of the signs you mentioned. You kindly repeat your concerns knowing their day has likely been... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Your spouse's job has taken you all over the country with new opportunities. Your spouse's boss approaches them at work asking if they can take a position a few hours away. The thought of a new city, friends, and even medical providers is exciting. _Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Dismissive Doctor_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "exciting"
+                "long"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You check online to see if you were selected for a raise. You see that you were not, although you expected to be. You think about what this will mean for your future, and know everything will be fine.",
+    "header_text": "Your Bowling Skills",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You check online to see if you were selected for a raise. You see that you were not, although you expected to be. You think about what this will mean for your future, and know everything will be fine."
+            "text": "Your Bowling Skills"
         },
         {
             "type": "Media",
-            "url": "./images/955.jpg"
+            "url": "./images/342.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

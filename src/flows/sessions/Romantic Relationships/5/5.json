@@ -1,14 +1,16 @@
 {
-    "header_text": "It is wedding season, and you are super excited to go to your friend's wedding. When you get there, you notice that most people have a date, but you don't have one. You remember how excited you are for your friend and have a great time celebrating.",
+    "header_text": "Going to a Wedding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It is wedding season, and you are super excited to go to your friend's wedding. When you get there, you notice that most people have a date, but you don't have one. You remember how excited you are for your friend and have a great time celebrating."
+            "text": "Going to a Wedding"
         },
         {
             "type": "Media",
             "url": "./images/544.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

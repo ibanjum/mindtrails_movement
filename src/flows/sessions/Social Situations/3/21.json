@@ -1,14 +1,16 @@
 {
-    "header_text": "You meet someone at an event and feel that you got along well. Later, you call and suggest meeting again. The reply you get makes you feel that the person thinks meeting again would be enjoyable.",
+    "header_text": "Suggestion to meet again",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You meet someone at an event and feel that you got along well. Later, you call and suggest meeting again. The reply you get makes you feel that the person thinks meeting again would be enjoyable."
+            "text": "Suggestion to meet again"
         },
         {
             "type": "Media",
             "url": "./images/617.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

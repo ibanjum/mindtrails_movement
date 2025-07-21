@@ -1,23 +1,25 @@
 {
-    "header_text": "You are in the passenger seat as your partner struggles to navigate to a new friend's house. As the estimated trip time doubles from 15 to 30 minutes, you get more and more irritated. When your partner eventually stops the car and apologizes for getting lost, you give them comfort.",
+    "header_text": "Journaling Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are in the passenger seat as your partner struggles to navigate to a new friend's house. As the estimated trip time doubles from 15 to 30 minutes, you get more and more irritated. When your partner eventually stops the car and apologizes for getting lost, you give them..."
+            "text": "You are writing in your journal and start to flip back through some previous entries. You notice how much your handwriting has changed and begin to worry about your ability to journal in the future. You begin to brainstorm other ways to keep track of your thoughts and feelings and soon feel confident that you can..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You are in the passenger seat as your partner struggles to navigate to a new friend's house. As the estimated trip time doubles from 15 to 30 minutes, you get more and more irritated. When your partner eventually stops the car and apologizes for getting lost, you give them comfort._Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Journaling Issues_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "comfort"
+                "adapt"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

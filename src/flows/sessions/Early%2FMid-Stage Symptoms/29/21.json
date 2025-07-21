@@ -1,23 +1,25 @@
 {
-    "header_text": "At family dinner, you're feeling irritable, and you're not sure why. You feel so unsettled that you're not sure you want to finish the meal. You decide to focus on the food you're eating and the family around you, and this mindfulness helps you feel settled.",
+    "header_text": "Reading before Bedtime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At family dinner, you're feeling irritable, and you're not sure why. You feel so unsettled that you're not sure you want to finish the meal. You decide to focus on the food you're eating and the family around you, and this mindfulness helps you feel..."
+            "text": "One evening before bed, you begin a new book. While the plot progresses, you can't seem to concentrate on the storyline. You make a plan to take notes and decide this added task will be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "At family dinner, you're feeling irritable, and you're not sure why. You feel so unsettled that you're not sure you want to finish the meal. You decide to focus on the food you're eating and the family around you, and this mindfulness helps you feel settled._Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Reading before Bedtime_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "settled"
+                "fun"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

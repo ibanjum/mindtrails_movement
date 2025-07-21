@@ -1,14 +1,26 @@
 {
-    "header_text": "An old acquaintance just moved to town and asks you out to coffee. You are nervous about seeing them again after many years and could easily tell them that you are too busy. You are at home when they call about meeting, and you decline the call. ",
+    "header_text": "Meeting an old acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "An old acquaintance just moved to town and asks you out to coffee. You are nervous about seeing them again after many years and could easily tell them that you are too busy. You are at home when they call about meeting, and you decline the call. "
+            "text": "Meeting an old acquaintance"
         },
         {
             "type": "Media",
             "url": "./images/618.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 7,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

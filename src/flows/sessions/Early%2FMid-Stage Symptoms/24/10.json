@@ -1,27 +1,29 @@
 {
-    "header_text": "You are shopping for the holidays at an outdoor market with your sibling. You pick up a fragile item to check the price, but it drops and shatters on the ground. You apologize to the shop owner, and they are forgiving.",
+    "header_text": "Losing Your Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The shop owner responded to you with..."
+            "Text": "Is your memory loss getting worse?"
         },
         {
             "type": "Buttons",
-            "name": "You are shopping for the holidays at an outdoor market with your sibling. You pick up a fragile item to check the price, but it drops and shatters on the ground. You apologize to the shop owner, and they are forgiving._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Losing Your Phone_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Blame",
-                "Understanding"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Understanding"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 2
 }

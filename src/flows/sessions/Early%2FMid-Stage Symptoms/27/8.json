@@ -1,14 +1,16 @@
 {
-    "header_text": "You were invited to join a picnic with several friends. As you pack, you can't seem to remember what to bring. You grab paper and a pencil and call your friends again, knowing they will give you a reminder. ",
+    "header_text": "Giving a Toast",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You were invited to join a picnic with several friends. As you pack, you can't seem to remember what to bring. You grab paper and a pencil and call your friends again, knowing they will give you a reminder. "
+            "text": "Giving a Toast"
         },
         {
             "type": "Media",
-            "url": "./images/867.jpg"
+            "url": "./images/235.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

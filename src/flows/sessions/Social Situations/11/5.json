@@ -1,19 +1,19 @@
 {
-    "header_text": "Halloween party: Thoughts",
+    "header_text": "Sitting on the bus: Thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are invited to a Halloween party with your coworkers and you're only close to a couple of people there. You decide to wear a costume. When you arrive, everyone looks at you. \n\nHere are some thoughts that might pop into mind:"
+            "text": "You are sitting on the bus and see your friend get on. They walk past you and sit with another friend.\n\nHere are some thoughts that might pop into mind:"
         },
         {
             "type": "TimedText",
             "text": [
-                "Everyone will love this costume.",
-                "Maybe I should have toned it down, but know that this is true to myself.",
-                "I may have worn something too crazy, but I like it.",
-                "No one likes my costume.",
-                "I think this costume is fun."
+                "I'm able to sit here alone for the rest of the ride.",
+                "My friend probably had something to talk about with the other friend.",
+                "My friend walked past me on purpose.",
+                "It feels like my friend is mad at me, but they would have said something.",
+                "I really don't like sitting alone, but I know I can handle this short bus ride."
             ],
             "Duration": 15
         }

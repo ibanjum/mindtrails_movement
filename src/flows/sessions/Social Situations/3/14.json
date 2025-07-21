@@ -1,14 +1,16 @@
 {
-    "header_text": "You are persuaded to join a trivia team in a tournament. You are told that most of the questions will be asked of individuals, in different rounds. When it's your turn, you get all the answers wrong, and the others look very disappointed.",
+    "header_text": "Trivia tournament",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are persuaded to join a trivia team in a tournament. You are told that most of the questions will be asked of individuals, in different rounds. When it's your turn, you get all the answers wrong, and the others look very disappointed."
+            "text": "Trivia tournament"
         },
         {
             "type": "Media",
             "url": "./images/616.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

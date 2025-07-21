@@ -1,14 +1,16 @@
 {
-    "header_text": "Your partner asks you to go to a dinner with their new friends. You have not met these friends before and wonder what they will think of you. Getting ready to go, you think that the new people will find you interesting.",
+    "header_text": "Attending a dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your partner asks you to go to a dinner with their new friends. You have not met these friends before and wonder what they will think of you. Getting ready to go, you think that the new people will find you interesting."
+            "text": "Attending a dinner"
         },
         {
             "type": "Media",
             "url": "./images/170.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

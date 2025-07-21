@@ -1,27 +1,29 @@
 {
-    "header_text": "You and your therapist meet once a week to process events in your life. This week as you meet, you notice a sudden shift in your mood towards them. You feel agitated, but choose to share about this feeling so that it can be managed. ",
+    "header_text": "Playing Music",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Sharing about your mood shift with your therapist is..."
+            "Text": "Your identity as a musician is..."
         },
         {
             "type": "Buttons",
-            "name": "You and your therapist meet once a week to process events in your life. This week as you meet, you notice a sudden shift in your mood towards them. You feel agitated, but choose to share about this feeling so that it can be managed. _Early/Mid-Stage Symptoms_comp_question",
+            "name": "Playing Music_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Unnecessary",
-                "Healthy"
+                "Over",
+                "Changing"
             ],
             "columnCount": 1,
-            "correct_value": "Healthy"
+            "correct_value": "Changing"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

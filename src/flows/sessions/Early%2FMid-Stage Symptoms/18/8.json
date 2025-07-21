@@ -1,14 +1,16 @@
 {
-    "header_text": "Taxes are due in a month, so you are working on filing them today. You are having trouble keeping track of all the numbers, and you become flustered. You grab a notepad and get organized.",
+    "header_text": "Trouble Reading",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Taxes are due in a month, so you are working on filing them today. You are having trouble keeping track of all the numbers, and you become flustered. You grab a notepad and get organized."
+            "text": "Trouble Reading"
         },
         {
             "type": "Media",
-            "url": "./images/322.jpg"
+            "url": "./images/818.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

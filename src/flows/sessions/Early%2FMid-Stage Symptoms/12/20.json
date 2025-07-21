@@ -1,14 +1,16 @@
 {
-    "header_text": "You like to volunteer at your local animal shelter. Recently, you helped a rescue dog who liked to jump on people. With your balance challenges, being around the dog made you uneasy.",
+    "header_text": "Moving to a New City",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You like to volunteer at your local animal shelter. Recently, you helped a rescue dog who liked to jump on people. With your balance challenges, being around the dog made you uneasy."
+            "text": "Moving to a New City"
         },
         {
             "type": "Media",
-            "url": "./images/520.jpg"
+            "url": "./images/789.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

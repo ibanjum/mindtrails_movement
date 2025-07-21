@@ -1,14 +1,16 @@
 {
-    "header_text": "It's a warm day, and you and your friends are taking a walk outside. You notice that you are starting to sweat, and you can see some marks on your shirt. You know these friends well, and they will not care.",
+    "header_text": "Sweat Stains",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It's a warm day, and you and your friends are taking a walk outside. You notice that you are starting to sweat, and you can see some marks on your shirt. You know these friends well, and they will not care."
+            "text": "Sweat Stains"
         },
         {
             "type": "Media",
             "url": "./images/483.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

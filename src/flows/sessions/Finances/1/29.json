@@ -1,14 +1,16 @@
 {
-    "header_text": "One of your favorite celebrities is doing a show near you, and you've been looking at tickets. Tickets for the show are more than you expected, and your paychecks haven't been as much as you were hoping. You decide that saving up is more important, and know that there will be another show in your area later for you to attend.",
+    "header_text": "Show Opportunity",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "One of your favorite celebrities is doing a show near you, and you've been looking at tickets. Tickets for the show are more than you expected, and your paychecks haven't been as much as you were hoping. You decide that saving up is more important, and know that there will be another show in your area later for you to attend."
+            "text": "Show Opportunity"
         },
         {
             "type": "Media",
             "url": "./images/286.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

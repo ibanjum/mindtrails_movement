@@ -1,23 +1,25 @@
 {
-    "header_text": "You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. Considering the possibility of buying, fully supporting your decision will be too difficult.",
+    "header_text": "Safe Driving",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. Considering the possibility of buying, fully supporting your decision will be too..."
+            "text": "Your friend is a good driver, but it is raining heavily today. They're driving very fast, so you ask them to slow down. You take a deep breath because the chances of getting into an accident are... "
         },
         {
             "type": "WordPuzzle",
-            "name": "You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. Considering the possibility of buying, fully supporting your decision will be too difficult._Family & Home Life_puzzle1",
+            "name": "Safe Driving_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "difficult"
+                "small"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

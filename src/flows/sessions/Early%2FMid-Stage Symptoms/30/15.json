@@ -1,0 +1,16 @@
+{
+    "header_text": "Organizing an Event",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Organizing an Event"
+        },
+        {
+            "type": "Media",
+            "url": "./images/866.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

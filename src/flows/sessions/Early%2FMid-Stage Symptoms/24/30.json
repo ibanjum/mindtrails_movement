@@ -1,14 +1,16 @@
 {
-    "header_text": "You are looking to downsize because all of your children have left home. A social worker recommends that you should consider a home that will support your safety as your HD eventually progresses. You feel sad as you think about this possibility.",
+    "header_text": "Organizing your Desk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are looking to downsize because all of your children have left home. A social worker recommends that you should consider a home that will support your safety as your HD eventually progresses. You feel sad as you think about this possibility."
+            "text": "Organizing your Desk"
         },
         {
             "type": "Media",
-            "url": "./images/861.jpg"
+            "url": "./images/845.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

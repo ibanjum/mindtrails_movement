@@ -1,5 +1,5 @@
 {
-    "header_text": "During a meeting today, you have a thought that you think is really insightful. You didn't get the chance to bring it up in the meeting, but you want to email your department head about it. When you send the email, you feel proud of yourself for sharing your thoughts.",
+    "header_text": "Insightful Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "During a meeting today, you have a thought that you think is really insightful. You didn't get the chance to bring it up in the meeting, but you want to email your department head about it. When you send the email, you feel proud of yourself for sharing your thoughts._Mental Health_comp_question",
+            "name": "Insightful Email_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

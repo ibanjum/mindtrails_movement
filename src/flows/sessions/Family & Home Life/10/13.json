@@ -1,15 +1,27 @@
 {
-    "header_text": "Tomorrow is your family member's birthday. You forgot to get them a gift. You realize you don't have much time to shop for something good.",
+    "header_text": "Family Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Tomorrow is your family member's birthday. You forgot to get them a gift. You realize you don't have much time to shop for something..."
+            "text": "You recently brought your partner to dinner with your siblings. When your partner talks about their career, your siblings look uninterested. You realize that your siblings were probably just focused on..."
         },
         {
             "type": "Entry",
-            "name": "Tomorrow is your family member's birthday. You forgot to get them a gift. You realize you don't have much time to shop for something good._Family & Home Life_entry1"
+            "name": "Family Dinner_Family & Home Life_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

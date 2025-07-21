@@ -1,14 +1,16 @@
 {
-    "header_text": "You usually lead the scoreboard during your family's weekly game night. You notice that you've been scoring less points over time. You figure your children must be getting better, and that makes you feel great.",
+    "header_text": "Reconnecting With People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You usually lead the scoreboard during your family's weekly game night. You notice that you've been scoring less points over time. You figure your children must be getting better, and that makes you feel great."
+            "text": "Reconnecting With People"
         },
         {
             "type": "Media",
-            "url": "./images/202.jpg"
+            "url": "./images/79.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,23 +1,29 @@
 {
-    "header_text": "It's early evening, and you can't seem to remember if you already fed your pet dinner. You start to worry about your memory and whether you will be able to continue to care for your pet. You think about setting up reminders or a system for remembering and decide that caring for your pet will be manageable. ",
+    "header_text": "Research Study Risks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's early evening, and you can't seem to remember if you already fed your pet dinner. You start to worry about your memory and whether you will be able to continue to care for your pet. You think about setting up reminders or a system for remembering and decide that caring for your pet will be... "
+            "Text": "The study's side effects are likely to be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "It's early evening, and you can't seem to remember if you already fed your pet dinner. You start to worry about your memory and whether you will be able to continue to care for your pet. You think about setting up reminders or a system for remembering and decide that caring for your pet will be manageable. _Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Research Study Risks_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "manageable"
+            "buttons": [
+                "Mild",
+                "Severe"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Mild"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

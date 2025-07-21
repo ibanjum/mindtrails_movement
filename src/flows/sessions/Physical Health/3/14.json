@@ -1,14 +1,26 @@
 {
-    "header_text": "You are at a sports game. The crowd is cheering loudly for your team, and your head is pounding. You feel worried.",
+    "header_text": "Sports game cheers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at a sports game. The crowd is cheering loudly for your team, and your head is pounding. You feel worried."
+            "text": "Sports game cheers"
         },
         {
             "type": "Media",
             "url": "./images/446.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

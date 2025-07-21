@@ -1,23 +1,29 @@
 {
-    "header_text": "You are responding to a text on your phone. It's taking you a long time to type a short response, and you wonder whether the recipient will be annoyed. You realize that the response at hand is not an emergency, and the recipient will be patient. ",
+    "header_text": "Research Visit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are responding to a text on your phone. It's taking you a long time to type a short response, and you wonder whether the recipient will be annoyed. You realize that the response at hand is not an emergency, and the recipient will be... "
+            "Text": "Does the doctor think you are getting worse?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You are responding to a text on your phone. It's taking you a long time to type a short response, and you wonder whether the recipient will be annoyed. You realize that the response at hand is not an emergency, and the recipient will be patient. _Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Research Visit_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "patient"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

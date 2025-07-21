@@ -1,27 +1,16 @@
 {
-    "header_text": "You are having a conversation with your best friend of many years. During the conversation, they criticize you, saying that they don't think your job is worth pursuing. You wonder whether you should remain friends with them. ",
+    "header_text": "Critical Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Are you going to let a disagreement ruin your friendship?"
+            "type": "Label",
+            "text": "Critical Friend"
         },
         {
-            "type": "Buttons",
-            "name": "You are having a conversation with your best friend of many years. During the conversation, they criticize you, saying that they don't think your job is worth pursuing. You wonder whether you should remain friends with them. _Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/169.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

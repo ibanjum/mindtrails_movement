@@ -1,14 +1,16 @@
 {
-    "header_text": "You are walking with your fitness partner at a park. You can't seem to keep up with their pace but hesitate telling your friend because they seem to be in a groove. When you ask your friend to slow down, they quickly agree. ",
+    "header_text": "Attending a Dance Recital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are walking with your fitness partner at a park. You can't seem to keep up with their pace but hesitate telling your friend because they seem to be in a groove. When you ask your friend to slow down, they quickly agree. "
+            "text": "Attending a Dance Recital"
         },
         {
             "type": "Media",
-            "url": "./images/828.jpg"
+            "url": "./images/228.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

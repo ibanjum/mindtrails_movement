@@ -1,23 +1,25 @@
 {
-    "header_text": "You don’t feel very steady on your feet as you walk to your table at your favorite restaurant. You see other customers turn their heads to look at you as you walk by. Whether or not they think you walked oddly, your meal will be enj­­oyable.",
+    "header_text": "Walking Down Steps",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You don’t feel very steady on your feet as you walk to your table at your favorite restaurant. You see other customers turn their heads to look at you as you walk by. Whether or not they think you walked oddly, your meal will be..."
+            "text": "You are carrying laundry down your basement stairs. You notice you are more unbalanced than you used to be and walking down is now more difficult. You note to take more care in the future and hold onto the railing so that you are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You don’t feel very steady on your feet as you walk to your table at your favorite restaurant. You see other customers turn their heads to look at you as you walk by. Whether or not they think you walked oddly, your meal will be enj­­oyable._Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Walking Down Steps_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "enj­­oyable"
+                "steady"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

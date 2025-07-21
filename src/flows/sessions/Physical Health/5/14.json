@@ -1,14 +1,16 @@
 {
-    "header_text": "As you wake up in the morning, you sit up quickly. Your vision goes blurry, and then goes black for a moment. Your vision comes back after a moment, and you tell yourself that you are going blind.",
+    "header_text": "Vision Troubles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "As you wake up in the morning, you sit up quickly. Your vision goes blurry, and then goes black for a moment. Your vision comes back after a moment, and you tell yourself that you are going blind."
+            "text": "Vision Troubles"
         },
         {
             "type": "Media",
             "url": "./images/460.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

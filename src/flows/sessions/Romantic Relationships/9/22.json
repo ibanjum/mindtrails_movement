@@ -1,14 +1,16 @@
 {
-    "header_text": "Your friends have set you up on a date, and you're getting ready. The closer you get to leaving, the more you wonder if you look okay and if the person you're meeting will be attracted to you. You remember that one person will not dictate your worth. ",
+    "header_text": "Getting Ready for a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your friends have set you up on a date, and you're getting ready. The closer you get to leaving, the more you wonder if you look okay and if the person you're meeting will be attracted to you. You remember that one person will not dictate your worth. "
+            "text": "Getting Ready for a Date"
         },
         {
             "type": "Media",
             "url": "./images/378.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

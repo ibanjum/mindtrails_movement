@@ -1,23 +1,29 @@
 {
-    "header_text": "You have just had your first child. You want to have a good relationship throughout your kid's life, but you worry about making mistakes as a parent.",
+    "header_text": "Providing for Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "When your grandchild is older, you do not believe that your grandkid will resent you, and you think that relationship will be..."
+            "Text": "You think that sending your grandkids to a good college will be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You have just had your first child. You want to have a good relationship throughout your kid's life, but you worry about making mistakes as a parent._Family & Home Life_puzzle_word2",
+            "type": "Buttons",
+            "name": "Providing for Family_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "strong"
+            "buttons": [
+                "Beyond your means",
+                "Attainable"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Attainable"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

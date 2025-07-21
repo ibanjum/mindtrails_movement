@@ -1,27 +1,29 @@
 {
-    "header_text": "During a visit to the dentist, you experience difficulty staying still during a procedure. You worry about the dentist's perception of you. You talk openly to the dentist about your condition, and she seems understanding.",
+    "header_text": "Dropping Food",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The dentist is..."
+            "Text": "Is your brother annoyed at having to help you clean up?"
         },
         {
             "type": "Buttons",
-            "name": "During a visit to the dentist, you experience difficulty staying still during a procedure. You worry about the dentist's perception of you. You talk openly to the dentist about your condition, and she seems understanding._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Dropping Food_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Accepting.",
-                "Bothered."
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Accepting."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

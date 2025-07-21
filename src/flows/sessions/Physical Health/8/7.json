@@ -1,5 +1,5 @@
 {
-    "header_text": "One evening, you are climbing the stairs and accidentally hit your head against a low ceiling. The next morning, the headache is still there slightly, and you wonder what you've done. By lunchtime, the pain has worsened.",
+    "header_text": "An accidental bang",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "One evening, you are climbing the stairs and accidentally hit your head against a low ceiling. The next morning, the headache is still there slightly, and you wonder what you've done. By lunchtime, the pain has worsened._Physical Health_entry1"
+            "name": "An accidental bang_Physical Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 2
 }

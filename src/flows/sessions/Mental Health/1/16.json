@@ -1,14 +1,16 @@
 {
-    "header_text": "It's Monday morning and you are running late for a meeting. You feel your heart racing as you open the car door and sit down. Fearing that you might have a panic attack, you have a strong urge to get out of the car, and yet you decide to observe these sensations without reacting and stay seated.",
+    "header_text": "Monday Morning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It's Monday morning and you are running late for a meeting. You feel your heart racing as you open the car door and sit down. Fearing that you might have a panic attack, you have a strong urge to get out of the car, and yet you decide to observe these sensations without reacting and stay seated."
+            "text": "Monday Morning"
         },
         {
             "type": "Media",
             "url": "./images/264.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

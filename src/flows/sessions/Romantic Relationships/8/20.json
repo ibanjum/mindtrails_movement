@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your partner have been getting into arguments more often recently. You care about them a lot but worry they don't feel the same way. When you think about staying with your partner, you feel confident.",
+    "header_text": "Staying Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your partner have been getting into arguments more often recently. You care about them a lot but worry they don't feel the same way. When you think about staying with your partner, you feel confident."
+            "text": "Staying Together"
         },
         {
             "type": "Media",
             "url": "./images/560.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

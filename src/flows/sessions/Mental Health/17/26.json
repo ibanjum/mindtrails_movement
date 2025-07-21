@@ -1,14 +1,16 @@
 {
-    "header_text": "You have a one-on-one meeting today with your intimidating boss, which you are nervous about. During the meeting, you momentarily lose your train of thought. After that, your anxiety is tolerable.",
+    "header_text": "Evaluation results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have a one-on-one meeting today with your intimidating boss, which you are nervous about. During the meeting, you momentarily lose your train of thought. After that, your anxiety is tolerable."
+            "text": "Evaluation results"
         },
         {
             "type": "Media",
-            "url": "./images/41.jpg"
+            "url": "./images/39.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

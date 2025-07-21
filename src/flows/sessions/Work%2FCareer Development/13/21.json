@@ -1,14 +1,16 @@
 {
-    "header_text": "While collaborating on a project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the project.",
+    "header_text": "Expressing Your Ideas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "While collaborating on a project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the project."
+            "text": "Expressing Your Ideas"
         },
         {
             "type": "Media",
             "url": "./images/97.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You love to go hiking, but since your HD has been progressing, you fear going alone. You message a friend about your concerns, and they don't respond immediately. After a few minutes, your friend responds that your desire to continue hiking is good.",
+    "header_text": "Therapist after Diagnosis",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You love to go hiking, but since your HD has been progressing, you fear going alone. You message a friend about your concerns, and they don't respond immediately. After a few minutes, your friend responds that your desire to continue hiking is good."
+            "text": "Therapist after Diagnosis"
         },
         {
             "type": "Media",
-            "url": "./images/784.jpg"
+            "url": "./images/774.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

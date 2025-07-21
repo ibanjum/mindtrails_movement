@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your significant other have been caught up on your own responsibilities recently, and you feel as though you're drifting apart. You decide to plan a dinner date with them, to spend some quality time just the two of you. At dinner, you feel as though you're starting all of the conversations, and your partner seems uninterested. ",
+    "header_text": "Achieving Your Goals",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your significant other have been caught up on your own responsibilities recently, and you feel as though you're drifting apart. You decide to plan a dinner date with them, to spend some quality time just the two of you. At dinner, you feel as though you're starting all of the conversations, and your partner seems uninterested. "
+            "text": "Achieving Your Goals"
         },
         {
             "type": "Media",
-            "url": "./images/362.jpg"
+            "url": "./images/88.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

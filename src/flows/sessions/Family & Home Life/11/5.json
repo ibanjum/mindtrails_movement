@@ -1,19 +1,19 @@
 {
-    "header_text": "Shattered glass: Thoughts",
+    "header_text": "Balancing responsibilities: Thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a quiet restaurant with a lot of your family members for dinner. While taking a drink of your water, you accidently drop the glass on the floor and it shatters.\n\nHere are some thoughts that might pop into mind:"
+            "text": "You have a lot of housework that you have to do tonight, and you also have a big project that's due tomorrow. Both have to get done, and you think about how you'll handle it all. \n\nHere are some thoughts that might pop into mind:"
         },
         {
             "type": "TimedText",
             "text": [
-                "The waiter will be irritated, but I'll apologize and offer to help clean up.",
-                "I think about how everyone sometimes has clumsy moments.",
-                "My family must be embarrassed by me.",
-                "My family may be annoyed, but I can wait until they move on.",
-                "People in my family have dropped stuff at restaurants in the past."
+                "I think this will help me organize thoughtfully in the future.",
+                "I don't think I can manage all of these tasks.",
+                "I think this is too much work, but consider how nice it will feel when it is all done.",
+                "I hate feeling like I have so much to do, but I'll do my best to get it all done.",
+                "I can manage both tasks."
             ],
             "Duration": 15
         }

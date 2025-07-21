@@ -1,14 +1,16 @@
 {
-    "header_text": "You've been with your new partner for quite a while. You want to introduce your partner to your kids, but you aren't sure how they are going to react. You think asking them how they would feel about meeting your partner is appropriate. ",
+    "header_text": "Providing for Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You've been with your new partner for quite a while. You want to introduce your partner to your kids, but you aren't sure how they are going to react. You think asking them how they would feel about meeting your partner is appropriate. "
+            "text": "Providing for Family"
         },
         {
             "type": "Media",
-            "url": "./images/156.jpg"
+            "url": "./images/191.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 7
 }

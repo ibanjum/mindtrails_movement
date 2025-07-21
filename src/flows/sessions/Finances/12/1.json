@@ -1,14 +1,16 @@
 {
-    "header_text": "You have some money you would like to try investing. As you read more about investing, you realize that you’re not completely sure what you’re doing. You think that your investment skills are likely to keep improving with practice. ",
+    "header_text": "Investments",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have some money you would like to try investing. As you read more about investing, you realize that you’re not completely sure what you’re doing. You think that your investment skills are likely to keep improving with practice. "
+            "text": "Investments"
         },
         {
             "type": "Media",
             "url": "./images/301.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

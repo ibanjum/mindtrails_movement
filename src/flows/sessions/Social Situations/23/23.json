@@ -1,27 +1,16 @@
 {
-    "header_text": "You are afraid of the wilderness. This weekend, you are going walking with friends and you know wild animals have been frequently spotted in the area. As you think about the outing, you feel scared.",
+    "header_text": "New Environment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Will the trip be miserable?"
+            "type": "Label",
+            "text": "New Environment"
         },
         {
-            "type": "Buttons",
-            "name": "You are afraid of the wilderness. This weekend, you are going walking with friends and you know wild animals have been frequently spotted in the area. As you think about the outing, you feel scared._Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/703.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "Your walking shoes have lost their grip, so you are at the store buying new ones. When you try on the shoes, you have trouble tying the laces. The manager approaches you and offers other options.",
+    "header_text": "Forgotten Item",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your walking shoes have lost their grip, so you are at the store buying new ones. When you try on the shoes, you have trouble tying the laces. The manager approaches you and offers other options."
+            "text": "Forgotten Item"
         },
         {
             "type": "Media",
-            "url": "./images/858.jpg"
+            "url": "./images/413.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

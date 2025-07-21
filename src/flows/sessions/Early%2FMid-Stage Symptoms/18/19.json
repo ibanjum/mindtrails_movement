@@ -1,27 +1,25 @@
 {
-    "header_text": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be understanding.",
+    "header_text": "Forgetting Movie Title",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you tell your child about the mix-up, they will probably respond..."
+            "text": "You're in the middle of a conversation with friends when you struggle to recall the name of a movie. It's uncomfortable to experience these lapses in memory, leaving you wondering if something more concerning is happening. Despite your discomfort, you look around at your friends and remember that there are people in your life that are..."
         },
         {
-            "type": "Buttons",
-            "name": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be understanding._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Forgetting Movie Title_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Harshly",
-                "Gently"
+            "display_delay": 2000,
+            "words": [
+                "supportive"
             ],
-            "columnCount": 1,
-            "correct_value": "Gently"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

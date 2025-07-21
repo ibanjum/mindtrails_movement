@@ -1,14 +1,16 @@
 {
-    "header_text": "Your budget has been tighter this month. Your friends want to go out to eat this weekend, and they choose a very expensive place. If you ask them to choose a different restaurant, you think they will be understanding. ",
+    "header_text": "Spending Money with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your budget has been tighter this month. Your friends want to go out to eat this weekend, and they choose a very expensive place. If you ask them to choose a different restaurant, you think they will be understanding. "
+            "text": "Spending Money with Friends"
         },
         {
             "type": "Media",
             "url": "./images/263.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

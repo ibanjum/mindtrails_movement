@@ -1,14 +1,16 @@
 {
-    "header_text": "You have to give a presentation to your boss. As you think about the talk, you feel butterflies in your stomach. You feel nervous on the morning of the talk, but you think your nerves will be manageable.",
+    "header_text": "A night off",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have to give a presentation to your boss. As you think about the talk, you feel butterflies in your stomach. You feel nervous on the morning of the talk, but you think your nerves will be manageable."
+            "text": "A night off"
         },
         {
             "type": "Media",
-            "url": "./images/26.jpg"
+            "url": "./images/22.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

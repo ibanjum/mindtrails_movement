@@ -1,14 +1,16 @@
 {
-    "header_text": "You meet someone new at a local organization and have a stimulating discussion. Towards the end, you find that they disagree with something you said. When the organization meets next, you expect that you will be included.",
+    "header_text": "Differing opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You meet someone new at a local organization and have a stimulating discussion. Towards the end, you find that they disagree with something you said. When the organization meets next, you expect that you will be included."
+            "text": "Differing opinion"
         },
         {
             "type": "Media",
             "url": "./images/611.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

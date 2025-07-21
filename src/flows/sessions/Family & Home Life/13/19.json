@@ -1,27 +1,29 @@
 {
-    "header_text": "You usually lead the scoreboard during your family's weekly game night. You notice that you've been scoring less points over time. You figure your children must be getting better, and that makes you feel great.",
+    "header_text": "Reconnecting With People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Thinking about your family succeeding in game night makes you feel... "
+            "Text": "Will you be able to hang out with friends and family when you have more time?"
         },
         {
             "type": "Buttons",
-            "name": "You usually lead the scoreboard during your family's weekly game night. You notice that you've been scoring less points over time. You figure your children must be getting better, and that makes you feel great._Family & Home Life_comp_question",
+            "name": "Reconnecting With People_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Awesome.",
-                "Terribly."
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Awesome."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

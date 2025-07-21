@@ -1,14 +1,16 @@
 {
-    "header_text": "You are on a date with your partner. They always pick up the bill, despite you wanting to pay. When you think about talking to them about paying equally, you think they will understand. ",
+    "header_text": "Relationship Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are on a date with your partner. They always pick up the bill, despite you wanting to pay. When you think about talking to them about paying equally, you think they will understand. "
+            "text": "Relationship Worries"
         },
         {
             "type": "Media",
-            "url": "./images/296.jpg"
+            "url": "./images/505.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 3
 }

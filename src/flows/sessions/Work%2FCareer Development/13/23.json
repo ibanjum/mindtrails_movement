@@ -1,5 +1,5 @@
 {
-    "header_text": "While collaborating on a project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the project.",
+    "header_text": "Expressing Your Ideas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "While collaborating on a project at work, you tell your ideas to your group. The other members of the group don't react. They must be thinking about the project._Work/Career Development_comp_question",
+            "name": "Expressing Your Ideas_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

@@ -1,15 +1,17 @@
 {
-    "header_text": "You are going to a potluck dinner party, and you want to bring your family's macaroni casserole. You have the recipe your parents gave you, but you worry you don't have the cooking skills to pull off the dish. You think that people at the party will probably think your casserole tastes great.",
+    "header_text": "The Dance Showcase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are going to a potluck dinner party, and you want to bring your family's macaroni casserole. You have the recipe your parents gave you, but you worry you don't have the cooking skills to pull off the dish. You think that people at the party will probably think your casserole tastes..."
+            "text": "You have been taking a dance class at the local community center and are performing in a showcase. You want to invite your friends and family, but you worry you'll embarrass yourself if you are not very good. While deciding whether or not to invite people to your show, you see yourself doing..."
         },
         {
             "type": "Entry",
-            "name": "You are going to a potluck dinner party, and you want to bring your family's macaroni casserole. You have the recipe your parents gave you, but you worry you don't have the cooking skills to pull off the dish. You think that people at the party will probably think your casserole tastes great._Social Situations_entry1"
+            "name": "The Dance Showcase_Social Situations_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

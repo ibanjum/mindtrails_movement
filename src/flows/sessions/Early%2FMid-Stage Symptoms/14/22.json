@@ -1,23 +1,25 @@
 {
-    "header_text": "You're balancing your checkbook when you realize you've made several mistakes in your calculations. Finding these mistakes makes you feel anxious about your ability to manage your finances in the future. You share your concerns with a close friend who reminds you that there are people in your life who can help. ",
+    "header_text": "Animal Shelter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're balancing your checkbook when you realize you've made several mistakes in your calculations. Finding these mistakes makes you feel anxious about your ability to manage your finances in the future. You share your concerns with a close friend who reminds you that there are people in your life who can... "
+            "text": "You quickly warmed up to the dog and realized that you could control their behavior with treats. Knowing how to handle them made you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You're balancing your checkbook when you realize you've made several mistakes in your calculations. Finding these mistakes makes you feel anxious about your ability to manage your finances in the future. You share your concerns with a close friend who reminds you that there are people in your life who can help. _Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Animal Shelter_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "help"
+                "satisfied"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

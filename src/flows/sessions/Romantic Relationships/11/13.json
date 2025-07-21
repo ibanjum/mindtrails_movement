@@ -9,11 +9,11 @@
         {
             "type": "TimedText",
             "text": [
-                "I send a bunch of messages back to back to see if they respond.",
-                "I call a friend and ask them about their day.",
-                "I keep going with my day.",
-                "I want to spend my day focused on my phone, but instead do hobbies I enjoy.",
-                "I want to ask what they think of me, but decide to give it more time."
+                "I want to remove them from my phone, but decide to give the situation some time and cool off.",
+                "I reach out to a friend.",
+                "I start working on other important things I want to do today.",
+                "I want to send a bunch of messages to this person, but instead call a friend.",
+                "I cancel my plans for the day."
             ],
             "Duration": 15
         }

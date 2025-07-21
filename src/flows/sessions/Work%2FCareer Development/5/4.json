@@ -1,5 +1,5 @@
 {
-    "header_text": "You are preparing to meet with your boss for a performance review. You heard from other people that your boss is in an incredibly bad mood today. You worked hard this semester and think it is likely you will get a good review.",
+    "header_text": "Preparing for evaluation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You are preparing to meet with your boss for a performance review. You heard from other people that your boss is in an incredibly bad mood today. You worked hard this semester and think it is likely you will get a good review._Work/Career Development_comp_question",
+            "name": "Preparing for evaluation_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

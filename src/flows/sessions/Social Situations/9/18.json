@@ -1,5 +1,5 @@
 {
-    "header_text": "You are at your first staff meeting in a new department, and you arrive early. A group of people goes quiet after you ask them if you can sit at their table. They are probably nice.",
+    "header_text": "Finding a Place to Sit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You are at your first staff meeting in a new department, and you arrive early. A group of people goes quiet after you ask them if you can sit at their table. They are probably nice._Social Situations_entry1"
+            "name": "Finding a Place to Sit_Social Situations_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
 }

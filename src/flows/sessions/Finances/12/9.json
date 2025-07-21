@@ -1,5 +1,5 @@
 {
-    "header_text": "You had to take some time off of work because you caught the flu. Although the break was important for your health, it also put a strain on your finances. When you think about your financial situation, you know you will be able to make up for the lost time.",
+    "header_text": "Recovering from the Flu",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You had to take some time off of work because you caught the flu. Although the break was important for your health, it also put a strain on your finances. When you think about your financial situation, you know you will be able to make up for the lost time._Finances_comp_question",
+            "name": "Recovering from the Flu_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

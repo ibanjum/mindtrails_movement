@@ -1,23 +1,29 @@
 {
-    "header_text": "Your HD has been causing you to lose interest in intimacy with your spouse due to difficulty with movements. Your spouse has noticed this change and is upset with your lack of touch and care. You recognize you haven't voiced your concern to your spouse and decide to communicate.  ",
+    "header_text": "Holding the Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your PD has been causing you to lose interest in intimacy with your spouse due to difficulty moving. Your spouse has noticed this change and is upset with your lack of touch and care. You recognize you haven't voiced your concern to your spouse and decide to...  "
+            "Text": "Your symptoms are affecting your social life..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Your HD has been causing you to lose interest in intimacy with your spouse due to difficulty with movements. Your spouse has noticed this change and is upset with your lack of touch and care. You recognize you haven't voiced your concern to your spouse and decide to communicate.  _Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Holding the Phone_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "communicate"
+            "buttons": [
+                "Negatively",
+                "Positively"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Negatively"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 2
 }

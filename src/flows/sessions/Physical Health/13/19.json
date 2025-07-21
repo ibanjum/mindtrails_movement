@@ -1,14 +1,16 @@
 {
-    "header_text": "You've been wanting to go on a summer vacation to Europe for a few years. You rescheduled your trip from last summer to this upcoming summer, but you're worried getting sick will prevent you from finally going. You decide to see what happens, and you can always reschedule again if you need to. ",
+    "header_text": "Rescheduled Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You've been wanting to go on a summer vacation to Europe for a few years. You rescheduled your trip from last summer to this upcoming summer, but you're worried getting sick will prevent you from finally going. You decide to see what happens, and you can always reschedule again if you need to. "
+            "text": "Rescheduled Vacation"
         },
         {
             "type": "Media",
             "url": "./images/509.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

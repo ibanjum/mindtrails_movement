@@ -1,14 +1,14 @@
 {
-    "header_text": "You've started a new relationship, and it's really exciting. You've been wanting to tell your partner about your mental health, but you aren't sure what their response will be. You think that they will be accepting. ",
+    "header_text": "Catching Transportation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your partner reject you?"
+            "Text": "Is it necessary to get off the plane because you feel your heart beating rapidly?"
         },
         {
             "type": "Buttons",
-            "name": "You've started a new relationship, and it's really exciting. You've been wanting to tell your partner about your mental health, but you aren't sure what their response will be. You think that they will be accepting. _Mental Health_comp_question",
+            "name": "Catching Transportation_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

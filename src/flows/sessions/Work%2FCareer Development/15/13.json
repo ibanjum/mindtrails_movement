@@ -1,5 +1,5 @@
 {
-    "header_text": "You are put in charge of your office's fundraising efforts and quickly realize that your coworkers are not very interested in fundraising. You give a presentation about the importance of helping with the fundraising at a meeting, and your coworkers stay quiet. As you sit down after your presentation, you think they seem excited.",
+    "header_text": "Fundraiser presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You are put in charge of your office's fundraising efforts and quickly realize that your coworkers are not very interested in fundraising. You give a presentation about the importance of helping with the fundraising at a meeting, and your coworkers stay quiet. As you sit down after your presentation, you think they seem excited._Work/Career Development_puzzle1",
+            "name": "Fundraiser presentation_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

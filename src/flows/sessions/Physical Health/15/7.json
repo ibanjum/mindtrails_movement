@@ -1,5 +1,5 @@
 {
-    "header_text": "It's your birthday and when it's time for the cake, people gather around you and start singing. You feel your heart start to beat more quickly and your armpits starting to sweat. Your friends and family will not notice.",
+    "header_text": "Too Much Attention",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "It's your birthday and when it's time for the cake, people gather around you and start singing. You feel your heart start to beat more quickly and your armpits starting to sweat. Your friends and family will not notice._Physical Health_comp_question",
+            "name": "Too Much Attention_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

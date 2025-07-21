@@ -1,27 +1,29 @@
 {
-    "header_text": "One morning, you leave your house and begin to make your way to work. About 10 minutes into the drive, you wonder whether you remembered to lock the door to your home. As you continue your commute, you trust yourself and you feel relaxed.",
+    "header_text": "Unexpected Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "For the rest of your morning commute, you feel..."
+            "Text": "Buying a house will..."
         },
         {
             "type": "Buttons",
-            "name": "One morning, you leave your house and begin to make your way to work. About 10 minutes into the drive, you wonder whether you remembered to lock the door to your home. As you continue your commute, you trust yourself and you feel relaxed._Family & Home Life_comp_question",
+            "name": "Unexpected Costs_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Worried that you left the door to your home unlocked",
-                "At ease as you get to work"
+                "Be beyond your means, even with your job",
+                "Be affordable and turn out okay"
             ],
             "columnCount": 1,
-            "correct_value": "At ease as you get to work"
+            "correct_value": "Be affordable and turn out okay"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

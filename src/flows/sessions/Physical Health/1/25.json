@@ -1,14 +1,16 @@
 {
-    "header_text": "You are co-hosting a dinner party at your friend's apartment, and you just finished all the shopping. You start to sweat and feel your heart pounding after a couple of trips carrying the groceries up to the third floor. You feel a bit scared of these sensations. Unsure of whether they are good or bad, you decide to simply accept them.",
+    "header_text": "Dinner Party Supplies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are co-hosting a dinner party at your friend's apartment, and you just finished all the shopping. You start to sweat and feel your heart pounding after a couple of trips carrying the groceries up to the third floor. You feel a bit scared of these sensations. Unsure of whether they are good or bad, you decide to simply accept them."
+            "text": "Dinner Party Supplies"
         },
         {
             "type": "Media",
             "url": "./images/435.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

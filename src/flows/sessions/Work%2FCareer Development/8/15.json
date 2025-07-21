@@ -1,14 +1,16 @@
 {
-    "header_text": "You just received your performance evaluation, and you noticed their are some critiques about your work that you did not realize were an issue. While waiting for your meeting with your boss, you feel ready.",
+    "header_text": "Discussing the Evaluation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You just received your performance evaluation, and you noticed their are some critiques about your work that you did not realize were an issue. While waiting for your meeting with your boss, you feel ready."
+            "text": "Discussing the Evaluation "
         },
         {
             "type": "Media",
             "url": "./images/62.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

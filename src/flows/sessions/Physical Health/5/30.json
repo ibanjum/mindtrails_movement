@@ -1,14 +1,16 @@
 {
-    "header_text": "You get blood drawn for your annual physical. Your doctor tells you that you will have to wait a few days to receive the results, and you worry about what the results will say. Over the next few days, the worries are bearable.",
+    "header_text": "Annual checkup results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You get blood drawn for your annual physical. Your doctor tells you that you will have to wait a few days to receive the results, and you worry about what the results will say. Over the next few days, the worries are bearable."
+            "text": "Annual checkup results"
         },
         {
             "type": "Media",
             "url": "./images/464.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

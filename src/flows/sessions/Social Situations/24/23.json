@@ -1,27 +1,29 @@
 {
-    "header_text": "You have been very busy and are having trouble keeping in contact with one of your best friends. You are usually good about calling them, but your schedule has been very hectic. As you think about their reaction to this lull in contact, you think that your friend will be upset.",
+    "header_text": "Making New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Since you have been out of touch, your friend is probably thinking"
+            "Text": "Thinking about life in your new home going forward, you imagine:"
         },
         {
             "type": "Buttons",
-            "name": "You have been very busy and are having trouble keeping in contact with one of your best friends. You are usually good about calling them, but your schedule has been very hectic. As you think about their reaction to this lull in contact, you think that your friend will be upset._Social Situations_comp_question",
+            "name": "Making New Friends_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "\"I'm sure things are just really busy right now.\"",
-                "\"I guess this friendship isn't worth very much.\""
+                "Having a new group of friends you can rely on.",
+                "Needing to do everything yourself."
             ],
             "columnCount": 1,
-            "correct_value": "\"I guess this friendship isn't worth very much.\""
+            "correct_value": "Having a new group of friends you can rely on."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

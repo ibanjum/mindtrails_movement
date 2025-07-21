@@ -1,5 +1,5 @@
 {
-    "header_text": "You are currently have a lot going on with work. Your friend who you have not seen in a while has asked you to hang out the night before a deadline. You know that you need to prioritize your work but worry that your friend will be upset for not making time for them. ",
+    "header_text": "Scheduling Conflicts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You are currently have a lot going on with work. Your friend who you have not seen in a while has asked you to hang out the night before a deadline. You know that you need to prioritize your work but worry that your friend will be upset for not making time for them. _Work/Career Development_comp_question",
+            "name": "Scheduling Conflicts_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

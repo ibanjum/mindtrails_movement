@@ -1,23 +1,25 @@
 {
-    "header_text": "At work you've noticed more difficulty typing. You decide to email your boss to ask to take time off to focus on your health. You see a reply pop up in your email after a while, and you feel scared. ",
+    "header_text": "House For Sale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your boss is very kind in their reply and would like to meet with you. You can think clearly now and you are feeling more..."
+            "text": "You realize that despite your diagnosis, you're confident in your ability to coordinate movers and complete the move successfully. So after thinking about it, you feel more..."
         },
         {
             "type": "WordPuzzle",
-            "name": "At work you've noticed more difficulty typing. You decide to email your boss to ask to take time off to focus on your health. You see a reply pop up in your email after a while, and you feel scared. _Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "House For Sale_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "calm"
+                "upbeat"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

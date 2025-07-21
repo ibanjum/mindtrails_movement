@@ -1,27 +1,16 @@
 {
-    "header_text": "You are walking in the park and start to cross a bridge. You are having trouble navigating the wooden panels, and your stomach drops as you slip on a loose board. You clench the handrail for a few seconds and realize that you are steady.",
+    "header_text": "Social Changes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Holding the handrail helped you to..."
+            "type": "Label",
+            "text": "Social Changes"
         },
         {
-            "type": "Buttons",
-            "name": "You are walking in the park and start to cross a bridge. You are having trouble navigating the wooden panels, and your stomach drops as you slip on a loose board. You clench the handrail for a few seconds and realize that you are steady._Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Fall",
-                "Balance"
-            ],
-            "columnCount": 1,
-            "correct_value": "Balance"
+            "type": "Media",
+            "url": "./images/823.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "positive",
+    "scenario_num": 3
 }

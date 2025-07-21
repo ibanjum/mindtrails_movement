@@ -1,14 +1,16 @@
 {
-    "header_text": "You realize that you just received your paycheck a week ago. You notice that your bank account is lower than expected. You are worried about your spending, but know you can budget effectively. ",
+    "header_text": "Unexpected Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You realize that you just received your paycheck a week ago. You notice that your bank account is lower than expected. You are worried about your spending, but know you can budget effectively. "
+            "text": "Unexpected Costs"
         },
         {
             "type": "Media",
-            "url": "./images/168.jpg"
+            "url": "./images/163.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

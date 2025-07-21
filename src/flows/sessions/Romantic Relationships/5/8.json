@@ -1,14 +1,16 @@
 {
-    "header_text": "Your friend has convinced you to sign up on an online dating website. You look over your profile and though you think it reflects who you are very well, you worry if it displays the kind of qualities people are looking for online. ",
+    "header_text": "Online Dating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your friend has convinced you to sign up on an online dating website. You look over your profile and though you think it reflects who you are very well, you worry if it displays the kind of qualities people are looking for online. "
+            "text": "Online Dating"
         },
         {
             "type": "Media",
             "url": "./images/537.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

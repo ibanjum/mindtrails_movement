@@ -1,27 +1,29 @@
 {
-    "header_text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. As time goes on, you think that your family will become more loving.",
+    "header_text": "Approaching Deadline",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You think that your family is likely to..."
+            "Text": "Will you get your assignment done in time?"
         },
         {
             "type": "Buttons",
-            "name": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. As time goes on, you think that your family will become more loving._Family & Home Life_comp_question",
+            "name": "Approaching Deadline_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Talk to each other less and less as tensions rise",
-                "Work together to build better relationships with each other"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Work together to build better relationships with each other"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

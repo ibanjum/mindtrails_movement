@@ -1,14 +1,16 @@
 {
-    "header_text": "You are a homebody, while your partner enjoys going out. You want to stay in for the night, but your partner wants to go to a bar. You think you can work together to figure out a compromise. ",
+    "header_text": "Friendships in the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are a homebody, while your partner enjoys going out. You want to stay in for the night, but your partner wants to go to a bar. You think you can work together to figure out a compromise. "
+            "text": "Friendships in the Future"
         },
         {
             "type": "Media",
-            "url": "./images/570.jpg"
+            "url": "./images/707.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 8
 }

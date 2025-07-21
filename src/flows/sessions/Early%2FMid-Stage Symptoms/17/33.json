@@ -1,27 +1,10 @@
 {
-    "header_text": "You are outside working in your garden with your neighbor. You look over at your completed rows and notice they are much more uneven and scattered than in past years. That evening, you reflect on the day working in your garden and feel grateful.",
+    "header_text": "Manage Your Feelings: Early/Mid-Stage Symptoms",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "As you think about this year's garden, you feel..."
-        },
-        {
-            "type": "Buttons",
-            "name": "You are outside working in your garden with your neighbor. You look over at your completed rows and notice they are much more uneven and scattered than in past years. That evening, you reflect on the day working in your garden and feel grateful._Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Discouraged",
-                "Thankful"
-            ],
-            "columnCount": 1,
-            "correct_value": "Thankful"
+            "text": "Try to imagine something from your partner's point of view."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

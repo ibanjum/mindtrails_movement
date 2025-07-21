@@ -1,19 +1,19 @@
 {
-    "header_text": "Spilled Coffee: Thoughts",
+    "header_text": "Attractive person on social media: Thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're on a date at a coffee shop with a person you really like. As you walk back to the table, you trip and fall and spill coffee everywhere.\n\nHere are some thoughts that might pop into mind:"
+            "text": "While scrolling through a dating app, you see an attractive person you met at the grocery store last week. You decide to like their profile. \n\nHere are some thoughts that might pop into mind:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I wish I'd been a bit more careful, but I'm human and it happens.",
-                "This has probably happened to a lot of people.",
-                "My date might think I'm a bit clumsy, but they probably don't really care.",
-                "I look like a total klutz in front of my date.",
-                "This will be a great icebreaker when I start talking to my date!"
+                "I wonder if they think I am attractive, but remind myself that looks aren't everything.",
+                "This person will think I'm weird for liking their profile.",
+                "I think about how we could go on a date.",
+                "I hope we can continue the great conversation we started at the store.",
+                "I think about whether they'll think my photos are silly, but then remind myself that I'm proud of my profile."
             ],
             "Duration": 15
         }

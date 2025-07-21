@@ -1,14 +1,16 @@
 {
-    "header_text": "A friend invites you to a dinner party that they are holding. They tell you who the other guests are, but you do not recognize any of the other names. You go anyway, and on the way there, you think that the other guests will find you friendly.",
+    "header_text": "Dinner party invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A friend invites you to a dinner party that they are holding. They tell you who the other guests are, but you do not recognize any of the other names. You go anyway, and on the way there, you think that the other guests will find you friendly."
+            "text": "Dinner party invitation"
         },
         {
             "type": "Media",
             "url": "./images/612.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

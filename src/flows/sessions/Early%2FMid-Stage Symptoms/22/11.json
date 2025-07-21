@@ -1,23 +1,25 @@
 {
-    "header_text": "You are planning to start a load of laundry. As you pick up your laundry basket to carry it to the washing machine, you feel wobbly. You don't think you will be able do your laundry right now, and you feel frustrated. ",
+    "header_text": "Retirement Celebration",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are planning to start a load of laundry. As you pick up your laundry basket to carry it to the washing machine, you feel wobbly. You don't think you will be able do your laundry right now, and you feel... "
+            "text": "You just retired because of your PD symptoms, and your family decides to throw you a surprise party. You realize that not everyone knows about your diagnosis. Wondering if the rest of your family will find out before you get the chance to tell them leaves you with a feeling of..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You are planning to start a load of laundry. As you pick up your laundry basket to carry it to the washing machine, you feel wobbly. You don't think you will be able do your laundry right now, and you feel frustrated. _Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Retirement Celebration_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "frustrated"
+                "uncertainty"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

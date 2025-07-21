@@ -1,15 +1,17 @@
 {
-    "header_text": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel miserable.",
+    "header_text": "Nerve-wracking presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel..."
+            "text": "You have to give a presentation to your boss. As you think about the talk, you feel butterflies in your stomach. You feel nervous on the morning of the talk, but you think your nerves will be..."
         },
         {
             "type": "Entry",
-            "name": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel miserable._Mental Health_entry1"
+            "name": "Nerve-wracking presentation_Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

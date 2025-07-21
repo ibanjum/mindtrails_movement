@@ -1,5 +1,5 @@
 {
-    "header_text": "At work you've noticed more difficulty typing. You decide to email your boss to ask to take time off to focus on your health. You see a reply pop up in your email after a while, and you feel scared. ",
+    "header_text": "Taking Time Off",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "At work you've noticed more difficulty typing. You decide to email your boss to ask to take time off to focus on your health. You see a reply pop up in your email after a while, and you feel scared. _Physical Health_comp_question",
+            "name": "Taking Time Off_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

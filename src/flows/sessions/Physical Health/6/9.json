@@ -1,19 +1,19 @@
 {
-    "header_text": "Saying hi to friends: Feelings",
+    "header_text": "Giving a Presentation: Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are outside on a cool day and see your friends down the street. You decide to jog over to say hi. When you get to your friends, you feel out of breath.\n\nHere are some feelings that might happen in the moment:"
+            "text": "You have to give a presentation in a meeting today. When you stand up in front of the group, you feel your cheeks get hot and your hands start to tremble.\n\nHere are some feelings that might happen in the moment:"
         },
         {
             "type": "TimedText",
             "text": [
-                "Even though it's uncomfortable to feel out of breath, I know it's normal to feel this way after running.",
-                "I feel invigorated.",
-                "Feeling out of breath reminds me of how I feel when I'm a little anxious, which is interesting to notice.",
-                "I'm worried I'm really sick because of the tightness in my chest.",
-                "I feel happy to see my friends."
+                "I'm worried that I'm going to pass out.",
+                "I'm nervous that people can see my hands shaking, but it's probably not as noticeable to them as it feels to me.",
+                "I'm happy with how much I've prepared for this presentation.",
+                "I'm relieved to know this topic well.",
+                "I'm scared that my cheeks feeling hot means that I'm going to faint, but I will take a few deep breaths and this feeling will pass."
             ],
             "Duration": 15
         }

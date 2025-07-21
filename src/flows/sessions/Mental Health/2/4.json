@@ -1,14 +1,26 @@
 {
-    "header_text": "You and your friend took some pictures together. You look through your feed and see that they tagged you in a photo that you really don't like. You know that, in the long run, it won't matter.",
+    "header_text": "Picture with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your friend took some pictures together. You look through your feed and see that they tagged you in a photo that you really don't like. You know that, in the long run, it won't matter."
+            "text": "Picture with Friends"
         },
         {
             "type": "Media",
             "url": "./images/330.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

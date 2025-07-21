@@ -1,27 +1,16 @@
 {
-    "header_text": "You pride yourself on remembering acquaintances' names. You and your partner throw a cocktail party, but you can't remember a few of your guests' names. Forgetting their names makes you upset.",
+    "header_text": "Movie Mix-Up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "With your partner's support, you can..."
+            "type": "Label",
+            "text": "Movie Mix-Up"
         },
         {
-            "type": "Buttons",
-            "name": "You pride yourself on remembering acquaintances' names. You and your partner throw a cocktail party, but you can't remember a few of your guests' names. Forgetting their names makes you upset._Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Avoid interacting with others.",
-                "Make the most out of the party."
-            ],
-            "columnCount": 1,
-            "correct_value": "Make the most out of the party."
+            "type": "Media",
+            "url": "./images/833.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "positive",
+    "scenario_num": 2
 }

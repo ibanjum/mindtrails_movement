@@ -1,14 +1,26 @@
 {
-    "header_text": "You are being interviewed for a leadership position within your department. Before you walk into the room, you notice you feel shaky. You feel incredibly excited.",
+    "header_text": "Interview anticipation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are being interviewed for a leadership position within your department. Before you walk into the room, you notice you feel shaky. You feel incredibly excited."
+            "text": "Interview anticipation"
         },
         {
             "type": "Media",
             "url": "./images/12.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

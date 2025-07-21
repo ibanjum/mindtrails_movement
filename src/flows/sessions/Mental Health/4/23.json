@@ -1,14 +1,16 @@
 {
-    "header_text": "You are in an important meeting and you need to pay attention. Halfway through the meeting you realize you have been zoning out and don't know what is going on. You think something must be wrong with you.",
+    "header_text": "Sitting in a Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are in an important meeting and you need to pay attention. Halfway through the meeting you realize you have been zoning out and don't know what is going on. You think something must be wrong with you."
+            "text": "Sitting in a Meeting"
         },
         {
             "type": "Media",
             "url": "./images/108.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

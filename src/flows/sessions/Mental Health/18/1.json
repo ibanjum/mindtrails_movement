@@ -1,14 +1,16 @@
 {
-    "header_text": "It was a cousin's birthday recently, and you attended a large family gathering. At the event, your family wouldn’t stop asking questions about why you're still single, and you weren’t sure how to answer them. When you think about your dating life, you're content with taking it slow.",
+    "header_text": "Using Different Technology",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It was a cousin's birthday recently, and you attended a large family gathering. At the event, your family wouldn’t stop asking questions about why you're still single, and you weren’t sure how to answer them. When you think about your dating life, you're content with taking it slow."
+            "text": "Using Different Technology"
         },
         {
             "type": "Media",
-            "url": "./images/183.jpg"
+            "url": "./images/32.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "Your family shares one older car that has a big dent in the front. Today, you are driving it around town. When you think about people you know seeing your car, you feel nervous.",
+    "header_text": "Meeting New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your family shares one older car that has a big dent in the front. Today, you are driving it around town. When you think about people you know seeing your car, you feel nervous."
+            "text": "Meeting New Friends"
         },
         {
             "type": "Media",
-            "url": "./images/698.jpg"
+            "url": "./images/52.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

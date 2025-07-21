@@ -1,14 +1,16 @@
 {
-    "header_text": "At your routine doctor's appointment, your doctor decides to run a few tests to evaluate your health. Your results will be ready within a week. While waiting for your results, you think that there will be no new concerns.",
+    "header_text": "Doctor's Appointment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "At your routine doctor's appointment, your doctor decides to run a few tests to evaluate your health. Your results will be ready within a week. While waiting for your results, you think that there will be no new concerns."
+            "text": "Doctor's Appointment"
         },
         {
             "type": "Media",
             "url": "./images/479.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

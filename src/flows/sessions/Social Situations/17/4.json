@@ -1,14 +1,16 @@
 {
-    "header_text": "A friend is staying over at your house for a bit, and you realize they often ignore their chores. One day, you come home to see a pile of their dirty dishes in the sink while they have already left to go out. You decide to call them to settle this issue, and you feel reassured.",
+    "header_text": "Friend Neglecting Chores",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A friend is staying over at your house for a bit, and you realize they often ignore their chores. One day, you come home to see a pile of their dirty dishes in the sink while they have already left to go out. You decide to call them to settle this issue, and you feel reassured."
+            "text": "Friend Neglecting Chores"
         },
         {
             "type": "Media",
             "url": "./images/677.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a scenario in your daily or weekly routine that makes you anxious. What strategies can you apply from this training to help calm your anxiety?"
+            "text": "Think about a situation that you face regluarly that causes some anxiety. What do you usually tell yourself? Is there another thought that you could say to yourself that may make it less anxiety-provoking? "
         },
         {
             "type": "Entry",
-            "name": "Tip #11_entry"
+            "name": "Tip #12_entry"
         }
     ]
 }

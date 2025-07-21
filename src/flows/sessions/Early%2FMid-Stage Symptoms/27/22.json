@@ -1,23 +1,25 @@
 {
-    "header_text": "There is a particular way you've always done laundry, making sure to separate colors. When you take a load out of the dryer, you notice several articles have been stained and feel frustrated that your attention seems to be slipping. ",
+    "header_text": "Dining Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You mention this to you partner, who admits that they added new clothes to the wash load without telling you. You realize that this was not your fault and laugh as you reflect on the..."
+            "text": "When eating out with your friends, you feel self-conscious about how you now move and eat slower than before your diagnosis. Your friends are already done with their food, and you can see them watching you closely. You look over at them, and they appear to be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "There is a particular way you've always done laundry, making sure to separate colors. When you take a load out of the dryer, you notice several articles have been stained and feel frustrated that your attention seems to be slipping. _Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "Dining Out_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "mix-up"
+                "frustrated"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 6
 }

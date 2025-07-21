@@ -1,14 +1,16 @@
 {
-    "header_text": "You enjoy walking to the thrift store occasionally. On your most recent trip, you turned on the wrong street and had to retrace your steps. This made you worried.",
+    "header_text": "Medical Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You enjoy walking to the thrift store occasionally. On your most recent trip, you turned on the wrong street and had to retrace your steps. This made you worried."
+            "text": "Medical Presentation"
         },
         {
             "type": "Media",
-            "url": "./images/805.jpg"
+            "url": "./images/126.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

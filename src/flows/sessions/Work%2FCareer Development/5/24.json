@@ -1,14 +1,16 @@
 {
-    "header_text": "The morning of your first evaluation with your new boss has arrived. They tell you that they have strong views about your work. You think that they likely find your work excellent.",
+    "header_text": "Strong opinions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "The morning of your first evaluation with your new boss has arrived. They tell you that they have strong views about your work. You think that they likely find your work excellent."
+            "text": "Strong opinions"
         },
         {
             "type": "Media",
             "url": "./images/45.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

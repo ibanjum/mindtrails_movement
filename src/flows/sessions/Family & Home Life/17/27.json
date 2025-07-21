@@ -1,14 +1,16 @@
 {
-    "header_text": "You are planning to start a load of laundry. As you pick up your laundry basket to carry it to the washing machine, you feel wobbly. You don't think you will be able do your laundry right now, and you feel frustrated. ",
+    "header_text": "Painting Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are planning to start a load of laundry. As you pick up your laundry basket to carry it to the washing machine, you feel wobbly. You don't think you will be able do your laundry right now, and you feel frustrated. "
+            "text": "Painting Project"
         },
         {
             "type": "Media",
-            "url": "./images/234.jpg"
+            "url": "./images/233.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

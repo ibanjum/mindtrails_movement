@@ -1,14 +1,16 @@
 {
-    "header_text": "You hear that some friends went out to dinner without you last night. You didn't get an invite to hang out with them. You realize that sometimes your friends hang out without you, and you feel excluded.",
+    "header_text": "Picture with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You hear that some friends went out to dinner without you last night. You didn't get an invite to hang out with them. You realize that sometimes your friends hang out without you, and you feel excluded."
+            "text": "Picture with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/710.jpg"
+            "url": "./images/330.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

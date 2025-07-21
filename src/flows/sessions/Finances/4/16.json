@@ -1,5 +1,5 @@
 {
-    "header_text": "Your budget has been tighter this month. Your friends want to go out to eat this weekend, and they choose a very expensive place. If you ask them to choose a different restaurant, you think they will be understanding. ",
+    "header_text": "Spending Money with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Your budget has been tighter this month. Your friends want to go out to eat this weekend, and they choose a very expensive place. If you ask them to choose a different restaurant, you think they will be understanding. _Finances_comp_question",
+            "name": "Spending Money with Friends_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

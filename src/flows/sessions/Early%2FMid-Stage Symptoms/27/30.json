@@ -1,14 +1,16 @@
 {
-    "header_text": "You meet up with your neighbor once a week to have lunch and catch up with each other. This week, due to your symptoms, you find your attention shifting and cannot remember everything they have said. When you ask the same question again, they feel like you are uninterested.",
+    "header_text": "Neighborhood Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You meet up with your neighbor once a week to have lunch and catch up with each other. This week, due to your symptoms, you find your attention shifting and cannot remember everything they have said. When you ask the same question again, they feel like you are uninterested."
+            "text": "Neighborhood Walk"
         },
         {
             "type": "Media",
-            "url": "./images/872.jpg"
+            "url": "./images/236.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

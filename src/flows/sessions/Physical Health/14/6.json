@@ -1,5 +1,5 @@
 {
-    "header_text": "You arrive to a support group meeting with your mask on. You notice that all of your peers are not wearing a mask. You think that they must be well. ",
+    "header_text": "Unmasked Peers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You arrive to a support group meeting with your mask on. You notice that all of your peers are not wearing a mask. You think that they must be well. _Physical Health_comp_question",
+            "name": "Unmasked Peers_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

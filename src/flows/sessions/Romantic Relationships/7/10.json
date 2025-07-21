@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be okay. ",
+    "header_text": "Overhearing an Argument",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be okay. "
+            "text": "Overhearing an Argument"
         },
         {
             "type": "Media",
             "url": "./images/158.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

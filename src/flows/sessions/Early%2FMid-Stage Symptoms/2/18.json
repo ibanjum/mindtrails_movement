@@ -1,23 +1,39 @@
 {
-    "header_text": "You are at a family gathering and see people you haven’t spoken to in years. Your chorea has gotten more noticeable, and you worry how others will react. While you can’t control what others think, you know most people will be understanding, and the day will still be enjoyable.\n",
+    "header_text": "Seeing A Dog",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a family gathering and see people you haven’t spoken to in years. Your tremors have gotten more noticeable, and you worry how others will react. While you can’t control what others think, you know most people will be understanding, and the day will still be...\n"
+            "Text": "Making a plan with your doctor helped you to feel more..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You are at a family gathering and see people you haven’t spoken to in years. Your chorea has gotten more noticeable, and you worry how others will react. While you can’t control what others think, you know most people will be understanding, and the day will still be enjoyable.\n_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Seeing A Dog_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "enjoyable"
+            "buttons": [
+                "Powerless",
+                "Confident"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Confident"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

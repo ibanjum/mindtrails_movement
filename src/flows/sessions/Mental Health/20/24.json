@@ -1,15 +1,17 @@
 {
-    "header_text": "You are almost ready to check out at the grocery store, but you have forgotten the last item you meant to buy. Whenever you forget something like this, it makes you think about when your mom got dementia. You think you probably can't remember the last item because lately you have been so busy.",
+    "header_text": "Your First Grandchild",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are almost ready to check out at the grocery store, but you have forgotten the last item you meant to buy. Whenever you forget something like this, it makes you think about when your mom had dementia. You think you probably can't remember the last item because lately you have been so..."
+            "text": "You have just had your first grandchild. You want to have a good relationship throughout your kid's life, but you worry about making mistakes as a grandparent. When your grandchild is older, you believe the two of you will be..."
         },
         {
             "type": "Entry",
-            "name": "You are almost ready to check out at the grocery store, but you have forgotten the last item you meant to buy. Whenever you forget something like this, it makes you think about when your mom got dementia. You think you probably can't remember the last item because lately you have been so busy._Mental Health_entry1"
+            "name": "Your First Grandchild_Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

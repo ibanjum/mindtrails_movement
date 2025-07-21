@@ -1,14 +1,16 @@
 {
-    "header_text": "You've recently been feeling overwhelmed with work, but you know that you need to get a second job to be in a more stable financial situation. While searching online for jobs, you saw an application for a job that sounds really fun for you. You think that working this second job will be manageable. ",
+    "header_text": "Extra Income",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You've recently been feeling overwhelmed with work, but you know that you need to get a second job to be in a more stable financial situation. While searching online for jobs, you saw an application for a job that sounds really fun for you. You think that working this second job will be manageable. "
+            "text": "Extra Income"
         },
         {
             "type": "Media",
             "url": "./images/101.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

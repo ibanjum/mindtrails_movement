@@ -1,5 +1,5 @@
 {
-    "header_text": "Your children are thinking about going to college, but you think you would have to take out a loan to help send them. You remember stories you have heard of people still paying their loans when they are in retirement. Imagining yourself in retirement, you think your loans will be outstanding.",
+    "header_text": "Affording Education",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "Your children are thinking about going to college, but you think you would have to take out a loan to help send them. You remember stories you have heard of people still paying their loans when they are in retirement. Imagining yourself in retirement, you think your loans will be outstanding._Finances_entry1"
+            "name": "Affording Education_Finances_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 8
 }

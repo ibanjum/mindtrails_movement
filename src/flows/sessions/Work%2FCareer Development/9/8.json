@@ -1,5 +1,5 @@
 {
-    "header_text": "During a staff meeting, you are called on to share your thoughts. As you start to talk, you hear a loud burst of laughter behind you. Your fellow coworkers are laughing at a joke.",
+    "header_text": "Class Clowns",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "During a staff meeting, you are called on to share your thoughts. As you start to talk, you hear a loud burst of laughter behind you. Your fellow coworkers are laughing at a joke._Work/Career Development_entry1"
+            "name": "Class Clowns_Work/Career Development_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

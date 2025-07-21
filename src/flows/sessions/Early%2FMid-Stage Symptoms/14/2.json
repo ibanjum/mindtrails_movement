@@ -1,23 +1,25 @@
 {
-    "header_text": "You're at your best friend's birthday party, surrounded by laughter and conversation. Suddenly, your chorea causes some water to slosh out of the cup you're holding, making you worry that others will judge you. However, you know that if you open up to your friends about your concerns, they will be understanding and supportive.",
+    "header_text": "Neighbor Chat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at your best friend's birthday party, surrounded by laughter and conversation. Suddenly, your tremor causes some water to slosh out of the cup you're holding, making you worry that others will judge you. However, you know that if you open up to your friends about your concerns, they will be understanding and..."
+            "text": "You are chatting with a neighbor and they are sharing some good news about their wedding plans, but you are having trouble concentrating and taking in the details of the conversation. Your neighbor notices and asks you if you are okay, you feel embarrassed but you know they are asking because they..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You're at your best friend's birthday party, surrounded by laughter and conversation. Suddenly, your chorea causes some water to slosh out of the cup you're holding, making you worry that others will judge you. However, you know that if you open up to your friends about your concerns, they will be understanding and supportive._Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Neighbor Chat_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "supportive"
+                "ca(r)e"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

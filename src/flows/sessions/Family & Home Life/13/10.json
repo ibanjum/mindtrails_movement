@@ -1,27 +1,29 @@
 {
-    "header_text": "Your significant other's parents have invited you to join them for the holidays. You are excited to spend time with your partner's family, but you worry your own parents will be disappointed that you are not with them. When you think about telling your parents you would like to spend the holidays with your partner, you believe that they will take the news poorly.",
+    "header_text": "At the Playground ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you tell your siblings about the invitation, they are likely to"
+            "Text": "When you think about connecting with your grandchildren in the future, you feel..."
         },
         {
             "type": "Buttons",
-            "name": "Your significant other's parents have invited you to join them for the holidays. You are excited to spend time with your partner's family, but you worry your own parents will be disappointed that you are not with them. When you think about telling your parents you would like to spend the holidays with your partner, you believe that they will take the news poorly._Family & Home Life_comp_question",
+            "name": "At the Playground _Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Be very disappointed and feel hurt.",
-                "Be glad that you have met a partner that makes you happy."
+                "Hopeful",
+                "Hopeless"
             ],
             "columnCount": 1,
-            "correct_value": "Be very disappointed and feel hurt."
+            "correct_value": "Hopeful"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

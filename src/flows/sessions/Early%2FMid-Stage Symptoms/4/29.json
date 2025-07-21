@@ -1,23 +1,16 @@
 {
-    "header_text": "You love creating collages, and you're really proud of what you've created. As you think about getting older, you wonder how your ability to cut out images and do this hobby will change. You remind yourself to enjoy doing what you love in the present.",
+    "header_text": "Dinner Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You love creating collages, and you're really proud of what you've created. As you think about getting older, you wonder how your ability to cut out images and do this hobby will change. You remind yourself to enjoy doing what you love in the..."
+            "type": "Label",
+            "text": "Dinner Party"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You love creating collages, and you're really proud of what you've created. As you think about getting older, you wonder how your ability to cut out images and do this hobby will change. You remind yourself to enjoy doing what you love in the present._Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "present"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/732.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "type": "positive",
+    "scenario_num": 9
 }

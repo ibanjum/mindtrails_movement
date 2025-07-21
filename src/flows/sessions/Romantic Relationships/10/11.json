@@ -1,5 +1,5 @@
 {
-    "header_text": "You and your partner have been dating long-distance for awhile and you're going to be living in the same place in just a few months. You’ve never lived in the same place before, and you’re not quite sure how this change could impact your relationship. Even though you feel a bit nervous, you know that this is normal. ",
+    "header_text": "Ending Long Distance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You and your partner have been dating long-distance for awhile and you're going to be living in the same place in just a few months. You’ve never lived in the same place before, and you’re not quite sure how this change could impact your relationship. Even though you feel a bit nervous, you know that this is normal. _Romantic Relationships_entry1"
+            "name": "Ending Long Distance_Romantic Relationships_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

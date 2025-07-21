@@ -1,27 +1,25 @@
 {
-    "header_text": "You and your partner have started couples counseling. You've been to a few sessions, but you and your partner are still having issues. You think that the process will just take time. ",
+    "header_text": "Making Introductions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you have faith in the counseling?"
+            "text": "You've been with your new partner for quite a while. You want to introduce your partner to your kids, but you aren't sure how they are going to react. You think asking them how they would feel about meeting your partner is... "
         },
         {
-            "type": "Buttons",
-            "name": "You and your partner have started couples counseling. You've been to a few sessions, but you and your partner are still having issues. You think that the process will just take time. _Romantic Relationships_comp_question",
+            "type": "WordPuzzle",
+            "name": "Making Introductions_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "appropriate"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
 }

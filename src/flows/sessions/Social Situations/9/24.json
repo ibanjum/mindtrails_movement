@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Social Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "For a recent situation that made you anxious, ask yourself: How might I have thought about it at another time, in another mood? Did the way you thought about it align with what actually happened? Are there alternatives? "
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #8_entry"
+            "text": "Before looking up the same question about your health online again, ask yourself if you are really seeking new infomration or just re-checking something. Reduce time spent re-checking."
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "You have been saving money for a big trip. Unfortunately, you receive an unexpected medical bill, and you will have to use your savings to pay for it. Using all your savings makes the trip seem impossible.",
+    "header_text": "Unexpected Bill",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You have been saving money for a big trip. Unfortunately, you receive an unexpected medical bill, and you will have to use your savings to pay for it. Using all your savings makes the trip seem impossible._Finances_comp_question",
+            "name": "Unexpected Bill_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

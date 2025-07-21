@@ -1,14 +1,16 @@
 {
-    "header_text": "You just started a new job and some friends from work  want to take you to a dinner tonight. You let them know that you have to be up early tomorrow morning for an important event and that you can't go with them and they seem disappointed. You think that your new friends will respect your decision to put your needs first.",
+    "header_text": "Early Morning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You just started a new job and some friends from work  want to take you to a dinner tonight. You let them know that you have to be up early tomorrow morning for an important event and that you can't go with them and they seem disappointed. You think that your new friends will respect your decision to put your needs first."
+            "text": "Early Morning"
         },
         {
             "type": "Media",
             "url": "./images/124.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

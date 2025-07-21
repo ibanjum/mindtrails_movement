@@ -1,14 +1,16 @@
 {
-    "header_text": "You recently had to pay a large sum of money toward repairs for your car. This unexpected expense cut into the money you use to pay your therapy copays, and you are concerned about what will happen if you miss sessions to save money. You call the therapy office, and they help you come up with a solution. ",
+    "header_text": "Stomach Ache",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You recently had to pay a large sum of money toward repairs for your car. This unexpected expense cut into the money you use to pay your therapy copays, and you are concerned about what will happen if you miss sessions to save money. You call the therapy office, and they help you come up with a solution. "
+            "text": "Stomach Ache"
         },
         {
             "type": "Media",
-            "url": "./images/190.jpg"
+            "url": "./images/365.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

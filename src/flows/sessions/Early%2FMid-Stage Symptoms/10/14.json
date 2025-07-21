@@ -1,27 +1,16 @@
 {
-    "header_text": "You are at an educational event about Huntington's disease, and one of the speakers is using unfamiliar medical terms. You feel lost, and you become nervous that you are the only person having trouble understanding the presentation. You look around at the people near you and notice that everyone else seems confused.",
+    "header_text": "Difficulty Baking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Who is having trouble following the presentation?"
+            "type": "Label",
+            "text": "Difficulty Baking"
         },
         {
-            "type": "Buttons",
-            "name": "You are at an educational event about Huntington's disease, and one of the speakers is using unfamiliar medical terms. You feel lost, and you become nervous that you are the only person having trouble understanding the presentation. You look around at the people near you and notice that everyone else seems confused._Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Just you",
-                "Everyone"
-            ],
-            "columnCount": 1,
-            "correct_value": "Everyone"
+            "type": "Media",
+            "url": "./images/576.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

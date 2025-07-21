@@ -1,27 +1,25 @@
 {
-    "header_text": "As you sit down to pay bills, you find it difficult to organize paperwork and add up expenses. You start to doubt whether these bills will ever get paid. Your son offers to help you, and the two of you tackle it together.",
+    "header_text": "Missing Medication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do the bills go unpaid?"
+            "text": "You are celebrating your daughter's birthday, and the celebration is going on longer than planned. You are worried you won't make it back home in time to take your medication. The event is nowhere close to ending, and you realize your medication is wearing off as you start to feel..."
         },
         {
-            "type": "Buttons",
-            "name": "As you sit down to pay bills, you find it difficult to organize paperwork and add up expenses. You start to doubt whether these bills will ever get paid. Your son offers to help you, and the two of you tackle it together._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Missing Medication_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "uncomfortable"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4
 }

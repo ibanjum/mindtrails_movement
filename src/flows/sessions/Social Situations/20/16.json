@@ -1,15 +1,17 @@
 {
-    "header_text": "You are at a crowded outdoor park. There are a lot of people, and you aren't sure if everyone is vaccinated. You think about how you're protected from the flu because you got vaccinated. ",
+    "header_text": "Less Social Media",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at a crowded outdoor park. There are a lot of people, and you aren't sure if everyone is vaccinated. You think about how you're protected from the flu because you got... "
+            "text": "You think about getting on social media more, and still decide not to. You feel..."
         },
         {
             "type": "Entry",
-            "name": "You are at a crowded outdoor park. There are a lot of people, and you aren't sure if everyone is vaccinated. You think about how you're protected from the flu because you got vaccinated. _Social Situations_entry1"
+            "name": "Less Social Media_Social Situations_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

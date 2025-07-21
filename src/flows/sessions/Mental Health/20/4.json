@@ -1,15 +1,17 @@
 {
-    "header_text": "You've been losing your phone more than usual lately. As you notice this, you begin to get anxious about whether this is caused by your HD. You decide that it's best to be more mindful of where you place your phone, and you feel calm.",
+    "header_text": "To-do List",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been losing your phone more than usual lately. As you notice this, you begin to get anxious about whether this is caused by your PD. You decide that it's best to be more mindful of where you place your phone, and you feel..."
+            "text": "You used to be quick at completing your to-do list. Lately, you find yourself needing more time to complete tasks. You tell yourself you'll get back into the swing of things soon, and this helps you..."
         },
         {
             "type": "Entry",
-            "name": "You've been losing your phone more than usual lately. As you notice this, you begin to get anxious about whether this is caused by your HD. You decide that it's best to be more mindful of where you place your phone, and you feel calm._Mental Health_entry1"
+            "name": "To-do List_Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

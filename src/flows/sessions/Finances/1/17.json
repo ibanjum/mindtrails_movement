@@ -1,14 +1,16 @@
 {
-    "header_text": "You've recently been putting money in savings to have in case of emergencies. Your credit card bill was more than you had expected this month, and you had to take a large bit of money from your savings to pay for it. You decide this is okay, and you will focus on budgeting in the future to increase your savings. ",
+    "header_text": "Savings Scandal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You've recently been putting money in savings to have in case of emergencies. Your credit card bill was more than you had expected this month, and you had to take a large bit of money from your savings to pay for it. You decide this is okay, and you will focus on budgeting in the future to increase your savings. "
+            "text": "Savings Scandal"
         },
         {
             "type": "Media",
             "url": "./images/287.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

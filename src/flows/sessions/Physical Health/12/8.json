@@ -1,5 +1,5 @@
 {
-    "header_text": "A few days after attending a birthday party with lots of people, you notice that your throat hurts. You go to the doctor to take a test and find out that you have strep throat. You think about how your health will be affected and think that you will be able to handle the challenges as they come.",
+    "header_text": "Testing Positive for Strep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "A few days after attending a birthday party with lots of people, you notice that your throat hurts. You go to the doctor to take a test and find out that you have strep throat. You think about how your health will be affected and think that you will be able to handle the challenges as they come._Physical Health_puzzle1",
+            "name": "Testing Positive for Strep_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You arrive to a support group meeting with your mask on. You notice that all of your peers are not wearing a mask. You think that they must be well. ",
+    "header_text": "New City New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You arrive to a support group meeting with your mask on. You notice that all of your peers are not wearing a mask. You think that they must be well. "
+            "text": "New City New Friends"
         },
         {
             "type": "Media",
-            "url": "./images/512.jpg"
+            "url": "./images/690.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Your favorite part of the day is winding down to eat dinner. You realize that you've been eating alone a lot recently as you start making dinner, and this makes you feel sad. You decide you are okay because eating alone gives you time to reflect on your day.",
+    "header_text": "Feeling Excluded on Social Media",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you okay with eating dinner alone?"
+            "Text": "Can you handle that sometimes your friends hang out without you?"
         },
         {
             "type": "Buttons",
-            "name": "Your favorite part of the day is winding down to eat dinner. You realize that you've been eating alone a lot recently as you start making dinner, and this makes you feel sad. You decide you are okay because eating alone gives you time to reflect on your day._Mental Health_comp_question",
+            "name": "Feeling Excluded on Social Media_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Every small shift in perspective leads to bigger changes over time. Keep going—you're training your brain to think in more balanced and helpful ways!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

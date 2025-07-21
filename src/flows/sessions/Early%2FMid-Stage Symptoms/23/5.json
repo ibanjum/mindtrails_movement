@@ -1,23 +1,25 @@
 {
-    "header_text": "You pride yourself on remembering acquaintances' names. You and your partner throw a cocktail party, but you can't remember a few of your guests' names. Forgetting their names makes you upset.",
+    "header_text": "Handwriting Challenge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You pride yourself on remembering acquaintances' names. You and your partner throw a cocktail party, but you can't remember a few of your guests' names. Forgetting their names makes you..."
+            "text": "You have a busy week ahead, so you sit down to write a to-do list. You notice your handwriting doesn't look as neat as it has always been, which concerns you. You consider that if your writing worsens over time, technology will help you..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You pride yourself on remembering acquaintances' names. You and your partner throw a cocktail party, but you can't remember a few of your guests' names. Forgetting their names makes you upset._Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Handwriting Challenge_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "upset"
+                "adapt"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

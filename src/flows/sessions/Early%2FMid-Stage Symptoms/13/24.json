@@ -1,14 +1,16 @@
 {
-    "header_text": "You're at a concert, and everyone starts clapping along to your favorite song. You find that you are struggling to clap at the right time, and you feel worried that those around you will be distracted by your symptoms. When you look at the people around you, they look back at you with a grin.",
+    "header_text": "Walking to the Kitchen",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're at a concert, and everyone starts clapping along to your favorite song. You find that you are struggling to clap at the right time, and you feel worried that those around you will be distracted by your symptoms. When you look at the people around you, they look back at you with a grin."
+            "text": "Walking to the Kitchen"
         },
         {
             "type": "Media",
-            "url": "./images/810.jpg"
+            "url": "./images/969.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

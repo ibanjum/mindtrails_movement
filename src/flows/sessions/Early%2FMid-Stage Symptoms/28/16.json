@@ -1,14 +1,29 @@
 {
-    "header_text": "While attending a community meeting, you find it challenging to concentrate and keep up with the conversation. You worry you will be perceived as less capable. Instead of dwelling on this, you actively participate by asking clarifying questions and showing your enthusiasm.",
+    "header_text": "Missing Medication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "While attending a community meeting, you find it challenging to concentrate and keep up with the conversation. You worry you will be perceived as less capable. Instead of dwelling on this, you actively participate by asking clarifying questions and showing your enthusiasm."
+            "type": "Text",
+            "Text": "Will you experience bothersome symptoms because you missed a dose?"
         },
         {
-            "type": "Media",
-            "url": "./images/422.jpg"
+            "type": "Buttons",
+            "name": "Missing Medication_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

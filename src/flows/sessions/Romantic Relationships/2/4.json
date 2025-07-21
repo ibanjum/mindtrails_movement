@@ -1,14 +1,26 @@
 {
-    "header_text": "You and your significant other have been caught up on your own responsibilities recently, and you feel as though you; 're drifting apart. You decide to plan a dinner date with them, to spend some quality time just the two of you. At dinner, you feel as though you're starting all of the conversations, and your partner seems uninterested. ",
+    "header_text": "Putting Yourself Out There",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your significant other have been caught up on your own responsibilities recently, and you feel as though you; 're drifting apart. You decide to plan a dinner date with them, to spend some quality time just the two of you. At dinner, you feel as though you're starting all of the conversations, and your partner seems uninterested. "
+            "text": "Putting Yourself Out There"
         },
         {
             "type": "Media",
             "url": "./images/362.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

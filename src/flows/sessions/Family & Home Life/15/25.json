@@ -1,14 +1,29 @@
 {
-    "header_text": "You have decorated cookies with your grandchild and placed them in the oven to bake. As you pull the tray out, it drops to the floor, breaking a few of the cookies. You feel like you disappointed your grandchild, but they let out a giggle. ",
+    "header_text": "Retirement Celebration",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You have decorated cookies with your grandchild and placed them in the oven to bake. As you pull the tray out, it drops to the floor, breaking a few of the cookies. You feel like you disappointed your grandchild, but they let out a giggle. "
+            "type": "Text",
+            "Text": "The realization that your family is coming together for you makes you feel... "
         },
         {
-            "type": "Media",
-            "url": "./images/223.jpg"
+            "type": "Buttons",
+            "name": "Retirement Celebration_Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Optimistic.",
+                "Pessimistic."
+            ],
+            "columnCount": 1,
+            "correct_value": "Optimistic."
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

@@ -1,23 +1,29 @@
 {
-    "header_text": "Your friends are all in relationships. You are not currently in a relationship, and you wonder if there is something wrong with you. You think that you are undesirable. ",
+    "header_text": "Blood test results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After a while, you realize that it is very normal to not be in a relationship. You think that you enjoy being single, and the right person will come along when you are...  "
+            "Text": "Is it unbearable to be nervous as you wait for your test results?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Your friends are all in relationships. You are not currently in a relationship, and you wonder if there is something wrong with you. You think that you are undesirable. _Mental Health_puzzle_word2",
+            "type": "Buttons",
+            "name": "Blood test results_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "ready"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

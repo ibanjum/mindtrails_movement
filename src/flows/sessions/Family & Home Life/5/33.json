@@ -1,27 +1,39 @@
 {
-    "header_text": "Your family values education. You want your kids to be able to attend good colleges, but you understand that this comes with a high price tag. When you think about your children, you think supporting their college education will be doable.",
+    "header_text": "Leaving the House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You think that sending your grandkids to a good college will be..."
+            "Text": "For the rest of your morning commute, you feel..."
         },
         {
             "type": "Buttons",
-            "name": "Your family values education. You want your kids to be able to attend good colleges, but you understand that this comes with a high price tag. When you think about your children, you think supporting their college education will be doable._Family & Home Life_comp_question",
+            "name": "Leaving the House_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Attainable",
-                "Beyond your means"
+                "At ease as you get to work",
+                "Worried that you left the door to your home unlocked"
             ],
             "columnCount": 1,
-            "correct_value": "Attainable"
+            "correct_value": "At ease as you get to work"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

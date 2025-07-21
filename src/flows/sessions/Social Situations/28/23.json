@@ -1,27 +1,29 @@
 {
-    "header_text": "You are at a birthday party for a friend of a friend. You notice that you are flushed and a little sweaty. Standing there, you think that these sensations are normal.",
+    "header_text": "Critical Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "People will probably..."
+            "Text": "Are you going to let a disagreement ruin your friendship?"
         },
         {
             "type": "Buttons",
-            "name": "You are at a birthday party for a friend of a friend. You notice that you are flushed and a little sweaty. Standing there, you think that these sensations are normal._Social Situations_comp_question",
+            "name": "Critical Friend_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Notice that you are sweating",
-                "Not see you sweat since the room is dimly lit"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Not see you sweat since the room is dimly lit"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

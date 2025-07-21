@@ -1,14 +1,16 @@
 {
-    "header_text": "It is just one day before you are supposed to leave town to go visit your family, and your friend is told they were exposed to someone with strep throat. You both go get tested, but results typically come back in 48 hours. You decide to stay home in case you're sick, and you think your family will understand.",
+    "header_text": "Plans to Visit Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It is just one day before you are supposed to leave town to go visit your family, and your friend is told they were exposed to someone with strep throat. You both go get tested, but results typically come back in 48 hours. You decide to stay home in case you're sick, and you think your family will understand."
+            "text": "Plans to Visit Family"
         },
         {
             "type": "Media",
             "url": "./images/507.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

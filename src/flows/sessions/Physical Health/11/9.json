@@ -1,19 +1,19 @@
 {
-    "header_text": "Laughing at a joke: Feelings",
+    "header_text": "Aging family member: Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A friend tells a funny joke and you start to laugh really hard. While you're laughing, you feel an uncomfortable tightness in your chest that you've never felt before. \n\nHere are some feelings that might happen in the moment:"
+            "text": "You go to your parents' home for the first time in a while and notice that your father looks a lot less healthy than you remember. Neither one of your parents mentions anything about his health. \n\nHere are some feelings that might happen in the moment:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I feel very connected to my friend.",
-                "I'm really scared about what this feeling means.",
-                "I'm anxious that this feeling means something's wrong with me, but I know it's probably from laughing really hard.",
-                "I'm nervous about why my chest is tight, but then remind myself that this is normal.",
-                "I love it when my friends make me laugh."
+                "I feel thrilled that my father is engaging in conversation.",
+                "I am grateful to be able to spend time with my father.",
+                "I start to feel angry about how he is getting older, but know that this is a part of life and I cannot change it.",
+                "I'm uneasy about my father's appearance.",
+                "I feel anxious and start to overthink what could be wrong, but remember I can't control his health."
             ],
             "Duration": 15
         }

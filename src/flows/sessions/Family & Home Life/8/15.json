@@ -1,15 +1,17 @@
 {
-    "header_text": "You look through your social media feed and notice that your kids only post pictures with their friends. You want to post a family picture and tag your kids. You ask your kids if they mind, and they say that it is a great photo.",
+    "header_text": "Overhearing an Argument",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You look through your social media feed and notice that your kids only post pictures with their friends. You want to post a family picture and tag your kids. You ask your kids if they mind, and they say that it is a great..."
+            "text": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be... "
         },
         {
             "type": "Entry",
-            "name": "You look through your social media feed and notice that your kids only post pictures with their friends. You want to post a family picture and tag your kids. You ask your kids if they mind, and they say that it is a great photo._Family & Home Life_entry1"
+            "name": "Overhearing an Argument_Family & Home Life_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

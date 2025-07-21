@@ -1,0 +1,16 @@
+{
+    "header_text": "Language Class",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Language Class"
+        },
+        {
+            "type": "Media",
+            "url": "./images/868.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

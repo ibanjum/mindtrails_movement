@@ -1,14 +1,16 @@
 {
-    "header_text": "You are invited to a formal event for work. You can't afford something new to wear, so you have to wear an old outfit. When you think about everyone's opinion of what you're wearing, you believe you'll feel confident.",
+    "header_text": "Using What You Have",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are invited to a formal event for work. You can't afford something new to wear, so you have to wear an old outfit. When you think about everyone's opinion of what you're wearing, you believe you'll feel confident."
+            "text": "Using What You Have"
         },
         {
             "type": "Media",
             "url": "./images/646.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

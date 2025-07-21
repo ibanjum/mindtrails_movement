@@ -1,23 +1,29 @@
 {
-    "header_text": "You are planning to start a load of laundry. As you pick up your laundry basket to carry it to the washing machine, you feel wobbly. You don't think you will be able do your laundry right now, and you feel frustrated. ",
+    "header_text": "Painting Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You start to think of creative ways to make sure your laundry gets done today. You remember that you have a support system that would be willing to help you, so you feel..."
+            "Text": "The new project will be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You are planning to start a load of laundry. As you pick up your laundry basket to carry it to the washing machine, you feel wobbly. You don't think you will be able do your laundry right now, and you feel frustrated. _Family & Home Life_puzzle_word2",
+            "type": "Buttons",
+            "name": "Painting Project_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "comforted"
+            "buttons": [
+                "Impossible",
+                "Completed"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Completed"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

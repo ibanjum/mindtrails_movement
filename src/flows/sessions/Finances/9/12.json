@@ -1,5 +1,5 @@
 {
-    "header_text": "You've been wanting to go to therapy for a while. However, you aren't sure whether you have the budget to pay for it. You think that it's likely that you will find a provider whose services are affordable. ",
+    "header_text": "Affording Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,20 @@
         },
         {
             "type": "Entry",
-            "name": "You've been wanting to go to therapy for a while. However, you aren't sure whether you have the budget to pay for it. You think that it's likely that you will find a provider whose services are affordable. _Finances_entry1"
+            "name": "Affording Therapy_Finances_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

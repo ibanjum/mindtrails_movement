@@ -1,15 +1,17 @@
 {
-    "header_text": "It's Saturday, and you have no plans for the day. You realize you haven't seen your family in a while and wonder if you are drifting apart. You think they may have forgotten about you.",
+    "header_text": "Getting Over It",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's Saturday, and you have no plans for the day. You realize you haven't seen your family in a while and wonder if you are drifting apart. You think they may have forgotten about..."
+            "text": "You recently went through a major breakup with your long term partner. You want to ask your family and friends for support, but you don’t know how. When you tell them you are struggling, they applaud your... "
         },
         {
             "type": "Entry",
-            "name": "It's Saturday, and you have no plans for the day. You realize you haven't seen your family in a while and wonder if you are drifting apart. You think they may have forgotten about you._Family & Home Life_entry1"
+            "name": "Getting Over It_Family & Home Life_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You just sat down for some lunch and decide to use your laptop while eating. As you're eating, you spill some of your pasta on your laptop. After you spill, you quickly get a cloth to clean up the mess, and you feel very disappointed.",
+    "header_text": "Favorite Restaurant",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You just sat down for some lunch and decide to use your laptop while eating. As you're eating, you spill some of your pasta on your laptop. After you spill, you quickly get a cloth to clean up the mess, and you feel very disappointed."
+            "text": "Favorite Restaurant"
         },
         {
             "type": "Media",
-            "url": "./images/757.jpg"
+            "url": "./images/748.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

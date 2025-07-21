@@ -1,23 +1,25 @@
 {
-    "header_text": "You are known in your family for sending birthday cards on time every year. This year, several of your family members got their cards late because you forgot to check your calendar. You think that you forgot about the cards because you have been busy. ",
+    "header_text": "Coffee Ordering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are known in your family for sending birthday cards on time every year. This year, several of your family members got their cards late because you forgot to check your calendar. You think that you forgot about the cards because you have been... "
+            "text": "You are at a coffee shop, and it's your turn to order. Your words are coming out unclear and you see confusion on the employee's face. You remind yourself that there's no rush and the employee is likely just trying to hear, not judging..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You are known in your family for sending birthday cards on time every year. This year, several of your family members got their cards late because you forgot to check your calendar. You think that you forgot about the cards because you have been busy. _Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Coffee Ordering_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "busy"
+                "you"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

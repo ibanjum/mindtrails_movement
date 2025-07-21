@@ -1,15 +1,17 @@
 {
-    "header_text": "You recently brought your partner to dinner with your siblings. When your partner talks about their career, your siblings look uninterested. You realize that your siblings were probably just focused on listening.",
+    "header_text": "Playing the Piano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You recently brought your partner to dinner with your siblings. When your partner talks about their career, your siblings look uninterested. You realize that your siblings were probably just focused on..."
+            "text": "Walking up to the piano, you think to yourself, this is nothing to worry about. When you play the piano, your family will be..."
         },
         {
             "type": "Entry",
-            "name": "You recently brought your partner to dinner with your siblings. When your partner talks about their career, your siblings look uninterested. You realize that your siblings were probably just focused on listening._Family & Home Life_entry1"
+            "name": "Playing the Piano_Family & Home Life_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

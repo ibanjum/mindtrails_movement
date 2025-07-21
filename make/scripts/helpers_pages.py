@@ -237,9 +237,9 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
             "navigation_conditions":["wait_for_correct","wait_for_click"]
         })
 
-    if tipe:
-        for page in pages:
-            page["type"] = tipe
+    for page in pages:
+        if tipe: page["type"] = tipe
+        page["scenario_num"] = scenario_num
 
     return pages
 

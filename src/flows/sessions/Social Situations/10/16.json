@@ -1,14 +1,16 @@
 {
-    "header_text": "You are on your way home after participating in trivia night. As your mind wanders, you think about the one question you missed. Overall, you consider your performance a success.",
+    "header_text": "Trivia Night",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are on your way home after participating in trivia night. As your mind wanders, you think about the one question you missed. Overall, you consider your performance a success."
+            "text": "Trivia Night"
         },
         {
             "type": "Media",
             "url": "./images/652.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

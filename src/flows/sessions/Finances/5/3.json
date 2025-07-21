@@ -1,5 +1,5 @@
 {
-    "header_text": "You go in for your routine dental appointment and find out that you have a cavity. They tell you that there will be an extra fee to pay, and you start to worry about the cost. You remind yourself that it is worth it to address the cavity now before it gets worse, and you think the cost will be manageable.  ",
+    "header_text": "Going to the Dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You go in for your routine dental appointment and find out that you have a cavity. They tell you that there will be an extra fee to pay, and you start to worry about the cost. You remind yourself that it is worth it to address the cavity now before it gets worse, and you think the cost will be manageable.  _Finances_puzzle1",
+            "name": "Going to the Dentist_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

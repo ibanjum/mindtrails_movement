@@ -1,14 +1,17 @@
 {
-    "header_text": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be okay. ",
+    "header_text": "Political Opinions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be okay. "
+            "type": "Text",
+            "text": "You are watching a political debate with family. During the commercial break, one of your family members asks everyone what they thought of the candidates. You have a different opinion from everyone else and worry that an argument will..."
         },
         {
-            "type": "Media",
-            "url": "./images/158.jpg"
+            "type": "Entry",
+            "name": "Political Opinions_Family & Home Life_entry1"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You are new to a job, and your boss asks you to do a task. You finish it before the deadline and your boss immediately points out that you made a mistake. Your boss probably thinks you are a failure.",
+    "header_text": "Mistake on a task",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are new to a job, and your boss asks you to do a task. You finish it before the deadline and your boss immediately points out that you made a mistake. Your boss probably thinks you are a failure."
+            "text": "Mistake on a task"
         },
         {
             "type": "Media",
             "url": "./images/116.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

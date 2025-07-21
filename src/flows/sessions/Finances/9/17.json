@@ -1,14 +1,16 @@
 {
-    "header_text": "You've had a lot going on recently and haven't felt like yourself. You want to treat yourself to something you enjoy, but you aren't sure you have room in your budget. You decide to buy yourself something small that you can definitely afford.",
+    "header_text": "Treating Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You've had a lot going on recently and haven't felt like yourself. You want to treat yourself to something you enjoy, but you aren't sure you have room in your budget. You decide to buy yourself something small that you can definitely afford."
+            "text": "Treating Yourself"
         },
         {
             "type": "Media",
             "url": "./images/251.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

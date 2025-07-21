@@ -1,14 +1,16 @@
 {
-    "header_text": "This morning your spouse is watching the news and you overhear that a lot of businesses are currently downsizing. You think about what will happen if your spouse loses their job. You feel scared.",
+    "header_text": "Feeling Worried by the News",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "This morning your spouse is watching the news and you overhear that a lot of businesses are currently downsizing. You think about what will happen if your spouse loses their job. You feel scared."
+            "text": "Feeling Worried by the News"
         },
         {
             "type": "Media",
             "url": "./images/255.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

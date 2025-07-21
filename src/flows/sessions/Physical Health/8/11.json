@@ -1,5 +1,5 @@
 {
-    "header_text": "Your friend convinces you to go on a walk through a local park. You have heard that there are poisonous snakes in that park and start to feel worried. You think that the chances that you will see that kind of snake are small.",
+    "header_text": "Poisonous Snakes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,20 @@
         },
         {
             "type": "Entry",
-            "name": "Your friend convinces you to go on a walk through a local park. You have heard that there are poisonous snakes in that park and start to feel worried. You think that the chances that you will see that kind of snake are small._Physical Health_entry1"
+            "name": "Poisonous Snakes_Physical Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Just like a muscle, your brain strengthens the pathways it uses the most. That's why practicing lots of situations helps you change your thinking habits. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

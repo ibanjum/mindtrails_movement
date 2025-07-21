@@ -1,23 +1,25 @@
 {
-    "header_text": "Your family values education. You want your kids to be able to attend good colleges, but you understand that this comes with a high price tag. When you think about your children, you think supporting their college education will be doable.",
+    "header_text": "Leaving the House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your family values education. You want your grandkids to be able to attend good colleges, but you understand that this comes with a high price tag. When you think about your children, you think supporting their college education will be..."
+            "text": "One morning, you leave your house and begin to make your way to work. About 10 minutes into the drive, you wonder whether you remembered to lock the door to your home. As you continue your commute, you trust yourself and you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Your family values education. You want your kids to be able to attend good colleges, but you understand that this comes with a high price tag. When you think about your children, you think supporting their college education will be doable._Family & Home Life_puzzle1",
+            "name": "Leaving the House_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "doable"
+                "relaxed"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

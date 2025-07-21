@@ -1,14 +1,29 @@
 {
-    "header_text": "Recently, you have felt like you are in a good place financially and were looking into getting the car you have always wanted. However, after getting your HD diagnosis, you feel like getting the car will be a waste since you may not be able to drive in a couple years. You are disappointed. ",
+    "header_text": "Cocktail Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Recently, you have felt like you are in a good place financially and were looking into getting the car you have always wanted. However, after getting your HD diagnosis, you feel like getting the car will be a waste since you may not be able to drive in a couple years. You are disappointed. "
+            "type": "Text",
+            "Text": "With your partner's support, you can..."
         },
         {
-            "type": "Media",
-            "url": "./images/266.jpg"
+            "type": "Buttons",
+            "name": "Cocktail Party_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Avoid interacting with others.",
+                "Make the most out of the party."
+            ],
+            "columnCount": 1,
+            "correct_value": "Make the most out of the party."
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

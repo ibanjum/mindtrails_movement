@@ -1,5 +1,5 @@
 {
-    "header_text": "You recently got tested for strep throat, and are expecting your results today. You are in the middle of a meeting when you hear your phone vibrating, and you wonder if you tested positive or negative. You check your voicemail and see that you tested positive. ",
+    "header_text": "Positive Test",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You recently got tested for strep throat, and are expecting your results today. You are in the middle of a meeting when you hear your phone vibrating, and you wonder if you tested positive or negative. You check your voicemail and see that you tested positive. _Physical Health_comp_question",
+            "name": "Positive Test_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 1
 }

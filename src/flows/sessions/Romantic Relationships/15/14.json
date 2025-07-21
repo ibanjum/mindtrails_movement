@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your partner recently opened a joint bank account. While going through the bank statements, you are shocked to see that your partner has been spending recklessly. As you consider bringing up your concerns to your partner, you think they will be understanding. ",
+    "header_text": "Paying for Dinner ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your partner recently opened a joint bank account. While going through the bank statements, you are shocked to see that your partner has been spending recklessly. As you consider bringing up your concerns to your partner, you think they will be understanding. "
+            "text": "Paying for Dinner "
         },
         {
             "type": "Media",
-            "url": "./images/184.jpg"
+            "url": "./images/296.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

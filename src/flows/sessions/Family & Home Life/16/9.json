@@ -1,19 +1,19 @@
 {
-    "header_text": "Missing spider: Feelings",
+    "header_text": "Babysitting: Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you're getting into the shower, you see a huge spider on the wall. You turn away for a second and look back and realize it's gone. \n\nHere are some feelings that might happen in the moment:"
+            "text": "You are looking after a friend's child and you're watching TV while they sleep. It's dark outside and you suddenly hear noises against the window. \n\nHere are some feelings that might happen in the moment:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I'm nervous about the spider, but remind myself that it probably is more scared of me.",
-                "I'm going to feel so refreshed after this shower.",
-                "I feel freaked out, but know that I'm brave enough to take my shower anyway.",
-                "I'm grateful the spider is here to eat other bugs in my house.",
-                "I feel worried about where the spider may crawl next."
+                "I'm happy that my favorite show is on TV.",
+                "I'm excited to see my friend and hear about their night out.",
+                "I feel worried that something is looking into the window.",
+                "My heart is beating a little faster than it was before I heard the noise, but I know that it'll go back to normal soon.",
+                "It makes sense that I was scared at first, but remind myself that I'm probably safe."
             ],
             "Duration": 15
         }

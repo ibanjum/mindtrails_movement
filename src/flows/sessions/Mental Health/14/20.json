@@ -1,14 +1,16 @@
 {
-    "header_text": "You are at an event and start to talk with some acquaintances. As the room fills, you can feel your heart beating fast, and this scares you. When the event gets louder as more people arrive, you consider leaving, but you decide you can handle these feelings and keep on socializing.",
+    "header_text": "Awkward Conversations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at an event and start to talk with some acquaintances. As the room fills, you can feel your heart beating fast, and this scares you. When the event gets louder as more people arrive, you consider leaving, but you decide you can handle these feelings and keep on socializing."
+            "text": "Awkward Conversations"
         },
         {
             "type": "Media",
-            "url": "./images/383.jpg"
+            "url": "./images/382.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

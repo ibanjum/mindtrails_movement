@@ -1,14 +1,16 @@
 {
-    "header_text": "A play you bought tickets for a while ago is finally approaching. However, the actors got food poisoning, and the play may be cancelled last minute. You accept this fact and know the director will reschedule if they need to.",
+    "header_text": "Play Cancellation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A play you bought tickets for a while ago is finally approaching. However, the actors got food poisoning, and the play may be cancelled last minute. You accept this fact and know the director will reschedule if they need to."
+            "text": "Play Cancellation"
         },
         {
             "type": "Media",
             "url": "./images/957.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

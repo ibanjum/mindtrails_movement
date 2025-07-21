@@ -1,23 +1,29 @@
 {
-    "header_text": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you decide to hold it because you're nervous.",
+    "header_text": "A Long Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you freeze..."
+            "Text": "If your medication wears off, dinner will be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you decide to hold it because you're nervous._Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "A Long Dinner_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "up"
+            "buttons": [
+                "ruined.",
+                "enjoyable."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "enjoyable."
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

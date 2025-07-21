@@ -1,14 +1,25 @@
 {
-    "header_text": "You're attending a neighborhood council meeting and talking with those around you. As the conversation flows, you feel overwhelmed trying to keep track of the multiple voices and topics being discussed. You decide to take a moment to step aside and explain to a close neighbor about your difficulty, knowing that they will be try to be helpful and inclusive.",
+    "header_text": "Gardening Help",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You're attending a neighborhood council meeting and talking with those around you. As the conversation flows, you feel overwhelmed trying to keep track of the multiple voices and topics being discussed. You decide to take a moment to step aside and explain to a close neighbor about your difficulty, knowing that they will be try to be helpful and inclusive."
+            "type": "Text",
+            "text": "You have a garden you're really proud of and enjoy getting to work on every year. As you think about getting older, you wonder how your ability to do this pastime will change. You think about how your PD symptoms could prevent you from caring for your plants, and they'll..."
         },
         {
-            "type": "Media",
-            "url": "./images/808.jpg"
+            "type": "WordPuzzle",
+            "name": "Gardening Help_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "die"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

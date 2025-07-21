@@ -1,14 +1,16 @@
 {
-    "header_text": "Your partner hasn't been home much recently. However, when they do come home, they forget their garbage on the table, leave crumbs on the counter, and never lock the door on their way out. You think it's time to bring it up to them. ",
+    "header_text": "Introducing Your Spouse to New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your partner hasn't been home much recently. However, when they do come home, they forget their garbage on the table, leave crumbs on the counter, and never lock the door on their way out. You think it's time to bring it up to them. "
+            "text": "Introducing Your Spouse to New Friends"
         },
         {
             "type": "Media",
-            "url": "./images/580.jpg"
+            "url": "./images/152.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

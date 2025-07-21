@@ -1,23 +1,29 @@
 {
-    "header_text": "You hear that some friends went out to dinner without you last night. You didn't get an invite to hang out with them. You realize that sometimes your friends hang out without you, and you feel excluded.",
+    "header_text": "Picture with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You don't like being left out. However, you decide that you can tolerate this..."
+            "Text": "Are you worried about your appearance in the posted picture?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You hear that some friends went out to dinner without you last night. You didn't get an invite to hang out with them. You realize that sometimes your friends hang out without you, and you feel excluded._Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "Picture with Friends_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "feeling"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

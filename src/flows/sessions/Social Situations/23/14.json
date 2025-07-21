@@ -1,14 +1,16 @@
 {
-    "header_text": "Tomorrow is a close friend's birthday. You forgot to get them a gift and don't have much time to shop for something good. You pick up something mediocre from a nearby store and you think they will be upset",
+    "header_text": "Not Getting an Invite",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tomorrow is a close friend's birthday. You forgot to get them a gift and don't have much time to shop for something good. You pick up something mediocre from a nearby store and you think they will be upset"
+            "text": "Not Getting an Invite"
         },
         {
             "type": "Media",
-            "url": "./images/189.jpg"
+            "url": "./images/702.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

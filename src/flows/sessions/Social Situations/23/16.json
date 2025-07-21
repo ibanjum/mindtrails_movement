@@ -1,27 +1,29 @@
 {
-    "header_text": "Tomorrow is a close friend's birthday. You forgot to get them a gift and don't have much time to shop for something good. You pick up something mediocre from a nearby store and you think they will be upset",
+    "header_text": "Not Getting an Invite",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You imagine that when you show up at your friend's birthday, they will think"
+            "Text": "Were you not invited because you were busy?"
         },
         {
             "type": "Buttons",
-            "name": "Tomorrow is a close friend's birthday. You forgot to get them a gift and don't have much time to shop for something good. You pick up something mediocre from a nearby store and you think they will be upset_Social Situations_comp_question",
+            "name": "Not Getting an Invite_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "\"Aw. It was really nice of my friend to bring me a gift.\"",
-                "\"This is almost worse than no gift at all.\""
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "\"This is almost worse than no gift at all.\""
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

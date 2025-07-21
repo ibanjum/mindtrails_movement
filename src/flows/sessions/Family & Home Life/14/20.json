@@ -1,14 +1,14 @@
 {
-    "header_text": "Your home is a mess, and you decide to tackle some chores. You start to fold the laundry, but you find that you're struggling to fold clothes neatly. At first this causes you to feel overwhelmed, but you remind yourself to take a deep breath and relax.",
+    "header_text": "Pet Schedule",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to calm yourself down?"
+            "Text": "Will you have to give up your pet?"
         },
         {
             "type": "Buttons",
-            "name": "Your home is a mess, and you decide to tackle some chores. You start to fold the laundry, but you find that you're struggling to fold clothes neatly. At first this causes you to feel overwhelmed, but you remind yourself to take a deep breath and relax._Family & Home Life_comp_question",
+            "name": "Pet Schedule_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,11 +17,13 @@
                 "No"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

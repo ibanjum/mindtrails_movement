@@ -1,14 +1,16 @@
 {
-    "header_text": "Your supervisor arranges a meeting for you with a new coworker you have yet to meet. As you sit in the room waiting to meet this coworker for the first time, you wonder how it will go. You feel that your coworker will think you are pleasant.",
+    "header_text": "First meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your supervisor arranges a meeting for you with a new coworker you have yet to meet. As you sit in the room waiting to meet this coworker for the first time, you wonder how it will go. You feel that your coworker will think you are pleasant."
+            "text": "First meeting"
         },
         {
             "type": "Media",
             "url": "./images/96.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

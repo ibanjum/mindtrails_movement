@@ -1,5 +1,5 @@
 {
-    "header_text": "In your meeting today, you have an important presentation. In order to follow your boss's instructions, you must present for 15 minutes. When you think about completing this presentation, you feel prepared.",
+    "header_text": "Prepare to Succeed",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "In your meeting today, you have an important presentation. In order to follow your boss's instructions, you must present for 15 minutes. When you think about completing this presentation, you feel prepared._Work/Career Development_entry1"
+            "name": "Prepare to Succeed_Work/Career Development_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

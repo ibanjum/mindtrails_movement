@@ -1,19 +1,19 @@
 {
-    "header_text": "Research Ethics: Feelings",
+    "header_text": "Spilled slushie: Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're working on a report with a few colleagues and need to report some statistics. A colleague suggests that you change the statistics so that your report looks better, but that would be lying.\n\nHere are some feelings that might happen in the moment:"
+            "text": "You and your friends are out getting dinner. Your food and drinks arrive, and you accidentally spill your drink down the front of your new white shirt.\n\nHere are some feelings that might happen in the moment:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I'll be more confident working on projects in the future knowing that I can interpret real data effectively.",
-                "I feel embarrassed about telling my coworkers that this is wrong, but even if they judge me, I will be okay.",
-                "I'm nervous about disagreeing with my coworkers, but I know it is the right thing to do",
-                "I am upset at my coworkers wanting me to take the easy way out.",
-                "I'll feel more proud of our work if I don't change our results."
+                "I'm so annoyed with myself, but am able to get past this feeling.",
+                "I'm feeling silly and decide to chuckle about it.",
+                "I'm self-conscious with this stain, but no one else will care.",
+                "I feel embarrassed and it's making me want to leave the mall.",
+                "I'm glad that this is an old shirt."
             ],
             "Duration": 15
         }

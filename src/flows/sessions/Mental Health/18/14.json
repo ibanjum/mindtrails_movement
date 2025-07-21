@@ -1,14 +1,16 @@
 {
-    "header_text": "You are planning an event you are extremely excited about. As you think about what you need to do for the event to be a success, your thoughts seem to speed up. This is helpful.",
+    "header_text": "Working to Get Ahead",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are planning an event you are extremely excited about. As you think about what you need to do for the event to be a success, your thoughts seem to speed up. This is helpful."
+            "text": "Working to Get Ahead"
         },
         {
             "type": "Media",
-            "url": "./images/402.jpg"
+            "url": "./images/36.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You would like to apply for a higher position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal and have worked hard to make yourself a good employee. You feel that your chances of getting this new job are slim.",
+    "header_text": "Achieving Your Goals",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You would like to apply for a higher position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal and have worked hard to make yourself a good employee. You feel that your chances of getting this new job are slim."
+            "text": "Achieving Your Goals"
         },
         {
             "type": "Media",
             "url": "./images/88.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 3
 }

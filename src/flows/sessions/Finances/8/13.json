@@ -1,14 +1,16 @@
 {
-    "header_text": "You’ve recently taken on extra responsibilities at work to make some extra money. As the workload at your job gets heavier, you worry about managing your work and family responsibilities but know you could really use the money. You decide to explain the situation to your supervisor, and you realize that it’s okay to ask for help when needed. ",
+    "header_text": "Managing Jobs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You’ve recently taken on extra responsibilities at work to make some extra money. As the workload at your job gets heavier, you worry about managing your work and family responsibilities but know you could really use the money. You decide to explain the situation to your supervisor, and you realize that it’s okay to ask for help when needed. "
+            "text": "Managing Jobs"
         },
         {
             "type": "Media",
             "url": "./images/280.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

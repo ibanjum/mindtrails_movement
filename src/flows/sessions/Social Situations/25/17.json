@@ -1,20 +1,20 @@
 {
-    "header_text": "A group of your friends are going out to dinner and they invited you. You know that you guys have been going out to dinner a lot recently, and you don't know if you can keep up with this lifestyle. You tell your friends that you'll catch up with them next time, and you're happy staying at home for the night.",
+    "header_text": "Working Late",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you comfortable passing up on this dinner?"
+            "Text": "Do you feel okay about seeing your coworkers? "
         },
         {
             "type": "Buttons",
-            "name": "A group of your friends are going out to dinner and they invited you. You know that you guys have been going out to dinner a lot recently, and you don't know if you can keep up with this lifestyle. You tell your friends that you'll catch up with them next time, and you're happy staying at home for the night._Social Situations_comp_question",
+            "name": "Working Late_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

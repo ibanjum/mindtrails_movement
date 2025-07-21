@@ -1,14 +1,16 @@
 {
-    "header_text": "After finding out a friend has a virus, you decide to take yourself to the park for a relaxing day. When you try to go walk for a long time, you feel tired. This is probably because you've been stressed.",
+    "header_text": "Hard Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "After finding out a friend has a virus, you decide to take yourself to the park for a relaxing day. When you try to go walk for a long time, you feel tired. This is probably because you've been stressed."
+            "text": "Hard Walk"
         },
         {
             "type": "Media",
             "url": "./images/499.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

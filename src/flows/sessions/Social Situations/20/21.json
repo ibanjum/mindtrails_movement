@@ -1,14 +1,16 @@
 {
-    "header_text": "After being inactive for a few years, you recently joined a recreational trivia league. There is a tournament at the end of the season, and you are not sure how you will perform. Most likely, you will be successful.",
+    "header_text": "Coughing at the Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "After being inactive for a few years, you recently joined a recreational trivia league. There is a tournament at the end of the season, and you are not sure how you will perform. Most likely, you will be successful."
+            "text": "Coughing at the Store"
         },
         {
             "type": "Media",
-            "url": "./images/696.jpg"
+            "url": "./images/513.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

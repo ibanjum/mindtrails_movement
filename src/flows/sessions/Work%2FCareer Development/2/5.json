@@ -1,5 +1,5 @@
 {
-    "header_text": "You are being interviewed for a leadership position within your department. Before you walk into the room, you notice you feel shaky. You feel incredibly excited.",
+    "header_text": "Interview anticipation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You are being interviewed for a leadership position within your department. Before you walk into the room, you notice you feel shaky. You feel incredibly excited._Work/Career Development_puzzle1",
+            "name": "Interview anticipation_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

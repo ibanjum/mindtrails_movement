@@ -1,5 +1,5 @@
 {
-    "header_text": "Recently, you've noticed that you are having intrusive thoughts. These thoughts are disturbing to you, and you cannot believe that you are thinking such horrible things. You think that you are going crazy. ",
+    "header_text": "Intrusive Thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Recently, you've noticed that you are having intrusive thoughts. These thoughts are disturbing to you, and you cannot believe that you are thinking such horrible things. You think that you are going crazy. _Mental Health_comp_question",
+            "name": "Intrusive Thoughts_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

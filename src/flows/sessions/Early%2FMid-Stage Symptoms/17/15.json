@@ -1,14 +1,25 @@
 {
-    "header_text": "At the toy store, your young niece eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before HD. An excited giggle snaps your attention back to the present, and you decide to focus on your niece's joy.",
+    "header_text": "Easily Agitated",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "At the toy store, your young niece eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before HD. An excited giggle snaps your attention back to the present, and you decide to focus on your niece's joy."
+            "type": "Text",
+            "text": "You're at a family dinner, enjoying the meal. You notice you are becoming increasingly agitated, reacting strongly to minor disruptions and getting frustrated with small issues. You consider excusing yourself from the table and remember that taking a break to calm down is..."
         },
         {
-            "type": "Media",
-            "url": "./images/410.jpg"
+            "type": "WordPuzzle",
+            "name": "Easily Agitated_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "sensible"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "You are having dinner with a coworker. While you're eating dinner together, you take a phone call from a family member and you switch back and forth between English and another language. You never told your coworker that your family members are bilingual. You think about your coworker's reaction, and think that she'll think it is interesting.",
+    "header_text": "Guest in a Bilingual Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You are having dinner with a coworker. While you're eating dinner together, you take a phone call from a family member and you switch back and forth between English and another language. You never told your coworker that your family members are bilingual. You think about your coworker's reaction, and think that she'll think it is interesting._Family & Home Life_puzzle1",
+            "name": "Guest in a Bilingual Home_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

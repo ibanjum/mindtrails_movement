@@ -1,15 +1,17 @@
 {
-    "header_text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. As time goes on, you think that your family will become distant. ",
+    "header_text": "Having Someone Over",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. As time goes on, you think that your family will become... "
+            "text": "You invite a friend over for dinner one night, and you're in charge of the food. You aren't the best cook, and you might embarrass yourself in front of your friend. As your friend arrives, you are..."
         },
         {
             "type": "Entry",
-            "name": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. As time goes on, you think that your family will become distant. _Family & Home Life_entry1"
+            "name": "Having Someone Over_Family & Home Life_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

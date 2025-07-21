@@ -1,14 +1,16 @@
 {
-    "header_text": "In one of your meetings recently, your boss asks everyone to raise their hands if they've heard of a work technique before. When you look around, you notice the majority of your coworkers have their hands raised, but you don't. This makes you feel like you're not prepared to do the job.",
+    "header_text": "Not Feeling Prepared",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "In one of your meetings recently, your boss asks everyone to raise their hands if they've heard of a work technique before. When you look around, you notice the majority of your coworkers have their hands raised, but you don't. This makes you feel like you're not prepared to do the job."
+            "text": "Not Feeling Prepared"
         },
         {
             "type": "Media",
             "url": "./images/333.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

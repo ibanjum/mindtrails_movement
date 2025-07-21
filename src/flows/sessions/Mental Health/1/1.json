@@ -1,14 +1,16 @@
 {
-    "header_text": "You get home from work on a Friday evening and wonder whether you locked the office door. You usually lock the door, but you still feel anxious not knowing for sure. Your weekend away from the office will be enjoyable.",
+    "header_text": "Locked door",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You get home from work on a Friday evening and wonder whether you locked the office door. You usually lock the door, but you still feel anxious not knowing for sure. Your weekend away from the office will be enjoyable."
+            "text": "Locked door"
         },
         {
             "type": "Media",
             "url": "./images/102.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

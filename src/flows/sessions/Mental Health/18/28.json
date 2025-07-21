@@ -1,23 +1,25 @@
 {
-    "header_text": "You are being interviewed for a leadership position within your department. Before you walk into the room, you notice you feel shaky. You feel incredibly excited.",
+    "header_text": "A Little Stumble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are being interviewed for a leadership position within your department. Before you walk into the room, you notice you feel shaky. You feel incredibly..."
+            "text": "While you feel upset, you realize that it's natural to make mistakes. You think that your boss won't..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You are being interviewed for a leadership position within your department. Before you walk into the room, you notice you feel shaky. You feel incredibly excited._Mental Health_puzzle1",
+            "name": "A Little Stumble_Mental Health_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "excited"
+                "remember"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

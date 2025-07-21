@@ -1,14 +1,16 @@
 {
-    "header_text": "You notice that everyone has been dressing a similar way in your office. You consider wearing an outfit that is totally unique. The thought of doing something different makes you feel nervous.",
+    "header_text": "An unwashed table",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You notice that everyone has been dressing a similar way in your office. You consider wearing an outfit that is totally unique. The thought of doing something different makes you feel nervous."
+            "text": "An unwashed table"
         },
         {
             "type": "Media",
-            "url": "./images/712.jpg"
+            "url": "./images/463.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

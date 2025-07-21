@@ -1,14 +1,16 @@
 {
-    "header_text": "You pride yourself on remembering acquaintances' names. You and your partner throw a cocktail party, but you can't remember a few of your guests' names. Forgetting their names makes you upset.",
+    "header_text": "Handwriting Challenge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You pride yourself on remembering acquaintances' names. You and your partner throw a cocktail party, but you can't remember a few of your guests' names. Forgetting their names makes you upset."
+            "text": "Handwriting Challenge"
         },
         {
             "type": "Media",
-            "url": "./images/849.jpg"
+            "url": "./images/411.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

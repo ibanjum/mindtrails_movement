@@ -1,5 +1,5 @@
 {
-    "header_text": "Your pay was recently cut, and you will need to ask your family for some help affording expenses this month. You feel terrible asking since they have already supported you a lot financially in the past. You remind yourself that needing a little extra help every now and then is okay.",
+    "header_text": "Relying on Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Your pay was recently cut, and you will need to ask your family for some help affording expenses this month. You feel terrible asking since they have already supported you a lot financially in the past. You remind yourself that needing a little extra help every now and then is okay._Finances_puzzle1",
+            "name": "Relying on Family_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You just sent an important email. As you reread what you've sent, you see a typo in the first sentence. You believe that you should be concerned.",
+    "header_text": "Troublesome Typos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You just sent an important email. As you reread what you've sent, you see a typo in the first sentence. You believe that you should be concerned."
+            "text": "Troublesome Typos"
         },
         {
             "type": "Media",
             "url": "./images/63.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 7
 }

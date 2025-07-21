@@ -1,14 +1,16 @@
 {
-    "header_text": "You send an intentionally bad picture of yourself to your friend over text. They text back saying that they took a screenshot of your photo. Your friend probably thinks that you look awful.",
+    "header_text": "Funny Photos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You send an intentionally bad picture of yourself to your friend over text. They text back saying that they took a screenshot of your photo. Your friend probably thinks that you look awful."
+            "text": "Funny Photos"
         },
         {
             "type": "Media",
             "url": "./images/634.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

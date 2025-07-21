@@ -1,23 +1,25 @@
 {
-    "header_text": "You used to be quick at completing your to-do list. Lately, you find yourself needing more time to complete tasks. You tell yourself you'll get back into the swing of things soon, and this helps you relax.",
+    "header_text": "Comparing at the Gym",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You used to be quick at completing your to-do list. Lately, you find yourself needing more time to complete tasks. You tell yourself you'll get back into the swing of things soon, and this helps you..."
+            "text": "You go to the gym twice a week to do strength training exercises. Although you enjoy your time at the gym, you can't help but notice the difference between your mobility and others. You've noticed that thinking about this gets you in a bad... "
         },
         {
             "type": "WordPuzzle",
-            "name": "You used to be quick at completing your to-do list. Lately, you find yourself needing more time to complete tasks. You tell yourself you'll get back into the swing of things soon, and this helps you relax._Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Comparing at the Gym_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "relax"
+                "mood"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

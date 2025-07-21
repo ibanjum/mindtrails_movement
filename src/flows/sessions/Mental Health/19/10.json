@@ -1,14 +1,16 @@
 {
-    "header_text": "You have just been given a job in an office that you really admire. To eventually receive the promotion you want, you know that you will have to work very hard for several years and the outcome is uncertain.",
+    "header_text": "A Crucial Call",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have just been given a job in an office that you really admire. To eventually receive the promotion you want, you know that you will have to work very hard for several years and the outcome is uncertain."
+            "text": "A Crucial Call"
         },
         {
             "type": "Media",
-            "url": "./images/36.jpg"
+            "url": "./images/74.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

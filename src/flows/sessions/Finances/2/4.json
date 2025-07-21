@@ -1,14 +1,26 @@
 {
-    "header_text": "Your roof has a leak, and water comes into the house every time it rains. You think it is going to be expensive to hire someone to fix it. As you think about paying the bill to have the roof fixed, you feel that you will be fine.",
+    "header_text": "Bill for a fix",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your roof has a leak, and water comes into the house every time it rains. You think it is going to be expensive to hire someone to fix it. As you think about paying the bill to have the roof fixed, you feel that you will be fine."
+            "text": "Bill for a fix"
         },
         {
             "type": "Media",
             "url": "./images/253.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

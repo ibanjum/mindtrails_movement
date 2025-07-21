@@ -1,15 +1,17 @@
 {
-    "header_text": "You have been bowling in a recreational league with some friends for the past few years. You have improved since you started, but you aren't as skilled as you would like to be yet. When you think about yourself in the years to come, you see your bowling skills as high.",
+    "header_text": "Going to Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been bowling in a recreational league with some friends for the past few years. You have improved since you started, but you aren't as skilled as you would like to be yet. When you think about yourself in the years to come, you see your bowling skills as..."
+            "text": "You have been going to therapy lately. You haven't told your family because they have expressed negative views of therapy in the past. You think that this time they will be... "
         },
         {
             "type": "Entry",
-            "name": "You have been bowling in a recreational league with some friends for the past few years. You have improved since you started, but you aren't as skilled as you would like to be yet. When you think about yourself in the years to come, you see your bowling skills as high._Mental Health_entry1"
+            "name": "Going to Therapy_Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

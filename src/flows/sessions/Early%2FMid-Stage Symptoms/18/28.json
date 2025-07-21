@@ -1,23 +1,25 @@
 {
-    "header_text": "You just retired because of your HD diagnosis, and your family decides to throw you a surprise party. You realize that not everyone knows about your diagnosis. Wondering if the rest of your family will find out before you get the chance to tell them leaves you with a feeling of uncertainty.",
+    "header_text": "Journaling Shift",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You think about how many people have come out to celebrate your retirement. In the end, your family caring enough to throw you a party makes you feel very..."
+            "text": "Your therapist recommended that you try journaling as a way to process some of your emotions. You're very frustrated with this practice because it takes you a lot longer to write anything lately. You decide to accept this as part of the process, and you cultivate more..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You just retired because of your HD diagnosis, and your family decides to throw you a surprise party. You realize that not everyone knows about your diagnosis. Wondering if the rest of your family will find out before you get the chance to tell them leaves you with a feeling of uncertainty._Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "Journaling Shift_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "grateful"
+                "patience"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
 }

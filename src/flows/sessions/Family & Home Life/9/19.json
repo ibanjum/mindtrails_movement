@@ -1,15 +1,17 @@
 {
-    "header_text": "You and your partner recently opened a joint bank account. While going through the bank statements, you are shocked to see that your partner has been spending recklessly. As you consider bringing up your concerns to your partner, you think they will be understanding. ",
+    "header_text": "Family Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your partner recently opened a joint bank account. While going through the bank statements, you are shocked to see that your partner has been spending recklessly. As you consider bringing up your concerns to your partner, you think they will be... "
+            "text": "It was a cousin's birthday recently, and you attended a large family gathering. At the event, your family wouldn’t stop asking questions about why you're still single, and you weren’t sure how to answer them. When you think about your dating life, you're content with taking it..."
         },
         {
             "type": "Entry",
-            "name": "You and your partner recently opened a joint bank account. While going through the bank statements, you are shocked to see that your partner has been spending recklessly. As you consider bringing up your concerns to your partner, you think they will be understanding. _Family & Home Life_entry1"
+            "name": "Family Questions_Family & Home Life_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
 }

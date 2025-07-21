@@ -1,27 +1,29 @@
 {
-    "header_text": "You have been asked to give a presentation about some of your latest projects at a major conference. This is a great opportunity to highlight the good work you have been doing, but you feel nervous talking in front of such a big group of your peers. As you think about how the people at the conference will react to your presentation, you believe they will think you looked nervous.",
+    "header_text": "Talking with Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After your presentation, people in the audience will probably think about"
+            "Text": "Are you looking forward to asking your friend a question?"
         },
         {
             "type": "Buttons",
-            "name": "You have been asked to give a presentation about some of your latest projects at a major conference. This is a great opportunity to highlight the good work you have been doing, but you feel nervous talking in front of such a big group of your peers. As you think about how the people at the conference will react to your presentation, you believe they will think you looked nervous._Social Situations_comp_question",
+            "name": "Talking with Your Friend_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "How much trouble you had giving the talk.",
-                "How well you did in your talk."
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "How much trouble you had giving the talk."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

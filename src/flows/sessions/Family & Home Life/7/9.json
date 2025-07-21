@@ -1,23 +1,25 @@
 {
-    "header_text": "Your pay was recently cut, and you will need to ask your family for some help affording expenses this month. You feel terrible asking since they have already supported you a lot financially in the past. You remind yourself that needing a little extra help every now and then is okay.",
+    "header_text": "Making a Choice",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your pay was recently cut, and you will need to ask your family for some help affording expenses this month. You feel terrible asking since they have already supported you a lot financially in the past. You remind yourself that needing a little extra help every now and then is..."
+            "text": "Your partner wants you to take on a specific job. You would rather work in a different place but your partner has made it clear they are not on board with the job choice. When you think about talking with your partner about your choice, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Your pay was recently cut, and you will need to ask your family for some help affording expenses this month. You feel terrible asking since they have already supported you a lot financially in the past. You remind yourself that needing a little extra help every now and then is okay._Family & Home Life_puzzle1",
+            "name": "Making a Choice_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "okay"
+                "prepared"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

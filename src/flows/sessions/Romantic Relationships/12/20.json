@@ -1,14 +1,16 @@
 {
-    "header_text": "Your partner wants to change jobs and move out of state. You really care about your partner, but you also enjoy the life you have where you currently are. When you think about what the future holds for your partner at their new job, you feel excited. ",
+    "header_text": "Life Changes ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your partner wants to change jobs and move out of state. You really care about your partner, but you also enjoy the life you have where you currently are. When you think about what the future holds for your partner at their new job, you feel excited. "
+            "text": "Life Changes "
         },
         {
             "type": "Media",
             "url": "./images/105.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

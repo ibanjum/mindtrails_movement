@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently.",
+    "header_text": "Mental Health Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently."
+            "text": "Mental Health Issues"
         },
         {
             "type": "Media",
-            "url": "./images/91.jpg"
+            "url": "./images/389.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

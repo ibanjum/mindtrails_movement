@@ -1,14 +1,16 @@
 {
-    "header_text": "You are at your workplace, and a colleague asks you to perform a task that you have completed countless times before. Today, you struggle to recall the steps needed to complete the task, and your colleague starts to look concerned. Regardless of what they think, you do not question your own competence.",
+    "header_text": "Convenience Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at your workplace, and a colleague asks you to perform a task that you have completed countless times before. Today, you struggle to recall the steps needed to complete the task, and your colleague starts to look concerned. Regardless of what they think, you do not question your own competence."
+            "text": "Convenience Store"
         },
         {
             "type": "Media",
-            "url": "./images/770.jpg"
+            "url": "./images/758.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

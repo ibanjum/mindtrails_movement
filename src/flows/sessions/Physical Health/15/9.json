@@ -1,5 +1,5 @@
 {
-    "header_text": "You visit a childhood friend for the holidays and notice that they are getting older. You find yourself wondering what their health will be like in the future. You think their health will likely be good.",
+    "header_text": "Health and aging",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You visit a childhood friend for the holidays and notice that they are getting older. You find yourself wondering what their health will be like in the future. You think their health will likely be good._Physical Health_puzzle1",
+            "name": "Health and aging_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

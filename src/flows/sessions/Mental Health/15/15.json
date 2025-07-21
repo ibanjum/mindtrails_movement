@@ -1,14 +1,25 @@
 {
-    "header_text": "You've recently been feeling more anxious than usual, and this is affecting your ability to do things with your partner. You've never told your partner about your anxiety, and you wonder if they'll judge you for it. When you talk to your partner about your mental health, you expect them to be understanding.",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You've recently been feeling more anxious than usual, and this is affecting your ability to do things with your partner. You've never told your partner about your anxiety, and you wonder if they'll judge you for it. When you talk to your partner about your mental health, you expect them to be understanding."
+            "type": "Text",
+            "text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors..."
         },
         {
-            "type": "Media",
-            "url": "./images/390.jpg"
+            "type": "WordPuzzle",
+            "name": "Reviewing Your Work _Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "recently"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

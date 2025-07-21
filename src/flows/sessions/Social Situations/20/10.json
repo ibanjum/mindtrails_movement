@@ -1,14 +1,16 @@
 {
-    "header_text": "You recently visited a friend that you hadn’t seen in a long time, and you found out that your partner woke up with a sore throat when you got back home. You are scared you may have accidentally exposed your friend to the same virus that your partner has. You think about what will happen if your friend gets sick and feel your friend will understand.",
+    "header_text": "Sore Throat at Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You recently visited a friend that you hadn’t seen in a long time, and you found out that your partner woke up with a sore throat when you got back home. You are scared you may have accidentally exposed your friend to the same virus that your partner has. You think about what will happen if your friend gets sick and feel your friend will understand."
+            "text": "Sore Throat at Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/693.jpg"
+            "url": "./images/692.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

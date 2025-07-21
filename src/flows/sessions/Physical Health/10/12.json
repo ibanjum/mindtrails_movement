@@ -1,14 +1,16 @@
 {
-    "header_text": "You are in the car with a friend and they are driving the speed limit on the highway. You feel butterflies in your stomach as you see cars passing quickly by. This makes you feel scared.",
+    "header_text": "Driving with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are in the car with a friend and they are driving the speed limit on the highway. You feel butterflies in your stomach as you see cars passing quickly by. This makes you feel scared."
+            "text": "Driving with a Friend"
         },
         {
             "type": "Media",
             "url": "./images/423.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "You make a new friend, and they ask you for your email so that they can reach out to make plans. When you tell them you rarely get emails, they grow quiet. They must think that you are different, and that's alright.",
+    "header_text": "Sharing Social Media with New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You make a new friend, and they ask you for your email so that they can reach out to make plans. When you tell them you rarely get emails, they grow quiet. They must think that you are different, and that's alright._Social Situations_puzzle1",
+            "name": "Sharing Social Media with New Friend_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

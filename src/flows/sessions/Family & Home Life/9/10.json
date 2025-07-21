@@ -1,15 +1,17 @@
 {
-    "header_text": "Your family has not approved of your partner from the beginning, and it is taking its toll on you. You don’t want to cause any further conflict, but their behavior is making you uncomfortable. You make a plan to have a conversation, and you think it will go well. ",
+    "header_text": "Differing Beliefs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your family has not approved of your partner from the beginning, and it is taking its toll on you. You don’t want to cause any further conflict, but their behavior is making you uncomfortable. You make a plan to have a conversation, and you think it will go... "
+            "text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. As time goes on, you think that your family will become... "
         },
         {
             "type": "Entry",
-            "name": "Your family has not approved of your partner from the beginning, and it is taking its toll on you. You don’t want to cause any further conflict, but their behavior is making you uncomfortable. You make a plan to have a conversation, and you think it will go well. _Family & Home Life_entry1"
+            "name": "Differing Beliefs_Family & Home Life_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 3
 }

@@ -1,27 +1,25 @@
 {
-    "header_text": "You and your spouse recently divorced. Your child is having an event at school tonight, and it will be the first time you and your ex-spouse are attending as single people. You think that you will treat each other cordially. ",
+    "header_text": "Disclosing Your Mental Health",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you and your ex-spouse going to get along?"
+            "text": "You've started a new relationship, and it's really exciting. You've been wanting to tell your partner about your mental health, but you aren't sure what their response will be. You think that they will be... "
         },
         {
-            "type": "Buttons",
-            "name": "You and your spouse recently divorced. Your child is having an event at school tonight, and it will be the first time you and your ex-spouse are attending as single people. You think that you will treat each other cordially. _Romantic Relationships_comp_question",
+            "type": "WordPuzzle",
+            "name": "Disclosing Your Mental Health_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "accepting"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

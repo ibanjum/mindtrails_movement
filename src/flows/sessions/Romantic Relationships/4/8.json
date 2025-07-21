@@ -1,14 +1,16 @@
 {
-    "header_text": "You just broke up with your partner that you were with the longest. You believe it was for the best, but you also worry if you will ever meet someone else you feel so strongly about. As you think about your future love life, the idea of finding a good life partner seems attainable.",
+    "header_text": "Future Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You just broke up with your partner that you were with the longest. You believe it was for the best, but you also worry if you will ever meet someone else you feel so strongly about. As you think about your future love life, the idea of finding a good life partner seems attainable."
+            "text": "Future Relationships"
         },
         {
             "type": "Media",
             "url": "./images/541.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

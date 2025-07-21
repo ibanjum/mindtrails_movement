@@ -1,14 +1,16 @@
 {
-    "header_text": "You sent a text to a good friend. A day goes by, and they still have not replied. You think about how your friend doesn't use their phone often, and you feel better.",
+    "header_text": "Fundraiser presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You sent a text to a good friend. A day goes by, and they still have not replied. You think about how your friend doesn't use their phone often, and you feel better."
+            "text": "Fundraiser presentation"
         },
         {
             "type": "Media",
-            "url": "./images/658.jpg"
+            "url": "./images/107.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

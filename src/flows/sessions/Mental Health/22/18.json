@@ -1,14 +1,16 @@
 {
-    "header_text": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in moderation.",
+    "header_text": "Playing the Piano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in moderation."
+            "text": "Playing the Piano"
         },
         {
             "type": "Media",
-            "url": "./images/420.jpg"
+            "url": "./images/187.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 7
 }

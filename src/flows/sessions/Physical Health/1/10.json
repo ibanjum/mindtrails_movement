@@ -1,14 +1,16 @@
 {
-    "header_text": "It's Sunday morning and you just went for a walk outside. Taking off your running shoes in the hallway, you are short of breath. You feel proud.",
+    "header_text": "Sunday Morning Run",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It's Sunday morning and you just went for a walk outside. Taking off your running shoes in the hallway, you are short of breath. You feel proud."
+            "text": "Sunday Morning Run"
         },
         {
             "type": "Media",
             "url": "./images/432.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

@@ -1,10 +1,10 @@
 {
-    "header_text": "No response: Behaviors",
+    "header_text": "Meeting someone new: Behaviors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been texting with someone you really like and they're usually quick to respond. You notice that they saw your message a couple of hours ago and did not respond. \n\nPlease take 30 seconds to write different behaviors. The next button will appear automatically.\n\nBehaviors you might do in the moment:"
+            "text": "At a work party, your friend introduces you to an attractive friend of theirs you have not met before. The next morning, you notice that they sent you an email.\n\nPlease take 30 seconds to write different behaviors. The next button will appear automatically.\n\nBehaviors you might do in the moment:"
         },
         {
             "type": "Entry"

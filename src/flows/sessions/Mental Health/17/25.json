@@ -1,20 +1,20 @@
 {
-    "header_text": "The window for staff evaluations just closed, and you are not sure whether you did well or not. You feel nervous as you think about how other people graded you. You think being nervous is manageable.",
+    "header_text": "An international flight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you tolerate your nervousness as you wait to find out your evaluation?"
+            "Text": "Is it exhilarating to be so high up?"
         },
         {
             "type": "Buttons",
-            "name": "The window for staff evaluations just closed, and you are not sure whether you did well or not. You feel nervous as you think about how other people graded you. You think being nervous is manageable._Mental Health_comp_question",
+            "name": "An international flight_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

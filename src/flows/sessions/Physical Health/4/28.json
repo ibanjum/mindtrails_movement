@@ -1,5 +1,5 @@
 {
-    "header_text": "Last weekend, you walked a lot. Since then, you have been experiencing a slight pain in your hip and wonder what this means for the progression of your HD. After resting for the next couple of days, you think this discomfort will subside. ",
+    "header_text": "Walking pain",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "Last weekend, you walked a lot. Since then, you have been experiencing a slight pain in your hip and wonder what this means for the progression of your HD. After resting for the next couple of days, you think this discomfort will subside. _Physical Health_comp_question",
+            "name": "Walking pain_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Temporary",
-                "A sign of serious injury"
+                "A sign of serious injury",
+                "Temporary"
             ],
             "columnCount": 1,
             "correct_value": "Temporary"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

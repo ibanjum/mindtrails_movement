@@ -1,27 +1,16 @@
 {
-    "header_text": "You are having sleep disturbances, and this causes you to wake up frequently during the night. Each time you wake up, your partner wakes up as well. As a result of these disruptions, your partner ends up being late for work because they're fatigued.",
+    "header_text": "Sleep Trouble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Did you figure out a better sleep situation?"
+            "type": "Label",
+            "text": "Sleep Trouble"
         },
         {
-            "type": "Buttons",
-            "name": "You are having sleep disturbances, and this causes you to wake up frequently during the night. Each time you wake up, your partner wakes up as well. As a result of these disruptions, your partner ends up being late for work because they're fatigued._Romantic Relationships_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/579.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

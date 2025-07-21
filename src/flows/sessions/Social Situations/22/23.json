@@ -1,23 +1,17 @@
 {
-    "header_text": "You look through your social media feed and notice that your kids only post pictures with their friends. You want to post a family picture and tag your kids. You ask your kids if they mind, and they say that it is a great photo.",
+    "header_text": "Keeping Up With Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You look through your social media feed and notice that your kids only post pictures with their friends. You want to post a family picture and tag your kids. You ask your kids if they mind, and they say that it is a great..."
+            "text": "You have been very busy and are having trouble keeping in contact with one of your best friends. You are usually good about calling them, but your schedule has been very hectic. As you think about their reaction to this lull in contact, you think that your friend will be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You look through your social media feed and notice that your kids only post pictures with their friends. You want to post a family picture and tag your kids. You ask your kids if they mind, and they say that it is a great photo._Social Situations_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "photo"
-            ],
-            "missing_letter_count": 1
+            "type": "Entry",
+            "name": "Keeping Up With Friends _Social Situations_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

@@ -1,27 +1,29 @@
 {
-    "header_text": "You are a homebody, while your partner enjoys going out. You want to stay in for the night, but your partner wants to go to a bar. You think you can work together to figure out a compromise. ",
+    "header_text": "Friendships in the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you and your partner figure out a plan together?"
+            "Text": "When you think about the next fifty years, your friends"
         },
         {
             "type": "Buttons",
-            "name": "You are a homebody, while your partner enjoys going out. You want to stay in for the night, but your partner wants to go to a bar. You think you can work together to figure out a compromise. _Social Situations_comp_question",
+            "name": "Friendships in the Future_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Eventually fade out of the picture.",
+                "Stay an important part of your life."
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Eventually fade out of the picture."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 8
 }

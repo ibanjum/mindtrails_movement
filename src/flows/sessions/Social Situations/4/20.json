@@ -1,14 +1,16 @@
 {
-    "header_text": "You invite work colleagues to your house for a dinner party, although you know they don't always get along. At dinner, the discussion gets very loud and argumentative.",
+    "header_text": "A heated discussion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You invite work colleagues to your house for a dinner party, although you know they don't always get along. At dinner, the discussion gets very loud and argumentative."
+            "text": "A heated discussion"
         },
         {
             "type": "Media",
             "url": "./images/625.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

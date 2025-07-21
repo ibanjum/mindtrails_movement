@@ -1,23 +1,25 @@
 {
-    "header_text": "You are known for being extroverted, some of your friends even call you \"the life of the party.\" Recently, the thought of going out in public makes your heart race and palms sweat. When a friend calls you to invite you to dinner, the first thing you do is breathe. ",
+    "header_text": "New Baby",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are known for being extroverted, some of your friends even call you \"the life of the party.\" Recently, the thought of going out in public makes your heart race and palms sweat. When a friend calls you to invite you to dinner, the first thing you do is... "
+            "text": "You have just become a grandparent. You are scared about how your PD might affect the child's future. When thinking about being a grandparent, you remind yourself that you will fill your grandchild's life with..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You are known for being extroverted, some of your friends even call you \"the life of the party.\" Recently, the thought of going out in public makes your heart race and palms sweat. When a friend calls you to invite you to dinner, the first thing you do is breathe. _Early/Mid-Stage Symptoms_puzzle1",
+            "name": "New Baby_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "breathe"
+                "love"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "A holiday that your family celebrates is coming up. You want to buy gifts for everyone, but you can't afford it. You decide to buy one gift for your family to share, and you think that it will be appreciated. ",
+    "header_text": "Holiday Gifts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A holiday that your family celebrates is coming up. You want to buy gifts for everyone, but you can't afford it. You decide to buy one gift for your family to share, and you think that it will be appreciated. "
+            "text": "Holiday Gifts"
         },
         {
             "type": "Media",
             "url": "./images/185.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You go in for your routine dental appointment and find out that you have a cavity. They tell you that there will be an extra fee to pay, and you start to worry about the cost. You remind yourself that it is worth it to address the cavity now before it gets worse, and you think the cost will be manageable.  ",
+    "header_text": "Going to the Dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You go in for your routine dental appointment and find out that you have a cavity. They tell you that there will be an extra fee to pay, and you start to worry about the cost. You remind yourself that it is worth it to address the cavity now before it gets worse, and you think the cost will be manageable.  "
+            "text": "Going to the Dentist"
         },
         {
             "type": "Media",
             "url": "./images/268.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You need to save money, so you always bring meals from home. When you eat with your friends, you notice that they all go out to eat every lunch. You realize that you have a different situation than your friends, and that's ok.",
+    "header_text": "Saving Money",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You need to save money, so you always bring meals from home. When you eat with your friends, you notice that they all go out to eat every lunch. You realize that you have a different situation than your friends, and that's ok."
+            "text": "Saving Money"
         },
         {
             "type": "Media",
             "url": "./images/668.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

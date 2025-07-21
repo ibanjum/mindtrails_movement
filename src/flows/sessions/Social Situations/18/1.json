@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been asked to give a presentation about some of your latest projects at a major conference. This is a great opportunity to highlight the good work you have been doing, but you feel nervous talking in front of such a big group of your peers. As you think about how the people at the conference will react to your presentation, you believe they will think you looked nervous.",
+    "header_text": "Talking with Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been asked to give a presentation about some of your latest projects at a major conference. This is a great opportunity to highlight the good work you have been doing, but you feel nervous talking in front of such a big group of your peers. As you think about how the people at the conference will react to your presentation, you believe they will think you looked nervous."
+            "text": "Talking with Your Friend"
         },
         {
             "type": "Media",
-            "url": "./images/126.jpg"
+            "url": "./images/680.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

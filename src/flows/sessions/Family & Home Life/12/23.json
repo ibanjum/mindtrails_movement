@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been at your current home for a while, and you have just decided to sell your house. At first, you feel excited, but when you think about the packing up and moving, you're not sure you'll be able to. With your condition, moving seems daunting.",
+    "header_text": "Upset Kid",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been at your current home for a while, and you have just decided to sell your house. At first, you feel excited, but when you think about the packing up and moving, you're not sure you'll be able to. With your condition, moving seems daunting."
+            "text": "Upset Kid"
         },
         {
             "type": "Media",
-            "url": "./images/198.jpg"
+            "url": "./images/129.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

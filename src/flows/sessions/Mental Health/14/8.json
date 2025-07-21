@@ -1,23 +1,25 @@
 {
-    "header_text": "You decide to email your department promoting something important to you. Someone responds rudely because they misinterpreted what you wrote. You wonder what this person thinks about you, and feel worried.",
+    "header_text": "Insecurities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to email your department promoting something important to you. Someone responds rudely because they misinterpreted what you wrote. You wonder what this person thinks about you, and feel..."
+            "text": "You have feelings for someone, and you have been enjoying getting to know them. You are feeling self-conscious and wondering if they are judging you based on the way you look. You remind yourself of how much you enjoy each other's..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You decide to email your department promoting something important to you. Someone responds rudely because they misinterpreted what you wrote. You wonder what this person thinks about you, and feel worried._Mental Health_puzzle1",
+            "name": "Insecurities_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "worried"
+                "company"
             ],
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

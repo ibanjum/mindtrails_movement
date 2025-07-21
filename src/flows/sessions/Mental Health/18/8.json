@@ -1,14 +1,25 @@
 {
-    "header_text": "Your therapist recommends starting meditation to help manage your anxiety. At first, you struggle to quiet your mind and feel frustrated with the process. Over time, though, you notice that these moments of meditation bring you a sense of calm and clarity.",
+    "header_text": "Pool Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Your therapist recommends starting meditation to help manage your anxiety. At first, you struggle to quiet your mind and feel frustrated with the process. Over time, though, you notice that these moments of meditation bring you a sense of calm and clarity."
+            "type": "Text",
+            "text": "You and your partner decide to spend time at the pool. You notice you forgot to pack sunscreen, even after your partner specifically told you to remember it. You think your partner will be... "
         },
         {
-            "type": "Media",
-            "url": "./images/401.jpg"
+            "type": "WordPuzzle",
+            "name": "Pool Time_Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "angry"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

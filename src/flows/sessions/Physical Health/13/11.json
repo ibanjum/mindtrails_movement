@@ -1,5 +1,5 @@
 {
-    "header_text": "It is just one day before you are supposed to leave town to go visit your family, and your friend is told they were exposed to someone with strep throat. You both go get tested, but results typically come back in 48 hours. You decide to stay home in case you're sick, and you think your family will understand.",
+    "header_text": "Plans to Visit Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "It is just one day before you are supposed to leave town to go visit your family, and your friend is told they were exposed to someone with strep throat. You both go get tested, but results typically come back in 48 hours. You decide to stay home in case you're sick, and you think your family will understand._Physical Health_puzzle1",
+            "name": "Plans to Visit Family_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

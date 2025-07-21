@@ -1,14 +1,16 @@
 {
-    "header_text": "You are at the park with your child. They ask you to play catch, and your unsteady gait causes you to stumble. Whether or not your child notices, you do not lose confidence in your role as a loving parent to your child.",
+    "header_text": "Planning a Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at the park with your child. They ask you to play catch, and your unsteady gait causes you to stumble. Whether or not your child notices, you do not lose confidence in your role as a loving parent to your child."
+            "text": "Planning a Trip"
         },
         {
             "type": "Media",
-            "url": "./images/771.jpg"
+            "url": "./images/759.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

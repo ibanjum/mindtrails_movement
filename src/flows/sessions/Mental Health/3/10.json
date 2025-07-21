@@ -1,14 +1,16 @@
 {
-    "header_text": "You decide to take a job offer in a different office. Many of your old coworkers still do not know about this decision, and you worry about them being disappointed about it. You think that they will be happy that you are finally following your passions.",
+    "header_text": "Change of Plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You decide to take a job offer in a different office. Many of your old coworkers still do not know about this decision, and you worry about them being disappointed about it. You think that they will be happy that you are finally following your passions."
+            "text": "Change of Plans"
         },
         {
             "type": "Media",
             "url": "./images/339.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

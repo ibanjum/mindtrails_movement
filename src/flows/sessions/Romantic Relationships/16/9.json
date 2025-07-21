@@ -1,19 +1,19 @@
 {
-    "header_text": "Spilled Coffee: Feelings",
+    "header_text": "Attractive person on social media: Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're on a date at a coffee shop with a person you really like. As you walk back to the table, you trip and fall and spill coffee everywhere.\n\nHere are some feelings that might happen in the moment:"
+            "text": "While scrolling through a dating app, you see an attractive person you met at the grocery store last week. You decide to like their profile. \n\nHere are some feelings that might happen in the moment:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I'm embarrassed that I tripped in front of my date, but this feeling will pass.",
-                "I'm confident that we'll have a great conversation.",
-                "I feel like a fool.",
-                "I feel lucky I didn't hurt myself.",
-                "I'm upset that the date started off this way, but it might help us feel more comfortable talking to each other."
+                "I feel happy that I liked their profile.",
+                "I feel embarrassed by some pictures I have up, but decide to feel confident about them.",
+                "I feel excited I have a romantic prospect.",
+                "I feel shy about liking their profile, but decide to be excited about the opportunity.",
+                "I'm scared that I'll never find someone who's interested in me romantically."
             ],
             "Duration": 15
         }

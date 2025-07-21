@@ -1,27 +1,16 @@
 {
-    "header_text": "You notice that you forgot to do the laundry and will have to do it tomorrow. Tasks like this slip your mind more often now, and you worry about how you will function in the future. You acknowledge that things are changing, but you are still capable.\n",
+    "header_text": "A Long Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Will you be able to do the laundry tomorrow?"
+            "type": "Label",
+            "text": "A Long Dinner"
         },
         {
-            "type": "Buttons",
-            "name": "You notice that you forgot to do the laundry and will have to do it tomorrow. Tasks like this slip your mind more often now, and you worry about how you will function in the future. You acknowledge that things are changing, but you are still capable.\n_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/965.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "positive",
+    "scenario_num": 8
 }

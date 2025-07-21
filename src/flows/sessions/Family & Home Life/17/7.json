@@ -1,14 +1,16 @@
 {
-    "header_text": "You are attending your grandchild's dance recital. As you are walking into the theater with your family, you notice the new environment is causing you to have a bit more chorea than usual. You are worried that your grandchild will be embarrassed.",
+    "header_text": "Cleaning the House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are attending your grandchild's dance recital. As you are walking into the theater with your family, you notice the new environment is causing you to have a bit more chorea than usual. You are worried that your grandchild will be embarrassed."
+            "text": "Cleaning the House"
         },
         {
             "type": "Media",
-            "url": "./images/228.jpg"
+            "url": "./images/227.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

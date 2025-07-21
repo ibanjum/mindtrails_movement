@@ -1,5 +1,5 @@
 {
-    "header_text": "Your friend has been coughing for a few days and when you ask them to go to the doctor, they refuse, saying they shouldn’t have to. You think this is strange. So you talk to them about it and find out that your friend doesn't want to go to the doctor because they are scared of spreading a virus.",
+    "header_text": "Virus Fear",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Your friend has been coughing for a few days and when you ask them to go to the doctor, they refuse, saying they shouldn’t have to. You think this is strange. So you talk to them about it and find out that your friend doesn't want to go to the doctor because they are scared of spreading a virus._Physical Health_puzzle1",
+            "name": "Virus Fear_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

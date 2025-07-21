@@ -1,14 +1,16 @@
 {
-    "header_text": "Your family doesn't do sit-down dinners together. Your friend invites you to join her family for dinner, and everyone starts asking questions about each other's days while sitting at the table. You're not sure how to respond when it's your turn, but after you say something, you feel calm.",
+    "header_text": "Big Families ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your family doesn't do sit-down dinners together. Your friend invites you to join her family for dinner, and everyone starts asking questions about each other's days while sitting at the table. You're not sure how to respond when it's your turn, but after you say something, you feel calm."
+            "text": "Big Families "
         },
         {
             "type": "Media",
-            "url": "./images/177.jpg"
+            "url": "./images/176.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

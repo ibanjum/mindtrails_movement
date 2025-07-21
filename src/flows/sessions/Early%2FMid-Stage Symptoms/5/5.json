@@ -1,14 +1,16 @@
 {
-    "header_text": "You're at the gym lifting weights when you suddenly feel off balance. You pause your workout out of concern and wonder how you will continue to exercise as your disease progresses. You remember that working out is important for your well-being, so you decide to embrace the future with optimism.",
+    "header_text": "New Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're at the gym lifting weights when you suddenly feel off balance. You pause your workout out of concern and wonder how you will continue to exercise as your disease progresses. You remember that working out is important for your well-being, so you decide to embrace the future with optimism."
+            "text": "New Costs"
         },
         {
             "type": "Media",
-            "url": "./images/518.jpg"
+            "url": "./images/747.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

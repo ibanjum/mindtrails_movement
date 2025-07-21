@@ -1,14 +1,16 @@
 {
-    "header_text": "Your marriage is extremely important to you. Lately, you have been lashing out at your spouse more often, and you worry about how this will affect your marriage. You seek the advice of a counselor and remember that your spouse's love is unconditional.",
+    "header_text": "Arcade Games",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your marriage is extremely important to you. Lately, you have been lashing out at your spouse more often, and you worry about how this will affect your marriage. You seek the advice of a counselor and remember that your spouse's love is unconditional."
+            "text": "Arcade Games"
         },
         {
             "type": "Media",
-            "url": "./images/589.jpg"
+            "url": "./images/205.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

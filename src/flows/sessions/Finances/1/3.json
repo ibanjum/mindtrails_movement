@@ -1,5 +1,5 @@
 {
-    "header_text": "You are trying to buy supplies needed for your job, and your employer typically pays you back. However, you’ve noticed that the price of an item you buy often has gone way up, and you worry that you will have to pay for some of it out of pocket. You reach out to your supervisor to discuss the change, and they confirm you will still be fully reimbursed.",
+    "header_text": "Buying Supplies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You are trying to buy supplies needed for your job, and your employer typically pays you back. However, you’ve noticed that the price of an item you buy often has gone way up, and you worry that you will have to pay for some of it out of pocket. You reach out to your supervisor to discuss the change, and they confirm you will still be fully reimbursed._Finances_comp_question",
+            "name": "Buying Supplies_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

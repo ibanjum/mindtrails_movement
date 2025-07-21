@@ -1,14 +1,16 @@
 {
-    "header_text": "Over the past couple of months, you've been feeling down, and you haven't been enjoying your usual activities. You wonder if you are depressed and if you should get help. You think that getting help would make you feel better.  ",
+    "header_text": "Getting Help",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Over the past couple of months, you've been feeling down, and you haven't been enjoying your usual activities. You wonder if you are depressed and if you should get help. You think that getting help would make you feel better.  "
+            "text": "Getting Help"
         },
         {
             "type": "Media",
             "url": "./images/101.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

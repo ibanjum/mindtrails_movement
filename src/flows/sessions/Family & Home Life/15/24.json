@@ -1,27 +1,25 @@
 {
-    "header_text": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be understanding.",
+    "header_text": "Retirement Celebration",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you tell your child about the mix-up, they will probably respond..."
+            "text": "You think about how many people have come out to celebrate your retirement. In the end, your family caring enough to throw you a party makes you feel very..."
         },
         {
-            "type": "Buttons",
-            "name": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be understanding._Family & Home Life_comp_question",
+            "type": "WordPuzzle",
+            "name": "Retirement Celebration_Family & Home Life_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Gently",
-                "Harshly"
+            "display_delay": 2000,
+            "words": [
+                "grateful"
             ],
-            "columnCount": 1,
-            "correct_value": "Gently"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

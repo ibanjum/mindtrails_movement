@@ -1,27 +1,25 @@
 {
-    "header_text": "Your parent has Huntington's disease, and it has been difficult to watch their condition worsen as they've gotten older. As you age, you wonder if your symptoms will become as severe as theirs. You begin to feel nervous about your future.",
+    "header_text": "Yoga Equipment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will there be people who care about you that help you in the future?"
+            "text": "The instructor of your yoga class asked you and your partner to buy some new equipment. As you look around the store, you wonder about the future of your yoga participation. You decide to buy the equipment and stay... "
         },
         {
-            "type": "Buttons",
-            "name": "Your parent has Huntington's disease, and it has been difficult to watch their condition worsen as they've gotten older. As you age, you wonder if your symptoms will become as severe as theirs. You begin to feel nervous about your future._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Yoga Equipment_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "committed"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

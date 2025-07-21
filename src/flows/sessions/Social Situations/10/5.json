@@ -1,14 +1,16 @@
 {
-    "header_text": "You get invited to an office party and you decide to wear a suit you got last year. You arrive and everyone else seems to have an outfit that is brand new. As you walk around, the host comes up to you and says you look nice.",
+    "header_text": "Wearing Something Old",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You get invited to an office party and you decide to wear a suit you got last year. You arrive and everyone else seems to have an outfit that is brand new. As you walk around, the host comes up to you and says you look nice."
+            "text": "Wearing Something Old"
         },
         {
             "type": "Media",
             "url": "./images/649.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

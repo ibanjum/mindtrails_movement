@@ -1,23 +1,16 @@
 {
-    "header_text": "You often have involuntary facial movements due to chorea. As you walk into a room of friends, you glimpse your eyebrows raising in the mirror. Your friends exchange uneasy glances as they misinterpret your facial expression as a sign of anger.",
+    "header_text": "Enjoying the outdoors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You make a lighthearted joke that breaks the tension and your friends realize you aren't angry at all. They quickly grasp your true warmth and everyone feels..."
+            "type": "Label",
+            "text": "Enjoying the outdoors"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You often have involuntary facial movements due to chorea. As you walk into a room of friends, you glimpse your eyebrows raising in the mirror. Your friends exchange uneasy glances as they misinterpret your facial expression as a sign of anger._Early/Mid-Stage Symptoms_puzzle_word2",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "happy"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/729.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "type": "positive",
+    "scenario_num": 6
 }

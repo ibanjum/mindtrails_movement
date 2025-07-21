@@ -1,14 +1,16 @@
 {
-    "header_text": "You are talking with a close friend and have gotten lost in the conversation a couple of times. You ask them to repeat something they said earlier, and you are concerned that they might become annoyed. As you both continue the conversation, you know your friend is aware of your diagnosis and is understanding.",
+    "header_text": "Question at Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are talking with a close friend and have gotten lost in the conversation a couple of times. You ask them to repeat something they said earlier, and you are concerned that they might become annoyed. As you both continue the conversation, you know your friend is aware of your diagnosis and is understanding."
+            "text": "Question at Work"
         },
         {
             "type": "Media",
-            "url": "./images/727.jpg"
+            "url": "./images/733.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

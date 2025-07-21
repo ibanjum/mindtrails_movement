@@ -1,14 +1,29 @@
 {
-    "header_text": "You recently brought your partner to dinner with your siblings. When your partner talks about their career, your siblings look uninterested. You realize that your siblings were probably just focused on listening.",
+    "header_text": "Seeing A Dog",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You recently brought your partner to dinner with your siblings. When your partner talks about their career, your siblings look uninterested. You realize that your siblings were probably just focused on listening."
+            "type": "Text",
+            "Text": "Making a plan with your doctor helped you to feel more..."
         },
         {
-            "type": "Media",
-            "url": "./images/188.jpg"
+            "type": "Buttons",
+            "name": "Seeing A Dog_Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Confident",
+                "Powerless"
+            ],
+            "columnCount": 1,
+            "correct_value": "Confident"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

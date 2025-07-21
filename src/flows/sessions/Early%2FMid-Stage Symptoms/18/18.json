@@ -1,23 +1,16 @@
 {
-    "header_text": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be understanding.",
+    "header_text": "Forgetting Movie Title",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be..."
+            "type": "Label",
+            "text": "Forgetting Movie Title"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be understanding._Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "understanding"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/820.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "type": "positive",
+    "scenario_num": 5
 }

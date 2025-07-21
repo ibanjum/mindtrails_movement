@@ -1,14 +1,16 @@
 {
-    "header_text": "One afternoon you are hanging out with a friend, and you notice that the conversation has died down. Neither of you says anything for a while, and your friend can sense that you feel uncomfortable.",
+    "header_text": "Quiet Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "One afternoon you are hanging out with a friend, and you notice that the conversation has died down. Neither of you says anything for a while, and your friend can sense that you feel uncomfortable."
+            "text": "Quiet Time"
         },
         {
             "type": "Media",
             "url": "./images/628.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

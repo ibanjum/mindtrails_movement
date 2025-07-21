@@ -1,14 +1,16 @@
 {
-    "header_text": "At the toy store, your young niece eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before HD. An excited giggle snaps your attention back to the present, and you decide to focus on your niece's joy.",
+    "header_text": "Applying for a Grant",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "At the toy store, your young niece eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before HD. An excited giggle snaps your attention back to the present, and you decide to focus on your niece's joy."
+            "text": "Applying for a Grant"
         },
         {
             "type": "Media",
-            "url": "./images/410.jpg"
+            "url": "./images/94.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

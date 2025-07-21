@@ -1,5 +1,5 @@
 {
-    "header_text": "You are doing your taxes and start worrying about what the coming years hold, especially in terms of your finances. When you think about the coming years, you know that you will be financially stable. ",
+    "header_text": "Making Changes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You are doing your taxes and start worrying about what the coming years hold, especially in terms of your finances. When you think about the coming years, you know that you will be financially stable. _Finances_entry1"
+            "name": "Making Changes_Finances_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You see an old friend you haven't spoken to in years. Your heart skips a beat. You feel excited.",
+    "header_text": "Seeing an Old Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You see an old friend you haven't spoken to in years. Your heart skips a beat. You feel excited."
+            "text": "Seeing an Old Friend"
         },
         {
             "type": "Media",
             "url": "./images/493.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

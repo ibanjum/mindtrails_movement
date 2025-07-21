@@ -1,14 +1,16 @@
 {
-    "header_text": "You post a picture of yourself on social media that you feel you look nice in. After a couple of days, you see that you got very few likes and comments. You still feel confident in the photo despite the lack of engagement with your post.",
+    "header_text": "Social Media Engagement ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You post a picture of yourself on social media that you feel you look nice in. After a couple of days, you see that you got very few likes and comments. You still feel confident in the photo despite the lack of engagement with your post."
+            "text": "Social Media Engagement "
         },
         {
             "type": "Media",
             "url": "./images/349.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

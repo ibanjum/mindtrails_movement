@@ -1,14 +1,16 @@
 {
-    "header_text": "You're out to lunch with a group of your friends. You make a joke that you think is really funny, but no one really laughs. They were probably distracted.",
+    "header_text": "Comedic Genius",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're out to lunch with a group of your friends. You make a joke that you think is really funny, but no one really laughs. They were probably distracted."
+            "text": "Comedic Genius"
         },
         {
             "type": "Media",
             "url": "./images/666.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

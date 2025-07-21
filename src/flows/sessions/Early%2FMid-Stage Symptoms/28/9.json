@@ -1,27 +1,25 @@
 {
-    "header_text": "You are in the car running some errands, and your spouse misses a turn. You are angry about the mistake and wish that you were the one driving. Your spouse looks at you and asks if you will please navigate.",
+    "header_text": "A Few Falls",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Although you are not driving, your spouse could use your..."
+            "text": "They talk with you about using a cane or walker so that you can be more sturdy on your feet, and you agree. Seeing their faces relax makes you..."
         },
         {
-            "type": "Buttons",
-            "name": "You are in the car running some errands, and your spouse misses a turn. You are angry about the mistake and wish that you were the one driving. Your spouse looks at you and asks if you will please navigate._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "A Few Falls_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Silence",
-                "Help"
+            "display_delay": 2000,
+            "words": [
+                "happy"
             ],
-            "columnCount": 1,
-            "correct_value": "Help"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

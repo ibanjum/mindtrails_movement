@@ -1,27 +1,29 @@
 {
-    "header_text": "When you think about the next 10 years, you wonder which friends will still be a part of your life. You hope to keep in touch with your closest friends but know that it will be difficult. When you imagine yourself in 10 years, you see you and your close friends having stayed close.",
+    "header_text": "Holiday Away From Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You think that staying close to your current friends"
+            "Text": "Your children are likely to think that you"
         },
         {
             "type": "Buttons",
-            "name": "When you think about the next 10 years, you wonder which friends will still be a part of your life. You hope to keep in touch with your closest friends but know that it will be difficult. When you imagine yourself in 10 years, you see you and your close friends having stayed close._Social Situations_comp_question",
+            "name": "Holiday Away From Home_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Is almost impossible in the long run.",
-                "Will be something that brings you happiness for years to come."
+                "Are just excited to spend the holidays with your partner, and not take it personally.",
+                "Don't care about them or want to see them."
             ],
             "columnCount": 1,
-            "correct_value": "Will be something that brings you happiness for years to come."
+            "correct_value": "Are just excited to spend the holidays with your partner, and not take it personally."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

@@ -1,27 +1,29 @@
 {
-    "header_text": "You are drinking morning coffee next to your spouse and suddenly cough on the sip you are taking. Your spouse looks at you like they have something to say. Then, they ask if they can get you a refill.",
+    "header_text": "Dinner Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your spouse is trying to be..."
+            "Text": "People at the restaurant are probably..."
         },
         {
             "type": "Buttons",
-            "name": "You are drinking morning coffee next to your spouse and suddenly cough on the sip you are taking. Your spouse looks at you like they have something to say. Then, they ask if they can get you a refill._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Dinner Alone_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Hovering",
-                "Kind"
+                "Judging you.",
+                "Busy with their own meals."
             ],
             "columnCount": 1,
-            "correct_value": "Kind"
+            "correct_value": "Busy with their own meals."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

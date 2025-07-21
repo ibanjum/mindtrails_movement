@@ -1,23 +1,29 @@
 {
-    "header_text": "You finish a task due next week for your boss and ask them for their opinion. They say the work is good, apart from an incomplete section. You feel that they think you are careless.",
+    "header_text": "Special Day",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the end, you realize that they brought the error to your attention so you could improve it before sending it in. You fix the incomplete section and believe that your boss head thinks you are..."
+            "Text": "You probably feel nervous because..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You finish a task due next week for your boss and ask them for their opinion. They say the work is good, apart from an incomplete section. You feel that they think you are careless._Mental Health_puzzle_word2",
+            "type": "Buttons",
+            "name": "Special Day_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "learning"
+            "buttons": [
+                "You are unlikeable",
+                "You haven't hung out with this person before"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "You haven't hung out with this person before"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

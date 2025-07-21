@@ -1,23 +1,29 @@
 {
-    "header_text": "You are at the pet store looking for a new bird feeder when you notice a kitten up for adoption. You have been thinking about adopting an animal, but fear your HD will limit your ability to care for it in the future. You remember that you will also have your family's support, and you decide to adopt.",
+    "header_text": "Typing An Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at the pet store looking for a new bird feeder when you notice a kitten up for adoption. You have been thinking about adopting an animal, but fear your PD will limit your ability to care for it in the future. You remember that you will also have your family's support, and you decide to..."
+            "Text": "Do you have to give up on the email?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You are at the pet store looking for a new bird feeder when you notice a kitten up for adoption. You have been thinking about adopting an animal, but fear your HD will limit your ability to care for it in the future. You remember that you will also have your family's support, and you decide to adopt._Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Typing An Email_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "adopt"
+            "buttons": [
+                "No.",
+                "Yes."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No."
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

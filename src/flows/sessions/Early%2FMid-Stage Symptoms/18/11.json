@@ -1,14 +1,16 @@
 {
-    "header_text": "You are in the passenger seat as your partner struggles to navigate to a new friend's house. As the estimated trip time doubles from 15 to 30 minutes, you get more and more irritated. When your partner eventually stops the car and apologizes for getting lost, you give them comfort.",
+    "header_text": "Journaling Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are in the passenger seat as your partner struggles to navigate to a new friend's house. As the estimated trip time doubles from 15 to 30 minutes, you get more and more irritated. When your partner eventually stops the car and apologizes for getting lost, you give them comfort."
+            "text": "Journaling Issues"
         },
         {
             "type": "Media",
-            "url": "./images/594.jpg"
+            "url": "./images/819.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You overhear a couple talking about their retirement savings. As you listen in, you start to worry that you haven't saved enough. ",
+    "header_text": "Retirement Savings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You overhear a couple talking about their retirement savings. As you listen in, you start to worry that you haven't saved enough. "
+            "text": "Retirement Savings"
         },
         {
             "type": "Media",
             "url": "./images/307.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

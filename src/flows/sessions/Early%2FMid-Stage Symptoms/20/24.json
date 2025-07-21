@@ -1,27 +1,29 @@
 {
-    "header_text": "Today you are writing a letter to a loved one and finding it hard to organize your thoughts. You have to re-read previous sentences frequently, and you fear that the final product won't make any sense to the recipient. A few days after you send the letter, your loved one calls to tell you that your words were beautiful.",
+    "header_text": "Tripping at Family Barbecue",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to communicate your thoughts in a letter?"
+            "Text": "In the end, your family made you feel..."
         },
         {
             "type": "Buttons",
-            "name": "Today you are writing a letter to a loved one and finding it hard to organize your thoughts. You have to re-read previous sentences frequently, and you fear that the final product won't make any sense to the recipient. A few days after you send the letter, your loved one calls to tell you that your words were beautiful._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Tripping at Family Barbecue_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Worse.",
+                "Better."
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Better."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

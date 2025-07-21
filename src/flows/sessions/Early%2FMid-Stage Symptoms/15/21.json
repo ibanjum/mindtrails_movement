@@ -1,14 +1,16 @@
 {
-    "header_text": "You used to be quick at completing your to-do list. Lately, you find yourself needing more time to complete tasks. You tell yourself you'll get back into the swing of things soon, and this helps you relax.",
+    "header_text": "Comparing at the Gym",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You used to be quick at completing your to-do list. Lately, you find yourself needing more time to complete tasks. You tell yourself you'll get back into the swing of things soon, and this helps you relax."
+            "text": "Comparing at the Gym"
         },
         {
             "type": "Media",
-            "url": "./images/406.jpg"
+            "url": "./images/525.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

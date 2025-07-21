@@ -1,5 +1,5 @@
 {
-    "header_text": "You got someone's number from a dating app and have been texting them for a few days now. You do not feel very interested in them, but they text you today saying they want to meet up for a date. After worrying that they will be angry if you decline their offer, you decide to tell them the truth that you do not see your relationship going any further and end up feeling relieved.",
+    "header_text": "Truthful Texting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You got someone's number from a dating app and have been texting them for a few days now. You do not feel very interested in them, but they text you today saying they want to meet up for a date. After worrying that they will be angry if you decline their offer, you decide to tell them the truth that you do not see your relationship going any further and end up feeling relieved._Mental Health_puzzle1",
+            "name": "Truthful Texting_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

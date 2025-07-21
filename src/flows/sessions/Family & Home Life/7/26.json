@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. ",
+    "header_text": "Attending a dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your extended family have very different political and religious beliefs. This sometimes causes tension, but you make a strong effort to have a good relationship with your family. "
+            "text": "Attending a dinner"
         },
         {
             "type": "Media",
-            "url": "./images/160.jpg"
+            "url": "./images/170.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

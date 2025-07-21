@@ -1,0 +1,16 @@
+{
+    "header_text": "Dine with Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Label",
+            "text": "Dine with Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/865.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 2
+}

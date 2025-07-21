@@ -1,14 +1,16 @@
 {
-    "header_text": "You have off on Monday for a holiday, and you know people will make plans for the long weekend. After a close friend says they're out of town for the weekend, you realize you don't have anyone to hang out with. This makes you optimistic about making new friends over the weekend.",
+    "header_text": "Playing the Piano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have off on Monday for a holiday, and you know people will make plans for the long weekend. After a close friend says they're out of town for the weekend, you realize you don't have anyone to hang out with. This makes you optimistic about making new friends over the weekend."
+            "text": "Playing the Piano"
         },
         {
             "type": "Media",
-            "url": "./images/687.jpg"
+            "url": "./images/187.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 2
 }

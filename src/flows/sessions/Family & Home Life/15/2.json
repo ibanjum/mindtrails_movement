@@ -1,14 +1,16 @@
 {
-    "header_text": "You're at home, relaxing on the couch and watching your favorite TV show while also texting with a friend. However, you are struggling to focus on both tasks at the same time, making you feel overwhelmed. You remind yourself that if you need to pause your show or take a break from texting, then that is okay.",
+    "header_text": "Tripping at Family Barbecue",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're at home, relaxing on the couch and watching your favorite TV show while also texting with a friend. However, you are struggling to focus on both tasks at the same time, making you feel overwhelmed. You remind yourself that if you need to pause your show or take a break from texting, then that is okay."
+            "text": "Tripping at Family Barbecue"
         },
         {
             "type": "Media",
-            "url": "./images/216.jpg"
+            "url": "./images/215.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "You buy a new camera, but when you get home, you find that you do not like it. You return it to the store and get your money back. At the counter, the assistant is not very talkative as they help you, and you think they view you as crazy.",
+    "header_text": "A new camera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You buy a new camera, but when you get home, you find that you do not like it. You return it to the store and get your money back. At the counter, the assistant is not very talkative as they help you, and you think they view you as crazy._Social Situations_comp_question",
+            "name": "A new camera_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 2
 }

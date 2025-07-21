@@ -1,5 +1,5 @@
 {
-    "header_text": "You and your partner decide to spend time at the pool. You notice you forgot to pack sunscreen, even after your partner specifically told you to remember it. You think your partner will be angry. ",
+    "header_text": "Pool Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,20 @@
         },
         {
             "type": "Entry",
-            "name": "You and your partner decide to spend time at the pool. You notice you forgot to pack sunscreen, even after your partner specifically told you to remember it. You think your partner will be angry. _Romantic Relationships_entry2"
+            "name": "Pool Time_Romantic Relationships_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

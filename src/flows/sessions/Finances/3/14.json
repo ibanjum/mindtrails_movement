@@ -1,14 +1,26 @@
 {
-    "header_text": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at work.  Thinking about your ability to make the payment, your funds will be insufficient.",
+    "header_text": "Affording Expenses",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at work.  Thinking about your ability to make the payment, your funds will be insufficient."
+            "text": "Affording Expenses"
         },
         {
             "type": "Media",
             "url": "./images/258.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

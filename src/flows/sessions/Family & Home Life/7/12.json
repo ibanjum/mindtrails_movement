@@ -1,23 +1,25 @@
 {
-    "header_text": "Your friend is a good driver, but it is raining heavily today. They're driving very fast, so you ask them to slow down. You take a deep breath because the chances of getting into an accident are small. ",
+    "header_text": "Relying on Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend is a good driver, but it is raining heavily today. They're driving very fast, so you ask them to slow down. You take a deep breath because the chances of getting into an accident are... "
+            "text": "Your pay was recently cut, and you will need to ask your family for some help affording expenses this month. You feel terrible asking since they have already supported you a lot financially in the past. You remind yourself that needing a little extra help every now and then is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Your friend is a good driver, but it is raining heavily today. They're driving very fast, so you ask them to slow down. You take a deep breath because the chances of getting into an accident are small. _Family & Home Life_puzzle1",
+            "name": "Relying on Family_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "small"
+                "okay"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

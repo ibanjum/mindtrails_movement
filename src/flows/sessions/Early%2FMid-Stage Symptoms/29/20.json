@@ -1,14 +1,16 @@
 {
-    "header_text": "At family dinner, you're feeling irritable, and you're not sure why. You feel so unsettled that you're not sure you want to finish the meal. You decide to focus on the food you're eating and the family around you, and this mindfulness helps you feel settled.",
+    "header_text": "Reading before Bedtime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "At family dinner, you're feeling irritable, and you're not sure why. You feel so unsettled that you're not sure you want to finish the meal. You decide to focus on the food you're eating and the family around you, and this mindfulness helps you feel settled."
+            "text": "Reading before Bedtime"
         },
         {
             "type": "Media",
-            "url": "./images/248.jpg"
+            "url": "./images/240.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

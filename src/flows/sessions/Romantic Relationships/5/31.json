@@ -1,14 +1,16 @@
 {
-    "header_text": "Many of your friends have been in committed relationships for a long time. You are not in a relationship and do not see one developing soon. Even though you still want a relationship eventually, you also strongly value your independence. ",
+    "header_text": "Missing Out From Romantic Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Many of your friends have been in committed relationships for a long time. You are not in a relationship and do not see one developing soon. Even though you still want a relationship eventually, you also strongly value your independence. "
+            "text": "Missing Out From Romantic Relationships"
         },
         {
             "type": "Media",
             "url": "./images/546.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

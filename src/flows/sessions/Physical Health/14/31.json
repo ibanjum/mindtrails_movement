@@ -1,5 +1,5 @@
 {
-    "header_text": "You are taking a dancing class and, during a break, find yourself talking to a newcomer about your job. As you chat, you notice that you are sweating. They probably assume this is a result of dancing.",
+    "header_text": "Dancing class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You are taking a dancing class and, during a break, find yourself talking to a newcomer about your job. As you chat, you notice that you are sweating. They probably assume this is a result of dancing._Physical Health_comp_question",
+            "name": "Dancing class_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

@@ -1,27 +1,25 @@
 {
-    "header_text": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you decide to hold it because you're nervous.",
+    "header_text": "Being Independent",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your partner's support makes you feel..."
+            "text": "You have always taken pride in being independent and providing care to your family. As your symptoms progress, you notice you are less able to do things on your own like cooking or cleaning, now seeking help from your family. Throughout these changes, your family is..."
         },
         {
-            "type": "Buttons",
-            "name": "You're at a music venue, and you suddenly realize you need to use the restroom. You look around and see that you have to walk through a large crowd. You think about tripping over someone, and you decide to hold it because you're nervous._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Being Independent_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Anxious",
-                "Assured"
+            "display_delay": 2000,
+            "words": [
+                "understanding"
             ],
-            "columnCount": 1,
-            "correct_value": "Assured"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

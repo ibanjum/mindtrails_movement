@@ -1,5 +1,5 @@
 {
-    "header_text": "You are shopping in a grocery store. As you are browsing some shelves, you accidently knock several cans on the floor and shoppers turn to look at you. The shoppers see the cans on the floor and respond with annoyance.",
+    "header_text": "Grocery Store Experience",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You are shopping in a grocery store. As you are browsing some shelves, you accidently knock several cans on the floor and shoppers turn to look at you. The shoppers see the cans on the floor and respond with annoyance._Social Situations_entry2"
+            "name": "Grocery Store Experience_Social Situations_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

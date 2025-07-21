@@ -1,5 +1,5 @@
 {
-    "header_text": "Your friend invites you to a dinner party and after you leave, they casually mention that one of the people there had been sick. You can’t believe your friend wouldn’t tell you this before the party ended. You decide to talk to your friend about it, and they say they will communicate better.",
+    "header_text": "Late Communication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "Your friend invites you to a dinner party and after you leave, they casually mention that one of the people there had been sick. You can’t believe your friend wouldn’t tell you this before the party ended. You decide to talk to your friend about it, and they say they will communicate better._Physical Health_comp_question",
+            "name": "Late Communication_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

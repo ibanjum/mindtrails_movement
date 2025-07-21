@@ -1,27 +1,29 @@
 {
-    "header_text": "You spend the day on a boat with your friends. Your legs feel strange when you get off the boat, and you have trouble walking. This sensation is amusing.",
+    "header_text": "Plans for the Weekend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The feeling in your legs is probably..."
+            "Text": "Do you want to be more social?"
         },
         {
             "type": "Buttons",
-            "name": "You spend the day on a boat with your friends. Your legs feel strange when you get off the boat, and you have trouble walking. This sensation is amusing._Social Situations_comp_question",
+            "name": "Plans for the Weekend_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Something you should be worried about",
-                "Temporary and nothing you should be worried about"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Temporary and nothing you should be worried about"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

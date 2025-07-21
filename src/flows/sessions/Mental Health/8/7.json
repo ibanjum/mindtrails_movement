@@ -1,5 +1,5 @@
 {
-    "header_text": "You have been dealing with some stressful situations recently. You are reflecting on the past few weeks and wonder if you have been feeling numb. You remember that you've been coping well and have most likely kept your emotions stable.",
+    "header_text": "Feeling Numb",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You have been dealing with some stressful situations recently. You are reflecting on the past few weeks and wonder if you have been feeling numb. You remember that you've been coping well and have most likely kept your emotions stable._Mental Health_entry1"
+            "name": "Feeling Numb_Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

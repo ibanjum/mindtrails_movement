@@ -1,14 +1,16 @@
 {
-    "header_text": "Your friend buys you a cake for your birthday. When they bring it over in the evening, they say they have recently gotten over being ill. Holding the cake, you think your chances of becoming sick are small.",
+    "header_text": "A birthday cake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your friend buys you a cake for your birthday. When they bring it over in the evening, they say they have recently gotten over being ill. Holding the cake, you think your chances of becoming sick are small."
+            "text": "A birthday cake"
         },
         {
             "type": "Media",
             "url": "./images/447.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

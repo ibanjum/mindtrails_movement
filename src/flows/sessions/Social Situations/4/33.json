@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Think about the lessons you learned from the stories you read today. Looking back at a recent situation that made you anxious, how might you have thought about it in a different way to make it easier to manage?"
+            "text": "For a recent situation that made you anxious, ask yourself: How might I have thought about it at another time, in another mood? Did the way you thought about it align with what actually happened? Are there alternatives? "
         },
         {
             "type": "Entry",
-            "name": "Tip #5_entry"
+            "name": "Tip #8_entry"
         }
     ]
 }

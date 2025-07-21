@@ -1,15 +1,17 @@
 {
-    "header_text": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in moderation.",
+    "header_text": "Playing the Piano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in..."
+            "text": "While at a friend's house for a dinner party, your host mentions that you are a good piano player and asks you to play something on the piano for the other guests. You know a few pieces you can play well, but you feel nervous playing on the spot without practice. Walking up to the piano, you think to yourself that everyone will be... "
         },
         {
             "type": "Entry",
-            "name": "At the farmer's market, you walk into a booth filled with desserts. Recently it has been hard to stop yourself from eating too many sweets. You buy a small cookie, knowing it is healthy to eat in moderation._Mental Health_entry1"
+            "name": "Playing the Piano_Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 7
 }

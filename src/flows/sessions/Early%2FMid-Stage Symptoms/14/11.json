@@ -1,14 +1,16 @@
 {
-    "header_text": "You're at a family dinner, enjoying the meal. You notice you are becoming increasingly agitated, reacting strongly to minor disruptions and getting frustrated with small issues. You consider excusing yourself from the table and remember that taking a break to calm down is sensible.",
+    "header_text": "Crossing the Street",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're at a family dinner, enjoying the meal. You notice you are becoming increasingly agitated, reacting strongly to minor disruptions and getting frustrated with small issues. You consider excusing yourself from the table and remember that taking a break to calm down is sensible."
+            "text": "Crossing the Street"
         },
         {
             "type": "Media",
-            "url": "./images/213.jpg"
+            "url": "./images/801.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

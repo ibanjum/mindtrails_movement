@@ -1,14 +1,26 @@
 {
-    "header_text": "You apply for a grant to fund a new initiative in your office. Without this funding, you won't be able to move forward with your initiative. You don't know if your proposal is good enough, and you think it will probably be rejected.",
+    "header_text": "Applying for a Grant",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You apply for a grant to fund a new initiative in your office. Without this funding, you won't be able to move forward with your initiative. You don't know if your proposal is good enough, and you think it will probably be rejected."
+            "text": "Applying for a Grant"
         },
         {
             "type": "Media",
             "url": "./images/94.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 6,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

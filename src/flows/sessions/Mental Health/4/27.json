@@ -1,14 +1,16 @@
 {
-    "header_text": "You are getting ready for a dinner out. You notice that you have a big pimple on your cheek. You feel beautiful.",
+    "header_text": "Night Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are getting ready for a dinner out. You notice that you have a big pimple on your cheek. You feel beautiful."
+            "text": "Night Out"
         },
         {
             "type": "Media",
             "url": "./images/350.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

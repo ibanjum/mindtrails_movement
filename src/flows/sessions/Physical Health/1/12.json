@@ -1,5 +1,5 @@
 {
-    "header_text": "It's Sunday morning and you just went for a walk outside. Taking off your running shoes in the hallway, you are short of breath. You feel proud.",
+    "header_text": "Sunday Morning Run",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "It's Sunday morning and you just went for a walk outside. Taking off your running shoes in the hallway, you are short of breath. You feel proud._Physical Health_comp_question",
+            "name": "Sunday Morning Run_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Make an emergency call because this is a sign of something serious",
-                "Rest with a bottle of water and a post-walk snack"
+                "Rest with a bottle of water and a post-walk snack",
+                "Make an emergency call because this is a sign of something serious"
             ],
             "columnCount": 1,
             "correct_value": "Rest with a bottle of water and a post-walk snack"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

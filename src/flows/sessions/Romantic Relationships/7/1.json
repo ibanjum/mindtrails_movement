@@ -1,14 +1,16 @@
 {
-    "header_text": "All of your friends have been dating significant others for a while or are just starting new relationships. You have not been on a single date and begin to wonder why. Even though you're disappointed, you know your self-worth is not defined by a relationship status.",
+    "header_text": "Feeling Lesser Than For Being Single",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "All of your friends have been dating significant others for a while or are just starting new relationships. You have not been on a single date and begin to wonder why. Even though you're disappointed, you know your self-worth is not defined by a relationship status."
+            "text": "Feeling Lesser Than For Being Single"
         },
         {
             "type": "Media",
             "url": "./images/549.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

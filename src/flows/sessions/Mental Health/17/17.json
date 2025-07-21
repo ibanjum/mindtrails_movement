@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your shortcomings.",
+    "header_text": "Time to Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your shortcomings."
+            "text": "Time to Yourself"
         },
         {
             "type": "Media",
-            "url": "./images/91.jpg"
+            "url": "./images/177.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

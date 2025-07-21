@@ -1,14 +1,16 @@
 {
-    "header_text": "The bank just alerted you of an upcoming bill. You go online to make a payment and struggle pressing the keys, causing it to display the incorrect card number. You pause, dial the bank's number, and pay the bill over the phone.",
+    "header_text": "Yoga Routine",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "The bank just alerted you of an upcoming bill. You go online to make a payment and struggle pressing the keys, causing it to display the incorrect card number. You pause, dial the bank's number, and pay the bill over the phone."
+            "text": "Yoga Routine"
         },
         {
             "type": "Media",
-            "url": "./images/862.jpg"
+            "url": "./images/415.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

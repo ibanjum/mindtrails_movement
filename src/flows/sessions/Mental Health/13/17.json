@@ -1,14 +1,16 @@
 {
-    "header_text": "You are going on a date with your spouse. You look in the mirror before you leave and wonder if they will like your look. You realize that the only opinion that matters about your appearance is yours. ",
+    "header_text": "Relationship Struggles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are going on a date with your spouse. You look in the mirror before you leave and wonder if they will like your look. You realize that the only opinion that matters about your appearance is yours. "
+            "text": "Relationship Struggles"
         },
         {
             "type": "Media",
-            "url": "./images/375.jpg"
+            "url": "./images/374.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

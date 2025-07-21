@@ -1,14 +1,16 @@
 {
-    "header_text": "You were denied a promotion this year and know that your friend was rooting for you to get a promotion. They frown when you tell them about not getting one. You tell them that you worked extremely hard despite not getting a promotion, and they are proud of the effort you gave throughout the year.",
+    "header_text": "Others' Opinions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You were denied a promotion this year and know that your friend was rooting for you to get a promotion. They frown when you tell them about not getting one. You tell them that you worked extremely hard despite not getting a promotion, and they are proud of the effort you gave throughout the year."
+            "text": "Others' Opinions"
         },
         {
             "type": "Media",
             "url": "./images/47.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

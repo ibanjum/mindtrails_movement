@@ -1,23 +1,25 @@
 {
-    "header_text": "You are getting your annual physical with your doctor. After an initial exam, your doctor says that something looks unusual and that you will need to get a second opinion. When it comes to managing your anxiety while you are in the exam room, you are capable.",
+    "header_text": "Friends in Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are getting your annual physical with your doctor. After an initial exam, your doctor says that something looks unusual and that you will need to get a second opinion. When it comes to managing your anxiety while you are in the exam room, you are..."
+            "text": "After a while, you realize that it is very normal to not be in a relationship. You think that you enjoy being single, and the right person will come along when you are...  "
         },
         {
             "type": "WordPuzzle",
-            "name": "You are getting your annual physical with your doctor. After an initial exam, your doctor says that something looks unusual and that you will need to get a second opinion. When it comes to managing your anxiety while you are in the exam room, you are capable._Mental Health_puzzle1",
+            "name": "Friends in Relationships_Mental Health_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "capable"
+                "ready"
             ],
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

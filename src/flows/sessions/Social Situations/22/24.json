@@ -1,27 +1,10 @@
 {
-    "header_text": "You look through your social media feed and notice that your kids only post pictures with their friends. You want to post a family picture and tag your kids. You ask your kids if they mind, and they say that it is a great photo.",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are your kids upset that you want to tag them in a family photo?"
-        },
-        {
-            "type": "Buttons",
-            "name": "You look through your social media feed and notice that your kids only post pictures with their friends. You want to post a family picture and tag your kids. You ask your kids if they mind, and they say that it is a great photo._Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "text": "Motivational Statement #24 \n\n Take one more step to overcome anxiety and manage stressful thoughts."
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
     ]
 }

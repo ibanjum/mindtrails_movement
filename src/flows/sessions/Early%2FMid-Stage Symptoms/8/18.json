@@ -1,23 +1,25 @@
 {
-    "header_text": "You are on your family's annual beach vacation. Your nieces and nephews want you to go in the water with them, but you are nervous about staying balanced with the crash and force of the waves. You think about how they will be with you in the water and decide to go have some fun. ",
+    "header_text": "Talking to friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on your family's annual beach vacation. Your nieces and nephews want you to go in the water with them, but you are nervous about staying balanced with the crash and force of the waves. You think about how they will be with you in the water and decide to go have some... "
+            "text": "You are catching up with a group of friends you haven't seen in a while. In the middle of telling a story, you lose track of what you intended to say and worry about your friends' reactions. You tell your friends that you lost your train of thought, and they are... "
         },
         {
             "type": "WordPuzzle",
-            "name": "You are on your family's annual beach vacation. Your nieces and nephews want you to go in the water with them, but you are nervous about staying balanced with the crash and force of the waves. You think about how they will be with you in the water and decide to go have some fun. _Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Talking to friends_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "fun"
+                "understanding"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

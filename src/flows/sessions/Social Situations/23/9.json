@@ -1,23 +1,29 @@
 {
-    "header_text": "Your friend is having a get together tonight. You weren't invited, but most of your other friends were. When you think about it, this makes you feel excluded.",
+    "header_text": "On a Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You realize you told your friends you had a lot of other things you needed to do tonight. This makes you feel..."
+            "Text": "The group of walkers were probably laughing because..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Your friend is having a get together tonight. You weren't invited, but most of your other friends were. When you think about it, this makes you feel excluded._Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "On a Walk_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relieved"
+            "buttons": [
+                "Someone told a funny joke that was not about you",
+                "They saw you stumble"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Someone told a funny joke that was not about you"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You're working on a project with some coworkers. You offer an idea to the group, and someone laughs and says that it's not good. While you're working on the project, you think that you're smart.",
+    "header_text": "Faster thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're working on a project with some coworkers. You offer an idea to the group, and someone laughs and says that it's not good. While you're working on the project, you think that you're smart."
+            "text": "Faster thoughts"
         },
         {
             "type": "Media",
-            "url": "./images/403.jpg"
+            "url": "./images/402.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

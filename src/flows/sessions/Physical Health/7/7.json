@@ -1,14 +1,16 @@
 {
-    "header_text": "You are at the airport rushing to catch a plane. You feel your heart racing as you step on the plan and sit down. Starting to sweat and breathe quickly, you fear that you might have a panic attack.",
+    "header_text": "Catching Transportation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at the airport rushing to catch a plane. You feel your heart racing as you step on the plan and sit down. Starting to sweat and breathe quickly, you fear that you might have a panic attack."
+            "text": "Catching Transportation"
         },
         {
             "type": "Media",
             "url": "./images/100.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

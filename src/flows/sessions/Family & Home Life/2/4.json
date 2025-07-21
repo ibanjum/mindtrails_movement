@@ -1,14 +1,26 @@
 {
-    "header_text": "You’re at home reading a book when you hear members of your household fighting. You wonder why they are yelling at each other, and then one of them says your name. You realize that the reason why they’re arguing is probably not your fault.",
+    "header_text": "Stuck in the Middle",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You’re at home reading a book when you hear members of your household fighting. You wonder why they are yelling at each other, and then one of them says your name. You realize that the reason why they’re arguing is probably not your fault."
+            "text": "Stuck in the Middle"
         },
         {
             "type": "Media",
             "url": "./images/138.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

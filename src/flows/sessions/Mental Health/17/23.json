@@ -1,14 +1,16 @@
 {
-    "header_text": "The window for staff evaluations just closed, and you are not sure whether you did well or not. You feel nervous as you think about how other people graded you. You think being nervous is manageable.",
+    "header_text": "An international flight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "The window for staff evaluations just closed, and you are not sure whether you did well or not. You feel nervous as you think about how other people graded you. You think being nervous is manageable."
+            "text": "An international flight"
         },
         {
             "type": "Media",
-            "url": "./images/39.jpg"
+            "url": "./images/399.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

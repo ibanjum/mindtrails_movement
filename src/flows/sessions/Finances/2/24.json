@@ -1,14 +1,16 @@
 {
-    "header_text": "Your credit card bill for the month will arrive soon. You spent a bit more this month than you normally do. When you think about your future finances, you feel that you will be okay.",
+    "header_text": "Managing bills",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your credit card bill for the month will arrive soon. You spent a bit more this month than you normally do. When you think about your future finances, you feel that you will be okay."
+            "text": "Managing bills"
         },
         {
             "type": "Media",
             "url": "./images/256.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

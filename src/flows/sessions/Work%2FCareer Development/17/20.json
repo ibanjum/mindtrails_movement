@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been selected to lead a training class for new employees. The leader before you was extremely well-liked, and you worry you won't be able to live up to others' expectations of the course. You remember that you know the material well and thinking about leading the course makes you feel hopeful.",
+    "header_text": "Teaching Others",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been selected to lead a training class for new employees. The leader before you was extremely well-liked, and you worry you won't be able to live up to others' expectations of the course. You remember that you know the material well and thinking about leading the course makes you feel hopeful."
+            "text": "Teaching Others"
         },
         {
             "type": "Media",
             "url": "./images/117.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

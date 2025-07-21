@@ -1,5 +1,5 @@
 {
-    "header_text": "You receive a bill from a recent medical appointment that doesn't make sense. You call your insurance company to learn more, and you are anxious about what they are going to say. After the phone call, you feel relieved. ",
+    "header_text": "Insurance Call",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You receive a bill from a recent medical appointment that doesn't make sense. You call your insurance company to learn more, and you are anxious about what they are going to say. After the phone call, you feel relieved. _Finances_entry1"
+            "name": "Insurance Call_Finances_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

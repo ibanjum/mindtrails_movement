@@ -1,5 +1,5 @@
 {
-    "header_text": "You and some friends are watching a movie at your home. Towards the end of the movie, your friend asks about the funny smell coming from the kitchen. You know that's your dinner, and when you think about how to answer, you feel fine.",
+    "header_text": "Watching a Movie with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "You and some friends are watching a movie at your home. Towards the end of the movie, your friend asks about the funny smell coming from the kitchen. You know that's your dinner, and when you think about how to answer, you feel fine._Social Situations_comp_question",
+            "name": "Watching a Movie with Friends_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

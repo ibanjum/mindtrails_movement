@@ -1,15 +1,17 @@
 {
-    "header_text": "During a holiday gathering, you have difficulty choosing your words during conversations. Anxiety builds as you think about how your family perceives your speech difficulties. You focus on listening actively and still add to the conversation meaningfully. ",
+    "header_text": "Being a Grandparent",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "During a holiday gathering, you have difficulty choosing your words during conversations. Anxiety builds as you think about how your family perceives your speech difficulties. You focus on listening actively and still add to the conversation... "
+            "text": "You are spending some time with your young granddaughter over the weekend. Your granddaughter is very sweet, but sometimes you get frustrated with her. When you think about your relationship with her as she grows up, you see yourself as being..."
         },
         {
             "type": "Entry",
-            "name": "During a holiday gathering, you have difficulty choosing your words during conversations. Anxiety builds as you think about how your family perceives your speech difficulties. You focus on listening actively and still add to the conversation meaningfully. _Mental Health_entry1"
+            "name": "Being a Grandparent_Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

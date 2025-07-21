@@ -1,19 +1,19 @@
 {
-    "header_text": "Missing spider: Feelings",
+    "header_text": "Struggling with a Presentation: Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you're getting into the shower, you see a huge spider on the wall. You turn away for a second and look back and realize it's gone. \n\nHere are some feelings that might happen in the moment:"
+            "text": "During today's meeting, you have to present in front of your colleagues and boss. You've been struggling to put this presentation together, but you haven't reached out to your boss about it yet. \n\nHere are some feelings that might happen in the moment:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I'm nervous about the spider, but remind myself that it probably is more scared of me.",
-                "I'm going to feel so refreshed after this shower.",
-                "I feel freaked out, but know that I'm brave enough to take my shower anyway.",
-                "I'm grateful the spider is here to eat other bugs in my house.",
-                "I feel worried about where the spider may crawl next."
+                "I feel insecure about the quality of my presentation, but nothing that I do will be perfect.",
+                "I'm worried about what my boss will say about my presentation.",
+                "I'm glad I have the self-awareness to know I need to talk to my boss soon.",
+                "I'm uneasy right now, but I can take a deep breath to help myself feel calmer.",
+                "I feel calm knowing that I tried my hardest no matter what happens."
             ],
             "Duration": 15
         }

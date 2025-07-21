@@ -1,5 +1,5 @@
 {
-    "header_text": "You are filing your taxes for the previous year. You have several forms to include, and you find the process confusing. You believe that you are trying your best. ",
+    "header_text": "Filing Your Taxes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,20 @@
         },
         {
             "type": "Entry",
-            "name": "You are filing your taxes for the previous year. You have several forms to include, and you find the process confusing. You believe that you are trying your best. _Finances_entry1"
+            "name": "Filing Your Taxes_Finances_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Just like a muscle, your brain strengthens the pathways it uses the most. That's why practicing lots of situations helps you change your thinking habits. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

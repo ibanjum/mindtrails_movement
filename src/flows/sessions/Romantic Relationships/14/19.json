@@ -1,27 +1,25 @@
 {
-    "header_text": "You have just broken up with your partner, who you were with longer than any other significant other you've had before. You believe it was for the best, but you also worry if you will ever meet someone else you feel so strongly about. As you think about your future love life, the idea of finding a good life partner seems far-fetched.",
+    "header_text": "Dealing with Divorce",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Thinking about yourself in the future, you ultimately see yourself"
+            "text": "You and your spouse recently divorced. Your child is having an event at school tonight, and it will be the first time you and your ex-spouse are attending as single people. You think that you will treat each other... "
         },
         {
-            "type": "Buttons",
-            "name": "You have just broken up with your partner, who you were with longer than any other significant other you've had before. You believe it was for the best, but you also worry if you will ever meet someone else you feel so strongly about. As you think about your future love life, the idea of finding a good life partner seems far-fetched._Romantic Relationships_comp_question",
+            "type": "WordPuzzle",
+            "name": "Dealing with Divorce_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "With a partner to whom you are fully committed.",
-                "Alone, after a string of relationships that don't work out."
+            "display_delay": 2000,
+            "words": [
+                "cordially"
             ],
-            "columnCount": 1,
-            "correct_value": "Alone, after a string of relationships that don't work out."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

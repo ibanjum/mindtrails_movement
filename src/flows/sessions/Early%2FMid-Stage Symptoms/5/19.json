@@ -1,23 +1,25 @@
 {
-    "header_text": "You have a lot to do tomorrow and decide to go to bed early. In the middle of the night you wake up and find it difficult to go back to sleep. You spend hours trying to go back to sleep but can't, leaving you feeling very frustrated.",
+    "header_text": "Getting Baked Goods",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a lot to do tomorrow and decide to go to bed early. In the middle of the night you wake up and find it difficult to go back to sleep. You spend hours trying to go back to sleep but can't, leaving you feeling very..."
+            "text": "You are waiting for your order at a bakery. As you walk over to pick up your baked goods, you fear you might clumsily drop them in front of everyone. You remind yourself that the to-go bag includes handles, so you will likely keep the bag..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You have a lot to do tomorrow and decide to go to bed early. In the middle of the night you wake up and find it difficult to go back to sleep. You spend hours trying to go back to sleep but can't, leaving you feeling very frustrated._Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Getting Baked Goods_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "frustrated"
+                "safe"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

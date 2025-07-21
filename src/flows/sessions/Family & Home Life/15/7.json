@@ -1,23 +1,25 @@
 {
-    "header_text": "You've had a few falls lately around the house and in the garden. Your spouse and child meet with you to talk about this. You can see from the looks on their faces they're worried.",
+    "header_text": "Texting and TV",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "They talk with you about using a cane or walker so that you can be more sturdy on your feet, and you agree. Seeing their faces relax makes you..."
+            "text": "You're at home, relaxing on the couch and watching your favorite TV show while also texting with a friend. However, you are struggling to focus on both tasks at the same time, making you feel overwhelmed. You remind yourself that if you need to pause your show or take a break from texting, then that is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You've had a few falls lately around the house and in the garden. Your spouse and child meet with you to talk about this. You can see from the looks on their faces they're worried._Family & Home Life_puzzle_word2",
+            "name": "Texting and TV_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "happy"
+                "okay"
             ],
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

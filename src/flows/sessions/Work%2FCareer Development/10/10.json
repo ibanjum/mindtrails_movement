@@ -1,14 +1,16 @@
 {
-    "header_text": "You've decided to take time off work to travel. You don't know anyone who has taken this type of break, and all of your friends are questioning it. When you think about your decision, you feel like it's right.",
+    "header_text": "Taking Your Own Career Path",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You've decided to take time off work to travel. You don't know anyone who has taken this type of break, and all of your friends are questioning it. When you think about your decision, you feel like it's right."
+            "text": "Taking Your Own Career Path"
         },
         {
             "type": "Media",
             "url": "./images/78.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

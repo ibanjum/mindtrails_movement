@@ -1,5 +1,5 @@
 {
-    "header_text": "You have a dinner date scheduled with someone you've been wanting to hang out with for a while. On the day of the dinner, you feel a little nervous wondering whether they will appreciate you as much as you appreciate them. You realize that feeling a little anxious is okay.",
+    "header_text": "Special Day",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You have a dinner date scheduled with someone you've been wanting to hang out with for a while. On the day of the dinner, you feel a little nervous wondering whether they will appreciate you as much as you appreciate them. You realize that feeling a little anxious is okay._Romantic Relationships_puzzle1",
+            "name": "Special Day_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

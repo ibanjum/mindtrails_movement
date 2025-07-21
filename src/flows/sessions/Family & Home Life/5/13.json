@@ -1,23 +1,25 @@
 {
-    "header_text": "You are going to see your family for a holiday. You enjoy seeing your family, but recently it has been getting more difficult to get out to see them. ",
+    "header_text": "Supportive Person ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are going to see your family for a holiday. You enjoy seeing your family, but recently it has been getting more difficult to get out to see... "
+            "text": "You want to talk to someone about your plans for the future, but don't want to talk to your family about it. You think about other close people in your life, and decide to talk to your closest friend. When you think about their reaction, you think they will probably be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You are going to see your family for a holiday. You enjoy seeing your family, but recently it has been getting more difficult to get out to see them. _Family & Home Life_puzzle1",
+            "name": "Supportive Person _Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "them"
+                "encouraging"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

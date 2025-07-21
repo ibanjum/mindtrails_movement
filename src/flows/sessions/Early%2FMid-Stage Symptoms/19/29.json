@@ -1,27 +1,29 @@
 {
-    "header_text": "You and your friends love to be outdoors together, so you go camping for the weekend. As you set up your tent, you notice your friends have already finished with theirs. You finish at your own speed then join your friends, feeling excited.",
+    "header_text": "Toy Store Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After putting up your tent at your own pace, you feel..."
+            "Text": "You are able to shift your attention to focus on the..."
         },
         {
             "type": "Buttons",
-            "name": "You and your friends love to be outdoors together, so you go camping for the weekend. As you set up your tent, you notice your friends have already finished with theirs. You finish at your own speed then join your friends, feeling excited._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Toy Store Trip_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Giddy",
-                "Self-conscious"
+                "Positive",
+                "Negative"
             ],
             "columnCount": 1,
-            "correct_value": "Giddy"
+            "correct_value": "Positive"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You have a lot of unread emails. When you check your inbox today, you notice an explicit message from an email address you don't know. You decide to block the sender and feel more relaxed.",
+    "header_text": "Receiving Explicit Email Messages",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have a lot of unread emails. When you check your inbox today, you notice an explicit message from an email address you don't know. You decide to block the sender and feel more relaxed."
+            "text": "Receiving Explicit Email Messages"
         },
         {
             "type": "Media",
             "url": "./images/586.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

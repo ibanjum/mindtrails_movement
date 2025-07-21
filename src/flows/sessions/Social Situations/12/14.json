@@ -1,14 +1,16 @@
 {
-    "header_text": "You are working on a project with a coworker at a small table in a coffee shop, and when your coffee arrives, you accidentally spill it all over their papers, which makes them jump in distress.",
+    "header_text": "Coffee Shop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are working on a project with a coworker at a small table in a coffee shop, and when your coffee arrives, you accidentally spill it all over their papers, which makes them jump in distress."
+            "text": "Coffee Shop"
         },
         {
             "type": "Media",
             "url": "./images/656.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

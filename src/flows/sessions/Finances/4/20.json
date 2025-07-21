@@ -1,14 +1,16 @@
 {
-    "header_text": "You've had some financial troubles recently. In order to make ends meet, you need to ask the bank for a small loan. You think that this is reasonable.",
+    "header_text": "Asking for Money ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You've had some financial troubles recently. In order to make ends meet, you need to ask the bank for a small loan. You think that this is reasonable."
+            "text": "Asking for Money "
         },
         {
             "type": "Media",
             "url": "./images/258.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

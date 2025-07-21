@@ -1,14 +1,16 @@
 {
-    "header_text": "You are babysitting your nephew and playing toys with him. You start having difficulty getting words out when he bombards you with questions. You remember that even if you can't answer all his questions, your presence already makes him happy.",
+    "header_text": "House Play",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are babysitting your nephew and playing toys with him. You start having difficulty getting words out when he bombards you with questions. You remember that even if you can't answer all his questions, your presence already makes him happy."
+            "text": "House Play"
         },
         {
             "type": "Media",
-            "url": "./images/204.jpg"
+            "url": "./images/203.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

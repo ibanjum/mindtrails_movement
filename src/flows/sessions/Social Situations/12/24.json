@@ -1,14 +1,16 @@
 {
-    "header_text": "You borrowed your friend's charger today. When you get home, you notice that the charger is still in your backpack. You think that your friend will understand.",
+    "header_text": "Borrowing from a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You borrowed your friend's charger today. When you get home, you notice that the charger is still in your backpack. You think that your friend will understand."
+            "text": "Borrowing from a Friend"
         },
         {
             "type": "Media",
             "url": "./images/121.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

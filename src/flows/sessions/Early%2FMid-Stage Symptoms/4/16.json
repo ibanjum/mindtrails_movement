@@ -1,27 +1,16 @@
 {
-    "header_text": "You are waiting for your order at a bakery. As you walk over to pick up your baked goods, you fear you might clumsily drop them in front of everyone. You remind yourself that the to-go bag includes handles, so you will likely keep the bag safe.",
+    "header_text": "Disagreement with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Do you think you will be able to pick up your baked goods without dropping them?"
+            "type": "Label",
+            "text": "Disagreement with a Friend"
         },
         {
-            "type": "Buttons",
-            "name": "You are waiting for your order at a bakery. As you walk over to pick up your baked goods, you fear you might clumsily drop them in front of everyone. You remind yourself that the to-go bag includes handles, so you will likely keep the bag safe._Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/743.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "positive",
+    "scenario_num": 5
 }

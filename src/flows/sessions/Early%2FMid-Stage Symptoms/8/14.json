@@ -1,14 +1,16 @@
 {
-    "header_text": "You are known in your family for sending birthday cards on time every year. This year, several of your family members got their cards late because you forgot to check your calendar. You think that you forgot about the cards because you have been busy. ",
+    "header_text": "Coffee Ordering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are known in your family for sending birthday cards on time every year. This year, several of your family members got their cards late because you forgot to check your calendar. You think that you forgot about the cards because you have been busy. "
+            "text": "Coffee Ordering"
         },
         {
             "type": "Media",
-            "url": "./images/779.jpg"
+            "url": "./images/766.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

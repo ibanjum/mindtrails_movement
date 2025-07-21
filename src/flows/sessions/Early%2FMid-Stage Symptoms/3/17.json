@@ -1,23 +1,16 @@
 {
-    "header_text": "You're sitting on a bench outside enjoying the fresh air when you notice that your arms are moving. Just then, you hear someone call your name and look up to see your neighbors walking by. You wonder if they've noticed your movements as well, but remember it is normal for people with your condition and won't take away from enjoying the moment.",
+    "header_text": "Shopping in a Crowd",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You're sitting on a bench outside enjoying the fresh air when you notice that your arms are moving. Just then, you hear someone call your name and look up to see your neighbors walking by. You wonder if they've noticed your movements as well, but remember it is normal for people with your condition and won't take away from enjoying the..."
+            "type": "Label",
+            "text": "Shopping in a Crowd"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You're sitting on a bench outside enjoying the fresh air when you notice that your arms are moving. Just then, you hear someone call your name and look up to see your neighbors walking by. You wonder if they've noticed your movements as well, but remember it is normal for people with your condition and won't take away from enjoying the moment._Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "moment"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/718.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "type": "positive",
+    "scenario_num": 5
 }

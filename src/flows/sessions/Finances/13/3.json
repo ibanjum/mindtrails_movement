@@ -1,5 +1,5 @@
 {
-    "header_text": "Your children's birthdays are approaching, and you want to show them how much you appreciate them through gifts. However, you're worried about if you'll be able to afford the gifts you think they deserve. When you think about their birthdays, you think that they will be happy with something small.",
+    "header_text": "Gift Giving",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Your children's birthdays are approaching, and you want to show them how much you appreciate them through gifts. However, you're worried about if you'll be able to afford the gifts you think they deserve. When you think about their birthdays, you think that they will be happy with something small._Finances_comp_question",
+            "name": "Gift Giving_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

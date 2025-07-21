@@ -1,5 +1,5 @@
 {
-    "header_text": "You want your family to have good educational opportunities. You want your kids to be able to attend good colleges but understand that this comes with a high price tag.",
+    "header_text": "Paying for College",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You want your family to have good educational opportunities. You want your kids to be able to attend good colleges but understand that this comes with a high price tag._Finances_puzzle1",
+            "name": "Paying for College_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "You are going on a date with your spouse. You look in the mirror before you leave and wonder if they will like your look. You realize that the only opinion that matters about your appearance is yours. ",
+    "header_text": "How You Look",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You are going on a date with your spouse. You look in the mirror before you leave and wonder if they will like your look. You realize that the only opinion that matters about your appearance is yours. _Romantic Relationships_puzzle1",
+            "name": "How You Look_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

@@ -1,5 +1,5 @@
 {
-    "header_text": "You invite work colleagues to your house for a dinner party, although you know they don't always get along. At dinner, the discussion gets very loud and argumentative.",
+    "header_text": "A heated discussion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You invite work colleagues to your house for a dinner party, although you know they don't always get along. At dinner, the discussion gets very loud and argumentative._Social Situations_comp_question",
+            "name": "A heated discussion_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "A failure and a bad idea.",
-                "A success and a good idea."
+                "A success and a good idea.",
+                "A failure and a bad idea."
             ],
             "columnCount": 1,
             "correct_value": "A success and a good idea."
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

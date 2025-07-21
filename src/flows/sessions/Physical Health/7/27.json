@@ -1,14 +1,16 @@
 {
-    "header_text": "Your children are bouncing on a trampoline. They are having fun, but you also consider their safety, knowing that trampolines can be dangerous. While watching them bouncing up and down on the trampoline, you feel they are quite safe.",
+    "header_text": "Trampoline Safety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your children are bouncing on a trampoline. They are having fun, but you also consider their safety, knowing that trampolines can be dangerous. While watching them bouncing up and down on the trampoline, you feel they are quite safe."
+            "text": "Trampoline Safety"
         },
         {
             "type": "Media",
             "url": "./images/471.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

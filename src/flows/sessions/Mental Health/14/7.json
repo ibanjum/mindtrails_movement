@@ -1,14 +1,16 @@
 {
-    "header_text": "You decide to email your department promoting something important to you. Someone responds rudely because they misinterpreted what you wrote. You wonder what this person thinks about you, and feel worried.",
+    "header_text": "Insecurities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You decide to email your department promoting something important to you. Someone responds rudely because they misinterpreted what you wrote. You wonder what this person thinks about you, and feel worried."
+            "text": "Insecurities"
         },
         {
             "type": "Media",
-            "url": "./images/73.jpg"
+            "url": "./images/380.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

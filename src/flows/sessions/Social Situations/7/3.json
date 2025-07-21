@@ -1,5 +1,5 @@
 {
-    "header_text": "While out on a walk, you see a neighbor that you do not know well. You decide to say hello in passing but then wonder if you annoyed the neighbor. After the brief encounter, you believe they think that you are friendly.",
+    "header_text": "Greeting Someone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "While out on a walk, you see a neighbor that you do not know well. You decide to say hello in passing but then wonder if you annoyed the neighbor. After the brief encounter, you believe they think that you are friendly._Social Situations_comp_question",
+            "name": "Greeting Someone_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

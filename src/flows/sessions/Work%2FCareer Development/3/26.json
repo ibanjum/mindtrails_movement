@@ -1,14 +1,16 @@
 {
-    "header_text": "You are giving a speech at a convention for work. As you speak, you look into the crowd and notice that your boss’s expression is almost emotionless, but you can make out a slight frown.",
+    "header_text": "Giving a speech",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are giving a speech at a convention for work. As you speak, you look into the crowd and notice that your boss’s expression is almost emotionless, but you can make out a slight frown."
+            "text": "Giving a speech"
         },
         {
             "type": "Media",
             "url": "./images/29.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

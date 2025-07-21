@@ -1,14 +1,16 @@
 {
-    "header_text": "Fitness classes have always motivated you to stay active. Recently, your inability to focus on the instructor and coordinate movements with theirs has discouraged you. Instead of dropping the class, you decide to do your best each time, knowing that any exercise is healthy.",
+    "header_text": "Painting Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fitness classes have always motivated you to stay active. Recently, your inability to focus on the instructor and coordinate movements with theirs has discouraged you. Instead of dropping the class, you decide to do your best each time, knowing that any exercise is healthy."
+            "text": "Painting Project"
         },
         {
             "type": "Media",
-            "url": "./images/523.jpg"
+            "url": "./images/233.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

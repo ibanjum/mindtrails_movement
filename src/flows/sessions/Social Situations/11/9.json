@@ -1,19 +1,19 @@
 {
-    "header_text": "Halloween party: Feelings",
+    "header_text": "Sitting on the bus: Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are invited to a Halloween party with your coworkers and you're only close to a couple of people there. You decide to wear a costume. When you arrive, everyone looks at you. \n\nHere are some feelings that might happen in the moment:"
+            "text": "You are sitting on the bus and see your friend get on. They walk past you and sit with another friend.\n\nHere are some feelings that might happen in the moment:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I worry about what others are thinking, but realize that I'm allowed to wear what makes me happy.",
-                "I'm worried that others are making fun of me behind my back.",
-                "I feel so liberated wearing something so fun.",
-                "I'm really embarrassed that I stand out so much, but honestly people will forget about it in a few minutes.",
-                "I feel happy wearing what I love."
+                "I'm glad that this is a short bus ride.",
+                "I am anxious about why my friend walked past me, but I can ask them about it later.",
+                "I'm excited to see my other friends and colleagues at work today.",
+                "I'm annoyed with my friend right now.",
+                "I'm scared that people will judge me, but I remember that lots of people ride the bus alone."
             ],
             "Duration": 15
         }

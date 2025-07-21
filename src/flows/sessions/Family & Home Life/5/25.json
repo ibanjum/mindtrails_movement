@@ -1,14 +1,16 @@
 {
-    "header_text": "You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. Considering your situation, fully committing to this decision is definitely possible.",
+    "header_text": "Balancing Responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are currently renting your home, but you have a stable job now. You feel that it is about time to buy a house. Considering your situation, fully committing to this decision is definitely possible."
+            "text": "Balancing Responsibilities"
         },
         {
             "type": "Media",
-            "url": "./images/163.jpg"
+            "url": "./images/162.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

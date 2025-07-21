@@ -1,14 +1,16 @@
 {
-    "header_text": "You don’t feel very steady on your feet as you walk to your table at your favorite restaurant. You see other customers turn their heads to look at you as you walk by. Whether or not they think you walked oddly, your meal will be enj­­oyable.",
+    "header_text": "Walking Down Steps",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You don’t feel very steady on your feet as you walk to your table at your favorite restaurant. You see other customers turn their heads to look at you as you walk by. Whether or not they think you walked oddly, your meal will be enj­­oyable."
+            "text": "Walking Down Steps"
         },
         {
             "type": "Media",
-            "url": "./images/748.jpg"
+            "url": "./images/728.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

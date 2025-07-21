@@ -1,23 +1,29 @@
 {
-    "header_text": "Home renovations are long overdue, so today you are cleaning your house before the workers arrive. You are working slower than usual, and your spouse points out several spots you missed. Annoyed, you ask your spouse for help finishing up and communicate your feelings. ",
+    "header_text": "Navigation Irritation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Home renovations are long overdue, so today you are cleaning your house before the workers arrive. You are working slower than usual, and your spouse points out several spots you missed. Annoyed, you ask your spouse for help finishing up and communicate your... "
+            "Text": "When you partner apologizes for getting lost, you..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Home renovations are long overdue, so today you are cleaning your house before the workers arrive. You are working slower than usual, and your spouse points out several spots you missed. Annoyed, you ask your spouse for help finishing up and communicate your feelings. _Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Navigation Irritation_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "feelings"
+            "buttons": [
+                "Explode with anger.",
+                "Comfort them."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Comfort them."
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

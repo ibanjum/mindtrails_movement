@@ -1,5 +1,5 @@
 {
-    "header_text": "You prepared a lot for an important presentation with your colleagues. Your section of the presentation didn't go as well as you expected. You think about whether you will be able to do better in your next section, and realize this was your last section.",
+    "header_text": "Judging Your Performance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You prepared a lot for an important presentation with your colleagues. Your section of the presentation didn't go as well as you expected. You think about whether you will be able to do better in your next section, and realize this was your last section._Work/Career Development_puzzle1",
+            "name": "Judging Your Performance_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

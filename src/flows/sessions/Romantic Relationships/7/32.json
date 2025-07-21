@@ -1,5 +1,5 @@
 {
-    "header_text": "You are walking through the park, and you see an elderly couple walking hand in hand. You begin thinking about your own life and imagine yourself at their age. ",
+    "header_text": "Yourself in Old Age ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "You are walking through the park, and you see an elderly couple walking hand in hand. You begin thinking about your own life and imagine yourself at their age. _Romantic Relationships_comp_question",
+            "name": "Yourself in Old Age _Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

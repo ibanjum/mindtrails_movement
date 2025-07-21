@@ -1,14 +1,16 @@
 {
-    "header_text": "You have spent years repaying loan debt from your house, schooling, and cars. As you notice more signs of HD, you worry that you won't have enough time to pay off the loans. You set up a meeting with a financial planner, helping you feel more prepared.",
+    "header_text": "Creating Art ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have spent years repaying loan debt from your house, schooling, and cars. As you notice more signs of HD, you worry that you won't have enough time to pay off the loans. You set up a meeting with a financial planner, helping you feel more prepared."
+            "text": "Creating Art "
         },
         {
             "type": "Media",
-            "url": "./images/316.jpg"
+            "url": "./images/768.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

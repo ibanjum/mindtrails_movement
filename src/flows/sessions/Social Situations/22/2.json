@@ -1,14 +1,16 @@
 {
-    "header_text": "You are going to a potluck dinner party, and you want to make your family's macaroni casserole to bring. You have the recipe your parents gave you, but you worry you don't have the cooking skills to pull off the dish. You think that people at the party will probably think your casserole tastes unappetizing.",
+    "header_text": "Sharing With Support Group ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are going to a potluck dinner party, and you want to make your family's macaroni casserole to bring. You have the recipe your parents gave you, but you worry you don't have the cooking skills to pull off the dish. You think that people at the party will probably think your casserole tastes unappetizing."
+            "text": "Sharing With Support Group "
         },
         {
             "type": "Media",
-            "url": "./images/574.jpg"
+            "url": "./images/697.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

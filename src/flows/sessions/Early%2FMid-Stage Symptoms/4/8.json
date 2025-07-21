@@ -1,14 +1,25 @@
 {
-    "header_text": "You have been feeling more unsteady on your feet recently. When walking through your home, you worry you will fall. You decide to be safe by sitting down and recovering.",
+    "header_text": "April Proposal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You have been feeling more unsteady on your feet recently. When walking through your home, you worry you will fall. You decide to be safe by sitting down and recovering."
+            "type": "Text",
+            "text": "You have been dating someone seriously and are looking forward to the possibility of getting married — even though some people may think it's too \"late\" in life. On a warm April day, they propose to you at your favorite spot downtown. You say yes knowing PD will be something you get through..."
         },
         {
-            "type": "Media",
-            "url": "./images/749.jpg"
+            "type": "WordPuzzle",
+            "name": "April Proposal_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "together"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "Yesterday you got together with a friend who coughed a few times while you were out. You are nervous that you might have caught something from your friend. You decide that your anxiety is manageable.",
+    "header_text": "Coughing friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yesterday you got together with a friend who coughed a few times while you were out. You are nervous that you might have caught something from your friend. You decide that your anxiety is manageable."
+            "text": "Coughing friend"
         },
         {
             "type": "Media",
             "url": "./images/436.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

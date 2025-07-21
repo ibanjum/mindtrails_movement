@@ -1,23 +1,29 @@
 {
-    "header_text": "You are attending your grandchild's dance recital. As you are walking into the theater with your family, you notice the new environment is causing you to have a bit more chorea than usual. You are worried that your grandchild will be embarrassed.",
+    "header_text": "Cleaning the House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After the performance is over, you speak with your grandchild and compliment them on their performance. You realize that your grandchild is just happy you were able to attend, regardless of your..."
+            "Text": "Do you find a solution to clean your house and connect with your spouse?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You are attending your grandchild's dance recital. As you are walking into the theater with your family, you notice the new environment is causing you to have a bit more chorea than usual. You are worried that your grandchild will be embarrassed._Family & Home Life_puzzle_word2",
+            "type": "Buttons",
+            "name": "Cleaning the House_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "symptoms"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

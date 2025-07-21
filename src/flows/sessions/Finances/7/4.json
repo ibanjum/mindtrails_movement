@@ -1,14 +1,16 @@
 {
-    "header_text": "You are talking to your friends about taking a trip together. You overhear that their partners are helping them pay for it, and you start to worry about keeping up with them since you are supporting yourself. You think you will have enough to go on the trip.",
+    "header_text": "Comparing Financial Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are talking to your friends about taking a trip together. You overhear that their partners are helping them pay for it, and you start to worry about keeping up with them since you are supporting yourself. You think you will have enough to go on the trip."
+            "text": "Comparing Financial Situations"
         },
         {
             "type": "Media",
             "url": "./images/273.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

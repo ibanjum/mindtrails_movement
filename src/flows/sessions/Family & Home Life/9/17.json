@@ -1,15 +1,17 @@
 {
-    "header_text": "It was a cousin's birthday recently, and you attended a large family gathering. At the event, your family wouldn’t stop asking questions about why you're still single, and you weren’t sure how to answer them. When you think about your dating life, you're content with taking it slow.",
+    "header_text": "Staying Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It was a cousin's birthday recently, and you attended a large family gathering. At the event, your family wouldn’t stop asking questions about why you're still single, and you weren’t sure how to answer them. When you think about your dating life, you're content with taking it..."
+            "text": "The more you think about it, you realize that many people don't enjoy sports the way you do. Just because your family wanted to leave, doesn't mean that they don't care about..."
         },
         {
             "type": "Entry",
-            "name": "It was a cousin's birthday recently, and you attended a large family gathering. At the event, your family wouldn’t stop asking questions about why you're still single, and you weren’t sure how to answer them. When you think about your dating life, you're content with taking it slow._Family & Home Life_entry1"
+            "name": "Staying Alone_Family & Home Life_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

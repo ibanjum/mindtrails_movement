@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been going to therapy lately. You haven't told your family because they have expressed negative views of therapy in the past. You think that this time they will be supportive. ",
+    "header_text": "Holiday Conversations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been going to therapy lately. You haven't told your family because they have expressed negative views of therapy in the past. You think that this time they will be supportive. "
+            "text": "Holiday Conversations"
         },
         {
             "type": "Media",
-            "url": "./images/173.jpg"
+            "url": "./images/171.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

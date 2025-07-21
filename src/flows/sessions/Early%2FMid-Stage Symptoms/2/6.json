@@ -1,27 +1,25 @@
 {
-    "header_text": "At a meeting at work, you forget the answer to an important question. Your colleagues exchange glances that leave you unsure about how they perceive your capabilities due to your HD diagnosis. However, one colleague extends a helping hand offering to fill you in, and you think that your colleagues are supportive.",
+    "header_text": "Keys Forgotten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your neighbors make you feel..."
+            "text": "You can't find your keys and initially become upset with your family because you suspect that someone hid them. The next day, you discover the keys  in one of your pockets. You realized you treated your family too..."
         },
         {
-            "type": "Buttons",
-            "name": "At a meeting at work, you forget the answer to an important question. Your colleagues exchange glances that leave you unsure about how they perceive your capabilities due to your HD diagnosis. However, one colleague extends a helping hand offering to fill you in, and you think that your colleagues are supportive._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Keys Forgotten_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "supported.",
-                "self-conscious."
+            "display_delay": 2000,
+            "words": [
+                "harshly"
             ],
-            "columnCount": 1,
-            "correct_value": "supported."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been dating someone seriously and are looking forward to the possibility of getting married — even though some people may think it's too \"late\" in life. On a warm April day, they propose to you at your favorite spot downtown. You say yes knowing HD will be something you get through together.",
+    "header_text": "Trying New Foods",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been dating someone seriously and are looking forward to the possibility of getting married — even though some people may think it's too \"late\" in life. On a warm April day, they propose to you at your favorite spot downtown. You say yes knowing HD will be something you get through together."
+            "text": "Trying New Foods"
         },
         {
             "type": "Media",
-            "url": "./images/585.jpg"
+            "url": "./images/336.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

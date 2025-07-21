@@ -1,14 +1,16 @@
 {
-    "header_text": "You have a lot of work to do for your job's evaluation. One of your most important tasks is to make a well-prepared, lengthy presentation to your coworkers. As you imagine yourself giving your presentation, you feel excited.",
+    "header_text": "Giving a Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have a lot of work to do for your job's evaluation. One of your most important tasks is to make a well-prepared, lengthy presentation to your coworkers. As you imagine yourself giving your presentation, you feel excited."
+            "text": "Giving a Presentation"
         },
         {
             "type": "Media",
             "url": "./images/54.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

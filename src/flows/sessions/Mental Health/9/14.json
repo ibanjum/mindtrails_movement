@@ -1,14 +1,16 @@
 {
-    "header_text": "It's Wednesday night and you and your friend go on a walk. About halfway through you stop walking, because you feel you can't catch your breath. ",
+    "header_text": "Heading out of Town",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It's Wednesday night and you and your friend go on a walk. About halfway through you stop walking, because you feel you can't catch your breath. "
+            "text": "Heading out of Town"
         },
         {
             "type": "Media",
-            "url": "./images/360.jpg"
+            "url": "./images/148.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 6
 }

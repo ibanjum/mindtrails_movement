@@ -1,27 +1,29 @@
 {
-    "header_text": "A few days after an argument with your friend, you decide to break the ice by asking them to come over for dinner. You get ready, and as you are about to leave, they call to say they can't make it after all. As you hang up, you think that this is because they are feeling exhausted.",
+    "header_text": "Book Club Dinner ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend cancelled the meeting because they are..."
+            "Text": "The other book club members probably"
         },
         {
             "type": "Buttons",
-            "name": "A few days after an argument with your friend, you decide to break the ice by asking them to come over for dinner. You get ready, and as you are about to leave, they call to say they can't make it after all. As you hang up, you think that this is because they are feeling exhausted._Social Situations_comp_question",
+            "name": "Book Club Dinner _Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Exhausted from a busy week",
-                "Mad at you."
+                "Will not want to be friends outside of the book club.",
+                "Will enjoy your company outside the book club."
             ],
             "columnCount": 1,
-            "correct_value": "Exhausted from a busy week"
+            "correct_value": "Will enjoy your company outside the book club."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

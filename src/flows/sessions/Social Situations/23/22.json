@@ -1,23 +1,29 @@
 {
-    "header_text": "You are afraid of the wilderness. This weekend, you are going walking with friends and you know wild animals have been frequently spotted in the area. As you think about the outing, you feel scared.",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You think about the camping trip a little more and realize you're enjoying the experience too much to be scared. You feel..."
+            "Text": "Does your friend agree with you about not engaging with others?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "You are afraid of the wilderness. This weekend, you are going walking with friends and you know wild animals have been frequently spotted in the area. As you think about the outing, you feel scared._Social Situations_puzzle_word2",
+            "type": "Buttons",
+            "name": "Party with Friends_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "calmer"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

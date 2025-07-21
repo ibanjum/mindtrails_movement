@@ -1,14 +1,16 @@
 {
-    "header_text": "You recently went through a major breakup with your long term partner. You want to ask your family and friends for support, but you don’t know how. When you tell them you are struggling, they applaud your honesty. ",
+    "header_text": "Getting Over It",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You recently went through a major breakup with your long term partner. You want to ask your family and friends for support, but you don’t know how. When you tell them you are struggling, they applaud your honesty. "
+            "text": "Getting Over It"
         },
         {
             "type": "Media",
             "url": "./images/178.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You are a parent with young children, and you have just been diagnosed with HD. Lately, you've noticed some difficulty keeping up with your children at the playground. You worry that the impact on your children’s lives will be negative.",
+    "header_text": "Awards Ceremony",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are a parent with young children, and you have just been diagnosed with HD. Lately, you've noticed some difficulty keeping up with your children at the playground. You worry that the impact on your children’s lives will be negative."
+            "text": "Awards Ceremony"
         },
         {
             "type": "Media",
-            "url": "./images/200.jpg"
+            "url": "./images/127.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

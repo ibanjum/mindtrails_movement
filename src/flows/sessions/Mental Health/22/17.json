@@ -1,15 +1,17 @@
 {
-    "header_text": "You are on an early morning walk with your counselor. Sharing with them is not easy today because you've had a hard few weeks. You don't want to revisit past pain, but you know your vulnerability will be beneficial. ",
+    "header_text": "Therapy Shift",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on an early morning walk with your counselor. Sharing with them is not easy today because you've had a hard few weeks. You don't want to revisit past pain, but you know your vulnerability will be... "
+            "text": "You and your therapist meet once a week to process events in your life. This week as you meet, you notice a sudden shift in your mood towards them. You feel agitated, but choose to share about this feeling so that it can be... "
         },
         {
             "type": "Entry",
-            "name": "You are on an early morning walk with your counselor. Sharing with them is not easy today because you've had a hard few weeks. You don't want to revisit past pain, but you know your vulnerability will be beneficial. _Mental Health_entry1"
+            "name": "Therapy Shift_Mental Health_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

@@ -1,27 +1,25 @@
 {
-    "header_text": "You've been with your new partner for quite a while. You want to introduce your partner to your kids, but you aren't sure how they are going to react. You think asking them how they would feel about meeting your partner is appropriate. ",
+    "header_text": "Coming Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you ask your kids about meeting your new partner?"
+            "text": "You and your partner live together, and you have been arguing lately. You aren't looking forward to going home after work because you don't want another argument to happen. When you get home, you will talk to your partner... "
         },
         {
-            "type": "Buttons",
-            "name": "You've been with your new partner for quite a while. You want to introduce your partner to your kids, but you aren't sure how they are going to react. You think asking them how they would feel about meeting your partner is appropriate. _Romantic Relationships_comp_question",
+            "type": "WordPuzzle",
+            "name": "Coming Home_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "civilly"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
 }

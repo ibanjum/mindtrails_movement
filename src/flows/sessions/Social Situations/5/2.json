@@ -1,14 +1,16 @@
 {
-    "header_text": "During a meeting, your boss calls on you to write a few notes on the board. As you write down what they say, you hope you are not misspelling any words. Everyone watching you probably thinks you are doing great. ",
+    "header_text": "Writing Notes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "During a meeting, your boss calls on you to write a few notes on the board. As you write down what they say, you hope you are not misspelling any words. Everyone watching you probably thinks you are doing great. "
+            "text": "Writing Notes"
         },
         {
             "type": "Media",
             "url": "./images/115.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

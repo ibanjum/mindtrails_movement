@@ -1,5 +1,5 @@
 {
-    "header_text": "It's Monday morning and you are running late for a meeting. You feel your heart racing as you open the car door and sit down. Fearing that you might have a panic attack, you have a strong urge to get out of the car, and yet you decide to observe these sensations without reacting and stay seated.",
+    "header_text": "Monday Morning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "It's Monday morning and you are running late for a meeting. You feel your heart racing as you open the car door and sit down. Fearing that you might have a panic attack, you have a strong urge to get out of the car, and yet you decide to observe these sensations without reacting and stay seated._Physical Health_puzzle1",
+            "name": "Monday Morning_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

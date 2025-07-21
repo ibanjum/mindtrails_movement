@@ -1,5 +1,5 @@
 {
-    "header_text": "You notice your home is not like your peers' homes. A good friend of yours has never been to your place, but wants to come over for dinner one night. You think about their reaction to your home and that they will be respectful.",
+    "header_text": "Home Introductions ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You notice your home is not like your peers' homes. A good friend of yours has never been to your place, but wants to come over for dinner one night. You think about their reaction to your home and that they will be respectful._Finances_puzzle1",
+            "name": "Home Introductions _Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
 }

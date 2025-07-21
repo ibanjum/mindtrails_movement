@@ -1,14 +1,16 @@
 {
-    "header_text": "You're hosting a dinner at your place with some neighborhood friends. The price of food at the grocery store is higher than you expected, and you worry if you'll be able to get the desserts you had planned. You talk to your friends, and they say they'd be happy to bring desserts to help out.",
+    "header_text": "Issues While Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're hosting a dinner at your place with some neighborhood friends. The price of food at the grocery store is higher than you expected, and you worry if you'll be able to get the desserts you had planned. You talk to your friends, and they say they'd be happy to bring desserts to help out."
+            "text": "Issues While Shopping"
         },
         {
             "type": "Media",
             "url": "./images/313.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

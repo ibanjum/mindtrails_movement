@@ -1,5 +1,5 @@
 {
-    "header_text": "After looking at your bank statement, you notice a few charges that you didn't make. You realize your account has been hacked, and you worry all your money will be lost.",
+    "header_text": "Hacked Account",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,13 +8,13 @@
         },
         {
             "type": "Buttons",
-            "name": "After looking at your bank statement, you notice a few charges that you didn't make. You realize your account has been hacked, and you worry all your money will be lost._Finances_comp_question",
+            "name": "Hacked Account_Finances_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
 }

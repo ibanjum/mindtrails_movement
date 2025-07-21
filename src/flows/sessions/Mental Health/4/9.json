@@ -1,5 +1,5 @@
 {
-    "header_text": "You've been feeling run down lately and cancel on plans that you made with your friends. Your friends express frustration, saying that they planned this a long time ago and were looking forward to seeing you. You think that you made the best decision for yourself. ",
+    "header_text": "Canceling on Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You've been feeling run down lately and cancel on plans that you made with your friends. Your friends express frustration, saying that they planned this a long time ago and were looking forward to seeing you. You think that you made the best decision for yourself. _Mental Health_puzzle1",
+            "name": "Canceling on Friends_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

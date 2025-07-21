@@ -1,27 +1,39 @@
 {
-    "header_text": "You are in a research study that requires annual study visits. At today's visit, as you complete some of the exams with the research coordinator, you feel like you are not performing as well as usual. When the study doctor comes in, they tell you that you are looking stable.",
+    "header_text": "Difficulty Baking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does the doctor think you are getting worse?"
+            "Text": "After your spouse explains their silence, you feel..."
         },
         {
             "type": "Buttons",
-            "name": "You are in a research study that requires annual study visits. At today's visit, as you complete some of the exams with the research coordinator, you feel like you are not performing as well as usual. When the study doctor comes in, they tell you that you are looking stable._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Difficulty Baking_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Comforted",
+                "Worried"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Comforted"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "While at the hairdresser, you opt for a completely different haircut. When you see your friends afterward, they gasp. Their gasp probably means that they think the new style makes you look great.",
+    "header_text": "A different haircut",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "While at the hairdresser, you opt for a completely different haircut. When you see your friends afterward, they gasp. Their gasp probably means that they think the new style makes you look great."
+            "text": "A different haircut"
         },
         {
             "type": "Media",
             "url": "./images/629.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

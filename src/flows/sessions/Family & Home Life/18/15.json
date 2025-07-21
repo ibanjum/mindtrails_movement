@@ -1,23 +1,25 @@
 {
-    "header_text": "You are buying tools at the hardware store with your brother to start a new project. You think about how your brother will have to do most of the building because of your HD. You are still eager to complete the project, knowing you both will make a new memory. ",
+    "header_text": "Long Distance Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are buying tools at the hardware store with your son to start a new project. You think about how your son will have to do most of the building because of your PD. You are still eager to complete the project, knowing you both will make a new... "
+            "text": "Your spouse has decided to go back to school at a prestigious program in another state. You love your spouse very much, but you know that long distance relationships can be difficult. When you picture the future of your relationship with your spouse, you believe the two of you will get..."
         },
         {
             "type": "WordPuzzle",
-            "name": "You are buying tools at the hardware store with your brother to start a new project. You think about how your brother will have to do most of the building because of your HD. You are still eager to complete the project, knowing you both will make a new memory. _Family & Home Life_puzzle1",
+            "name": "Long Distance Relationship_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "memory"
+                "divorced"
             ],
             "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4
 }

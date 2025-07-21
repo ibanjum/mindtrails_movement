@@ -1,14 +1,14 @@
 {
-    "header_text": "You're working on a project with some coworkers. You offer an idea to the group, and someone laughs and says that it's not good. While you're working on the project, you think that you're smart.",
+    "header_text": "Faster thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think that you're dumb because you made a mistake?"
+            "Text": "Do you find it useful when your thoughts seem to speed up?"
         },
         {
             "type": "Buttons",
-            "name": "You're working on a project with some coworkers. You offer an idea to the group, and someone laughs and says that it's not good. While you're working on the project, you think that you're smart._Mental Health_comp_question",
+            "name": "Faster thoughts_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,11 +17,13 @@
                 "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

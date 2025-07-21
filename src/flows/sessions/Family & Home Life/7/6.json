@@ -1,23 +1,25 @@
 {
-    "header_text": "Your partner wants you to take on a specific job. You would rather work in a different place but your partner has made it clear they are not on board with the job choice. When you think about talking with your partner about your choice, you feel prepared.",
+    "header_text": "New Family Member",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your partner wants you to take on a specific job. You would rather work in a different place but your partner has made it clear they are not on board with the job choice. When you think about talking with your partner about your choice, you feel..."
+            "text": "When your grandchild is older, you do not believe that your grandkid will resent you, and you think that relationship will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Your partner wants you to take on a specific job. You would rather work in a different place but your partner has made it clear they are not on board with the job choice. When you think about talking with your partner about your choice, you feel prepared._Family & Home Life_puzzle1",
+            "name": "New Family Member_Family & Home Life_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "prepared"
+                "strong"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

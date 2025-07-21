@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been bowling in a recreational league with some friends for the past few years. You have improved since you started, but you aren't as skilled as you would like to be yet. When you think about yourself in the years to come, you see your bowling skills as high.",
+    "header_text": "Going to Therapy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been bowling in a recreational league with some friends for the past few years. You have improved since you started, but you aren't as skilled as you would like to be yet. When you think about yourself in the years to come, you see your bowling skills as high."
+            "text": "Going to Therapy"
         },
         {
             "type": "Media",
-            "url": "./images/342.jpg"
+            "url": "./images/173.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

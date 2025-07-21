@@ -1,14 +1,16 @@
 {
-    "header_text": "You're at your best friend's birthday party, surrounded by laughter and conversation. Suddenly, your chorea causes some water to slosh out of the cup you're holding, making you worry that others will judge you. However, you know that if you open up to your friends about your concerns, they will be understanding and supportive.",
+    "header_text": "Neighbor Chat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You're at your best friend's birthday party, surrounded by laughter and conversation. Suddenly, your chorea causes some water to slosh out of the cup you're holding, making you worry that others will judge you. However, you know that if you open up to your friends about your concerns, they will be understanding and supportive."
+            "text": "Neighbor Chat"
         },
         {
             "type": "Media",
-            "url": "./images/811.jpg"
+            "url": "./images/798.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

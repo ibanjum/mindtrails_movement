@@ -1,5 +1,5 @@
 {
-    "header_text": "The window for staff evaluations just closed, and you are not sure whether you did well or not. You feel nervous as you think about how other people graded you. You think being nervous is manageable.",
+    "header_text": "Evaluation results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "The window for staff evaluations just closed, and you are not sure whether you did well or not. You feel nervous as you think about how other people graded you. You think being nervous is manageable._Work/Career Development_puzzle1",
+            "name": "Evaluation results_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

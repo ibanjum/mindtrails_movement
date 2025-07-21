@@ -1,14 +1,16 @@
 {
-    "header_text": "You prepared a lot for an important presentation with your colleagues. Your section of the presentation didn't go as well as you expected. You think about whether you will be able to do better in your next section, and realize this was your last section.",
+    "header_text": "Judging Your Performance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You prepared a lot for an important presentation with your colleagues. Your section of the presentation didn't go as well as you expected. You think about whether you will be able to do better in your next section, and realize this was your last section."
+            "text": "Judging Your Performance"
         },
         {
             "type": "Media",
             "url": "./images/46.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

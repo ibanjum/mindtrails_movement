@@ -1,14 +1,25 @@
 {
-    "header_text": "You invited your spouse to meet your friends from work tonight. You know that they can often tell embarrassing stories about you to other people. You think about what they're going to do tonight, and feel calm.",
+    "header_text": "Sleep Trouble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You invited your spouse to meet your friends from work tonight. You know that they can often tell embarrassing stories about you to other people. You think about what they're going to do tonight, and feel calm."
+            "type": "Text",
+            "text": "You are having sleep disturbances, and this causes you to wake up frequently during the night. Each time you wake up, your partner wakes up as well. As a result of these disruptions, your partner ends up being late for work because they're..."
         },
         {
-            "type": "Media",
-            "url": "./images/152.jpg"
+            "type": "WordPuzzle",
+            "name": "Sleep Trouble_Romantic Relationships_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "fatigued"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

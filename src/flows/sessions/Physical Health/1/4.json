@@ -1,14 +1,26 @@
 {
-    "header_text": "You go to the hospital to visit a friend. In the waiting room, someone behind you coughs. If you wash your hands, the probability that you will get sick is still high.",
+    "header_text": "Hospital waiting room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You go to the hospital to visit a friend. In the waiting room, someone behind you coughs. If you wash your hands, the probability that you will get sick is still high."
+            "text": "Hospital waiting room"
         },
         {
             "type": "Media",
             "url": "./images/430.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

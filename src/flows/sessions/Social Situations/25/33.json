@@ -1,20 +1,20 @@
 {
-    "header_text": "It's finally Friday, and you overhear some coworkers talking about their plans for the weekend. You didn't have anything big planned for the weekend, and you feel like you're not social enough to keep up with your coworkers. You know that you work hard, you feel happy about relaxing over the weekend, and you are content.",
+    "header_text": "Inside Jokes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you want to be more social?"
+            "Text": "Do others judge you for your friend's comment on your post?"
         },
         {
             "type": "Buttons",
-            "name": "It's finally Friday, and you overhear some coworkers talking about their plans for the weekend. You didn't have anything big planned for the weekend, and you feel like you're not social enough to keep up with your coworkers. You know that you work hard, you feel happy about relaxing over the weekend, and you are content._Social Situations_comp_question",
+            "name": "Inside Jokes_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You want to buy your partner something nice because they've been working hard. You have some money saved but realize you are short on your bills. You might not be able to buy your partner something, making you feel defeated. ",
+    "header_text": "Expensive Gift",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You want to buy your partner something nice because they've been working hard. You have some money saved but realize you are short on your bills. You might not be able to buy your partner something, making you feel defeated. "
+            "text": "Expensive Gift"
         },
         {
             "type": "Media",
             "url": "./images/311.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 4
 }

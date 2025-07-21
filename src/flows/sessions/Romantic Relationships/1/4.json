@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your partner have different spending habits, which leads to frequent arguments and financial tension. This tension has started to impact your relationship, and you feel like you are growing resentful of one another. If you share how you're feeling, it might lead to more arguments.",
+    "header_text": "Anticipating a Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your partner have different spending habits, which leads to frequent arguments and financial tension. This tension has started to impact your relationship, and you feel like you are growing resentful of one another. If you share how you're feeling, it might lead to more arguments."
+            "text": "Anticipating a Response"
         },
         {
             "type": "Media",
             "url": "./images/361.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

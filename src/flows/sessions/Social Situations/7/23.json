@@ -1,14 +1,16 @@
 {
-    "header_text": "You are at a small party with people from your department. You feel nervous about spending time with your coworkers outside of work. At the start of the party, you decide your nervousness is intolerable.",
+    "header_text": "Small Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are at a small party with people from your department. You feel nervous about spending time with your coworkers outside of work. At the start of the party, you decide your nervousness is intolerable."
+            "text": "Small Party"
         },
         {
             "type": "Media",
             "url": "./images/636.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

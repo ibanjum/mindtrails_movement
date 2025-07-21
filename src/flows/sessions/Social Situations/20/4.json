@@ -1,15 +1,17 @@
 {
-    "header_text": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel overwhelmed.",
+    "header_text": "Unmasked Peers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel..."
+            "text": "You arrive to a support group meeting with your mask on. You notice that all of your peers are not wearing a mask. You think that they must be... "
         },
         {
             "type": "Entry",
-            "name": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel overwhelmed._Social Situations_entry1"
+            "name": "Unmasked Peers_Social Situations_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
 }

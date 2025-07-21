@@ -1,14 +1,25 @@
 {
-    "header_text": "You are at a family gathering and see people you haven’t spoken to in years. Your chorea has gotten more noticeable, and you worry how others will react. While you can’t control what others think, you know most people will be understanding, and the day will still be enjoyable.\n",
+    "header_text": "Seeing A Dog",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "You are at a family gathering and see people you haven’t spoken to in years. Your chorea has gotten more noticeable, and you worry how others will react. While you can’t control what others think, you know most people will be understanding, and the day will still be enjoyable.\n"
+            "type": "Text",
+            "text": "You call your doctor who reassures you that hallucinations can be a normal and treatable part of PD. Together, you make a plan for what you will do if this happens again, and you start to feel more in..."
         },
         {
-            "type": "Media",
-            "url": "./images/721.jpg"
+            "type": "WordPuzzle",
+            "name": "Seeing A Dog_Early/Mid-Stage Symptoms_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "control"
+            ],
+            "missing_letter_count": 2
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

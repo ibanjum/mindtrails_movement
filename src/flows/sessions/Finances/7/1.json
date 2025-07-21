@@ -1,14 +1,16 @@
 {
-    "header_text": "You realize that you just received your paycheck a week ago. You notice that your bank account is lower than expected. You are worried about your spending, but know you can budget effectively. ",
+    "header_text": "Budgeting Your Income",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You realize that you just received your paycheck a week ago. You notice that your bank account is lower than expected. You are worried about your spending, but know you can budget effectively. "
+            "text": "Budgeting Your Income"
         },
         {
             "type": "Media",
             "url": "./images/168.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

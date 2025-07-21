@@ -1,14 +1,16 @@
 {
-    "header_text": "You enjoy making art. As you are considering your next project, you can't help but think about how HD might affect your creative ability in the future. Thinking about this makes you feel down.",
+    "header_text": "Future Gym Visits",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You enjoy making art. As you are considering your next project, you can't help but think about how HD might affect your creative ability in the future. Thinking about this makes you feel down."
+            "text": "Future Gym Visits"
         },
         {
             "type": "Media",
-            "url": "./images/768.jpg"
+            "url": "./images/518.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

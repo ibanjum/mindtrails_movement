@@ -1,27 +1,25 @@
 {
-    "header_text": "You are working on some house projects. You've been moving slower lately, so you are struggling to get the work done as quickly as you'd like. You begin to feel anxious about not being able to finish the projects. ",
+    "header_text": "Game Night Mistake",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "If the projects take longer than they used to, then..."
+            "text": "You enjoy strategy games but have recently had more trouble keeping up. At the last game night, you made a silly mistake during your favorite game. Since then, you can't stop obsessing over whether your friends..."
         },
         {
-            "type": "Buttons",
-            "name": "You are working on some house projects. You've been moving slower lately, so you are struggling to get the work done as quickly as you'd like. You begin to feel anxious about not being able to finish the projects. _Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Game Night Mistake_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "The house will become a disaster.",
-                "That is okay."
+            "display_delay": 2000,
+            "words": [
+                "noticed"
             ],
-            "columnCount": 1,
-            "correct_value": "That is okay."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

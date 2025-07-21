@@ -1,5 +1,5 @@
 {
-    "header_text": "Your boss calls a meeting to discuss a new project that will involve most of the staff at your office. You are suddenly asked to contribute your ideas to the discussion. You quickly come up with some ideas on the spot and think that your colleagues will find your ideas to be exciting.",
+    "header_text": "Contributing to a discussion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Your boss calls a meeting to discuss a new project that will involve most of the staff at your office. You are suddenly asked to contribute your ideas to the discussion. You quickly come up with some ideas on the spot and think that your colleagues will find your ideas to be exciting._Work/Career Development_comp_question",
+            "name": "Contributing to a discussion_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -23,5 +23,17 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

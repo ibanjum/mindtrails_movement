@@ -1,14 +1,26 @@
 {
-    "header_text": "You have almost completed an important project. Part of your evaluation is determined by your coworkers. You know most of them well and feel that their opinions of you will make them evaluate you favorably.",
+    "header_text": "Important evaluation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have almost completed an important project. Part of your evaluation is determined by your coworkers. You know most of them well and feel that their opinions of you will make them evaluate you favorably."
+            "text": "Important evaluation"
         },
         {
             "type": "Media",
             "url": "./images/11.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "The more you immerse yourself in the story, the more likely you are to benefit from our program – really picture yourself in the situation at hand."
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

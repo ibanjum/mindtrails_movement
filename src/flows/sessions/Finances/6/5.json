@@ -1,19 +1,19 @@
 {
-    "header_text": "The Birthday gift: Thoughts",
+    "header_text": "Financial responsibilities: Thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend is having a huge birthday party and most of the people in your friend group will be there. Many of your friends are wealthier than you and can afford to give more expensive gifts. \n\nHere are some thoughts that might pop into mind:"
+            "text": "Your partner was in the hospital recently and you have been helping to pay their medical bills. You wonder what this will mean for your finances moving forward.\n\nHere are some thoughts that might pop into mind:"
         },
         {
             "type": "TimedText",
             "text": [
-                "I think my friend will be happy to see me.",
-                "I assume everyone brought an expensive gift, but I don't actually know if that's true.",
-                "I'm looking forward to celebrating with friends.",
-                "My friend will be disappointed with the gift I can afford to bring.",
-                "I think I am a bad friend, but I know that the gift I'm bringing is thoughtful."
+                "We will get through this.",
+                "I try to imagine how this could have been avoided, but accept that my partner needed to be in the hospital.",
+                "We are going to run out of money paying these bills.",
+                "I think about how challenging this situation is, but remind myself that it will not last forever.",
+                "My partner is so strong."
             ],
             "Duration": 15
         }

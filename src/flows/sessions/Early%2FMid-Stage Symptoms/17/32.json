@@ -1,23 +1,29 @@
 {
-    "header_text": "You are outside working in your garden with your neighbor. You look over at your completed rows and notice they are much more uneven and scattered than in past years. That evening, you reflect on the day working in your garden and feel grateful.",
+    "header_text": "Organizing Closet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are outside working in your garden with your neighbor. You look over at your completed rows and notice they are much more uneven and scattered than in past years. That evening, you reflect on the day working in your garden and feel..."
+            "Text": "Many people misplace items, and it is better to..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You are outside working in your garden with your neighbor. You look over at your completed rows and notice they are much more uneven and scattered than in past years. That evening, you reflect on the day working in your garden and feel grateful._Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Organizing Closet_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "grateful"
+            "buttons": [
+                "Worry.",
+                "Stay calm."
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Stay calm."
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

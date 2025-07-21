@@ -1,14 +1,16 @@
 {
-    "header_text": "Your spouse's job has taken you all over the country with new opportunities. Your spouse's boss approaches them at work asking if they can take a position a few hours away. The thought of a new city, friends, and even medical providers is exciting. ",
+    "header_text": "Dismissive Doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your spouse's job has taken you all over the country with new opportunities. Your spouse's boss approaches them at work asking if they can take a position a few hours away. The thought of a new city, friends, and even medical providers is exciting. "
+            "text": "Dismissive Doctor"
         },
         {
             "type": "Media",
-            "url": "./images/789.jpg"
+            "url": "./images/778.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

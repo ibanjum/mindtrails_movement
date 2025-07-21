@@ -1,14 +1,16 @@
 {
-    "header_text": "You are getting your annual physical with your doctor. After an initial exam, your doctor says that something looks unusual and that you will need to get a second opinion. When it comes to managing your anxiety while you are in the exam room, you are capable.",
+    "header_text": "Annual physical exam",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are getting your annual physical with your doctor. After an initial exam, your doctor says that something looks unusual and that you will need to get a second opinion. When it comes to managing your anxiety while you are in the exam room, you are capable."
+            "text": "Annual physical exam"
         },
         {
             "type": "Media",
             "url": "./images/368.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

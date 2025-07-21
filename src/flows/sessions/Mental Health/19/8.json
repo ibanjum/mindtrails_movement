@@ -1,14 +1,16 @@
 {
-    "header_text": "Today, you will receive an important call. You'll find out if you got the job you interviewed for. As you think about waiting for the call, your anxiety is tolerable.",
+    "header_text": "Waiting for Big News",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Today, you will receive an important call. You'll find out if you got the job you interviewed for. As you think about waiting for the call, your anxiety is tolerable."
+            "text": "Waiting for Big News"
         },
         {
             "type": "Media",
-            "url": "./images/74.jpg"
+            "url": "./images/43.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

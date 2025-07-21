@@ -1,14 +1,16 @@
 {
-    "header_text": "You recently got tested for strep throat, and are expecting your results today. You are in the middle of a meeting when you hear your phone vibrating, and you wonder if you tested positive or negative. You check your voicemail and see that you tested positive. ",
+    "header_text": "Positive Test",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You recently got tested for strep throat, and are expecting your results today. You are in the middle of a meeting when you hear your phone vibrating, and you wonder if you tested positive or negative. You check your voicemail and see that you tested positive. "
+            "text": "Positive Test"
         },
         {
             "type": "Media",
             "url": "./images/505.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 1
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You made plans with your friends who you have been looking forward to seeing. When you drive to their house and call to tell them you're there, the call ends suddenly. You think it must have been an accidental hang-up or a dropped call, so you feel fine.",
+    "header_text": "Intoxication Situation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You made plans with your friends who you have been looking forward to seeing. When you drive to their house and call to tell them you're there, the call ends suddenly. You think it must have been an accidental hang-up or a dropped call, so you feel fine."
+            "text": "Intoxication Situation"
         },
         {
             "type": "Media",
-            "url": "./images/683.jpg"
+            "url": "./images/124.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

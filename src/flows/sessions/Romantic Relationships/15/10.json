@@ -1,27 +1,29 @@
 {
-    "header_text": "You receive a call from a friend of yours, telling you that he is getting a divorce. You reflect on your own marriage; and though you love your spouse, you got the same impression from your friend and his wife. As you wonder about your future with your spouse, you feel strongly that you two will get divorced.",
+    "header_text": "Holiday Away From Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you think far into the future, you can see yourself"
+            "Text": "Your children are likely to think that you"
         },
         {
             "type": "Buttons",
-            "name": "You receive a call from a friend of yours, telling you that he is getting a divorce. You reflect on your own marriage; and though you love your spouse, you got the same impression from your friend and his wife. As you wonder about your future with your spouse, you feel strongly that you two will get divorced._Romantic Relationships_comp_question",
+            "name": "Holiday Away From Home_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Enjoying your golden years with your spouse.",
-                "Regretting that your spouse and you couldn't make things work."
+                "Don't care about them or want to see them.",
+                "Are just excited to spend the holidays with your partner, and not take it personally."
             ],
             "columnCount": 1,
-            "correct_value": "Regretting that your spouse and you couldn't make things work."
+            "correct_value": "Are just excited to spend the holidays with your partner, and not take it personally."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

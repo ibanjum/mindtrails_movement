@@ -1,27 +1,25 @@
 {
-    "header_text": "You've always been the life of the party. Lately, you've noticed that you're becoming more withdrawn in social situations, and decide to confide in your closest friends about your struggles. They offer unwavering support and understanding, making you feel accepted.",
+    "header_text": "Family Trivia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friends' support makes you feel..."
+            "text": "You're playing trivia with family. As the questions get harder, you struggle to recall answers you once knew, making you feel concerned about the progression of your memory lapses. You remember that being there with family is the most... "
         },
         {
-            "type": "Buttons",
-            "name": "You've always been the life of the party. Lately, you've noticed that you're becoming more withdrawn in social situations, and decide to confide in your closest friends about your struggles. They offer unwavering support and understanding, making you feel accepted._Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Family Trivia_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Understood.",
-                "Unwanted."
+            "display_delay": 2000,
+            "words": [
+                "important"
             ],
-            "columnCount": 1,
-            "correct_value": "Understood."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

@@ -1,27 +1,16 @@
 {
-    "header_text": "You and a family member had tension build up during a conversation a couple months back. You have not talked since that interaction, but there is a holiday event coming up that you and your family member will both attend. You wonder if they will confront you again.",
+    "header_text": "Family Member Tension",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Will you try to reengage in a conversation with the family member?"
+            "type": "Label",
+            "text": "Family Member Tension"
         },
         {
-            "type": "Buttons",
-            "name": "You and a family member had tension build up during a conversation a couple months back. You have not talked since that interaction, but there is a holiday event coming up that you and your family member will both attend. You wonder if they will confront you again._Family & Home Life_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "type": "Media",
+            "url": "./images/158.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ]
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

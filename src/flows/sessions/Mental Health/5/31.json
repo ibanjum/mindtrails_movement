@@ -1,14 +1,16 @@
 {
-    "header_text": "It's finally Friday, and you overhear some coworkers talking about their plans for the weekend. You didn't have anything big planned for the weekend, and you feel like you're not social enough to keep up with your coworkers. You know that you work hard, you feel happy about relaxing over the weekend, and you are content.",
+    "header_text": "Plans for the Weekend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "It's finally Friday, and you overhear some coworkers talking about their plans for the weekend. You didn't have anything big planned for the weekend, and you feel like you're not social enough to keep up with your coworkers. You know that you work hard, you feel happy about relaxing over the weekend, and you are content."
+            "text": "Plans for the Weekend"
         },
         {
             "type": "Media",
             "url": "./images/355.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

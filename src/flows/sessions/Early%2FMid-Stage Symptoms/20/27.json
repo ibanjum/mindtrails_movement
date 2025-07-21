@@ -1,23 +1,29 @@
 {
-    "header_text": "You are at the store getting groceries. You are having trouble picking things up off the shelf, and you accidentally drop something. A worker has to come clean up the mess, and you feel embarrassed.",
+    "header_text": "Tax Forms",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You apologize to the worker, and they reassure you that they don't mind cleaning up the mess. Knowing that they're not angry makes you feel..."
+            "Text": "As the numbers start to overwhelm you, you respond by..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "You are at the store getting groceries. You are having trouble picking things up off the shelf, and you accidentally drop something. A worker has to come clean up the mess, and you feel embarrassed._Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Tax Forms_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relieved"
+            "buttons": [
+                "Getting organized",
+                "Giving up"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Getting organized"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

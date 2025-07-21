@@ -1,5 +1,5 @@
 {
-    "header_text": "You are very tired. As you lie down in your bed, your vision begins to blur. Despite your blurry vision, you are relaxed.",
+    "header_text": "Blurry eyesight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "You are very tired. As you lie down in your bed, your vision begins to blur. Despite your blurry vision, you are relaxed._Physical Health_puzzle1",
+            "name": "Blurry eyesight_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -19,5 +19,7 @@
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 3
 }

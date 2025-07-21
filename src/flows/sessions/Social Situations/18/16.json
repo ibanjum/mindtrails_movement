@@ -1,14 +1,14 @@
 {
-    "header_text": "You made plans with your friends who you have been looking forward to seeing. When you drive to their house and call to tell them you're there, the call ends suddenly. You think it must have been an accidental hang-up or a dropped call, so you feel fine.",
+    "header_text": "Intoxication Situation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did your friend mean to hang up on you?"
+            "Text": "Did you end up staying relaxed?"
         },
         {
             "type": "Buttons",
-            "name": "You made plans with your friends who you have been looking forward to seeing. When you drive to their house and call to tell them you're there, the call ends suddenly. You think it must have been an accidental hang-up or a dropped call, so you feel fine._Social Situations_comp_question",
+            "name": "Intoxication Situation_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,11 +17,23 @@
                 "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Just like a muscle, your brain strengthens the pathways it uses the most. That's why practicing lots of situations helps you change your thinking habits. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been invited to a gala for your partner's work. While dancing, you feel unsteady and start to fall, but your partner catches you in time. Regardless, you feel embarrassed. ",
+    "header_text": "New Kitten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been invited to a gala for your partner's work. While dancing, you feel unsteady and start to fall, but your partner catches you in time. Regardless, you feel embarrassed. "
+            "text": "New Kitten"
         },
         {
             "type": "Media",
-            "url": "./images/578.jpg"
+            "url": "./images/219.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

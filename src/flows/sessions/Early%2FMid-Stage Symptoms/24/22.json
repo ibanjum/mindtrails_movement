@@ -1,23 +1,25 @@
 {
-    "header_text": "You are hosting book club tonight. As you look around at the friends you love, you begin to feel an overwhelming sadness. You open up to the group, knowing your book club is a safe haven. ",
+    "header_text": "Cleaning the House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are hosting book club tonight. As you look around at the friends you love, you begin to feel an overwhelming sadness. You open up to the group, knowing your book club is a safe... "
+            "text": "Home renovations are long overdue, so today you are cleaning your house before the workers arrive. You are working slower than usual, and your spouse points out several spots you missed. Annoyed, you ask your spouse for help finishing up and communicate your... "
         },
         {
             "type": "WordPuzzle",
-            "name": "You are hosting book club tonight. As you look around at the friends you love, you begin to feel an overwhelming sadness. You open up to the group, knowing your book club is a safe haven. _Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Cleaning the House_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "haven"
+                "feelings"
             ],
             "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

@@ -1,14 +1,26 @@
 {
-    "header_text": "You are heading out of town for a few days. You decide to double-check that all the appliances in your house are turned off. As you close the door to your house, you feel nervous.",
+    "header_text": "Heading out of Town",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are heading out of town for a few days. You decide to double-check that all the appliances in your house are turned off. As you close the door to your house, you feel nervous."
+            "text": "Heading out of Town"
         },
         {
             "type": "Media",
             "url": "./images/148.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 7,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

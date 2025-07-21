@@ -1,14 +1,16 @@
 {
-    "header_text": "Your supervisor calls a meeting tied to a new initiative and asks each of you in turn to present your ideas and prior experience. When it is your turn to speak, you pause frequently. As you reflect on the meeting later in the day, you feel that the supervisor thought you sounded capable.",
+    "header_text": "Introducing Your Family to Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your supervisor calls a meeting tied to a new initiative and asks each of you in turn to present your ideas and prior experience. When it is your turn to speak, you pause frequently. As you reflect on the meeting later in the day, you feel that the supervisor thought you sounded capable."
+            "text": "Introducing Your Family to Someone New"
         },
         {
             "type": "Media",
-            "url": "./images/9.jpg"
+            "url": "./images/150.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

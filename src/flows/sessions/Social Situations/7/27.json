@@ -1,14 +1,16 @@
 {
-    "header_text": "At an event, you spot an old friend not far away and call out to them. They do not reply to you. You decide that this is because they are distracted.",
+    "header_text": "Old friend ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "At an event, you spot an old friend not far away and call out to them. They do not reply to you. You decide that this is because they are distracted."
+            "text": "Old friend "
         },
         {
             "type": "Media",
             "url": "./images/637.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

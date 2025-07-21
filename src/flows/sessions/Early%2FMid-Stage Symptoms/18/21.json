@@ -1,23 +1,16 @@
 {
-    "header_text": "Your neighborhood has monthly HOA meetings, and it's your month to plan the meeting. As you try to plan, you lose track of important details and start over many times. Before your next attempt, you take a break and ask a friend for assistance.",
+    "header_text": "Cut Finger",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Your neighborhood has monthly HOA meetings, and it's your month to plan the meeting. As you try to plan, you lose track of important details and start over many times. Before your next attempt, you take a break and ask a friend for..."
+            "type": "Label",
+            "text": "Cut Finger"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Your neighborhood has monthly HOA meetings, and it's your month to plan the meeting. As you try to plan, you lose track of important details and start over many times. Before your next attempt, you take a break and ask a friend for assistance._Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "assistance"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/814.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "type": "negative",
+    "scenario_num": 6
 }

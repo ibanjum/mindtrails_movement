@@ -1,14 +1,16 @@
 {
-    "header_text": "You and your friends love to be outdoors together, so you go camping for the weekend. As you set up your tent, you notice your friends have already finished with theirs. You finish at your own speed then join your friends, feeling excited.",
+    "header_text": "Toy Store Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You and your friends love to be outdoors together, so you go camping for the weekend. As you set up your tent, you notice your friends have already finished with theirs. You finish at your own speed then join your friends, feeling excited."
+            "text": "Toy Store Trip"
         },
         {
             "type": "Media",
-            "url": "./images/836.jpg"
+            "url": "./images/410.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

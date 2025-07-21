@@ -1,15 +1,17 @@
 {
-    "header_text": "While at a friend's house for a dinner party, your host mentions that you are a good piano player and asks you to play something on the piano for the other guests. You know a few pieces you can play well, but you feel nervous playing on the spot without practice. Walking up to the piano, you think to yourself that everyone will be disappointed. ",
+    "header_text": "New Book Club ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While at a friend's house for a dinner party, your host mentions that you are a good piano player and asks you to play something on the piano for the other guests. You know a few pieces you can play well, but you feel nervous playing on the spot without practice. Walking up to the piano, you think to yourself that everyone will be... "
+            "text": "You consider inviting them over for dinner. You make a plan to have someone help you tidy up because your book club friends are..."
         },
         {
             "type": "Entry",
-            "name": "While at a friend's house for a dinner party, your host mentions that you are a good piano player and asks you to play something on the piano for the other guests. You know a few pieces you can play well, but you feel nervous playing on the spot without practice. Walking up to the piano, you think to yourself that everyone will be disappointed. _Mental Health_entry1"
+            "name": "New Book Club _Mental Health_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

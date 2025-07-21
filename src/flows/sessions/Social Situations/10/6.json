@@ -1,5 +1,5 @@
 {
-    "header_text": "You get invited to an office party and you decide to wear a suit you got last year. You arrive and everyone else seems to have an outfit that is brand new. As you walk around, the host comes up to you and says you look nice.",
+    "header_text": "Wearing Something Old",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You get invited to an office party and you decide to wear a suit you got last year. You arrive and everyone else seems to have an outfit that is brand new. As you walk around, the host comes up to you and says you look nice._Social Situations_entry1"
+            "name": "Wearing Something Old_Social Situations_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

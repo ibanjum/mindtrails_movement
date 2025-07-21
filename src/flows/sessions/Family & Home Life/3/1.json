@@ -1,14 +1,16 @@
 {
-    "header_text": "You are having dinner with a coworker. While you're eating dinner together, you take a phone call from a family member and you switch back and forth between English and another language. You never told your coworker that your family members are bilingual. You think about your coworker's reaction, and think that she'll think it is interesting.",
+    "header_text": "Guest in a Bilingual Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are having dinner with a coworker. While you're eating dinner together, you take a phone call from a family member and you switch back and forth between English and another language. You never told your coworker that your family members are bilingual. You think about your coworker's reaction, and think that she'll think it is interesting."
+            "text": "Guest in a Bilingual Home"
         },
         {
             "type": "Media",
             "url": "./images/144.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You have to turn in an important project today. When you open your computer, you can't find the file anywhere. The project must have been deleted.",
+    "header_text": "Deleted Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have to turn in an important project today. When you open your computer, you can't find the file anywhere. The project must have been deleted."
+            "text": "Deleted Project"
         },
         {
             "type": "Media",
             "url": "./images/32.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

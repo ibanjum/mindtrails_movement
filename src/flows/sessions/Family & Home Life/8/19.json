@@ -1,15 +1,17 @@
 {
-    "header_text": "Your fiance has children, while you do not. You are trying to adapt to living with younger children and how to bond with them. You think you will be able to work out a routine and adapt to this new family dynamic. ",
+    "header_text": "Your First Child",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your fiance has children, while you do not. You are trying to adapt to living with younger children and how to bond with them. You think you will be able to work out a routine and adapt to this new family... "
+            "text": "You recently welcomed your first grandchild. You want to have a good relationship throughout your grandchild's life, but you worry about making mistakes as a grandparent. When your grandchild is an adult, you believe that relationship will be..."
         },
         {
             "type": "Entry",
-            "name": "Your fiance has children, while you do not. You are trying to adapt to living with younger children and how to bond with them. You think you will be able to work out a routine and adapt to this new family dynamic. _Family & Home Life_entry1"
+            "name": "Your First Child_Family & Home Life_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 7
 }

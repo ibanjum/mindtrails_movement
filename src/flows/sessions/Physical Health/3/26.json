@@ -1,14 +1,16 @@
 {
-    "header_text": "You are on a weekend walking trip with a friend. When you reach a slight incline, you start to breathe heavily. You are scared about what this could mean for your health, especially given that you are out in the wilderness. ",
+    "header_text": "Walking Trail",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are on a weekend walking trip with a friend. When you reach a slight incline, you start to breathe heavily. You are scared about what this could mean for your health, especially given that you are out in the wilderness. "
+            "text": "Walking Trail"
         },
         {
             "type": "Media",
             "url": "./images/449.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

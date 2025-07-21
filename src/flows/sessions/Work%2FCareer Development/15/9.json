@@ -1,14 +1,16 @@
 {
-    "header_text": "You had a very busy day and were not able to get all of your tasks done. At dinner, your partner brags about how they finished everything on their to-do list. Even so, you feel confident about completing your work tomorrow.",
+    "header_text": "Unfinished Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You had a very busy day and were not able to get all of your tasks done. At dinner, your partner brags about how they finished everything on their to-do list. Even so, you feel confident about completing your work tomorrow."
+            "text": "Unfinished Work"
         },
         {
             "type": "Media",
             "url": "./images/77.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You are walking through the park, and you see an elderly couple walking hand in hand. You begin thinking about your own life and imagine yourself at their age. When you think about yourself as an older person, you imagine yourself being alone.",
+    "header_text": "Yourself in Old Age ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are walking through the park, and you see an elderly couple walking hand in hand. You begin thinking about your own life and imagine yourself at their age. When you think about yourself as an older person, you imagine yourself being alone."
+            "text": "Yourself in Old Age "
         },
         {
             "type": "Media",
             "url": "./images/539.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 8
 }

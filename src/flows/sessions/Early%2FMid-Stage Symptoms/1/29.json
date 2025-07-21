@@ -1,27 +1,29 @@
 {
-    "header_text": "You forget your PIN and text your family to ask if they know where the notebook is where you've jotted it down. You're worried if you're annoying them by asking repeatedly. Since no one responds right away, you begin to feel like a burden.",
+    "header_text": "Forgotten Ingredients",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your family didn't respond because they were..."
+            "Text": "Your friend would share the recipe again..."
         },
         {
             "type": "Buttons",
-            "name": "You forget your PIN and text your family to ask if they know where the notebook is where you've jotted it down. You're worried if you're annoying them by asking repeatedly. Since no one responds right away, you begin to feel like a burden._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Forgotten Ingredients_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Distracted",
-                "Annoyed"
+                "Reluctantly.",
+                "Happily."
             ],
             "columnCount": 1,
-            "correct_value": "Distracted"
+            "correct_value": "Happily."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

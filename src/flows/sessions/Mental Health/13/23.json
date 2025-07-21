@@ -1,14 +1,16 @@
 {
-    "header_text": "You finish a task due next week for your boss and ask them for their opinion. They say the work is good, apart from an incomplete section. You feel that they think you are careless.",
+    "header_text": "Your New Post",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You finish a task due next week for your boss and ask them for their opinion. They say the work is good, apart from an incomplete section. You feel that they think you are careless."
+            "text": "Your New Post"
         },
         {
             "type": "Media",
-            "url": "./images/371.jpg"
+            "url": "./images/376.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

@@ -1,14 +1,26 @@
 {
-    "header_text": "You have been bowling in a recreational league with some friends for the past few years. You have improved since you started, but you aren't as skilled as you would like to be yet. When you think about yourself in the years to come you see your bowling skills as disappointing",
+    "header_text": "Your Bowling Skills",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been bowling in a recreational league with some friends for the past few years. You have improved since you started, but you aren't as skilled as you would like to be yet. When you think about yourself in the years to come you see your bowling skills as disappointing"
+            "text": "Your Bowling Skills"
         },
         {
             "type": "Media",
             "url": "./images/342.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 6,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

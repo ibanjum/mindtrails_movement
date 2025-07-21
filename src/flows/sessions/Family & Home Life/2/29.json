@@ -1,14 +1,16 @@
 {
-    "header_text": "Your family expects you to get promoted at your job. You haven't told them yet that you actually want to take a few years off to travel. You think about telling them and feel anxious.",
+    "header_text": "Job Hiatus",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your family expects you to get promoted at your job. You haven't told them yet that you actually want to take a few years off to travel. You think about telling them and feel anxious."
+            "text": "Job Hiatus"
         },
         {
             "type": "Media",
             "url": "./images/143.jpg"
         }
-    ]
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

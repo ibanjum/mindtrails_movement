@@ -1,14 +1,16 @@
 {
-    "header_text": "You are looking at new places to live next year, and your partner found a great place for you both. You check the price and see that it is way above your price range. You think you will be able to find a different place that works for you.",
+    "header_text": "House Hunting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are looking at new places to live next year, and your partner found a great place for you both. You check the price and see that it is way above your price range. You think you will be able to find a different place that works for you."
+            "text": "House Hunting"
         },
         {
             "type": "Media",
             "url": "./images/270.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

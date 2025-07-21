@@ -1,14 +1,16 @@
 {
-    "header_text": "Your friend is a good driver, but it is raining heavily today. They're driving very fast, so you ask them to slow down. You take a deep breath because the chances of getting into an accident are small. ",
+    "header_text": "Relying on Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your friend is a good driver, but it is raining heavily today. They're driving very fast, so you ask them to slow down. You take a deep breath because the chances of getting into an accident are small. "
+            "text": "Relying on Family"
         },
         {
             "type": "Media",
-            "url": "./images/167.jpg"
+            "url": "./images/166.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

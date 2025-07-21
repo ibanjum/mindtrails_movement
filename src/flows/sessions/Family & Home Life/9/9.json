@@ -1,14 +1,16 @@
 {
-    "header_text": "Your family has not approved of your partner from the beginning, and it is taking its toll on you. You don’t want to cause any further conflict, but their behavior is making you uncomfortable. You make a plan to have a conversation, and you think it will go well. ",
+    "header_text": "Differing Beliefs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your family has not approved of your partner from the beginning, and it is taking its toll on you. You don’t want to cause any further conflict, but their behavior is making you uncomfortable. You make a plan to have a conversation, and you think it will go well. "
+            "text": "Differing Beliefs"
         },
         {
             "type": "Media",
-            "url": "./images/180.jpg"
+            "url": "./images/160.jpg"
         }
-    ]
+    ],
+    "type": "negative",
+    "scenario_num": 3
 }

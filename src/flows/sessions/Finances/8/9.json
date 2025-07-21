@@ -1,14 +1,16 @@
 {
-    "header_text": "You receive a bill from a recent medical appointment that doesn't make sense. You call your insurance company to learn more, and you are anxious about what they are going to say. After the phone call, you feel relieved. ",
+    "header_text": "Insurance Call",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You receive a bill from a recent medical appointment that doesn't make sense. You call your insurance company to learn more, and you are anxious about what they are going to say. After the phone call, you feel relieved. "
+            "text": "Insurance Call"
         },
         {
             "type": "Media",
             "url": "./images/129.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 3
 }

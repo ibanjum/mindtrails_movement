@@ -1,14 +1,16 @@
 {
-    "header_text": "Last weekend, you walked a lot. Since then, you have been experiencing a slight pain in your hip and wonder what this means for the progression of your HD. After resting for the next couple of days, you think this discomfort will subside. ",
+    "header_text": "Walking pain",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Last weekend, you walked a lot. Since then, you have been experiencing a slight pain in your hip and wonder what this means for the progression of your HD. After resting for the next couple of days, you think this discomfort will subside. "
+            "text": "Walking pain"
         },
         {
             "type": "Media",
             "url": "./images/455.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 8
 }

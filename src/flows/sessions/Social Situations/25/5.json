@@ -1,14 +1,16 @@
 {
-    "header_text": "You have recently joined a local book club, and think the other members are very cool. You would like to hang out more often, but you worry about whether they will want to be friends outside of the book club. You consider inviting them over for dinner, and you think that they will think you are boring",
+    "header_text": "Guest in a Bilingual Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have recently joined a local book club, and think the other members are very cool. You would like to hang out more often, but you worry about whether they will want to be friends outside of the book club. You consider inviting them over for dinner, and you think that they will think you are boring"
+            "text": "Guest in a Bilingual Home"
         },
         {
             "type": "Media",
-            "url": "./images/356.jpg"
+            "url": "./images/144.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

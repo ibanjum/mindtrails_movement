@@ -1,15 +1,17 @@
 {
-    "header_text": "Your children's birthdays are approaching, and you want to show them how much you appreciate them through gifts. However, you're worried about if you'll be able to afford the gifts you think they deserve. When you think about their birthdays, you think that they will be happy with something small.",
+    "header_text": "Partner's Spending",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your children's birthdays are approaching, and you want to show them how much you appreciate them through gifts. However, you're worried about if you'll be able to afford the gifts you think they deserve. When you think about their birthdays, you think that they will be happy with something..."
+            "text": "You and your partner recently opened a joint bank account. While going through the bank statements, you are shocked to see that your partner has been spending recklessly. As you consider bringing up your concerns to your partner, you think they will be... "
         },
         {
             "type": "Entry",
-            "name": "Your children's birthdays are approaching, and you want to show them how much you appreciate them through gifts. However, you're worried about if you'll be able to afford the gifts you think they deserve. When you think about their birthdays, you think that they will be happy with something small._Family & Home Life_entry1"
+            "name": "Partner's Spending_Family & Home Life_entry1"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
 }

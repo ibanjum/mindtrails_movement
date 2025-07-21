@@ -1,27 +1,29 @@
 {
-    "header_text": "You started a new house project and are painting a room. As you complete this first wall, you notice the strokes are uneven. You consider giving up, but you decide to try a second coat.",
+    "header_text": "Crafting Workshop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The new project will be..."
+            "Text": "Are you able to finish the craft?"
         },
         {
             "type": "Buttons",
-            "name": "You started a new house project and are painting a room. As you complete this first wall, you notice the strokes are uneven. You consider giving up, but you decide to try a second coat._Early/Mid-Stage Symptoms_comp_question",
+            "name": "Crafting Workshop_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Completed",
-                "Impossible"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Completed"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 0
 }

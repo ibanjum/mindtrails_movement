@@ -1,14 +1,16 @@
 {
-    "header_text": "You are having dinner with your friends, and you all end up talking about your salaries. Many of your friends make more money than you, and you wonder whether you should have chosen a different career. You remind yourself that you chose this path for a reason, and you find your job fulfilling.",
+    "header_text": "High Paying Jobs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are having dinner with your friends, and you all end up talking about your salaries. Many of your friends make more money than you, and you wonder whether you should have chosen a different career. You remind yourself that you chose this path for a reason, and you find your job fulfilling."
+            "text": "High Paying Jobs"
         },
         {
             "type": "Media",
             "url": "./images/271.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

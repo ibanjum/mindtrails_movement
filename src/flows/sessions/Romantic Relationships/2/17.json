@@ -1,14 +1,16 @@
 {
-    "header_text": "You recently fought with your partner. It was a serious issue, and you are concerned about why your partner disagreed with you. You think that you and your partner will eventually make up.  ",
+    "header_text": "Argument with Your Partner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You recently fought with your partner. It was a serious issue, and you are concerned about why your partner disagreed with you. You think that you and your partner will eventually make up.  "
+            "text": "Argument with Your Partner"
         },
         {
             "type": "Media",
             "url": "./images/158.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 5
 }

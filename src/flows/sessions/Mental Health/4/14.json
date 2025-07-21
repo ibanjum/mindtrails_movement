@@ -1,14 +1,16 @@
 {
-    "header_text": "Your friend says something slightly offensive to you, and they do not seem to realize that it may have made you uncomfortable. You confront them about their comment and why it was offensive, and you worry that they may be angry at you. They respond that they are thankful you communicated with them, and they apologize.",
+    "header_text": "Confronting a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your friend says something slightly offensive to you, and they do not seem to realize that it may have made you uncomfortable. You confront them about their comment and why it was offensive, and you worry that they may be angry at you. They respond that they are thankful you communicated with them, and they apologize."
+            "text": "Confronting a Friend"
         },
         {
             "type": "Media",
             "url": "./images/347.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "You have been living in a new city for a few months and have been having some trouble making new friends. You have also been very busy since your move. As a result, your anxiety has gotten a lot worse since you moved to your new home. ",
+    "header_text": "Lost Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You have been living in a new city for a few months and have been having some trouble making new friends. You have also been very busy since your move. As a result, your anxiety has gotten a lot worse since you moved to your new home. "
+            "text": "Lost Phone"
         },
         {
             "type": "Media",
-            "url": "./images/407.jpg"
+            "url": "./images/346.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

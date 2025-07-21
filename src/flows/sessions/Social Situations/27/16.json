@@ -1,27 +1,29 @@
 {
-    "header_text": "You meet a friend for lunch at a new restaurant. You realize that your table was not wiped down after the previous customers left, and this makes you anxious about germs. You decide to stay and have lunch with your friend, and your anxiety is tolerable.",
+    "header_text": "Accepting Praise",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "While eating lunch with your friend, you..."
+            "Text": "Are you proud of the work you're doing?"
         },
         {
             "type": "Buttons",
-            "name": "You meet a friend for lunch at a new restaurant. You realize that your table was not wiped down after the previous customers left, and this makes you anxious about germs. You decide to stay and have lunch with your friend, and your anxiety is tolerable._Social Situations_comp_question",
+            "name": "Accepting Praise_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Are unbearably anxious",
-                "Are able to enjoy the conversation"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Are able to enjoy the conversation"
+            "correct_value": "yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

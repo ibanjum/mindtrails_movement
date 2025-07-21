@@ -1,14 +1,16 @@
 {
-    "header_text": "You are having a discussion with your boss in their office, which is a little anxiety-provoking for you. You think about ending the discussion early. After a brief pause, you decide to stay.",
+    "header_text": "Office Talk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "You are having a discussion with your boss in their office, which is a little anxiety-provoking for you. You think about ending the discussion early. After a brief pause, you decide to stay."
+            "text": "Office Talk"
         },
         {
             "type": "Media",
             "url": "./images/103.jpg"
         }
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 4
 }

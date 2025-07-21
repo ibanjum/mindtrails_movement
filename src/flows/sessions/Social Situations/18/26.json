@@ -1,20 +1,20 @@
 {
-    "header_text": "It's Saturday night, and you are at home. You hear your neighbors having a party, and you feel sad since you don't have plans tonight. You remember that there will be many other chances to see your friends, and you feel happy to be relaxing at home.",
+    "header_text": "Voicing Your Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will all of your weekends be spent like this?"
+            "Text": "Was your partner angry with you for voicing your concern?"
         },
         {
             "type": "Buttons",
-            "name": "It's Saturday night, and you are at home. You hear your neighbors having a party, and you feel sad since you don't have plans tonight. You remember that there will be many other chances to see your friends, and you feel happy to be relaxing at home._Social Situations_comp_question",
+            "name": "Voicing Your Feelings_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -23,5 +23,7 @@
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
-    ]
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

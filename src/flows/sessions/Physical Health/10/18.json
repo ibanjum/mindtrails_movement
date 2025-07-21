@@ -1,5 +1,5 @@
 {
-    "header_text": "You decide to spin yourself really quickly on an office chair. You feel butterflies in your stomach and your head gets dizzy as the chair slows down from spinning. These feelings probably mean that you are going to faint.",
+    "header_text": "Feeling Faint",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,8 +8,10 @@
         },
         {
             "type": "Entry",
-            "name": "You decide to spin yourself really quickly on an office chair. You feel butterflies in your stomach and your head gets dizzy as the chair slows down from spinning. These feelings probably mean that you are going to faint._Physical Health_entry2"
+            "name": "Feeling Faint_Physical Health_entry2"
         }
     ],
-    "navigation_conditions": "wait_for_correct"
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
 }
