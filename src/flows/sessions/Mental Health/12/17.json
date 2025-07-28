@@ -1,14 +1,14 @@
 {
-    "header_text": "Session Costs",
+    "header_text": "Blood test results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Session Costs"
+            "text": "Blood test results"
         },
         {
             "type": "Media",
-            "url": "./images/190.jpg"
+            "url": "./images/366.jpg"
         }
     ],
     "type": "positive",

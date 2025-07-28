@@ -1,14 +1,14 @@
 {
-    "header_text": "Luncheon Looks",
+    "header_text": "Posting about Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did everyone at the luncheon like your new outfit?"
+            "Text": "Are your kids upset that you want to tag them in a family photo?"
         },
         {
             "type": "Buttons",
-            "name": "Luncheon Looks_Social Situations_comp_question",
+            "name": "Posting about Family_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

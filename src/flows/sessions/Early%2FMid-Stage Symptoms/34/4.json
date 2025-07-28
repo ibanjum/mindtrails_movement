@@ -1,14 +1,14 @@
 {
-    "header_text": "Kitchen Coordination",
+    "header_text": "Moody Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Kitchen Coordination"
+            "text": "Moody Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/246.jpg"
+            "url": "./images/248.jpg"
         }
     ],
     "type": "positive",

@@ -1,20 +1,20 @@
 {
-    "header_text": "Tax Forms",
+    "header_text": "Cleaning your Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Taxes are due in a month, so you are working on filing them today. You are having trouble keeping track of all the numbers, and you become flustered. You grab a notepad and get..."
+            "text": "Today, you are washing your car with your spouse's help. Chorea leads to you spilling the container of soap, making you feel defeated. Your spouse takes your hand and reminds you of their..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Tax Forms_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Cleaning your Car_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "organized"
+                "love"
             ],
             "missing_letter_count": 2
         }

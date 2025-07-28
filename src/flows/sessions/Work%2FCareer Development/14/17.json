@@ -1,16 +1,16 @@
 {
-    "header_text": "Your Resume",
+    "header_text": "Comparing Your Work to Others'",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your Resume"
+            "text": "Comparing Your Work to Others'"
         },
         {
             "type": "Media",
-            "url": "./images/93.jpg"
+            "url": "./images/104.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 5
 }

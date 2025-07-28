@@ -1,20 +1,20 @@
 {
-    "header_text": "Model Car",
+    "header_text": "Cooking Class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Building model cars has been a hobby of yours since you were young. You start a new model and find it hard to follow the instructions and place the pieces correctly. In the end, you work very slowly, and the final model is..."
+            "text": "You attend a cooking class to try out something new. During the lesson, you realize you are a few steps behind everyone else. You follow at your own pace, ask lots of questions, and end up feeling..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Model Car_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Cooking Class_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "perfect"
+                "accomplished"
             ],
             "missing_letter_count": 2
         }

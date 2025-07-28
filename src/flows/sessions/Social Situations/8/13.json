@@ -1,16 +1,16 @@
 {
-    "header_text": "Jacket Return",
+    "header_text": "Fear of Missing Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Jacket Return"
+            "text": "Fear of Missing Out"
         },
         {
             "type": "Media",
-            "url": "./images/284.jpg"
+            "url": "./images/640.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

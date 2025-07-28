@@ -1,14 +1,14 @@
 {
-    "header_text": "Poisonous Snakes",
+    "header_text": "Broken Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Poisonous Snakes"
+            "text": "Broken Car"
         },
         {
             "type": "Media",
-            "url": "./images/476.jpg"
+            "url": "./images/475.jpg"
         }
     ],
     "type": "positive",

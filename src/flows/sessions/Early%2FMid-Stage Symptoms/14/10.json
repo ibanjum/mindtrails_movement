@@ -1,29 +1,16 @@
 {
-    "header_text": "Reality TV Confusion",
+    "header_text": "Feeling Unsteady",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Is your daughter worried because you forgot the host's name?"
+            "type": "Label",
+            "text": "Feeling Unsteady"
         },
         {
-            "type": "Buttons",
-            "name": "Reality TV Confusion_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/209.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 2
+    "type": "positive",
+    "scenario_num": 3
 }

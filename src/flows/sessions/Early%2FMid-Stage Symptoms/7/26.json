@@ -1,29 +1,29 @@
 {
-    "header_text": "Night of Bad Sleep",
+    "header_text": "Coffee Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After deciding to prioritize rest, you feel... "
+            "Text": "Your spouse is trying to be..."
         },
         {
             "type": "Buttons",
-            "name": "Night of Bad Sleep_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Coffee Together_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Better",
-                "Worse"
+                "Hovering",
+                "Kind"
             ],
             "columnCount": 1,
-            "correct_value": "Better"
+            "correct_value": "Kind"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

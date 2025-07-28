@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Social Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about a challenging situation that's coming up soon. What are some ways you could apply what you learned from this training to manage your own situation? "
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #7_entry"
+            "text": "Before looking up the same question about your health online again, ask yourself if you are really seeking new infomration or just re-checking something. Reduce time spent re-checking."
         }
     ]
 }

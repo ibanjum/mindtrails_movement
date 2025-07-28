@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "You are likely to get a text from your coworker that"
+            "Text": "You are likely to get a text from your coworker that..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Asks you to go out for coffee.",
-                "Asks you to pick up a shift."
+                "Asks you to go out for coffee",
+                "Asks you to pick up a shift"
             ],
             "columnCount": 1,
-            "correct_value": "Asks you to pick up a shift."
+            "correct_value": "Asks you to pick up a shift"
         }
     ],
     "navigation_conditions": [

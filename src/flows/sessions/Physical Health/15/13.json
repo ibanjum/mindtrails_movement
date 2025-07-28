@@ -1,23 +1,23 @@
 {
-    "header_text": "Rearranging After Exposure",
+    "header_text": "Health and aging",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your supervisor penalize you for getting sick?"
+            "Text": "Your friend will probably ..."
         },
         {
             "type": "Buttons",
-            "name": "Rearranging After Exposure_Physical Health_comp_question",
+            "name": "Health and aging_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Get sicker in the future.",
+                "Remain healthy in the future."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Remain healthy in the future."
         }
     ],
     "navigation_conditions": [

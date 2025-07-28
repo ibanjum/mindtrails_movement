@@ -1,16 +1,16 @@
 {
-    "header_text": "Difficult walk",
+    "header_text": "Weekend horseback riding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Difficult walk"
+            "text": "Weekend horseback riding"
         },
         {
             "type": "Media",
-            "url": "./images/363.jpg"
+            "url": "./images/441.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

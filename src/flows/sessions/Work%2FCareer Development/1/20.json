@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Your boss probably thinks that ..."
+            "Text": "Your boss probably thinks that..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You are incapable.",
-                "You have great potential."
+                "You are incapable",
+                "You have great potential"
             ],
             "columnCount": 1,
-            "correct_value": "You have great potential."
+            "correct_value": "You have great potential"
         }
     ],
     "navigation_conditions": [

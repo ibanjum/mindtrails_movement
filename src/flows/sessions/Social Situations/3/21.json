@@ -1,14 +1,14 @@
 {
-    "header_text": "Suggestion to meet again",
+    "header_text": "A big presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Suggestion to meet again"
+            "text": "A big presentation"
         },
         {
             "type": "Media",
-            "url": "./images/617.jpg"
+            "url": "./images/111.jpg"
         }
     ],
     "type": "positive",

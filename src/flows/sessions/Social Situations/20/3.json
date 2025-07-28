@@ -1,14 +1,14 @@
 {
-    "header_text": "Unmasked Peers",
+    "header_text": "New City New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Unmasked Peers"
+            "text": "New City New Friends"
         },
         {
             "type": "Media",
-            "url": "./images/512.jpg"
+            "url": "./images/690.jpg"
         }
     ],
     "type": "positive",

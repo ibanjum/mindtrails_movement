@@ -1,25 +1,29 @@
 {
-    "header_text": "Dropping Food",
+    "header_text": "Reading before Bedtime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "On rare occasion, you cook dinner at home for your family. As you're making an omelet, you grab some eggs from the fridge then accidentally drop them. You've made several messes due to your symptoms this past week and as your brother helps you clean up the broken eggs, he acts..."
+            "Text": "Do you find a way to work around your concentration difficulties?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Dropping Food_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Reading before Bedtime_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "annoyed"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 4
 }

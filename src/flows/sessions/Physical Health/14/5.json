@@ -1,20 +1,20 @@
 {
-    "header_text": "Unmasked Peers",
+    "header_text": "Medical Guilt",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You arrive to a support group meeting with your mask on. You notice that all of your peers are not wearing a mask. You think that they must be... "
+            "text": "After noticing your throat hurting a bit, you decide to go to the doctor. Your partner barely goes to the doctor because it's so expensive, and you think they'll be mad at you for the cost. You hope that they'll forgive you easily, because getting sick isn't fully in your... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Unmasked Peers_Physical Health_puzzle1",
+            "name": "Medical Guilt_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "well"
+                "control"
             ],
             "missing_letter_count": 1
         }

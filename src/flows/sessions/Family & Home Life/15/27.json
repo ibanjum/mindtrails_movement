@@ -1,25 +1,25 @@
 {
-    "header_text": "Online Shopping",
+    "header_text": "Retirement Celebration",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be..."
+            "text": "You think about how many people have come out to celebrate your retirement. In the end, your family caring enough to throw you a party makes you feel very..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Online Shopping_Family & Home Life_puzzle1",
+            "name": "Retirement Celebration_Family & Home Life_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "understanding"
+                "grateful"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

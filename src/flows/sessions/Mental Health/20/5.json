@@ -1,16 +1,16 @@
 {
-    "header_text": "Lost Phone",
+    "header_text": "Trouble Making Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lost Phone"
+            "text": "Trouble Making Friends"
         },
         {
             "type": "Media",
-            "url": "./images/346.jpg"
+            "url": "./images/407.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

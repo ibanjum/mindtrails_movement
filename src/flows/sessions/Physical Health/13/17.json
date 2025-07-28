@@ -1,20 +1,20 @@
 {
-    "header_text": "Longer Walks",
+    "header_text": "Walking with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been walking laps in your neighborhood and are thinking about walking a longer trail in the park. You are worried about whether you have what it takes to push yourself more when you are farther away from home. You enjoy the feeling of accomplishment when you finish walking and decide to do the longer..."
+            "text": "You are going on a long walk tomorrow with a friend who walks a long distance every day. You have not been on a long walk in quite some time, and you worry about whether you'll be able to keep up. You think you will match your friend's..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Longer Walks_Physical Health_puzzle1",
+            "name": "Walking with a Friend_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "trail"
+                "pace"
             ],
             "missing_letter_count": 1
         }

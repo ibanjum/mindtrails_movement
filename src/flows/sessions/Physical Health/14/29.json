@@ -1,14 +1,14 @@
 {
-    "header_text": "Dancing class",
+    "header_text": "Healthy But Expensive ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dancing class"
+            "text": "Healthy But Expensive "
         },
         {
             "type": "Media",
-            "url": "./images/516.jpg"
+            "url": "./images/299.jpg"
         }
     ],
     "type": "positive",

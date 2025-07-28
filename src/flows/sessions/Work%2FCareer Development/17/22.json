@@ -1,14 +1,14 @@
 {
-    "header_text": "Teaching Others",
+    "header_text": "Participation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you lead the course well?"
+            "Text": "Are you happy you attended the workshop?"
         },
         {
             "type": "Buttons",
-            "name": "Teaching Others_Work/Career Development_comp_question",
+            "name": "Participation _Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

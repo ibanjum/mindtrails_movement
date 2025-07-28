@@ -1,14 +1,14 @@
 {
-    "header_text": "Question at Work",
+    "header_text": "Catching up with a friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Question at Work"
+            "text": "Catching up with a friend"
         },
         {
             "type": "Media",
-            "url": "./images/733.jpg"
+            "url": "./images/714.jpg"
         }
     ],
     "type": "positive",

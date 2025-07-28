@@ -1,16 +1,16 @@
 {
-    "header_text": "Close Friend's Birthday",
+    "header_text": "Not Getting an Invite",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Close Friend's Birthday"
+            "text": "Not Getting an Invite"
         },
         {
             "type": "Media",
-            "url": "./images/189.jpg"
+            "url": "./images/702.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 5
 }

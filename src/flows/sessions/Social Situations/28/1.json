@@ -1,14 +1,14 @@
 {
-    "header_text": "High Anxiety",
+    "header_text": "Joining a New Club",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "High Anxiety"
+            "text": "Joining a New Club"
         },
         {
             "type": "Media",
-            "url": "./images/101.jpg"
+            "url": "./images/356.jpg"
         }
     ],
     "type": "positive",

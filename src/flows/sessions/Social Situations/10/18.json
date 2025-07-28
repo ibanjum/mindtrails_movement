@@ -1,16 +1,16 @@
 {
-    "header_text": "Important Opinion",
+    "header_text": "Trivia Night",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Important Opinion"
+            "text": "Trivia Night"
         },
         {
             "type": "Media",
-            "url": "./images/371.jpg"
+            "url": "./images/652.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

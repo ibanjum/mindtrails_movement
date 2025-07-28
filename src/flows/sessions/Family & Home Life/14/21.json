@@ -1,14 +1,14 @@
 {
-    "header_text": "Cleaning Your Home",
+    "header_text": "Pet Schedule",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cleaning Your Home"
+            "text": "Pet Schedule"
         },
         {
             "type": "Media",
-            "url": "./images/212.jpg"
+            "url": "./images/211.jpg"
         }
     ],
     "type": "positive",

@@ -1,25 +1,25 @@
 {
-    "header_text": "Working to Get Ahead",
+    "header_text": "Faster thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have just been given a job in an office that you really admire. To eventually receive the promotion you want, you know that you will have to work very hard for several years and the outcome is uncertain. As you envision your likely position in the company down the road, you expect the job you want will be given to someone..."
+            "text": "You are planning an event you are extremely excited about. As you think about what you need to do for the event to be a success, your thoughts seem to speed up. This is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Working to Get Ahead_Mental Health_puzzle1",
+            "name": "Faster thoughts_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "else"
+                "helpful"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

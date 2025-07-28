@@ -1,25 +1,29 @@
 {
-    "header_text": "Sudden noise",
+    "header_text": "Disease test",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Noticing these thoughts, you decide that you will be able to cope, and so you keep..."
+            "Text": "Do you think the test results will say you have the disease?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Sudden noise_Physical Health_puzzle_word2",
+            "type": "Buttons",
+            "name": "Disease test_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "walking"
+            "buttons": [
+                "No",
+                "Yes"
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 2
 }

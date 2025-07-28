@@ -1,23 +1,23 @@
 {
-    "header_text": "Toy Store Trip",
+    "header_text": "New Kitten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You are able to shift your attention to focus on the..."
+            "Text": "Will your kitten be cared for?"
         },
         {
             "type": "Buttons",
-            "name": "Toy Store Trip_Early/Mid-Stage Symptoms_comp_question",
+            "name": "New Kitten_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Positive",
-                "Negative"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Positive"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

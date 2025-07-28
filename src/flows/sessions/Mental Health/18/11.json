@@ -1,16 +1,16 @@
 {
-    "header_text": "Meditation Journey",
+    "header_text": "Working to Get Ahead",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Meditation Journey"
+            "text": "Working to Get Ahead"
         },
         {
             "type": "Media",
-            "url": "./images/401.jpg"
+            "url": "./images/36.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

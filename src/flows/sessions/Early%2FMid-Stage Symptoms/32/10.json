@@ -1,23 +1,23 @@
 {
-    "header_text": "Fast Card Game",
+    "header_text": "Graduation Toast",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you ask to slow down the game, your friends..."
+            "Text": "During the toast, people start talking about your..."
         },
         {
             "type": "Buttons",
-            "name": "Fast Card Game_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Graduation Toast_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Complain",
-                "Agree"
+                "Nephew",
+                "Quiet voice"
             ],
             "columnCount": 1,
-            "correct_value": "Agree"
+            "correct_value": "Nephew"
         }
     ],
     "navigation_conditions": [

@@ -1,25 +1,25 @@
 {
-    "header_text": "Jokes with Friends ",
+    "header_text": "Balancing Home Life and Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "A group of your co-workers are whispering and looking in your direction. Some of them are laughing really hard. You don't have time to go say hi, and you think they were probably laughing at a..."
+            "text": "Your partner runs a daycare out of your home, so it is always loud when you get home from work. Your colleague is coming over today to have coffee. You think about how your colleague is going to react to the noise, and you get..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Jokes with Friends _Social Situations_puzzle1",
+            "name": "Balancing Home Life and Friends_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "joke"
+                "worried"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

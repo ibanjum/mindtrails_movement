@@ -1,16 +1,16 @@
 {
-    "header_text": "Coughing at the Store",
+    "header_text": "Walking with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Coughing at the Store"
+            "text": "Walking with a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/513.jpg"
+            "url": "./images/497.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

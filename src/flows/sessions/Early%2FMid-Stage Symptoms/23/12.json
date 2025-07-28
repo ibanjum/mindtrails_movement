@@ -1,29 +1,29 @@
 {
-    "header_text": "Lost your Belongings",
+    "header_text": "Setting up Camp",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you having trouble controlling your emotions?"
+            "Text": "After putting up your tent at your own pace, you feel..."
         },
         {
             "type": "Buttons",
-            "name": "Lost your Belongings_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Setting up Camp_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Giddy",
+                "Self-conscious"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Giddy"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

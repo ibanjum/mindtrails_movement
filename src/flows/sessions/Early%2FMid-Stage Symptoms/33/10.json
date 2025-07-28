@@ -1,16 +1,16 @@
 {
-    "header_text": "Trouble Getting Dressed",
+    "header_text": "Worsening condition",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trouble Getting Dressed"
+            "text": "Worsening condition"
         },
         {
             "type": "Media",
-            "url": "./images/876.jpg"
+            "url": "./images/414.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

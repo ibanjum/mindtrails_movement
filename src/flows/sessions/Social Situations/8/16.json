@@ -1,16 +1,17 @@
 {
-    "header_text": "Talking about TV",
+    "header_text": "Jacket Return",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Talking about TV"
+            "type": "Text",
+            "text": "You are at the department store to return a jacket. When you speak with a sales associate at the counter, they do not smile. Instead, they stare at you looking very..."
         },
         {
-            "type": "Media",
-            "url": "./images/641.jpg"
+            "type": "Entry",
+            "name": "Jacket Return_Social Situations_entry1"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

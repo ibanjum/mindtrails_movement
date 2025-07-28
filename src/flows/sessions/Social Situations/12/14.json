@@ -1,16 +1,16 @@
 {
-    "header_text": "Coffee Shop",
+    "header_text": "Late Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Coffee Shop"
+            "text": "Late Friend"
         },
         {
             "type": "Media",
-            "url": "./images/656.jpg"
+            "url": "./images/655.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "New Conflict With Spouse",
+    "header_text": "Unconditional Love",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Conflict With Spouse"
+            "text": "Unconditional Love"
         },
         {
             "type": "Media",
-            "url": "./images/582.jpg"
+            "url": "./images/589.jpg"
         }
     ],
     "type": "positive",

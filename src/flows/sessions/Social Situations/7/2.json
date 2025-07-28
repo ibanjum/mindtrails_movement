@@ -1,20 +1,20 @@
 {
-    "header_text": "Greeting Someone",
+    "header_text": "Loud friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While out on a walk, you see a neighbor that you do not know well. You decide to say hello in passing but then wonder if you annoyed the neighbor. After the brief encounter, you believe they think that you are..."
+            "text": "You are out shopping with a friend who tends to be very loud. When you both enter an electronics store, other shoppers stop and look at you and your friend. The experience is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Greeting Someone_Social Situations_puzzle1",
+            "name": "Loud friend_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "friendly"
+                "tolerable"
             ],
             "missing_letter_count": 2
         }

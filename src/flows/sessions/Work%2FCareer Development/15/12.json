@@ -1,16 +1,16 @@
 {
-    "header_text": "Fundraiser presentation",
+    "header_text": "Sitting in a Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fundraiser presentation"
+            "text": "Sitting in a Meeting"
         },
         {
             "type": "Media",
-            "url": "./images/107.jpg"
+            "url": "./images/108.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

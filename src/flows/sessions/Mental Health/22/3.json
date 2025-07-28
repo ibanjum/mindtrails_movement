@@ -1,14 +1,14 @@
 {
-    "header_text": "Workout Whispers",
+    "header_text": "Forgotten Item",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Exercising at the gym is a form of stress relief for you, though you have had to adapt your workouts lately. Today you notice two people whispering as they look in your direction. You know working out is a personal journey, and decide their opinions are... "
+            "text": "You are almost ready to check out at the grocery store, but you forgot the last item on your list. When you forget something like this, it makes you think about when your mom got dementia. You think you probably can't remember the last item because, lately, you have been so..."
         },
         {
             "type": "Entry",
-            "name": "Workout Whispers_Mental Health_entry1"
+            "name": "Forgotten Item_Mental Health_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

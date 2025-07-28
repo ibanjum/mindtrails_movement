@@ -1,23 +1,23 @@
 {
-    "header_text": "Friendships in the Future",
+    "header_text": "Holiday Away From Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You think that staying close to your current friends"
+            "Text": "Your parents are likely to think that you..."
         },
         {
             "type": "Buttons",
-            "name": "Friendships in the Future_Social Situations_comp_question",
+            "name": "Holiday Away From Home_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Will be something that brings you happiness for years to come.",
-                "Is almost impossible in the long run."
+                "Are just excited to spend the holidays with your partner, and not take it personally",
+                "Don't care about them or want to see them"
             ],
             "columnCount": 1,
-            "correct_value": "Will be something that brings you happiness for years to come."
+            "correct_value": "Are just excited to spend the holidays with your partner, and not take it personally"
         }
     ],
     "navigation_conditions": [

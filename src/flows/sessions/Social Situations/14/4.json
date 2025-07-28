@@ -1,14 +1,14 @@
 {
-    "header_text": "Taking Charge",
+    "header_text": "Comedic Genius",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Taking Charge"
+            "text": "Comedic Genius"
         },
         {
             "type": "Media",
-            "url": "./images/98.jpg"
+            "url": "./images/666.jpg"
         }
     ],
     "type": "positive",

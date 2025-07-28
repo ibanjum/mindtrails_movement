@@ -1,14 +1,14 @@
 {
-    "header_text": "Speaking Up at Work",
+    "header_text": "Achieving Your Goals",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Speaking Up at Work"
+            "text": "Achieving Your Goals"
         },
         {
             "type": "Media",
-            "url": "./images/87.jpg"
+            "url": "./images/88.jpg"
         }
     ],
     "type": "positive",

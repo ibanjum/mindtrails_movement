@@ -1,16 +1,25 @@
 {
-    "header_text": "Family Trivia",
+    "header_text": "Best Friend's Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Family Trivia"
+            "type": "Text",
+            "text": "You're at your best friend's birthday party, surrounded by laughter and conversation. Suddenly, your tremor causes some water to slosh out of the cup you're holding, making you worry that others will judge you. However, you know that if you open up to your friends about your concerns, they will be understanding and..."
         },
         {
-            "type": "Media",
-            "url": "./images/214.jpg"
+            "type": "WordPuzzle",
+            "name": "Best Friend's Party_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "supportive"
+            ],
+            "missing_letter_count": 2
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 9
 }

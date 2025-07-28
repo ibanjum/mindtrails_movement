@@ -1,14 +1,14 @@
 {
-    "header_text": "An international flight",
+    "header_text": "Evaluation results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "An international flight"
+            "text": "Evaluation results"
         },
         {
             "type": "Media",
-            "url": "./images/399.jpg"
+            "url": "./images/39.jpg"
         }
     ],
     "type": "positive",

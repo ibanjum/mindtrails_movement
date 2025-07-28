@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Early/Mid-Stage Symptoms",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Communicate to your partner about how you are feeling and what you think you might need from them in order to feel better."
+            "text": "Think about a scenario in your daily or weekly routine that makes you anxious. What strategies can you apply from this training to help calm your anxiety?"
+        },
+        {
+            "type": "Entry",
+            "name": "Tip #11_entry"
         }
     ]
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "New Training Plan",
+    "header_text": "New Apartment to Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Training Plan"
+            "text": "New Apartment to Yourself"
         },
         {
             "type": "Media",
-            "url": "./images/639.jpg"
+            "url": "./images/181.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

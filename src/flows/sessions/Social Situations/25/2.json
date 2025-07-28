@@ -1,14 +1,14 @@
 {
-    "header_text": "Cultural Family Celebrations",
+    "header_text": "Showcasing your experience",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cultural Family Celebrations"
+            "text": "Showcasing your experience"
         },
         {
             "type": "Media",
-            "url": "./images/84.jpg"
+            "url": "./images/9.jpg"
         }
     ],
     "type": "positive",

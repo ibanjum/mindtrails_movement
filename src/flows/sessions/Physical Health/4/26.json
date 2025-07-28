@@ -1,14 +1,14 @@
 {
-    "header_text": "Walking pain",
+    "header_text": "Annual physical exam",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Walking pain"
+            "text": "Annual physical exam"
         },
         {
             "type": "Media",
-            "url": "./images/455.jpg"
+            "url": "./images/368.jpg"
         }
     ],
     "type": "positive",

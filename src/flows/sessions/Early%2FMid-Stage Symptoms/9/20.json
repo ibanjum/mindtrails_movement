@@ -1,14 +1,14 @@
 {
-    "header_text": "At Home Alone",
+    "header_text": "Name Recall ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "At Home Alone"
+            "text": "Name Recall "
         },
         {
             "type": "Media",
-            "url": "./images/584.jpg"
+            "url": "./images/777.jpg"
         }
     ],
     "type": "positive",

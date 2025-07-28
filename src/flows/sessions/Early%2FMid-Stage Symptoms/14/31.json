@@ -1,20 +1,20 @@
 {
-    "header_text": "Movie Theater Distraction",
+    "header_text": "Delayed Texting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are watching a new movie at a local movie theater. As the first scene begins, you start to worry that your tremor and dyskinesia will be distracting for those sitting around you. You remember that your symptoms are out of your control, and you decide to focus on the..."
+            "text": "You are responding to a text on your phone. It's taking you a long time to type a short response, and you wonder whether the recipient will be annoyed. You realize that the response at hand is not an emergency, and the recipient will be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Movie Theater Distraction_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Delayed Texting _Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "movie"
+                "patient"
             ],
             "missing_letter_count": 2
         }

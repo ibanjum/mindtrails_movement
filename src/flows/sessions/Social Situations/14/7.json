@@ -1,16 +1,16 @@
 {
-    "header_text": "Taking a Call",
+    "header_text": "Taking Charge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Taking a Call"
+            "text": "Taking Charge"
         },
         {
             "type": "Media",
-            "url": "./images/667.jpg"
+            "url": "./images/98.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

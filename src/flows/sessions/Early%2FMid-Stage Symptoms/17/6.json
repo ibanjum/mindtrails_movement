@@ -1,29 +1,25 @@
 {
-    "header_text": "Best Friend's Party",
+    "header_text": "Difficult Handoff",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friends will be..."
+            "text": "After thinking about it, you decide to try. You grab the phone and hand it over with..."
         },
         {
-            "type": "Buttons",
-            "name": "Best Friend's Party_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Difficult Handoff_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Judgmental.",
-                "Supportive."
+            "display_delay": 2000,
+            "words": [
+                "ease"
             ],
-            "columnCount": 1,
-            "correct_value": "Supportive."
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

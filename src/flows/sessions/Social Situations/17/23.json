@@ -1,16 +1,16 @@
 {
-    "header_text": "Sharing with Someone New",
+    "header_text": "Waiting for a Reply ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sharing with Someone New"
+            "text": "Waiting for a Reply "
         },
         {
             "type": "Media",
-            "url": "./images/395.jpg"
+            "url": "./images/658.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

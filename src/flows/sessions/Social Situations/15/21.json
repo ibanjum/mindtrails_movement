@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Media Scores",
+    "header_text": "Visiting a New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Media Scores"
+            "text": "Visiting a New Friend"
         },
         {
             "type": "Media",
-            "url": "./images/672.jpg"
+            "url": "./images/674.jpg"
         }
     ],
     "type": "positive",

@@ -1,16 +1,16 @@
 {
-    "header_text": "Fundraiser presentation",
+    "header_text": "Receiving Explicit Email Messages",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fundraiser presentation"
+            "text": "Receiving Explicit Email Messages"
         },
         {
             "type": "Media",
-            "url": "./images/107.jpg"
+            "url": "./images/586.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 5
 }

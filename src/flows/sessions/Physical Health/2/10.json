@@ -1,16 +1,16 @@
 {
-    "header_text": "A scratchy throat",
+    "header_text": "Appointment with the doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A scratchy throat"
+            "text": "Appointment with the doctor"
         },
         {
             "type": "Media",
-            "url": "./images/439.jpg"
+            "url": "./images/433.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

@@ -1,16 +1,26 @@
 {
-    "header_text": "Brushing Teeth",
+    "header_text": "Getting Coffee",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Brushing Teeth"
+            "text": "Getting Coffee"
         },
         {
             "type": "Media",
-            "url": "./images/960.jpg"
+            "url": "./images/719.jpg"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "type": "negative",
+    "scenario_num": 2,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

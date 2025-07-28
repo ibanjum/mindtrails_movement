@@ -1,23 +1,23 @@
 {
-    "header_text": "Journaling Issues",
+    "header_text": "Forgetting Movie Title",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you find alternative ways to keep track of your thoughts and feelings?"
+            "Text": "In the face of your discomfort, thinking of your friends makes you feel..."
         },
         {
             "type": "Buttons",
-            "name": "Journaling Issues_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Forgetting Movie Title_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No.",
-                "Yes."
+                "Discouraged",
+                "Supported"
             ],
             "columnCount": 1,
-            "correct_value": "Yes."
+            "correct_value": "Supported"
         }
     ],
     "navigation_conditions": [

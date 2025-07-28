@@ -1,14 +1,14 @@
 {
-    "header_text": "Vacation Costs",
+    "header_text": "Special Day",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vacation Costs"
+            "text": "Special Day"
         },
         {
             "type": "Media",
-            "url": "./images/314.jpg"
+            "url": "./images/370.jpg"
         }
     ],
     "type": "positive",

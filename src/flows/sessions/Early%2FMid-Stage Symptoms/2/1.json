@@ -1,17 +1,17 @@
 {
-    "header_text": "Forgetting PIN Number",
+    "header_text": "The Movies Solo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Forgetting PIN Number"
+            "text": "The Movies Solo"
         },
         {
             "type": "Media",
-            "url": "./images/744.jpg"
+            "url": "./images/724.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 0,
     "information": {
         "elements": [

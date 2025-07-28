@@ -1,16 +1,16 @@
 {
-    "header_text": "Working to Get Ahead",
+    "header_text": "Faster thoughts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Working to Get Ahead"
+            "text": "Faster thoughts"
         },
         {
             "type": "Media",
-            "url": "./images/36.jpg"
+            "url": "./images/402.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

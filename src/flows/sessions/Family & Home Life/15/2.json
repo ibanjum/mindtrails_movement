@@ -1,16 +1,16 @@
 {
-    "header_text": "Tripping at Family Barbecue",
+    "header_text": "Family Trivia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tripping at Family Barbecue"
+            "text": "Family Trivia"
         },
         {
             "type": "Media",
-            "url": "./images/215.jpg"
+            "url": "./images/214.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

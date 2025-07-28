@@ -1,14 +1,14 @@
 {
-    "header_text": "Your New Post",
+    "header_text": "Zoning Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your New Post"
+            "text": "Zoning Out"
         },
         {
             "type": "Media",
-            "url": "./images/376.jpg"
+            "url": "./images/98.jpg"
         }
     ],
     "type": "positive",

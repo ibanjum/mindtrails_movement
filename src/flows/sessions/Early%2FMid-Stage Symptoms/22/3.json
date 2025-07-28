@@ -1,23 +1,23 @@
 {
-    "header_text": "Online Shopping",
+    "header_text": "Baking Cookies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you tell your child about the mix-up, they will probably respond..."
+            "Text": "After you drop the tray, your grandchild is..."
         },
         {
             "type": "Buttons",
-            "name": "Online Shopping_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Baking Cookies_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Gently",
-                "Harshly"
+                "Entertained",
+                "Upset"
             ],
             "columnCount": 1,
-            "correct_value": "Gently"
+            "correct_value": "Entertained"
         }
     ],
     "navigation_conditions": [

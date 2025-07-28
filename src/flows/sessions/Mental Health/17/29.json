@@ -1,14 +1,14 @@
 {
-    "header_text": "One-on-one thoughts",
+    "header_text": "Using Different Technology",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "One-on-one thoughts"
+            "text": "Using Different Technology"
         },
         {
             "type": "Media",
-            "url": "./images/41.jpg"
+            "url": "./images/32.jpg"
         }
     ],
     "type": "positive",

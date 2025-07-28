@@ -1,14 +1,14 @@
 {
-    "header_text": "Collecting an old friend",
+    "header_text": "Resolving a disagreement",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Collecting an old friend"
+            "text": "Resolving a disagreement"
         },
         {
             "type": "Media",
-            "url": "./images/610.jpg"
+            "url": "./images/609.jpg"
         }
     ],
     "type": "positive",

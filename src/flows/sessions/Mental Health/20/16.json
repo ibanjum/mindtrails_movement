@@ -1,14 +1,14 @@
 {
-    "header_text": "Toy Store Trip",
+    "header_text": "Handwriting Challenge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Toy Store Trip"
+            "text": "Handwriting Challenge"
         },
         {
             "type": "Media",
-            "url": "./images/410.jpg"
+            "url": "./images/411.jpg"
         }
     ],
     "type": "positive",

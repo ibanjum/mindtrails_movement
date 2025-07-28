@@ -1,14 +1,14 @@
 {
-    "header_text": "Exposing a Friend",
+    "header_text": "Sore Throat at Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Exposing a Friend"
+            "text": "Sore Throat at Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/693.jpg"
+            "url": "./images/692.jpg"
         }
     ],
     "type": "positive",

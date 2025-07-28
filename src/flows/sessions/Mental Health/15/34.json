@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about the lessons you learned from the stories you read today. Looking back at a recent situation that made you anxious, how might you have thought about it in a different way to make it easier to manage?"
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #5_entry"
+            "text": "Motivational Statement #31 \n\n Whatever you do today is enough. You are facing new challenges, and deserve to give yourself grace."
         }
     ]
 }

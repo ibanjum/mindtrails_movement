@@ -1,25 +1,25 @@
 {
-    "header_text": "Invitation to Dinner",
+    "header_text": "Spilling Food on Laptop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are known for being extroverted, some of your friends even call you \"the life of the party.\" Recently, the thought of going out in public makes your heart race and palms sweat. When a friend calls you to invite you to dinner, the first thing you do is... "
+            "text": "You just sat down for some lunch and decide to use your laptop while eating. As you're feeding yourself, you spill some of your pasta on your laptop. After you spill, you quickly get a cloth to clean up the mess, and you feel very..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Invitation to Dinner_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Spilling Food on Laptop_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "breathe"
+                "disappointed"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

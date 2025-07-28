@@ -1,14 +1,14 @@
 {
-    "header_text": "Picture with Friends",
+    "header_text": "Worrying About Spending",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Picture with Friends"
+            "text": "Worrying About Spending"
         },
         {
             "type": "Media",
-            "url": "./images/330.jpg"
+            "url": "./images/259.jpg"
         }
     ],
     "type": "positive",

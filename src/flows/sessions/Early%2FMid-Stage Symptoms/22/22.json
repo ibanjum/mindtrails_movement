@@ -1,20 +1,20 @@
 {
-    "header_text": "Family Board Game",
+    "header_text": "Crossing a Bridge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Playing board games after dinner is a family tradition, and tonight you are playing a personal favorite. Your niece uses one of your signature moves, and you find yourself snapping at her. The room goes quiet as everyone thinks about their next..."
+            "text": "You are walking in the park and start to cross a bridge. You are having trouble going across the wooden panels, and your stomach drops as you slip on a loose board. You grab onto the handrail for a few seconds and realize that you are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Family Board Game_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Crossing a Bridge_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "move"
+                "steady"
             ],
             "missing_letter_count": 2
         }

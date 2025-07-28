@@ -1,16 +1,16 @@
 {
-    "header_text": "Commenting on a Friend's Post",
+    "header_text": "Saving for Repairs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Commenting on a Friend's Post"
+            "text": "Saving for Repairs"
         },
         {
             "type": "Media",
-            "url": "./images/711.jpg"
+            "url": "./images/264.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

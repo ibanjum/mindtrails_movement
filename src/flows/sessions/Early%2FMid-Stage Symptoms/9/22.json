@@ -1,23 +1,23 @@
 {
-    "header_text": "At Home Alone",
+    "header_text": "Name Recall ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Being home alone with a cell phone makes you more..."
+            "Text": "The new friend's response is a sign of..."
         },
         {
             "type": "Buttons",
-            "name": "At Home Alone_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Name Recall _Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Fearful",
-                "Relaxed"
+                "Relief",
+                "Frustration"
             ],
             "columnCount": 1,
-            "correct_value": "Relaxed"
+            "correct_value": "Relief"
         }
     ],
     "navigation_conditions": [

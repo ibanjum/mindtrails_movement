@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "You think the two of you will probably"
+            "Text": "You think the two of you will probably..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Go out to coffee and have a great time.",
-                "Never see each other again."
+                "Go out to coffee and have a great time",
+                "Never see each other again"
             ],
             "columnCount": 1,
-            "correct_value": "Never see each other again."
+            "correct_value": "Never see each other again"
         }
     ],
     "navigation_conditions": [

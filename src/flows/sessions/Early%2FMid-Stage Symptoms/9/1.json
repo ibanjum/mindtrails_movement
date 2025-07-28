@@ -1,14 +1,14 @@
 {
-    "header_text": "Garden Planting",
+    "header_text": "Therapist after Diagnosis",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Garden Planting"
+            "text": "Therapist after Diagnosis"
         },
         {
             "type": "Media",
-            "url": "./images/772.jpg"
+            "url": "./images/774.jpg"
         }
     ],
     "type": "positive",

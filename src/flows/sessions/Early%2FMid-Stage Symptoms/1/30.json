@@ -1,16 +1,16 @@
 {
-    "header_text": "Dedicated Teacher",
+    "header_text": "Keys Forgotten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dedicated Teacher"
+            "text": "Keys Forgotten"
         },
         {
             "type": "Media",
-            "url": "./images/736.jpg"
+            "url": "./images/208.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

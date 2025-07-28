@@ -1,25 +1,25 @@
 {
-    "header_text": "A different haircut",
+    "header_text": "Quiet Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While at the hairdresser, you opt for a completely different haircut. When you see your friends afterward, they gasp. Their gasp probably means that they think the new style makes you look..."
+            "text": "That evening, you realize that it is completely normal to have silent breaks during conversations. You believe that your friend thinks it was better to stay silent than to make up things to say, and they were probably..."
         },
         {
             "type": "WordPuzzle",
-            "name": "A different haircut_Social Situations_puzzle1",
+            "name": "Quiet Time_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "great"
+                "glad"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

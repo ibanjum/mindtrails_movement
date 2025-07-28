@@ -1,20 +1,20 @@
 {
-    "header_text": "Not Getting a Response",
+    "header_text": "Getting Ready for a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You notice that your significant other has not been as responsive to your messages recently. This is unlike them, as they typically respond right away. You know they have been extra busy and that is likely why they haven't been..."
+            "text": "Your friends have set you up on a date and you're getting ready. The closer you get to leaving, the more you wonder if you look okay and if the person you're meeting will be attracted to you. You remember that one person will not dictate your... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Not Getting a Response_Mental Health_puzzle1",
+            "name": "Getting Ready for a Date_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "responding"
+                "worth"
             ],
             "missing_letter_count": 1
         }

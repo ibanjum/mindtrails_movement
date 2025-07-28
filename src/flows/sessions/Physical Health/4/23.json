@@ -1,16 +1,16 @@
 {
-    "header_text": "Annual physical exam",
+    "header_text": "Flashing movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Annual physical exam"
+            "text": "Flashing movie"
         },
         {
             "type": "Media",
-            "url": "./images/368.jpg"
+            "url": "./images/443.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 7
 }

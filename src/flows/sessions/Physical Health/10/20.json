@@ -1,17 +1,17 @@
 {
-    "header_text": "Wearing a Mask to Work",
+    "header_text": "Feeling Faint",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are immunocompromised and have been taking precautions to protect yourself from the flu, such as getting this season's flu shot. A colleague tells you that they refuse to get the flu vaccine. You decide to start wearing a mask to work since you're immunocompromised and don't want to risk complications from the... "
+            "text": "Instead of panicking, you decide to take a deep breathe. Your dizziness disappears and your stomach feels..."
         },
         {
             "type": "Entry",
-            "name": "Wearing a Mask to Work_Physical Health_entry1"
+            "name": "Feeling Faint_Physical Health_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

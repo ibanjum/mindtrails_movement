@@ -1,25 +1,25 @@
 {
-    "header_text": "Organizing your Desk",
+    "header_text": "Laundry Dilemma",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your desk is cluttered, so you decide to organize it today. When everything is out of the desk, you can't remember where each item was originally placed. You do your best to place items back on the desk and in the end decide that it looks..."
+            "text": "You start to think of creative ways to make sure your laundry gets done today. You remember that you have a support system that is willing to help you, so you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Organizing your Desk_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Laundry Dilemma_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "tidy"
+                "comforted"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

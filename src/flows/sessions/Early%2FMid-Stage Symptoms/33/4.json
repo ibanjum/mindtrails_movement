@@ -1,16 +1,16 @@
 {
-    "header_text": "Park Walk",
+    "header_text": "Trouble Getting Dressed",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Park Walk"
+            "text": "Trouble Getting Dressed"
         },
         {
             "type": "Media",
-            "url": "./images/424.jpg"
+            "url": "./images/876.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

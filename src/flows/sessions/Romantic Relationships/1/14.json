@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Your date's impression of you is probably ..."
+            "Text": "Your date's impression of you is probably..."
         },
         {
             "type": "Buttons",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "buttons": [
                 "Positive",
-                "Negative."
+                "Negative"
             ],
             "columnCount": 1,
             "correct_value": "Positive"

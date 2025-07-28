@@ -1,14 +1,14 @@
 {
-    "header_text": "High Anxiety",
+    "header_text": "Joining a New Club",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Would the people in your life support you getting help? "
+            "Text": "Can you be involved in the book club discussion?"
         },
         {
             "type": "Buttons",
-            "name": "High Anxiety_Social Situations_comp_question",
+            "name": "Joining a New Club_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

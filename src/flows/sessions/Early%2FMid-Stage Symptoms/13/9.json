@@ -1,29 +1,25 @@
 {
-    "header_text": "Research Study Risks",
+    "header_text": "Visiting the Doctor's Office",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The study's side effects are likely to be..."
+            "text": "You're visiting the doctor for a follow-up appointment. As you describe some recent symptoms you've been having, you notice the doctor is typing a lot. When they look up at you, they have an expression of..."
         },
         {
-            "type": "Buttons",
-            "name": "Research Study Risks_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Visiting the Doctor's Office_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Mild",
-                "Severe"
+            "display_delay": 2000,
+            "words": [
+                "calmness"
             ],
-            "columnCount": 1,
-            "correct_value": "Mild"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

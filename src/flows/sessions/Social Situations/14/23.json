@@ -1,16 +1,16 @@
 {
-    "header_text": "Corner Laughter",
+    "header_text": "Dinner at a Friend's House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Corner Laughter"
+            "text": "Dinner at a Friend's House"
         },
         {
             "type": "Media",
-            "url": "./images/671.jpg"
+            "url": "./images/177.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

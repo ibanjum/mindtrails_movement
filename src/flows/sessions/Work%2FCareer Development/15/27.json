@@ -1,14 +1,14 @@
 {
-    "header_text": "Falling Behind at Work",
+    "header_text": "Looking at your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you get better at your job?"
+            "Text": "Are you qualified for these new jobs?"
         },
         {
             "type": "Buttons",
-            "name": "Falling Behind at Work_Work/Career Development_comp_question",
+            "name": "Looking at your Resume_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

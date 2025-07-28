@@ -1,14 +1,14 @@
 {
-    "header_text": "Hiking Hiatus",
+    "header_text": "Spiritual Journey",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hiking Hiatus"
+            "text": "Spiritual Journey"
         },
         {
             "type": "Media",
-            "url": "./images/784.jpg"
+            "url": "./images/785.jpg"
         }
     ],
     "type": "positive",

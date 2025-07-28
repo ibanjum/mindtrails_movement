@@ -1,25 +1,25 @@
 {
-    "header_text": "A welcome greeting",
+    "header_text": "Important Presentation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's the weekend, and you are in town. You see a friend you haven't seen in ages. Your friend gives you a big hug, and you feel smothered. This feeling is..."
+            "text": "You have been asked to give a presentation about some of your latest projects at a major conference. This is a great opportunity to highlight the good work you have been doing. However, you feel nervous talking in front of such a big group of your..."
         },
         {
             "type": "WordPuzzle",
-            "name": "A welcome greeting_Social Situations_puzzle1",
+            "name": "Important Presentation _Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "nice"
+                "peers"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

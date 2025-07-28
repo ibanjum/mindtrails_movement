@@ -1,16 +1,16 @@
 {
-    "header_text": "Waking Up Ready",
+    "header_text": "Feeling Lightheaded",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Waking Up Ready"
+            "text": "Feeling Lightheaded"
         },
         {
             "type": "Media",
-            "url": "./images/76.jpg"
+            "url": "./images/364.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

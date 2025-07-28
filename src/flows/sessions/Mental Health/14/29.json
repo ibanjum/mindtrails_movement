@@ -1,14 +1,14 @@
 {
-    "header_text": "A Rude Comment",
+    "header_text": "Mental Health Resources",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A Rude Comment"
+            "text": "Mental Health Resources"
         },
         {
             "type": "Media",
-            "url": "./images/385.jpg"
+            "url": "./images/386.jpg"
         }
     ],
     "type": "positive",

@@ -1,29 +1,29 @@
 {
-    "header_text": "Avid Traveler",
+    "header_text": "Talking to friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The thought of exploring close to home makes you feel... "
+            "Text": "When you talk, your friends are..."
         },
         {
             "type": "Buttons",
-            "name": "Avid Traveler_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Talking to friends_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Heartbroken",
-                "At peace"
+                "Engaged",
+                "Confused"
             ],
             "columnCount": 1,
-            "correct_value": "At peace"
+            "correct_value": "Engaged"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

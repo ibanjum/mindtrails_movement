@@ -1,14 +1,14 @@
 {
-    "header_text": "Reviewing Your Work ",
+    "header_text": "Opposing Opinions ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reviewing Your Work "
+            "text": "Opposing Opinions "
         },
         {
             "type": "Media",
-            "url": "./images/91.jpg"
+            "url": "./images/146.jpg"
         }
     ],
     "type": "positive",

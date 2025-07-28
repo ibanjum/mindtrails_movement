@@ -1,25 +1,25 @@
 {
-    "header_text": "Future Dog Walking",
+    "header_text": "Lost Things",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are a dog owner. You've had difficulty with your balance lately, and you worry that it will become harder to take your dog for a walk. Thinking about whether you will be able to continue to care for your dog makes you feel..."
+            "text": "This past week, you've consistently lost track of things, such as your keys and wallet. You've had some recent stressors in your life, and losing track of your things makes you even more anxious. You know that stress can worsen memory, and your memory will probably improve when things are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Future Dog Walking_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Lost Things_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "overwhelmed"
+                "calmer"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

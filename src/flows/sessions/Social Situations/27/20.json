@@ -1,16 +1,16 @@
 {
-    "header_text": "Fashion Statement",
+    "header_text": "An unwashed table",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fashion Statement"
+            "text": "An unwashed table"
         },
         {
             "type": "Media",
-            "url": "./images/712.jpg"
+            "url": "./images/463.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

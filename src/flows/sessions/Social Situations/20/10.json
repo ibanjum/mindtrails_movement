@@ -1,14 +1,14 @@
 {
-    "header_text": "Sore Throat at Dinner",
+    "header_text": "New Opportunity at Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sore Throat at Dinner"
+            "text": "New Opportunity at Work"
         },
         {
             "type": "Media",
-            "url": "./images/692.jpg"
+            "url": "./images/108.jpg"
         }
     ],
     "type": "positive",

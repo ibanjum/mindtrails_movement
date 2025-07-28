@@ -1,25 +1,16 @@
 {
-    "header_text": "Scheduling Conflicts",
+    "header_text": "Your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You are currently have a lot going on with work. Your friend who you have not seen in a while has asked you to hang out the night before a deadline. You know that you need to do prioritize your work but worry that your friend will be upset for not making time for... "
+            "type": "Label",
+            "text": "Your Resume"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Scheduling Conflicts_Work/Career Development_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "them"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/93.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

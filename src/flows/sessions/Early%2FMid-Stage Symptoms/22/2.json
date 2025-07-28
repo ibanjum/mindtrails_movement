@@ -1,20 +1,20 @@
 {
-    "header_text": "Online Shopping",
+    "header_text": "Baking Cookies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are ordering gifts online for your child's birthday. When the order arrives to the house just in time, you realize you forgot to add several items. You feel ashamed, but remember that your child tends to be..."
+            "text": "You have decorated cookies with your grandchild and placed them in the oven to bake. As you pull the tray out, it drops to the floor, breaking a few of the cookies. You feel like you disappointed your grandkid, but they let out a... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Online Shopping_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Baking Cookies_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "understanding"
+                "giggle"
             ],
             "missing_letter_count": 2
         }

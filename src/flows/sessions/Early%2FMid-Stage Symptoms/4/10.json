@@ -1,16 +1,16 @@
 {
-    "header_text": "Household responsibilities",
+    "header_text": "Disagreement with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Household responsibilities"
+            "text": "Disagreement with a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/741.jpg"
+            "url": "./images/743.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

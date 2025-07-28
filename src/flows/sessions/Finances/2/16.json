@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you concerned about not saving right now?"
+            "Text": "Are you relieved after seeking a professional opinion?"
         },
         {
             "type": "Buttons",
@@ -17,7 +17,7 @@
                 "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

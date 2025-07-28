@@ -1,14 +1,14 @@
 {
-    "header_text": "Yoga Routine",
+    "header_text": "Unfamiliar Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yoga Routine"
+            "text": "Unfamiliar Walk"
         },
         {
             "type": "Media",
-            "url": "./images/415.jpg"
+            "url": "./images/846.jpg"
         }
     ],
     "type": "positive",

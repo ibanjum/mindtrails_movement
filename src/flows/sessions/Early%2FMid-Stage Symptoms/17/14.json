@@ -1,14 +1,14 @@
 {
-    "header_text": "Easily Agitated",
+    "header_text": "Typing An Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Easily Agitated"
+            "text": "Typing An Email"
         },
         {
             "type": "Media",
-            "url": "./images/213.jpg"
+            "url": "./images/815.jpg"
         }
     ],
     "type": "positive",

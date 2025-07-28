@@ -1,16 +1,16 @@
 {
-    "header_text": "An accidental bang",
+    "header_text": "Heart Rate Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "An accidental bang"
+            "text": "Heart Rate Worries"
         },
         {
             "type": "Media",
-            "url": "./images/456.jpg"
+            "url": "./images/383.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

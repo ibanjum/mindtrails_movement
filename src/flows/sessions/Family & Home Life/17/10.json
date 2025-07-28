@@ -1,16 +1,29 @@
 {
-    "header_text": "Attending a Dance Recital",
+    "header_text": "Stained Laundry",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Attending a Dance Recital"
+            "type": "Text",
+            "Text": "The laundry got stained because of your..."
         },
         {
-            "type": "Media",
-            "url": "./images/228.jpg"
+            "type": "Buttons",
+            "name": "Stained Laundry_Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Difficulty paying attention",
+                "Partner's miscommunication"
+            ],
+            "columnCount": 1,
+            "correct_value": "Partner's miscommunication"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 2
 }

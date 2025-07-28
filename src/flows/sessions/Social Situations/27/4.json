@@ -1,14 +1,14 @@
 {
-    "header_text": "Out on a boat",
+    "header_text": "Plans for the Weekend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Out on a boat"
+            "text": "Plans for the Weekend"
         },
         {
             "type": "Media",
-            "url": "./images/442.jpg"
+            "url": "./images/355.jpg"
         }
     ],
     "type": "positive",

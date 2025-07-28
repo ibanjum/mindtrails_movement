@@ -1,14 +1,14 @@
 {
-    "header_text": "Friend Neglecting Chores",
+    "header_text": "An Invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friend Neglecting Chores"
+            "text": "An Invitation"
         },
         {
             "type": "Media",
-            "url": "./images/677.jpg"
+            "url": "./images/396.jpg"
         }
     ],
     "type": "positive",

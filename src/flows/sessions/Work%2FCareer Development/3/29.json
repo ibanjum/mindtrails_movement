@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your boss’s neutral expression mean that they are disappointed with your speech?"
+            "Text": "Does your boss’s expression mean that they are disappointed with your speech?"
         },
         {
             "type": "Buttons",

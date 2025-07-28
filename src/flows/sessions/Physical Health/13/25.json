@@ -1,16 +1,16 @@
 {
-    "header_text": "Longer Walks",
+    "header_text": "Taking Precautions ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Longer Walks"
+            "text": "Taking Precautions "
         },
         {
             "type": "Media",
-            "url": "./images/508.jpg"
+            "url": "./images/510.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

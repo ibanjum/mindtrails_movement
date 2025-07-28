@@ -1,23 +1,23 @@
 {
-    "header_text": "Painting Project",
+    "header_text": "Weekly Tea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The new project will be..."
+            "Text": "Your neighbor is ready to..."
         },
         {
             "type": "Buttons",
-            "name": "Painting Project_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Weekly Tea_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Impossible",
-                "Completed"
+                "Cheer you up",
+                "Yell at you"
             ],
             "columnCount": 1,
-            "correct_value": "Completed"
+            "correct_value": "Cheer you up"
         }
     ],
     "navigation_conditions": [

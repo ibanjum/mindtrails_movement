@@ -1,16 +1,16 @@
 {
-    "header_text": "Sudden noise",
+    "header_text": "Disease test",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sudden noise"
+            "text": "Disease test"
         },
         {
             "type": "Media",
-            "url": "./images/445.jpg"
+            "url": "./images/444.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

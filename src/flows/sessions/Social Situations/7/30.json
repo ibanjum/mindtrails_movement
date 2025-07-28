@@ -1,14 +1,14 @@
 {
-    "header_text": "Your Birthday Party",
+    "header_text": "Old friend ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your Birthday Party"
+            "text": "Old friend "
         },
         {
             "type": "Media",
-            "url": "./images/145.jpg"
+            "url": "./images/637.jpg"
         }
     ],
     "type": "positive",

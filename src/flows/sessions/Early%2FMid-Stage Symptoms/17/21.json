@@ -1,25 +1,16 @@
 {
-    "header_text": "Typing An Email",
+    "header_text": "Balancing Checkbook",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "As you're typing an email, you notice it's taking longer than usual to find the right words. It's concerning to experience this mental fog, and you wonder if you'll be able to finish the email at all. You take a break to drink some water, and when you return to the email, you decide to keep..."
+            "type": "Label",
+            "text": "Balancing Checkbook"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Typing An Email_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "trying"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/318.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 6
 }

@@ -1,23 +1,23 @@
 {
-    "header_text": "Health and aging",
+    "header_text": "Too Much Attention",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend will probably ..."
+            "Text": "Do your friends and family notice how anxious you feel?"
         },
         {
             "type": "Buttons",
-            "name": "Health and aging_Physical Health_comp_question",
+            "name": "Too Much Attention_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Get sicker in the future.",
-                "Remain healthy in the future."
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Remain healthy in the future."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Happy.",
-                "Ashamed."
+                "Happy",
+                "Ashamed"
             ],
             "columnCount": 1,
-            "correct_value": "Happy."
+            "correct_value": "Happy"
         }
     ],
     "navigation_conditions": [

@@ -1,16 +1,16 @@
 {
-    "header_text": "Longer Walks",
+    "header_text": "Recovering from the Flu",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Longer Walks"
+            "text": "Recovering from the Flu"
         },
         {
             "type": "Media",
-            "url": "./images/508.jpg"
+            "url": "./images/303.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

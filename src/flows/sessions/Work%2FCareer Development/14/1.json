@@ -1,14 +1,14 @@
 {
-    "header_text": "Prospective Excitement",
+    "header_text": "Extra Income",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Prospective Excitement"
+            "text": "Extra Income"
         },
         {
             "type": "Media",
-            "url": "./images/100.jpg"
+            "url": "./images/101.jpg"
         }
     ],
     "type": "positive",

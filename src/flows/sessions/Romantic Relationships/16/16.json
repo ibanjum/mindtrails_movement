@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Romantic Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think about the lessons you learned from the stories you read today. Looking back at a recent situation that made you anxious, how might you have thought about it in a different way to make it easier to manage?"
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #5_entry"
+            "text": "Plan on stepping out of your comfort zone, even in a small way. Sometimes it helps to ask someone else - like a friend or loved one - to help hold you accountable. "
         }
     ]
 }

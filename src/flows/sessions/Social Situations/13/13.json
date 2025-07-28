@@ -1,14 +1,14 @@
 {
-    "header_text": "Creative Confidence ",
+    "header_text": "Jokes with Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Creative Confidence "
+            "text": "Jokes with Friends "
         },
         {
             "type": "Media",
-            "url": "./images/661.jpg"
+            "url": "./images/660.jpg"
         }
     ],
     "type": "positive",

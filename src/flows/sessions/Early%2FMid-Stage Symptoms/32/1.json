@@ -1,16 +1,16 @@
 {
-    "header_text": "Stained Laundry",
+    "header_text": "Fast Card Game",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Stained Laundry"
+            "text": "Fast Card Game"
         },
         {
             "type": "Media",
-            "url": "./images/869.jpg"
+            "url": "./images/871.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

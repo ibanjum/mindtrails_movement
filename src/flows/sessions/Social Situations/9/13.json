@@ -1,16 +1,16 @@
 {
-    "header_text": "Social Media Comparisons",
+    "header_text": "Feeling Abandoned By a Close Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Media Comparisons"
+            "text": "Feeling Abandoned By a Close Friend"
         },
         {
             "type": "Media",
             "url": "./images/601.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

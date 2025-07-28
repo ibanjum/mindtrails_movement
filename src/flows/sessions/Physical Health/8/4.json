@@ -1,14 +1,14 @@
 {
-    "header_text": "Unknown Sensations",
+    "header_text": "Going for a Spin",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Unknown Sensations"
+            "text": "Going for a Spin"
         },
         {
             "type": "Media",
-            "url": "./images/474.jpg"
+            "url": "./images/473.jpg"
         }
     ],
     "type": "positive",

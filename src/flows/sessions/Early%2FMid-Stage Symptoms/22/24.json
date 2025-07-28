@@ -1,16 +1,16 @@
 {
-    "header_text": "Grocery Shopping",
+    "header_text": "Delayed Projects",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Grocery Shopping"
+            "text": "Delayed Projects"
         },
         {
             "type": "Media",
-            "url": "./images/831.jpg"
+            "url": "./images/832.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

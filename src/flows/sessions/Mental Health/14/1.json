@@ -1,14 +1,14 @@
 {
-    "header_text": "Getting Ready for a Date",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Getting Ready for a Date"
+            "text": "Party with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/378.jpg"
+            "url": "./images/379.jpg"
         }
     ],
     "type": "positive",

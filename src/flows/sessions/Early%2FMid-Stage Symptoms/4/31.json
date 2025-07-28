@@ -1,23 +1,23 @@
 {
-    "header_text": "Dinner Party",
+    "header_text": "New Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friends notice that you're having difficulty swallowing, and…."
+            "Text": "You and your significant other will probably..."
         },
         {
             "type": "Buttons",
-            "name": "Dinner Party_Early/Mid-Stage Symptoms_comp_question",
+            "name": "New Costs_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "They are embarrassed by you",
-                "They are grateful you are present at the dinner"
+                "Feel resentful",
+                "Have a good conversation"
             ],
             "columnCount": 1,
-            "correct_value": "They are grateful you are present at the dinner"
+            "correct_value": "Have a good conversation"
         }
     ],
     "navigation_conditions": [

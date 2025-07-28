@@ -1,23 +1,23 @@
 {
-    "header_text": "Navigation Irritation",
+    "header_text": "Online Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you partner apologizes for getting lost, you..."
+            "Text": "When you tell your child about the mix-up, they will probably respond..."
         },
         {
             "type": "Buttons",
-            "name": "Navigation Irritation_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Online Shopping_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Explode with anger.",
-                "Comfort them."
+                "Gently",
+                "Harshly"
             ],
             "columnCount": 1,
-            "correct_value": "Comfort them."
+            "correct_value": "Gently"
         }
     ],
     "navigation_conditions": [

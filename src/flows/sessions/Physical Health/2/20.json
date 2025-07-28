@@ -1,14 +1,14 @@
 {
-    "header_text": "Weekend horseback riding",
+    "header_text": "Finger cut",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Weekend horseback riding"
+            "text": "Finger cut"
         },
         {
             "type": "Media",
-            "url": "./images/441.jpg"
+            "url": "./images/440.jpg"
         }
     ],
     "type": "positive",

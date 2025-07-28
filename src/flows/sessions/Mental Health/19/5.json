@@ -1,17 +1,17 @@
 {
-    "header_text": "Nerve-wracking presentation",
+    "header_text": "Important Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have to give a presentation to your boss. As you think about the talk, you feel butterflies in your stomach. You feel nervous on the morning of the talk, but you think your nerves will be..."
+            "text": "Today, you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel..."
         },
         {
             "type": "Entry",
-            "name": "Nerve-wracking presentation_Mental Health_entry1"
+            "name": "Important Email_Mental Health_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

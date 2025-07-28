@@ -1,14 +1,14 @@
 {
-    "header_text": "Disease test",
+    "header_text": "Flashing movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think the test results will say you have the disease?"
+            "Text": "Is it distressing when you feel dizzy?"
         },
         {
             "type": "Buttons",
-            "name": "Disease test_Physical Health_comp_question",
+            "name": "Flashing movie_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

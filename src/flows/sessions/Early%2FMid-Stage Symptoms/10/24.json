@@ -1,16 +1,29 @@
 {
-    "header_text": "Disease and Identity",
+    "header_text": "A Tricky Hike",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Disease and Identity"
+            "type": "Text",
+            "Text": "With the walking stick, you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/404.jpg"
+            "type": "Buttons",
+            "name": "A Tricky Hike_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Incapable",
+                "Secure"
+            ],
+            "columnCount": 1,
+            "correct_value": "Secure"
         }
     ],
-    "type": "positive",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
 }

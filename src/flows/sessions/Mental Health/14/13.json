@@ -1,16 +1,16 @@
 {
-    "header_text": "Ending Long Distance",
+    "header_text": "Out of Your Control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ending Long Distance"
+            "text": "Out of Your Control"
         },
         {
             "type": "Media",
-            "url": "./images/381.jpg"
+            "url": "./images/65.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

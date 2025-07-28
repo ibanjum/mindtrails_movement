@@ -1,14 +1,14 @@
 {
-    "header_text": "Dinner Alone",
+    "header_text": "Collaging",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dinner Alone"
+            "text": "Collaging"
         },
         {
             "type": "Media",
-            "url": "./images/753.jpg"
+            "url": "./images/754.jpg"
         }
     ],
     "type": "positive",

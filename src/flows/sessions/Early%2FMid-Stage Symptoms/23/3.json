@@ -1,23 +1,23 @@
 {
-    "header_text": "Crafting Workshop",
+    "header_text": "Movie Mix-Up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to finish the craft?"
+            "Text": "When you try to focus and follow the movie plot, you are..."
         },
         {
             "type": "Buttons",
-            "name": "Crafting Workshop_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Movie Mix-Up_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Hopeless",
+                "Successful"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Successful"
         }
     ],
     "navigation_conditions": [

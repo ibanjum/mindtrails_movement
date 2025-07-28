@@ -1,20 +1,20 @@
 {
-    "header_text": "Issues While Shopping",
+    "header_text": "Alternative Contact ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're hosting a dinner at your place with some neighborhood friends. The price of food at the grocery store is higher than you expected, and you worry if you'll be able to get the desserts you had planned. You talk to your friends, and they say they'd be happy to bring desserts to help..."
+            "text": "You meet a new staff member in your work meeting, and they ask if you have Facebook. When you tell them that you don't have Facebook, they grow quiet. They could be brainstorming other ways to contact you, and this makes you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Issues While Shopping_Social Situations_puzzle1",
+            "name": "Alternative Contact _Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "out"
+                "happy"
             ],
             "missing_letter_count": 1
         }

@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Talk it out and find common ground.",
-                "Get into a huge argument."
+                "Talk it out and find common ground",
+                "Get into a huge argument"
             ],
             "columnCount": 1,
-            "correct_value": "Talk it out and find common ground."
+            "correct_value": "Talk it out and find common ground"
         }
     ],
     "navigation_conditions": [

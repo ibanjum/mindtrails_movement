@@ -1,14 +1,14 @@
 {
-    "header_text": "Produce Shopping",
+    "header_text": "At the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Produce Shopping"
+            "text": "At the Park"
         },
         {
             "type": "Media",
-            "url": "./images/762.jpg"
+            "url": "./images/968.jpg"
         }
     ],
     "type": "positive",

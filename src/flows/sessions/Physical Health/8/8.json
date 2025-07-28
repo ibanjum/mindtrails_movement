@@ -1,16 +1,16 @@
 {
-    "header_text": "Broken Car",
+    "header_text": "An accidental bang",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Broken Car"
+            "text": "An accidental bang"
         },
         {
             "type": "Media",
-            "url": "./images/475.jpg"
+            "url": "./images/456.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

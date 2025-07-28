@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Prepared ",
+    "header_text": "Approaching Deadline",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Prepared "
+            "text": "Approaching Deadline"
         },
         {
             "type": "Media",
-            "url": "./images/40.jpg"
+            "url": "./images/57.jpg"
         }
     ],
     "type": "positive",

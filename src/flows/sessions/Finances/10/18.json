@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Thinking about your ability to make the payment, you don't expect to be late on your rent, and your funds will be..."
+            "text": "Thinking about your ability to make the payment, you don't expect to be late on your rent. Your funds will be..."
         },
         {
             "type": "Entry",

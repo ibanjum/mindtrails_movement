@@ -1,16 +1,16 @@
 {
-    "header_text": "Anticipating a Response",
+    "header_text": "Enjoyable Endeavor ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Anticipating a Response"
+            "text": "Enjoyable Endeavor "
         },
         {
             "type": "Media",
-            "url": "./images/361.jpg"
+            "url": "./images/71.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

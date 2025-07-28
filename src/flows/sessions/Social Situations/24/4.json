@@ -1,16 +1,16 @@
 {
-    "header_text": "Bringing a New Friend Home",
+    "header_text": "Reconciling with your friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Bringing a New Friend Home"
+            "text": "Reconciling with your friend"
         },
         {
             "type": "Media",
-            "url": "./images/706.jpg"
+            "url": "./images/129.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

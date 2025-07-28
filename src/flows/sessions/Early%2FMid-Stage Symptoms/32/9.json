@@ -1,20 +1,20 @@
 {
-    "header_text": "Fast Card Game",
+    "header_text": "Graduation Toast",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "During a game night with friends, you begin playing a fast-paced card game. You are soon falling behind and don't want to ruin the fun. You tell your friends you need to slow down, and they are... "
+            "text": "You are giving a speech at your nephew's graduation party. During the toast, you are speaking quietly, and you notice two people beginning to whisper in the corner. You think they are probably talking about your..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Fast Card Game_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Graduation Toast_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "agreeable"
+                "nephew"
             ],
             "missing_letter_count": 2
         }

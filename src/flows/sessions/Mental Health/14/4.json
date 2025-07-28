@@ -1,14 +1,14 @@
 {
-    "header_text": "Party with Friends",
+    "header_text": "Insecurities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Party with Friends"
+            "text": "Insecurities"
         },
         {
             "type": "Media",
-            "url": "./images/379.jpg"
+            "url": "./images/380.jpg"
         }
     ],
     "type": "positive",

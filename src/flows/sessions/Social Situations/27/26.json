@@ -1,20 +1,20 @@
 {
-    "header_text": "High Paying Jobs",
+    "header_text": "Fashion Statement",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it bad that you make less money than your friends?"
+            "Text": "Do you let your anxiety hold you back from wearing something different?"
         },
         {
             "type": "Buttons",
-            "name": "High Paying Jobs_Social Situations_comp_question",
+            "name": "Fashion Statement_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
             "correct_value": "No"
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

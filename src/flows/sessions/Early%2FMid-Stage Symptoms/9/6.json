@@ -1,25 +1,29 @@
 {
-    "header_text": "Crowded Grocery Store",
+    "header_text": "Shopping For Party Supplies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You think about leaving your groceries and walking out before you remember a breathing exercise you learned in therapy. After a minute of this technique, you start to feel..."
+            "Text": "With the support of your spouse, you feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Crowded Grocery Store_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Shopping For Party Supplies_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "good"
+            "buttons": [
+                "Agitated",
+                "Grateful"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Grateful"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 1
 }

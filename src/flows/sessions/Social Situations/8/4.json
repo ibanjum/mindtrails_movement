@@ -1,16 +1,16 @@
 {
-    "header_text": "Social Media Comments",
+    "header_text": "Feeling Different",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Media Comments"
+            "text": "Feeling Different"
         },
         {
             "type": "Media",
-            "url": "./images/73.jpg"
+            "url": "./images/99.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

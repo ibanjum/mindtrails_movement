@@ -1,29 +1,29 @@
 {
-    "header_text": "Chopping Technique",
+    "header_text": "Hosting Book Club",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend is..."
+            "Text": "Will your book club act harshly when you open up to them?"
         },
         {
             "type": "Buttons",
-            "name": "Chopping Technique_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Hosting Book Club_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Just trying to help.",
-                "Judging you."
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Just trying to help."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

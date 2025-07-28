@@ -1,23 +1,23 @@
 {
-    "header_text": "Spacing out",
+    "header_text": "An accidental bang",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you feel calm after you space out during the meeting?"
+            "Text": "You think the headache is a sign that you..."
         },
         {
             "type": "Buttons",
-            "name": "Spacing out_Physical Health_comp_question",
+            "name": "An accidental bang_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Are seriously injured",
+                "Are getting better"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Are getting better"
         }
     ],
     "navigation_conditions": [

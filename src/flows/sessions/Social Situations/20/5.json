@@ -1,16 +1,16 @@
 {
-    "header_text": "Overwhelming Options",
+    "header_text": "Unmasked Peers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Overwhelming Options"
+            "text": "Unmasked Peers"
         },
         {
             "type": "Media",
-            "url": "./images/691.jpg"
+            "url": "./images/512.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

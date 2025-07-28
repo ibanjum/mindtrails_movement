@@ -1,29 +1,29 @@
 {
-    "header_text": "Affording Education",
+    "header_text": "Cleaning Your Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You realize that well into retirement, you will probably be"
+            "Text": "Are you able to calm yourself down?"
         },
         {
             "type": "Buttons",
-            "name": "Affording Education_Family & Home Life_comp_question",
+            "name": "Cleaning Your Home_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Still burdened by your  loans.",
-                "Financially stable with your loans paid off."
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Still burdened by your  loans."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 7
 }

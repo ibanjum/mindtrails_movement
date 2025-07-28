@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Finances",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In difficult interactions, focus on what you can control and define your goals in terms of how you approach to the situation. Remember that you cannot control how other people feel and act."
+            "text": "Think about a situation that you would love to be in, but are too scared or anxious to actually put yourself in it even though it might lead to personal growth. What strategies could you put into practice to help get yourself there?"
+        },
+        {
+            "type": "Entry",
+            "name": "Tip #10_entry"
         }
     ]
 }

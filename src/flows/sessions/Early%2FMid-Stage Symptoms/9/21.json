@@ -1,20 +1,20 @@
 {
-    "header_text": "At Home Alone",
+    "header_text": "Name Recall ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your PD symptoms have been unpredictable since your diagnosis, and being home alone gives you an uneasy feeling. Your spouse told you last night they have to go into work tomorrow, meaning you will be home alone for several hours. You remember you have a cell phone easily accessible, and that gives you... "
+            "text": "You are on your daily walk in the park, and you see the same person you had a conversation with yesterday. Unfortunately, you can't seem to remember their name. When you ask for their name again, they say, \"I was going to ask you the same thing,\" and you both..."
         },
         {
             "type": "WordPuzzle",
-            "name": "At Home Alone_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Name Recall _Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "peace"
+                "laugh"
             ],
             "missing_letter_count": 2
         }

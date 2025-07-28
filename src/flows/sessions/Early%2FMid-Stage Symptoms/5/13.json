@@ -1,25 +1,29 @@
 {
-    "header_text": "Safety at Home",
+    "header_text": "Getting Baked Goods",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been feeling more unsteady on your feet recently. When walking through your home, you worry you will fall. You decide to be safe by sitting down and..."
+            "Text": "Do you think you will be able to pick up your baked goods without dropping them?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Safety at Home_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Getting Baked Goods_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "recovering"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 3
 }

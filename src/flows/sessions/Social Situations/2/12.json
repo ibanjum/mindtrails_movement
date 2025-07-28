@@ -1,29 +1,29 @@
 {
-    "header_text": "Going out in day clothes",
+    "header_text": "A new camera",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think that other diners think you are dressed inappropriately?"
+            "Text": "Do you think the sales assistant felt you were annoying?"
         },
         {
             "type": "Buttons",
-            "name": "Going out in day clothes_Social Situations_comp_question",
+            "name": "A new camera_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

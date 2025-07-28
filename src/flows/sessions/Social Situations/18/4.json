@@ -1,16 +1,16 @@
 {
-    "header_text": "Important Presentation ",
+    "header_text": "Talking with Your Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Important Presentation "
+            "text": "Talking with Your Friend"
         },
         {
             "type": "Media",
-            "url": "./images/126.jpg"
+            "url": "./images/680.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

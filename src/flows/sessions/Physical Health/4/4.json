@@ -1,14 +1,14 @@
 {
-    "header_text": "Tingly fingers",
+    "header_text": "Comfortable couch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tingly fingers"
+            "text": "Comfortable couch"
         },
         {
             "type": "Media",
-            "url": "./images/452.jpg"
+            "url": "./images/451.jpg"
         }
     ],
     "type": "positive",

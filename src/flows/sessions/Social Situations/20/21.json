@@ -1,16 +1,16 @@
 {
-    "header_text": "Coughing at the Store",
+    "header_text": "The Dance Showcase",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Coughing at the Store"
+            "text": "The Dance Showcase"
         },
         {
             "type": "Media",
-            "url": "./images/513.jpg"
+            "url": "./images/575.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 8
 }

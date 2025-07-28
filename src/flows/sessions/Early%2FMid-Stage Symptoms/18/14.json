@@ -1,16 +1,16 @@
 {
-    "header_text": "Hiking Incident",
+    "header_text": "Cut Finger",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hiking Incident"
+            "text": "Cut Finger"
         },
         {
             "type": "Media",
-            "url": "./images/230.jpg"
+            "url": "./images/814.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 4
 }

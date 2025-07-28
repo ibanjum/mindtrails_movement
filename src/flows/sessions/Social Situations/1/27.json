@@ -1,16 +1,16 @@
 {
-    "header_text": "A big laugh",
+    "header_text": "Social media photo",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A big laugh"
+            "text": "Social media photo"
         },
         {
             "type": "Media",
-            "url": "./images/602.jpg"
+            "url": "./images/601.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

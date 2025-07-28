@@ -1,16 +1,16 @@
 {
-    "header_text": "Trivia tournament",
+    "header_text": "A personal question",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trivia tournament"
+            "text": "A personal question"
         },
         {
             "type": "Media",
-            "url": "./images/616.jpg"
+            "url": "./images/615.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

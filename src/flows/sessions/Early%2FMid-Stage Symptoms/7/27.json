@@ -1,14 +1,14 @@
 {
-    "header_text": "Crafts and Crochet",
+    "header_text": "Produce Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Crafts and Crochet"
+            "text": "Produce Shopping"
         },
         {
             "type": "Media",
-            "url": "./images/229.jpg"
+            "url": "./images/762.jpg"
         }
     ],
     "type": "positive",

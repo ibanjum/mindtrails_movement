@@ -1,16 +1,16 @@
 {
-    "header_text": "Cold Weather",
+    "header_text": "Spacing out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cold Weather"
+            "text": "Spacing out"
         },
         {
             "type": "Media",
-            "url": "./images/458.jpg"
+            "url": "./images/457.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

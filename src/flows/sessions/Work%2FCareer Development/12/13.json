@@ -1,16 +1,16 @@
 {
-    "header_text": "Achieving Your Goals",
+    "header_text": "Meeting New People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Achieving Your Goals"
+            "text": "Meeting New People"
         },
         {
             "type": "Media",
-            "url": "./images/88.jpg"
+            "url": "./images/89.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

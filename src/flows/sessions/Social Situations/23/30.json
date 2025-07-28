@@ -1,14 +1,14 @@
 {
-    "header_text": "Book Club Dinner ",
+    "header_text": "Old Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Book Club Dinner "
+            "text": "Old Friends "
         },
         {
             "type": "Media",
-            "url": "./images/705.jpg"
+            "url": "./images/704.jpg"
         }
     ],
     "type": "positive",

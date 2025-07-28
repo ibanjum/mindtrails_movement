@@ -1,17 +1,17 @@
 {
-    "header_text": "Taking Yourself to a Movie",
+    "header_text": "Friends Excluding You",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You go to see a movie on opening night. When you get to the theater, you notice that you are the only person sitting alone.  You feel excited for the movie to... "
+            "text": "You realize that you can have dinner by yourself and get your favorite meal. You feel... "
         },
         {
             "type": "Entry",
-            "name": "Taking Yourself to a Movie_Social Situations_entry1"
+            "name": "Friends Excluding You_Social Situations_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

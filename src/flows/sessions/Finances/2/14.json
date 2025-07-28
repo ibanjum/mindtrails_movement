@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You hung out with some friends you haven't seen in a while, and you ended up on the topic of finances. While you thought your financial situation was stable, your friends start talking about the money they're putting away in savings for retirement. You've been using your money to pay for necessities, and haven't thought about starting to..."
+            "text": "You saw some friends you haven't seen in a while and ended up on the topic of finances. Your friends start talking about the money they've been putting away in savings for retirement. You've mostly been using your money to pay for necessities and haven't been able to save much..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "save"
+                "unfortunately"
             ],
             "missing_letter_count": 1
         }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Long Weekend Alone",
+    "header_text": "Playing the Piano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Long Weekend Alone"
+            "text": "Playing the Piano"
         },
         {
             "type": "Media",
-            "url": "./images/687.jpg"
+            "url": "./images/187.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

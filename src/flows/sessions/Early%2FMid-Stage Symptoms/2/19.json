@@ -1,15 +1,28 @@
 {
-    "header_text": "Morning errands",
+    "header_text": "Hardware Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Morning errands"
+            "type": "Text",
+            "Text": "Do your shaking hands ruin your interaction?"
         },
         {
-            "type": "Media",
-            "url": "./images/962.jpg"
+            "type": "Buttons",
+            "name": "Hardware Store_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
         }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
     ],
     "type": "positive",
     "scenario_num": 5

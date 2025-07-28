@@ -1,14 +1,14 @@
 {
-    "header_text": "New Baby",
+    "header_text": "Favorite Restaurant",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Baby"
+            "text": "Favorite Restaurant"
         },
         {
             "type": "Media",
-            "url": "./images/746.jpg"
+            "url": "./images/748.jpg"
         }
     ],
     "type": "positive",

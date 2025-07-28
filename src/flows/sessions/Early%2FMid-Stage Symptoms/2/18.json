@@ -1,39 +1,25 @@
 {
-    "header_text": "Seeing A Dog",
+    "header_text": "Hardware Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Making a plan with your doctor helped you to feel more..."
+            "text": "You are in the checkout line at the hardware store, and you notice your hands begin shaking. The cashier glances down towards your hands, and you wonder what they think of you. When the cashier looks up, they give you a...  "
         },
         {
-            "type": "Buttons",
-            "name": "Seeing A Dog_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Hardware Store_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Powerless",
-                "Confident"
+            "display_delay": 2000,
+            "words": [
+                "smile"
             ],
-            "columnCount": 1,
-            "correct_value": "Confident"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "media",
-                "url": "./images/wondering_training.png"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
 }

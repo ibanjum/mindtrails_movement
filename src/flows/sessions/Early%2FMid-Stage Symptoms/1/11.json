@@ -1,29 +1,16 @@
 {
-    "header_text": "Brushing Teeth",
+    "header_text": "Memory Training",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "As your medication kicks in, you begin to..."
+            "type": "Label",
+            "text": "Memory Training"
         },
         {
-            "type": "Buttons",
-            "name": "Brushing Teeth_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Calm down",
-                "Panic even more"
-            ],
-            "columnCount": 1,
-            "correct_value": "Calm down"
+            "type": "Media",
+            "url": "./images/893.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "type": "positive",
+    "scenario_num": 3
 }

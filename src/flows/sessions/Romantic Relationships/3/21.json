@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You have been hanging out with a cute coworker a lot lately, but aren't sure if your attraction is reciprocated. Today your coworker asks for your..."
+            "text": "You have been hanging out with a cute coworker a lot lately. However, you aren't sure if your attraction is reciprocated. Today, your coworker asks for your number while seeming..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "number"
+                "aloof"
             ],
             "missing_letter_count": 1
         }

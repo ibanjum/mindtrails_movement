@@ -1,14 +1,14 @@
 {
-    "header_text": "Dry mouth cause",
+    "header_text": "Tingly fingers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dry mouth cause"
+            "text": "Tingly fingers"
         },
         {
             "type": "Media",
-            "url": "./images/453.jpg"
+            "url": "./images/452.jpg"
         }
     ],
     "type": "positive",

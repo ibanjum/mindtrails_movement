@@ -1,16 +1,16 @@
 {
-    "header_text": "Your Family's Car",
+    "header_text": "Meeting New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your Family's Car"
+            "text": "Meeting New Friends"
         },
         {
             "type": "Media",
-            "url": "./images/698.jpg"
+            "url": "./images/52.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

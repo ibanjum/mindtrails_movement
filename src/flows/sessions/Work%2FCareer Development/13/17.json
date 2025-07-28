@@ -1,16 +1,16 @@
 {
-    "header_text": "Achieving Your Goals",
+    "header_text": "Expressing Your Ideas",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Achieving Your Goals"
+            "text": "Expressing Your Ideas"
         },
         {
             "type": "Media",
-            "url": "./images/88.jpg"
+            "url": "./images/97.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

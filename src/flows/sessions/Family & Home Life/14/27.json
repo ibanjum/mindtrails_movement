@@ -1,16 +1,16 @@
 {
-    "header_text": "Easily Agitated",
+    "header_text": "Affording Education",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Easily Agitated"
+            "text": "Affording Education"
         },
         {
             "type": "Media",
-            "url": "./images/213.jpg"
+            "url": "./images/191.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 8
 }

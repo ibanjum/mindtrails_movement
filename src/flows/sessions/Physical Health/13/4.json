@@ -1,16 +1,16 @@
 {
-    "header_text": "Positive Test",
+    "header_text": "Computer Screen Problems",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Positive Test"
+            "text": "Computer Screen Problems"
         },
         {
             "type": "Media",
-            "url": "./images/505.jpg"
+            "url": "./images/504.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

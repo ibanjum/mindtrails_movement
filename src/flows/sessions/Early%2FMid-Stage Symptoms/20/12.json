@@ -1,14 +1,14 @@
 {
-    "header_text": "Garden Changes",
+    "header_text": "Fitness Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Garden Changes"
+            "text": "Fitness Walk"
         },
         {
             "type": "Media",
-            "url": "./images/827.jpg"
+            "url": "./images/828.jpg"
         }
     ],
     "type": "positive",

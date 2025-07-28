@@ -1,26 +1,16 @@
 {
-    "header_text": "Meeting an old acquaintance",
+    "header_text": "Suggestion to meet again",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Meeting an old acquaintance"
+            "text": "Suggestion to meet again"
         },
         {
             "type": "Media",
-            "url": "./images/618.jpg"
+            "url": "./images/617.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 7,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "type": "positive",
+    "scenario_num": 7
 }

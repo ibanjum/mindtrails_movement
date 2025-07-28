@@ -1,25 +1,29 @@
 {
-    "header_text": "Stained Laundry",
+    "header_text": "Fast Card Game",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You mention this to you partner, who admits that they added new clothes to the wash load without telling you. You realize that this was not your fault and laugh as you reflect on the..."
+            "Text": "When you ask to slow down the game, your friends..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Stained Laundry_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Fast Card Game_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "mix-up"
+            "buttons": [
+                "Complain",
+                "Agree"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Agree"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 0
 }

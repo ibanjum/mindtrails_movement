@@ -1,16 +1,26 @@
 {
-    "header_text": "Overhearing your name ",
+    "header_text": "Meeting an old acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Overhearing your name "
+            "text": "Meeting an old acquaintance"
         },
         {
             "type": "Media",
-            "url": "./images/403.jpg"
+            "url": "./images/618.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 8
+    "type": "negative",
+    "scenario_num": 8,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

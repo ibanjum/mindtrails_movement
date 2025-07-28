@@ -1,14 +1,14 @@
 {
-    "header_text": "A Homemade Gift",
+    "header_text": "Too Much Attention",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A Homemade Gift"
+            "text": "Too Much Attention"
         },
         {
             "type": "Media",
-            "url": "./images/145.jpg"
+            "url": "./images/490.jpg"
         }
     ],
     "type": "positive",

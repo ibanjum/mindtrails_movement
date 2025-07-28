@@ -1,16 +1,17 @@
 {
-    "header_text": "Taking Yourself to a Movie",
+    "header_text": "Friends Excluding You",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Taking Yourself to a Movie"
+            "type": "Text",
+            "text": "Your friends are planning a dinner for someone's birthday. You would have liked to have joined in, but your friends didn't include you. You feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/689.jpg"
+            "type": "Entry",
+            "name": "Friends Excluding You_Social Situations_entry1"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

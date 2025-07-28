@@ -11,6 +11,6 @@
             "url": "./images/93.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

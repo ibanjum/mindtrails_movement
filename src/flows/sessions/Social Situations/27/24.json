@@ -1,16 +1,25 @@
 {
-    "header_text": "High Paying Jobs",
+    "header_text": "Fashion Statement",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "High Paying Jobs"
+            "type": "Text",
+            "text": "You notice that everyone has been dressing a similar way in your office. You consider wearing an outfit that is totally unique. The thought of doing something different makes you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/271.jpg"
+            "type": "WordPuzzle",
+            "name": "Fashion Statement_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "nervous"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

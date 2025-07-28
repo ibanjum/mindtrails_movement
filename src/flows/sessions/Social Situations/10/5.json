@@ -1,14 +1,14 @@
 {
-    "header_text": "Wearing Something Old",
+    "header_text": "Your New Post",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Wearing Something Old"
+            "text": "Your New Post"
         },
         {
             "type": "Media",
-            "url": "./images/649.jpg"
+            "url": "./images/376.jpg"
         }
     ],
     "type": "positive",

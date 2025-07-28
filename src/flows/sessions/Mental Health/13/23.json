@@ -1,16 +1,16 @@
 {
-    "header_text": "Your New Post",
+    "header_text": "Important Opinion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your New Post"
+            "text": "Important Opinion"
         },
         {
             "type": "Media",
-            "url": "./images/376.jpg"
+            "url": "./images/371.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

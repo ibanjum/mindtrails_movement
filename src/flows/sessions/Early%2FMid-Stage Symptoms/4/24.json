@@ -1,29 +1,25 @@
 {
-    "header_text": "Wedding Celebration",
+    "header_text": "Dinner Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your presence on the dance floor be appreciated?"
+            "text": "You are excited to attend a dinner with friends. However, you find that you are having more difficulty swallowing than usual. Whether or not your friends notice, you know your friends care about you, and your presence is..."
         },
         {
-            "type": "Buttons",
-            "name": "Wedding Celebration_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Dinner Party_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "appreciated"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

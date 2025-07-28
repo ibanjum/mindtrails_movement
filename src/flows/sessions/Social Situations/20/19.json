@@ -1,16 +1,16 @@
 {
-    "header_text": "The Dance Showcase",
+    "header_text": "Vaccination Reassurance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "The Dance Showcase"
+            "text": "Vaccination Reassurance"
         },
         {
             "type": "Media",
-            "url": "./images/575.jpg"
+            "url": "./images/695.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 7
 }

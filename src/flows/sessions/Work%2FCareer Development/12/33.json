@@ -1,14 +1,39 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Imagine you are teaching a workshop on thinking flexibly about ambiguous, potentially threatening situations. What would be your take-home message(s) for the participants?"
+            "Text": "Will your potential employer think you have a strong resume?"
         },
         {
-            "type": "Entry",
-            "name": "Tip #6_entry"
+            "type": "Buttons",
+            "name": "Your Resume_Work/Career Development_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, the more you practice thinking about situations in new ways on our app, the more you'll be able to think positively about scary situations in your life!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

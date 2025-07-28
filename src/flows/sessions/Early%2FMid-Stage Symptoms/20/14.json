@@ -1,23 +1,23 @@
 {
-    "header_text": "Garden Changes",
+    "header_text": "Fitness Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "As you think about this year's garden, you feel..."
+            "Text": "When you ask your partner to slow down, they are..."
         },
         {
             "type": "Buttons",
-            "name": "Garden Changes_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Fitness Walk_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Thankful",
-                "Discouraged"
+                "Agreeable",
+                "Frustrated"
             ],
             "columnCount": 1,
-            "correct_value": "Thankful"
+            "correct_value": "Agreeable"
         }
     ],
     "navigation_conditions": [

@@ -1,14 +1,14 @@
 {
-    "header_text": "Puzzle Time",
+    "header_text": "Baking Cookies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Puzzle Time"
+            "text": "Baking Cookies"
         },
         {
             "type": "Media",
-            "url": "./images/224.jpg"
+            "url": "./images/223.jpg"
         }
     ],
     "type": "positive",

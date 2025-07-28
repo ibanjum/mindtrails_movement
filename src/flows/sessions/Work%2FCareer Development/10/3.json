@@ -1,14 +1,14 @@
 {
-    "header_text": "Rearranging After Exposure",
+    "header_text": "Waking Up Ready",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Rearranging After Exposure"
+            "text": "Waking Up Ready"
         },
         {
             "type": "Media",
-            "url": "./images/75.jpg"
+            "url": "./images/76.jpg"
         }
     ],
     "type": "positive",

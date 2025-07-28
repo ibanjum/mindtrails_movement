@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "As you envision your likely position in the company down the road, you do not see yourself getting passed by, and you expect the job you want will be given to..."
+            "text": "As you envision your likely position in the company down the road, you do not see yourself getting passed by. You are hopeful that you'll land your dream..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "you"
+                "job"
             ],
             "missing_letter_count": 2
         }

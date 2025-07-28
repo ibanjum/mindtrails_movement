@@ -1,16 +1,16 @@
 {
-    "header_text": "Party with Friends",
+    "header_text": "Close Friend's Birthday",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Party with Friends"
+            "text": "Close Friend's Birthday"
         },
         {
             "type": "Media",
-            "url": "./images/379.jpg"
+            "url": "./images/189.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

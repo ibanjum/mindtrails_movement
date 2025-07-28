@@ -1,25 +1,25 @@
 {
-    "header_text": "Night of Bad Sleep",
+    "header_text": "Coffee Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the morning, you decide to cancel your earliest appointment so that you can get more sleep. You wake up after a nap feeling a bit more..."
+            "text": "You are drinking morning coffee next to your spouse and suddenly cough on the sip you are taking. Your spouse looks at you like they have something to say. Then, they ask if they can get you a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Night of Bad Sleep_Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "Coffee Together_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "refreshed"
+                "refill"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

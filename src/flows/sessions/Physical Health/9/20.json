@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Dizzy",
+    "header_text": "Dry Mouth Dilemma",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Dizzy"
+            "text": "Dry Mouth Dilemma"
         },
         {
             "type": "Media",
-            "url": "./images/486.jpg"
+            "url": "./images/485.jpg"
         }
     ],
     "type": "positive",

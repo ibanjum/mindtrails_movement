@@ -1,23 +1,23 @@
 {
-    "header_text": "Speaking Up at Work",
+    "header_text": "Achieving Your Goals",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you embarrassed that you raised your hand?"
+            "Text": "You think that your application"
         },
         {
             "type": "Buttons",
-            "name": "Speaking Up at Work_Work/Career Development_comp_question",
+            "name": "Achieving Your Goals_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Puts you in a good position to get this new job.",
+                "Will not be good enough to get you the job."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Puts you in a good position to get this new job."
         }
     ],
     "navigation_conditions": [

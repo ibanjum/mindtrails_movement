@@ -1,16 +1,16 @@
 {
-    "header_text": "Crafts and Crochet",
+    "header_text": "Attending a Dance Recital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Crafts and Crochet"
+            "text": "Attending a Dance Recital"
         },
         {
             "type": "Media",
-            "url": "./images/229.jpg"
+            "url": "./images/228.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

@@ -1,23 +1,23 @@
 {
-    "header_text": "Alternative Contact ",
+    "header_text": "Friends Hanging Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Did the new person at work get quiet because they were judging you?"
+            "Text": "Will you reach out to your friends to hang out next time?"
         },
         {
             "type": "Buttons",
-            "name": "Alternative Contact _Social Situations_comp_question",
+            "name": "Friends Hanging Out_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

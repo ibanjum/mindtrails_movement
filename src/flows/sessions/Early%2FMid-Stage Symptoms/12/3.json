@@ -1,23 +1,23 @@
 {
-    "header_text": "New Conflict With Spouse",
+    "header_text": "Unconditional Love",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Reflecting on your relationship with your spouse, you feel..."
+            "Text": "Will your spouse stop loving you because of your recent behavior?"
         },
         {
             "type": "Buttons",
-            "name": "New Conflict With Spouse_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Unconditional Love_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Afraid",
-                "Committed"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Committed"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

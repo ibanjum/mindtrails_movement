@@ -1,16 +1,16 @@
 {
-    "header_text": "Cohabitation Conflicts",
+    "header_text": "High Anxiety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cohabitation Conflicts"
+            "text": "High Anxiety"
         },
         {
             "type": "Media",
-            "url": "./images/583.jpg"
+            "url": "./images/101.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Cleaning the House",
+    "header_text": "Stained Laundry",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cleaning the House"
+            "text": "Stained Laundry"
         },
         {
             "type": "Media",
-            "url": "./images/227.jpg"
+            "url": "./images/869.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

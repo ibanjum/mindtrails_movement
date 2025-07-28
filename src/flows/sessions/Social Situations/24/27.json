@@ -1,16 +1,16 @@
 {
-    "header_text": "Introducing Your Family to Someone New",
+    "header_text": "Keeping Up With Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Introducing Your Family to Someone New"
+            "text": "Keeping Up With Friends "
         },
         {
             "type": "Media",
-            "url": "./images/150.jpg"
+            "url": "./images/82.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 8
 }

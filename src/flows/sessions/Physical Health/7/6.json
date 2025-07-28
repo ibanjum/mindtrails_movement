@@ -1,23 +1,23 @@
 {
-    "header_text": "Riding a boat",
+    "header_text": "Sensational Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Once you reach the turn, you will probably..."
+            "Text": "People will probably..."
         },
         {
             "type": "Buttons",
-            "name": "Riding a boat_Physical Health_comp_question",
+            "name": "Sensational Party_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Flip the boat",
-                "Clear it and continue boating fine"
+                "Notice that you are sweating",
+                "Not see you sweat since the room is dimly lit"
             ],
             "columnCount": 1,
-            "correct_value": "Clear it and continue boating fine"
+            "correct_value": "Not see you sweat since the room is dimly lit"
         }
     ],
     "navigation_conditions": [

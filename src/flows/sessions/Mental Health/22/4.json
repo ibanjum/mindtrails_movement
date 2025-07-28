@@ -1,16 +1,16 @@
 {
-    "header_text": "Forgotten Item",
+    "header_text": "Worsening condition",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Forgotten Item"
+            "text": "Worsening condition"
         },
         {
             "type": "Media",
-            "url": "./images/413.jpg"
+            "url": "./images/414.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Long Distance Walk",
+    "header_text": "Being Near Someone Sick",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Long Distance Walk"
+            "text": "Being Near Someone Sick"
         },
         {
             "type": "Media",
-            "url": "./images/469.jpg"
+            "url": "./images/468.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

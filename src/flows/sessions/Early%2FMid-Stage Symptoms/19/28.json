@@ -1,20 +1,20 @@
 {
-    "header_text": "Toy Store Trip",
+    "header_text": "New Kitten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At the toy store, your young grandchild eagerly runs to pick out a stuffed animal. As you look at the options, you reflect on your own childhood and become sad because you miss what life was like before PD. An excited giggle snaps your attention back to the present, and you decide to focus on your grandchild's..."
+            "text": "You are at the pet store looking for a new bird feeder when you notice a kitten up for adoption. You have been thinking about adopting an animal, but you're scared PD will make you unable to care for it. You realize the kitten will also have your family's care, and you decide to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Toy Store Trip_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "New Kitten_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "joy"
+                "adopt"
             ],
             "missing_letter_count": 2
         }

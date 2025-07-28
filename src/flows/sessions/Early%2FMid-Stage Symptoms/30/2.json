@@ -1,16 +1,16 @@
 {
-    "header_text": "Walks with Friends",
+    "header_text": "Dine with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Walks with Friends"
+            "text": "Dine with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/864.jpg"
+            "url": "./images/865.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 0
 }

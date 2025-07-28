@@ -1,16 +1,16 @@
 {
-    "header_text": "Attention in Store",
+    "header_text": "Sweat Stains",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Attention in Store"
+            "text": "Sweat Stains"
         },
         {
             "type": "Media",
-            "url": "./images/654.jpg"
+            "url": "./images/483.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

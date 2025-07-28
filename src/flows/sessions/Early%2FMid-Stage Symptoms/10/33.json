@@ -1,23 +1,23 @@
 {
-    "header_text": "Hiking Hiatus",
+    "header_text": "Spiritual Journey",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend thinks that your desire to continue an activity you love is..."
+            "Text": "Will you find new ways of continuing your spiritual practice?"
         },
         {
             "type": "Buttons",
-            "name": "Hiking Hiatus_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Spiritual Journey_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Foolish",
-                "Healthy"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Healthy"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

@@ -1,14 +1,14 @@
 {
-    "header_text": "Getting Baked Goods",
+    "header_text": "Dinner Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Getting Baked Goods"
+            "text": "Dinner Alone"
         },
         {
             "type": "Media",
-            "url": "./images/751.jpg"
+            "url": "./images/753.jpg"
         }
     ],
     "type": "positive",

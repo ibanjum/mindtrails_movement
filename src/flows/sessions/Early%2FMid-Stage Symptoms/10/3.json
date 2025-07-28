@@ -1,25 +1,25 @@
 {
-    "header_text": "Birthday Cards",
+    "header_text": "Holding the Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are known in your family for sending birthday cards on time every year. This year, several of your family members got their cards late because you forgot to check your calendar. You think that you forgot about the cards because you have been... "
+            "text": "You've been noticing your hands shaking badly when you hold your phone. Lately, you've even been dropping the phone on the ground as you're talking. When your phone rings in public, you avoid answering because you worry about feeling..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Birthday Cards_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Holding the Phone_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "busy"
+                "embarrassed"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 0
 }

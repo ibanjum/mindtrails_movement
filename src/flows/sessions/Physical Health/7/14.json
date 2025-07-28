@@ -1,16 +1,16 @@
 {
-    "header_text": "A Birthday Cake",
+    "header_text": "Friendly Neighbor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A Birthday Cake"
+            "text": "Friendly Neighbor"
         },
         {
             "type": "Media",
-            "url": "./images/447.jpg"
+            "url": "./images/467.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

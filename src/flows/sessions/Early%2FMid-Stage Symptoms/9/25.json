@@ -1,25 +1,29 @@
 {
-    "header_text": "Replying to Email",
+    "header_text": "Dismissive Doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to check in with your boss to see how he's feeling. His nice response leaves you feeling..."
+            "Text": "You know you've had long days before and decide to be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Replying to Email_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Dismissive Doctor_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "upbeat"
+            "buttons": [
+                "Empathetic",
+                "Impatient"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Empathetic"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 7
 }

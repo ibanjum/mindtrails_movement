@@ -3,15 +3,14 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You think about getting on social media more, and still decide not to. You feel..."
+            "type": "Label",
+            "text": "Less Social Media"
         },
         {
-            "type": "Entry",
-            "name": "Less Social Media_Social Situations_entry2"
+            "type": "Media",
+            "url": "./images/694.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 6
 }

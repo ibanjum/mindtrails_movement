@@ -1,14 +1,14 @@
 {
-    "header_text": "Lost Phone",
+    "header_text": "Assembling Furniture",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lost Phone"
+            "text": "Assembling Furniture"
         },
         {
             "type": "Media",
-            "url": "./images/346.jpg"
+            "url": "./images/408.jpg"
         }
     ],
     "type": "positive",

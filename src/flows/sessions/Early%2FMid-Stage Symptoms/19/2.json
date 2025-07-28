@@ -1,20 +1,20 @@
 {
-    "header_text": "Lost Phone",
+    "header_text": "Assembling Furniture",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been losing your phone more than usual lately. As you notice this, you begin to get anxious about whether this is caused by your PD. You decide that it's best to be more mindful of where you place your phone, and you feel..."
+            "text": "You recently ordered furniture online that you have to put together yourself. You struggle to make out the diagrams and wonder if you are struggling because of PD. You think to yourself that the instructions are bad, and this makes you... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Lost Phone_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Assembling Furniture_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "calm"
+                "laugh"
             ],
             "missing_letter_count": 2
         }

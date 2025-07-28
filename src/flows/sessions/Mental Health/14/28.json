@@ -1,23 +1,23 @@
 {
-    "header_text": "Past Experiences",
+    "header_text": "A Rude Comment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your partner understand?"
+            "Text": "Do you get really upset about the rude comment on your post?"
         },
         {
             "type": "Buttons",
-            "name": "Past Experiences_Mental Health_comp_question",
+            "name": "A Rude Comment_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

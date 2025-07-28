@@ -1,23 +1,23 @@
 {
-    "header_text": "Book Club Meeting",
+    "header_text": "Medication Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Breathing exercises allow you to..."
+            "Text": "Searching for support resources online helps you to..."
         },
         {
             "type": "Buttons",
-            "name": "Book Club Meeting_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Medication Costs_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Get worked up",
-                "Enjoy yourself"
+                "Cope",
+                "Panic"
             ],
             "columnCount": 1,
-            "correct_value": "Enjoy yourself"
+            "correct_value": "Cope"
         }
     ],
     "navigation_conditions": [

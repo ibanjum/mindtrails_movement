@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "You think if you were to ask your friend on a date, your friend would probably"
+            "Text": "You think if you were to ask your friend on a date, your friend would probably..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Stop returning your calls.",
-                "Ask if you want to make plans for next week."
+                "Stop returning your calls",
+                "Ask if you want to make plans for next week"
             ],
             "columnCount": 1,
-            "correct_value": "Stop returning your calls."
+            "correct_value": "Stop returning your calls"
         }
     ],
     "navigation_conditions": [

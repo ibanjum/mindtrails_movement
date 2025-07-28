@@ -1,14 +1,14 @@
 {
-    "header_text": "Saturday Without Plans",
+    "header_text": "Voicing Your Feelings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saturday Without Plans"
+            "text": "Voicing Your Feelings"
         },
         {
             "type": "Media",
-            "url": "./images/683.jpg"
+            "url": "./images/530.jpg"
         }
     ],
     "type": "positive",

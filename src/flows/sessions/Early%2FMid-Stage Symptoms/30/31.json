@@ -1,14 +1,14 @@
 {
-    "header_text": "Model Car",
+    "header_text": "Cooking Class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Model Car"
+            "text": "Cooking Class"
         },
         {
             "type": "Media",
-            "url": "./images/243.jpg"
+            "url": "./images/870.jpg"
         }
     ],
     "type": "positive",

@@ -1,23 +1,23 @@
 {
-    "header_text": "Organizing an Event",
+    "header_text": "Picnic Packing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you still able to plan the fundraising event?"
+            "Text": "When you struggle to remember, will your friends abandon you?"
         },
         {
             "type": "Buttons",
-            "name": "Organizing an Event_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Picnic Packing_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

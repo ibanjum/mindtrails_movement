@@ -1,16 +1,16 @@
 {
-    "header_text": "Keeping Up With Friends ",
+    "header_text": "Making New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Keeping Up With Friends "
+            "text": "Making New Friends"
         },
         {
             "type": "Media",
-            "url": "./images/82.jpg"
+            "url": "./images/709.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 7
 }

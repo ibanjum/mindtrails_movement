@@ -1,16 +1,16 @@
 {
-    "header_text": "Attending a Dance Recital",
+    "header_text": "Trouble Reading",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Attending a Dance Recital"
+            "text": "Trouble Reading"
         },
         {
             "type": "Media",
-            "url": "./images/228.jpg"
+            "url": "./images/818.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

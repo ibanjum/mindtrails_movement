@@ -1,14 +1,14 @@
 {
-    "header_text": "Sweat Stains",
+    "header_text": "Smelly Lunch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sweat Stains"
+            "text": "Smelly Lunch"
         },
         {
             "type": "Media",
-            "url": "./images/483.jpg"
+            "url": "./images/653.jpg"
         }
     ],
     "type": "positive",

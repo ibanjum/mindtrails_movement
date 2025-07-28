@@ -1,14 +1,14 @@
 {
-    "header_text": "Managing Responsibilities",
+    "header_text": "Taking a Break",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Managing Responsibilities"
+            "text": "Taking a Break"
         },
         {
             "type": "Media",
-            "url": "./images/84.jpg"
+            "url": "./images/85.jpg"
         }
     ],
     "type": "positive",

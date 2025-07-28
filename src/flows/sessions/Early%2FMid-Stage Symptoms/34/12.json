@@ -1,29 +1,25 @@
 {
-    "header_text": "Moody Dinner",
+    "header_text": "Fitness Class Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Paying attention to your surroundings helps you feel..."
+            "text": "You go to a fitness class but struggle with coordination during exercises. You start to worry about standing out for the wrong reasons and think that it would be easiest to ignore everyone else. When you make eye contact with the person next to you, you..."
         },
         {
-            "type": "Buttons",
-            "name": "Moody Dinner_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Fitness Class Worries_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Better",
-                "Worse"
+            "display_delay": 2000,
+            "words": [
+                "smile"
             ],
-            "columnCount": 1,
-            "correct_value": "Better"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 3
 }

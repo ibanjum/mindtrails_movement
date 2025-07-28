@@ -1,16 +1,16 @@
 {
-    "header_text": "Friend in the Hospital",
+    "header_text": "Relationship Struggles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friend in the Hospital"
+            "text": "Relationship Struggles"
         },
         {
             "type": "Media",
-            "url": "./images/373.jpg"
+            "url": "./images/374.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

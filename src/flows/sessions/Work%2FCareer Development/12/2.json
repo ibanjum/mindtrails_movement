@@ -1,20 +1,20 @@
 {
-    "header_text": "Managing Responsibilities",
+    "header_text": "Taking a Break",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have started to volunteer at a local organization and have had a difficult time managing it with work. One of the volunteer leaders asked if you would be willing to help her out with a project outside of your usual responsibilities,and you are worried if she will be disappointed if you say no. After thinking on it, you tell her that you can't help out with this project because of work, but are willing to help out on the next..."
+            "text": "You've been very busy the past few months, and you haven't had a lot of free time. You finally have a chance to rest, but you feel guilty that you're taking a break rather than completing work. You think that you deserve to... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Managing Responsibilities_Work/Career Development_puzzle1",
+            "name": "Taking a Break_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "one"
+                "relax"
             ],
             "missing_letter_count": 1
         }

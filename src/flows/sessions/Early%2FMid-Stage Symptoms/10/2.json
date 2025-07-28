@@ -1,16 +1,16 @@
 {
-    "header_text": "Birthday Cards",
+    "header_text": "Holding the Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Birthday Cards"
+            "text": "Holding the Phone"
         },
         {
             "type": "Media",
-            "url": "./images/779.jpg"
+            "url": "./images/775.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 0
 }

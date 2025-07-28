@@ -1,25 +1,26 @@
 {
-    "header_text": "Fruit slice",
+    "header_text": "Hospital waiting room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "At the outdoor picnic table with some colleagues, you accidentally cut your finger while slicing fruit for lunch. Since you are outside, you are not able to wash it out immediately with soap and water. Regardless, in a few days, your cut will be..."
+            "type": "Label",
+            "text": "Hospital waiting room"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Fruit slice_Physical Health_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "healed"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/430.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 2
+    "type": "negative",
+    "scenario_num": 2,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

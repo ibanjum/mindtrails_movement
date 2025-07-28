@@ -1,14 +1,14 @@
 {
-    "header_text": "Trick or Treat",
+    "header_text": "Saving Money",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trick or Treat"
+            "text": "Saving Money"
         },
         {
             "type": "Media",
-            "url": "./images/669.jpg"
+            "url": "./images/668.jpg"
         }
     ],
     "type": "positive",

@@ -1,25 +1,29 @@
 {
-    "header_text": "Finding Balance",
+    "header_text": "Community Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "At yoga class, you struggle to balance in your poses. Anxiety grips you as you worry about your ability to continue physical activities in the future. However, you modify poses, focus on breathing, and prove to yourself that you can..."
+            "Text": "During the meeting you were able to.."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Finding Balance_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Community Meeting_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "adapt"
+            "buttons": [
+                "Give up",
+                "Focus"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Focus"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 8
 }

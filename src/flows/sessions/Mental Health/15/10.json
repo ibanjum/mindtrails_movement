@@ -1,14 +1,14 @@
 {
-    "header_text": "Sharing Favorite Shows",
+    "header_text": "Mental Health Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do your coworkers judge you for what you said about the TV show? "
+            "Text": "Will you partner be understanding?"
         },
         {
             "type": "Buttons",
-            "name": "Sharing Favorite Shows_Mental Health_comp_question",
+            "name": "Mental Health Issues_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

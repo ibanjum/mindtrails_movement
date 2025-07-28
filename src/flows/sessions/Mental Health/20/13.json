@@ -1,18 +1,18 @@
 {
-    "header_text": "Journaling Shift",
+    "header_text": "Applying for a Grant",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your therapist recommended that you try journaling as a way to process some of your emotions. You're very frustrated with this practice because it takes you a lot longer to write anything lately. You decide to accept this as part of the process, and you cultivate more..."
+            "text": "You apply for a grant to fund a new initiative in your office. Without this funding, you won't be able to move forward with your initiative. You don't know if your proposal is good enough, and you think it will probably be..."
         },
         {
             "type": "Entry",
-            "name": "Journaling Shift_Mental Health_entry1"
+            "name": "Applying for a Grant_Mental Health_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4,
     "information": {
         "elements": [

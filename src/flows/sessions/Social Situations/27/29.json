@@ -1,29 +1,29 @@
 {
-    "header_text": "Holiday Away From Home",
+    "header_text": "High Paying Jobs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you tell your siblings about the invitation, they are likely to"
+            "Text": "Is it bad that you make less money than your friends?"
         },
         {
             "type": "Buttons",
-            "name": "Holiday Away From Home_Social Situations_comp_question",
+            "name": "High Paying Jobs_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Be very disappointed and feel hurt.",
-                "Be glad that you have met a partner that makes you happy."
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Be very disappointed and feel hurt."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 8
 }

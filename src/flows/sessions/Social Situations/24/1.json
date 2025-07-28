@@ -1,14 +1,14 @@
 {
-    "header_text": "Reconciling with your friend",
+    "header_text": "Book Club Dinner ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reconciling with your friend"
+            "text": "Book Club Dinner "
         },
         {
             "type": "Media",
-            "url": "./images/129.jpg"
+            "url": "./images/705.jpg"
         }
     ],
     "type": "positive",

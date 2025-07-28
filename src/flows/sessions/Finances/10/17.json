@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Your rent is coming up. Normally you have your rent budgeted out, but some unexpected costs have left you a little short and you need to take on some extra shifts at... "
+            "text": "Your rent is coming up. Normally, you have your rent budgeted out, but some unexpected costs have left you a little short. You need to take on some extra shifts at... "
         },
         {
             "type": "Entry",

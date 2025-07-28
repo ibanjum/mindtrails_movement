@@ -1,16 +1,16 @@
 {
-    "header_text": "Getting an Opportunity",
+    "header_text": "Coming up with Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Getting an Opportunity"
+            "text": "Coming up with Questions"
         },
         {
             "type": "Media",
-            "url": "./images/90.jpg"
+            "url": "./images/114.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

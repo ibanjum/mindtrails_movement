@@ -1,16 +1,16 @@
 {
-    "header_text": "Record Store",
+    "header_text": "Crossing the Street",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Record Store"
+            "text": "Crossing the Street"
         },
         {
             "type": "Media",
-            "url": "./images/799.jpg"
+            "url": "./images/801.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

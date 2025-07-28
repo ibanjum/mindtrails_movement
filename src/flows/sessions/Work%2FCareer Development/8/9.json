@@ -1,17 +1,16 @@
 {
-    "header_text": "A Little Stumble",
+    "header_text": "Making a Choice",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Your boss is watching your presentation in your meeting today. During the presentation, you stumble over your words a lot. You feel..."
+            "type": "Label",
+            "text": "Making a Choice"
         },
         {
-            "type": "Entry",
-            "name": "A Little Stumble_Work/Career Development_entry1"
+            "type": "Media",
+            "url": "./images/60.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

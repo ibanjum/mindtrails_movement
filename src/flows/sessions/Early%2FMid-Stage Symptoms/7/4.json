@@ -1,16 +1,16 @@
 {
-    "header_text": "Invitation to Dinner",
+    "header_text": "Spilling Food on Laptop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Invitation to Dinner"
+            "text": "Spilling Food on Laptop"
         },
         {
             "type": "Media",
-            "url": "./images/756.jpg"
+            "url": "./images/757.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

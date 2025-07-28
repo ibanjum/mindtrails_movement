@@ -1,16 +1,16 @@
 {
-    "header_text": "Animal Shelter",
+    "header_text": "Staying Present",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Animal Shelter"
+            "text": "Staying Present"
         },
         {
             "type": "Media",
-            "url": "./images/520.jpg"
+            "url": "./images/803.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

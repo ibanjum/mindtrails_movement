@@ -1,14 +1,14 @@
 {
-    "header_text": "New Apartment to Yourself",
+    "header_text": "Taking Yourself to a Movie",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Apartment to Yourself"
+            "text": "Taking Yourself to a Movie"
         },
         {
             "type": "Media",
-            "url": "./images/181.jpg"
+            "url": "./images/689.jpg"
         }
     ],
     "type": "positive",

@@ -1,25 +1,25 @@
 {
-    "header_text": "Masks for Guests",
+    "header_text": "Having a New Friend Over",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your partner invites a few friends over for the evening, and you both agreed that everyone would wear masks. When their friends arrive, they don't have masks and your partner doesn't say anything to them. You pull your partner aside and ask them to speak to their... "
+            "text": "You notice your home is smaller and not as spacious as the homes of others that you know. Your coworkers have never been to your place, but they want to come over. You think about their reaction to your home and that they will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Masks for Guests_Social Situations_puzzle1",
+            "name": "Having a New Friend Over_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "friends"
+                "respectful"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

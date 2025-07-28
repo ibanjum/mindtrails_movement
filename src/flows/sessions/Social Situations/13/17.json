@@ -1,25 +1,25 @@
 {
-    "header_text": "Meeting Rush",
+    "header_text": "Creative Confidence ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You run to a meeting at work because you think you might be late. You make it to the meeting room on time, but you are breathing heavily and feel embarrassed because people are looking at you. As you sit down, to calm yourself, you decide to focus on your..."
+            "text": "You are invited to a Halloween get-together and will only know a couple of people there. You decide to wear a really elaborate costume. When you arrive, everyone looks at you and probably thinks that you are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Meeting Rush_Social Situations_puzzle1",
+            "name": "Creative Confidence _Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "breath"
+                "creative"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

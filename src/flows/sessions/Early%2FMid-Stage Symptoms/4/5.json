@@ -1,25 +1,25 @@
 {
-    "header_text": "Walking Down Steps",
+    "header_text": "Household responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are carrying laundry down your basement stairs. You notice you are more unbalanced than you used to be and walking down is now more difficult. You note to take more care in the future and hold onto the railing so that you are..."
+            "text": "You take pride in taking on unliked chores. You have been feeling more fatigued recently and you have had to let others around you take on more of your tasks. You think about how lately when you discuss chores, your family members seem to be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Walking Down Steps_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Household responsibilities_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "steady"
+                "annoyed"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

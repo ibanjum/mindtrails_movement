@@ -1,16 +1,16 @@
 {
-    "header_text": "Waiting for a Reply ",
+    "header_text": "Fundraiser presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Waiting for a Reply "
+            "text": "Fundraiser presentation"
         },
         {
             "type": "Media",
-            "url": "./images/658.jpg"
+            "url": "./images/107.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

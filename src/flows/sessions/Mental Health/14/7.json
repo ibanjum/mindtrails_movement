@@ -1,16 +1,16 @@
 {
-    "header_text": "Insecurities",
+    "header_text": "Rude Email Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Insecurities"
+            "text": "Rude Email Response"
         },
         {
             "type": "Media",
-            "url": "./images/380.jpg"
+            "url": "./images/73.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "How You Look",
+    "header_text": "Your New Post",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "How You Look"
+            "text": "Your New Post"
         },
         {
             "type": "Media",
-            "url": "./images/375.jpg"
+            "url": "./images/376.jpg"
         }
     ],
     "type": "positive",

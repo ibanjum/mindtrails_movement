@@ -1,14 +1,14 @@
 {
-    "header_text": "Not Getting a Response",
+    "header_text": "Getting Ready for a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Not Getting a Response"
+            "text": "Getting Ready for a Date"
         },
         {
             "type": "Media",
-            "url": "./images/377.jpg"
+            "url": "./images/378.jpg"
         }
     ],
     "type": "positive",

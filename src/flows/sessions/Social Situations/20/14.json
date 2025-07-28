@@ -1,16 +1,16 @@
 {
-    "header_text": "Less Social Media",
+    "header_text": "Exposing a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Less Social Media"
+            "text": "Exposing a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/694.jpg"
+            "url": "./images/693.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

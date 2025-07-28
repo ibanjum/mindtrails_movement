@@ -1,25 +1,29 @@
 {
-    "header_text": "Changing Household Roles",
+    "header_text": "Painting Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You set a family meeting to talk things over. Everyone feels that if you take on different responsibilities around the house, they will..."
+            "Text": "The new project will be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Changing Household Roles_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Painting Project_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "adjust"
+            "buttons": [
+                "Impossible",
+                "Completed"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Completed"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 7
 }

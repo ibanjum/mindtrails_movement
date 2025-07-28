@@ -1,16 +1,16 @@
 {
-    "header_text": "Awkward Conversations",
+    "header_text": "Heart Rate Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Awkward Conversations"
+            "text": "Heart Rate Worries"
         },
         {
             "type": "Media",
-            "url": "./images/382.jpg"
+            "url": "./images/383.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

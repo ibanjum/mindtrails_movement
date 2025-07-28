@@ -3,15 +3,14 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Instead of panicking, you decide to take a deep breathe. Slowly, your dizziness disappears and your stomach feels..."
+            "type": "Label",
+            "text": "Feeling Faint"
         },
         {
-            "type": "Entry",
-            "name": "Feeling Faint_Physical Health_entry2"
+            "type": "Media",
+            "url": "./images/473.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 6
+    "scenario_num": 7
 }

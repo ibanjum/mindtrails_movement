@@ -1,25 +1,29 @@
 {
-    "header_text": "Your Resume",
+    "header_text": "Changing Your Trajectory",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you look over your resume, you do not anticipate your potential employer writing you off, and you think that the interviewer will be..."
+            "Text": "Given you experience and skills"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Your Resume_Work/Career Development_puzzle_word2",
+            "type": "Buttons",
+            "name": "Changing Your Trajectory_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "impressed"
+            "buttons": [
+                "You will probably be stuck in a job you don't enjoy.",
+                "You stand a good chance of landing a rewarding position."
             ],
-            "missing_letter_count": 1
+            "columnCount": 1,
+            "correct_value": "You stand a good chance of landing a rewarding position."
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 0
 }

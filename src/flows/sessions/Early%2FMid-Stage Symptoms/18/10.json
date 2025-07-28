@@ -1,29 +1,29 @@
 {
-    "header_text": "Trouble Reading",
+    "header_text": "Hiking Incident",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Making a plan to address your symptoms makes you feel more..."
+            "Text": "Your family is just..."
         },
         {
             "type": "Buttons",
-            "name": "Trouble Reading_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Hiking Incident_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Concerned.",
-                "Confident."
+                "Upset they didn't get photos at the overlook",
+                "Looking out for your safety"
             ],
             "columnCount": 1,
-            "correct_value": "Confident."
+            "correct_value": "Looking out for your safety"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

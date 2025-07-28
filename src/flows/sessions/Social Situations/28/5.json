@@ -1,25 +1,25 @@
 {
-    "header_text": "Cohabitation Conflicts",
+    "header_text": "High Anxiety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your significant other have been living together for a few months, and some issues have started coming up. Your friend is visiting soon. When you ask your significant other if your friend can stay with you while they're in town, your significant other gets angry and starts to raise their... "
+            "text": "This year, you've been feeling very anxious, and you haven't been able to enjoy your life without worrying. You wonder what people in your life would think of you if you got help. You think that they would consider you to be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Cohabitation Conflicts_Social Situations_puzzle1",
+            "name": "High Anxiety_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "voice"
+                "brave"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

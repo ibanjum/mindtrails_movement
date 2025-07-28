@@ -1,16 +1,16 @@
 {
-    "header_text": "Future Dog Walking",
+    "header_text": "House Cleaning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Future Dog Walking"
+            "text": "House Cleaning"
         },
         {
             "type": "Media",
-            "url": "./images/201.jpg"
+            "url": "./images/755.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

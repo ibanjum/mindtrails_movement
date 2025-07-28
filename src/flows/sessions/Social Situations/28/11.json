@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Media Presence",
+    "header_text": "Friendly Neighbor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Media Presence"
+            "text": "Friendly Neighbor"
         },
         {
             "type": "Media",
-            "url": "./images/601.jpg"
+            "url": "./images/467.jpg"
         }
     ],
     "type": "positive",

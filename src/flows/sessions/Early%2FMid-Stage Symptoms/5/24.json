@@ -1,23 +1,23 @@
 {
-    "header_text": "Facial Expression ",
+    "header_text": "Future Dog Walking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friends understand that you are..."
+            "Text": "Your dog will be..."
         },
         {
             "type": "Buttons",
-            "name": "Facial Expression _Early/Mid-Stage Symptoms_comp_question",
+            "name": "Future Dog Walking_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Mad",
-                "Glad"
+                "Neglected",
+                "Cared for"
             ],
             "columnCount": 1,
-            "correct_value": "Glad"
+            "correct_value": "Cared for"
         }
     ],
     "navigation_conditions": [

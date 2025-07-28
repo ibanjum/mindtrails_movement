@@ -1,16 +1,16 @@
 {
-    "header_text": "Dream Car",
+    "header_text": "Language Class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dream Car"
+            "text": "Language Class"
         },
         {
             "type": "Media",
-            "url": "./images/266.jpg"
+            "url": "./images/868.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

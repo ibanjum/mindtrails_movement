@@ -1,14 +1,14 @@
 {
-    "header_text": "Confusing Movie",
+    "header_text": "Dentist Difficulty",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Confusing Movie"
+            "text": "Dentist Difficulty"
         },
         {
             "type": "Media",
-            "url": "./images/245.jpg"
+            "url": "./images/878.jpg"
         }
     ],
     "type": "positive",

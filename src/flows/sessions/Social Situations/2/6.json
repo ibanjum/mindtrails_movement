@@ -1,23 +1,23 @@
 {
-    "header_text": "A new state",
+    "header_text": "An organized outing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "In this state, you think you will find..."
+            "Text": "Your friends did not enjoy the outing because..."
         },
         {
             "type": "Buttons",
-            "name": "A new state_Social Situations_comp_question",
+            "name": "An organized outing_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Opportunities to learn and experience the local traditions.",
-                "Yourself in troublesome situations."
+                "The weather was unpleasant",
+                "You planned it poorly"
             ],
             "columnCount": 1,
-            "correct_value": "Opportunities to learn and experience the local traditions."
+            "correct_value": "The weather was unpleasant"
         }
     ],
     "navigation_conditions": [

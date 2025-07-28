@@ -1,16 +1,16 @@
 {
-    "header_text": "A welcome greeting",
+    "header_text": "Important Presentation ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A welcome greeting"
+            "text": "Important Presentation "
         },
         {
             "type": "Media",
-            "url": "./images/596.jpg"
+            "url": "./images/126.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

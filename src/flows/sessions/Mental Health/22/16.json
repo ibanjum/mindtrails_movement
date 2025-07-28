@@ -1,16 +1,16 @@
 {
-    "header_text": "Therapy Shift",
+    "header_text": "Playing the Piano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Therapy Shift"
+            "text": "Playing the Piano"
         },
         {
             "type": "Media",
-            "url": "./images/418.jpg"
+            "url": "./images/187.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

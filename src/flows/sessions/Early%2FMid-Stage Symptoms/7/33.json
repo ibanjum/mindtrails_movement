@@ -4,11 +4,11 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Reflect on the stories you just read and how the anxiety-provoking situations were resolved. What do you see as some of the key takeaways? Which of these new ways of thinking could you see yourself applying to your own life, and why?"
+            "text": "For a recent situation that made you anxious, ask yourself: How might I have thought about it at another time, in another mood? Did the way you thought about it align with what actually happened? Are there alternatives? "
         },
         {
             "type": "Entry",
-            "name": "Tip #2_entry"
+            "name": "Tip #8_entry"
         }
     ]
 }

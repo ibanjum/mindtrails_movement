@@ -1,17 +1,17 @@
 {
-    "header_text": "Important Opinion",
+    "header_text": "Trivia Night",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You finish a task due next week for your boss and ask them for their opinion. They say the work is good, apart from an incomplete section. You feel that they think you are..."
+            "text": "You are on your way home after participating in trivia night. As your mind wanders, you think about the one question you missed. Overall, you consider your performance a..."
         },
         {
             "type": "Entry",
-            "name": "Important Opinion_Social Situations_entry1"
+            "name": "Trivia Night_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

@@ -1,16 +1,25 @@
 {
-    "header_text": "Sensational Party",
+    "header_text": "Critical Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Sensational Party"
+            "type": "Text",
+            "text": "You are having a conversation with your best friend of many years. During the conversation, they criticize you, saying that they don't think your job is worth pursuing. You wonder whether you should remain friends with... "
         },
         {
-            "type": "Media",
-            "url": "./images/465.jpg"
+            "type": "WordPuzzle",
+            "name": "Critical Friend_Social Situations_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "them"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

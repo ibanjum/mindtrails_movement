@@ -1,17 +1,17 @@
 {
-    "header_text": "New Opportunity at Work",
+    "header_text": "Overwhelming Options",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have recently joined a new department at work. When you go to the first team meeting, you notice that most people are sitting in groups. As you take a seat alone, you realize that there is always an opportunity to join a..."
+            "text": "You decide to continue to draft the email and send it once you are happy with how it sounds. You look forward to people's..."
         },
         {
             "type": "Entry",
-            "name": "New Opportunity at Work_Social Situations_entry1"
+            "name": "Overwhelming Options_Social Situations_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

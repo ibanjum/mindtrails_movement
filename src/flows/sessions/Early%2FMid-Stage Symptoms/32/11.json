@@ -1,16 +1,16 @@
 {
-    "header_text": "Lunch with Neighbor",
+    "header_text": "Sleep Disruption",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lunch with Neighbor"
+            "text": "Sleep Disruption"
         },
         {
             "type": "Media",
-            "url": "./images/872.jpg"
+            "url": "./images/873.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 3
 }

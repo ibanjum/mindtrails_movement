@@ -1,29 +1,10 @@
 {
-    "header_text": "To-do List",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Even though it takes you more time to finish your to-do list, you still feel... "
-        },
-        {
-            "type": "Buttons",
-            "name": "To-do List_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Stressed.",
-                "Calm."
-            ],
-            "columnCount": 1,
-            "correct_value": "Calm."
+            "text": "Motivational Statement #20 \n\n Practicing how you perceive your surroundings every day will help build a positive habit in your life!"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 9
+    ]
 }

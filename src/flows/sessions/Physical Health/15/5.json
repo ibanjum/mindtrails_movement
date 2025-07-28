@@ -1,14 +1,14 @@
 {
-    "header_text": "Too Much Attention",
+    "header_text": "Noisy Neighbors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Too Much Attention"
+            "text": "Noisy Neighbors"
         },
         {
             "type": "Media",
-            "url": "./images/490.jpg"
+            "url": "./images/50.jpg"
         }
     ],
     "type": "positive",

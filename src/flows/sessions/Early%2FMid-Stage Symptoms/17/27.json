@@ -1,16 +1,16 @@
 {
-    "header_text": "Balancing Checkbook",
+    "header_text": "Attending a Dance Recital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Balancing Checkbook"
+            "text": "Attending a Dance Recital"
         },
         {
             "type": "Media",
-            "url": "./images/318.jpg"
+            "url": "./images/228.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

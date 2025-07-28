@@ -1,16 +1,16 @@
 {
-    "header_text": "Replying to Email",
+    "header_text": "Dismissive Doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Replying to Email"
+            "text": "Dismissive Doctor"
         },
         {
             "type": "Media",
-            "url": "./images/776.jpg"
+            "url": "./images/778.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

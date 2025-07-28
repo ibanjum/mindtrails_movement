@@ -1,16 +1,16 @@
 {
-    "header_text": "Neighbor Chat",
+    "header_text": "Reality TV Confusion",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Neighbor Chat"
+            "text": "Reality TV Confusion"
         },
         {
             "type": "Media",
-            "url": "./images/798.jpg"
+            "url": "./images/910.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 0
 }

@@ -1,20 +1,20 @@
 {
-    "header_text": "Picture with Friends",
+    "header_text": "Worrying About Spending",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your friend took some pictures together. You look through your feed and see that they tagged you in a photo that you really don't like. You know that, in the long run, it won't..."
+            "text": "A group of your friends are going out to dinner and they invited you. You know that you guys have been going out to dinner a lot recently, and you don't know if you can keep up with this lifestyle. You tell your friends that you'll catch up with them next time, and you're happy staying at home for the..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Picture with Friends_Social Situations_puzzle1",
+            "name": "Worrying About Spending_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "matter"
+                "night"
             ],
             "missing_letter_count": 1
         }

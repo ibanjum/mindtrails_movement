@@ -1,14 +1,14 @@
 {
-    "header_text": "Annual checkup results",
+    "header_text": "An unwashed table",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Annual checkup results"
+            "text": "An unwashed table"
         },
         {
             "type": "Media",
-            "url": "./images/464.jpg"
+            "url": "./images/463.jpg"
         }
     ],
     "type": "positive",

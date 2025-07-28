@@ -1,29 +1,29 @@
 {
-    "header_text": "Local Event",
+    "header_text": "Daughter's Birthday",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The event organizer thought that you were..."
+            "Text": "Is your tremor making others uncomfortable?"
         },
         {
             "type": "Buttons",
-            "name": "Local Event_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Daughter's Birthday_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Helpful.",
-                "Incapable."
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Helpful."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 2
 }

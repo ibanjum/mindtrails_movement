@@ -1,20 +1,20 @@
 {
-    "header_text": "Reading before Bedtime",
+    "header_text": "Holiday Decorating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "One evening before bed, you begin a new book. While the plot progresses, you can't seem to concentrate on the storyline. You make a plan to take notes and decide this added task will be... "
+            "text": "It's time to decorate for the holidays, and you invite your family over. You suddenly forget where each decoration belongs. Your family reminds you where all the decorations go, and having them there for the holidays is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Reading before Bedtime_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Holiday Decorating_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "fun"
+                "delightful"
             ],
             "missing_letter_count": 2
         }

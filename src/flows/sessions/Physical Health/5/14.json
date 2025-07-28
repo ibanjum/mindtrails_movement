@@ -1,16 +1,16 @@
 {
-    "header_text": "Vision Troubles",
+    "header_text": "Blurry eyesight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vision Troubles"
+            "text": "Blurry eyesight"
         },
         {
             "type": "Media",
-            "url": "./images/460.jpg"
+            "url": "./images/459.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

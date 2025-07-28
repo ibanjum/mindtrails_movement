@@ -1,14 +1,14 @@
 {
-    "header_text": "Movie Theater Distraction",
+    "header_text": "Delayed Texting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Movie Theater Distraction"
+            "text": "Delayed Texting "
         },
         {
             "type": "Media",
-            "url": "./images/804.jpg"
+            "url": "./images/806.jpg"
         }
     ],
     "type": "positive",

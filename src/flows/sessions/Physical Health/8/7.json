@@ -1,17 +1,17 @@
 {
-    "header_text": "An accidental bang",
+    "header_text": "Unknown Sensations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "One evening, you are climbing the stairs and accidentally hit your head against a low ceiling. The next morning, the headache is still there slightly, and you wonder what you've done. By lunchtime, the pain has..."
+            "text": "You're walking with some friends after lunch and suddenly feel tingling in your fingertips. This is something that you haven't really experienced before. This probably means that you are..."
         },
         {
             "type": "Entry",
-            "name": "An accidental bang_Physical Health_entry1"
+            "name": "Unknown Sensations_Physical Health_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

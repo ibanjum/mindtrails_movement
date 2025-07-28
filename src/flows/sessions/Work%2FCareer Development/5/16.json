@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Today you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel..."
+            "text": "Today, you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel..."
         },
         {
             "type": "WordPuzzle",

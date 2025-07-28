@@ -1,14 +1,14 @@
 {
-    "header_text": "Smoothie Shop",
+    "header_text": "Beach Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Smoothie Shop"
+            "text": "Beach Walk"
         },
         {
             "type": "Media",
-            "url": "./images/835.jpg"
+            "url": "./images/837.jpg"
         }
     ],
     "type": "positive",

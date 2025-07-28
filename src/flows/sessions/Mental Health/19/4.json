@@ -1,16 +1,16 @@
 {
-    "header_text": "Nerve-wracking presentation",
+    "header_text": "Important Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Nerve-wracking presentation"
+            "text": "Important Email"
         },
         {
             "type": "Media",
-            "url": "./images/26.jpg"
+            "url": "./images/43.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

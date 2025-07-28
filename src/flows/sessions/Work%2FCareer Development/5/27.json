@@ -1,16 +1,16 @@
 {
-    "header_text": "Judging Your Performance",
+    "header_text": "Others' Opinions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Judging Your Performance"
+            "text": "Others' Opinions"
         },
         {
             "type": "Media",
-            "url": "./images/46.jpg"
+            "url": "./images/47.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

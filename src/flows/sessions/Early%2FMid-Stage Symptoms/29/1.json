@@ -1,14 +1,14 @@
 {
-    "header_text": "Walk with Counselor",
+    "header_text": "Paying your Bills",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Walk with Counselor"
+            "text": "Paying your Bills"
         },
         {
             "type": "Media",
-            "url": "./images/419.jpg"
+            "url": "./images/862.jpg"
         }
     ],
     "type": "positive",

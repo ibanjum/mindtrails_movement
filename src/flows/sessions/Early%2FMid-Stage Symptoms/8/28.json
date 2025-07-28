@@ -1,20 +1,20 @@
 {
-    "header_text": "Thinking fast at work",
+    "header_text": "Garden Planting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at your workplace, and a colleague asks you to perform a task that you have completed countless times before. Today, you struggle to recall the steps needed to complete the task, and your colleague starts to look concerned. Regardless of what they think, you do not question your own..."
+            "text": "In the spring, you notice your friends and neighbors have planted their gardens already. You are taking much longer than expected to plant your garden due to recent changes in your balance. You remember to take the planting one row at a time and remain..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Thinking fast at work_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Garden Planting_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "competence"
+                "patient"
             ],
             "missing_letter_count": 2
         }

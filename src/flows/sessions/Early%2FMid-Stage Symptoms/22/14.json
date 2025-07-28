@@ -1,16 +1,29 @@
 {
-    "header_text": "Puzzle Time",
+    "header_text": "Off Balance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Puzzle Time"
+            "type": "Text",
+            "Text": "Thinking about the help and support from your family makes you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/224.jpg"
+            "type": "Buttons",
+            "name": "Off Balance_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Calm",
+                "Worried"
+            ],
+            "columnCount": 1,
+            "correct_value": "Calm"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
 }

@@ -3,14 +3,27 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Out of Your Control"
+            "type": "Text",
+            "Text": "Do you feel sick throughout the rest of your interview? "
         },
         {
-            "type": "Media",
-            "url": "./images/65.jpg"
+            "type": "Buttons",
+            "name": "Out of Your Control_Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "resilience/negation",
-    "scenario_num": 5
+    "scenario_num": 4
 }

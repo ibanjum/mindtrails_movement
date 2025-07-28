@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Unsteady",
+    "header_text": "Future Workouts",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Unsteady"
+            "text": "Future Workouts"
         },
         {
             "type": "Media",
-            "url": "./images/209.jpg"
+            "url": "./images/802.jpg"
         }
     ],
     "type": "positive",

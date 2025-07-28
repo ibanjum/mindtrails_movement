@@ -1,14 +1,14 @@
 {
-    "header_text": "Noisy Neighbors",
+    "header_text": "Dancing class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Noisy Neighbors"
+            "text": "Dancing class"
         },
         {
             "type": "Media",
-            "url": "./images/50.jpg"
+            "url": "./images/516.jpg"
         }
     ],
     "type": "positive",

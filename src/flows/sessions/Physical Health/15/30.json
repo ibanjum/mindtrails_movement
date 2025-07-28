@@ -3,27 +3,14 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "You did not want to ask for time off because... "
+            "type": "Label",
+            "text": "Taking Time Off"
         },
         {
-            "type": "Buttons",
-            "name": "Taking Time Off_Physical Health_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "You were fearful",
-                "You did not need time off"
-            ],
-            "columnCount": 1,
-            "correct_value": "You were fearful"
+            "type": "Media",
+            "url": "./images/517.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "resilience/negation",
-    "scenario_num": 8
+    "scenario_num": 9
 }

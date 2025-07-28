@@ -1,23 +1,23 @@
 {
-    "header_text": "House Cleaning",
+    "header_text": "Future Gym Visits",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You likely feel..."
+            "Text": "You embrace the future with..."
         },
         {
             "type": "Buttons",
-            "name": "House Cleaning_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Future Gym Visits_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Even more tired",
-                "Better"
+                "Optimism",
+                "Pessimism"
             ],
             "columnCount": 1,
-            "correct_value": "Better"
+            "correct_value": "Optimism"
         }
     ],
     "navigation_conditions": [

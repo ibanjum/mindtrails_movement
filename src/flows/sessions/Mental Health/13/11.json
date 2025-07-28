@@ -1,14 +1,14 @@
 {
-    "header_text": "Comparing Yourself to Others",
+    "header_text": "Friend in the Hospital",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comparing Yourself to Others"
+            "text": "Friend in the Hospital"
         },
         {
             "type": "Media",
-            "url": "./images/372.jpg"
+            "url": "./images/373.jpg"
         }
     ],
     "type": "positive",

@@ -1,16 +1,16 @@
 {
-    "header_text": "New Kitten",
+    "header_text": "Local Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Kitten"
+            "text": "Local Event"
         },
         {
             "type": "Media",
-            "url": "./images/219.jpg"
+            "url": "./images/826.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Shopping Help",
+    "header_text": "Side Dish Selection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Shopping Help"
+            "text": "Side Dish Selection"
         },
         {
             "type": "Media",
-            "url": "./images/838.jpg"
+            "url": "./images/839.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

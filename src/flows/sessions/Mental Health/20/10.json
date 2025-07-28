@@ -1,14 +1,14 @@
 {
-    "header_text": "Assembling Furniture",
+    "header_text": "Journaling Shift",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Assembling Furniture"
+            "text": "Journaling Shift"
         },
         {
             "type": "Media",
-            "url": "./images/408.jpg"
+            "url": "./images/409.jpg"
         }
     ],
     "type": "positive",

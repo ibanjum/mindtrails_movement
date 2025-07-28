@@ -1,14 +1,14 @@
 {
-    "header_text": "Toy Store Trip",
+    "header_text": "New Kitten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Toy Store Trip"
+            "text": "New Kitten"
         },
         {
             "type": "Media",
-            "url": "./images/410.jpg"
+            "url": "./images/219.jpg"
         }
     ],
     "type": "positive",

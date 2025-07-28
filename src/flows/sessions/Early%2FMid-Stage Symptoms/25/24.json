@@ -1,16 +1,16 @@
 {
-    "header_text": "Changing Household Roles",
+    "header_text": "Painting Project",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Changing Household Roles"
+            "text": "Painting Project"
         },
         {
             "type": "Media",
-            "url": "./images/237.jpg"
+            "url": "./images/233.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

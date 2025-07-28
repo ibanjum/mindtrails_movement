@@ -1,29 +1,29 @@
 {
-    "header_text": "A child's request",
+    "header_text": "Unusual views",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is going to a park in a different neighborhood dangerous?"
+            "Text": "Your colleagues probably think your views are..."
         },
         {
             "type": "Buttons",
-            "name": "A child's request_Social Situations_comp_question",
+            "name": "Unusual views_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Offensive",
+                "Interesting"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Interesting"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

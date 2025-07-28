@@ -1,16 +1,16 @@
 {
-    "header_text": "Missing Medication",
+    "header_text": "Chopping Technique",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Missing Medication"
+            "text": "Chopping Technique"
         },
         {
             "type": "Media",
-            "url": "./images/972.jpg"
+            "url": "./images/859.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

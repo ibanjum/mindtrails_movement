@@ -1,20 +1,20 @@
 {
-    "header_text": "Taking Time Off",
+    "header_text": "Missing Meds at Fundraiser",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your boss is very kind in their reply and would like to meet with you. You can think clearly now and you are feeling more..."
+            "text": "You're at a fundraising walk. After a few minutes, you experience difficulty walking and start to slow down. You realize your medication is wearing off, and worry that finishing the walk will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Taking Time Off_Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "Missing Meds at Fundraiser_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "calm"
+                "impossible"
             ],
             "missing_letter_count": 2
         }

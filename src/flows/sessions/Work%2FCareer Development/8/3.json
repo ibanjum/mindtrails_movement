@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Prepared ",
+    "header_text": "Approaching Deadline",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are giving a presentation at a meeting tomorrow. You know that the quality of your presentation will be taken into account by your boss. As you think about the presentation, you feel..."
+            "text": "You and your partner share a computer. You have a work assignment due tonight but they're using the computer. When you think about completing the work on time, you feel..."
         },
         {
             "type": "Entry",
-            "name": "Feeling Prepared _Work/Career Development_entry1"
+            "name": "Approaching Deadline_Work/Career Development_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

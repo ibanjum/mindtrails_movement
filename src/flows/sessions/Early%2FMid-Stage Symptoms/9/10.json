@@ -1,29 +1,16 @@
 {
-    "header_text": "Therapist after Diagnosis",
+    "header_text": "Arcade Games",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "You should be able to help your patients…"
+            "type": "Label",
+            "text": "Arcade Games"
         },
         {
-            "type": "Buttons",
-            "name": "Therapist after Diagnosis_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Fail",
-                "Heal"
-            ],
-            "columnCount": 1,
-            "correct_value": "Heal"
+            "type": "Media",
+            "url": "./images/205.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 2
+    "scenario_num": 3
 }

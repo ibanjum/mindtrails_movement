@@ -1,25 +1,39 @@
 {
-    "header_text": "Collaging",
+    "header_text": "Invitation to Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You love creating collages, and you're really proud of what you've created. As you think about getting older, you wonder how your ability to cut out images and do this hobby will change. You remind yourself to enjoy doing what you love in the..."
+            "Text": "Your reaction to your friend's invitation keeps you..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Collaging_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Invitation to Dinner_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "present"
+            "buttons": [
+                "Panicked",
+                "Grounded"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Grounded"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 9
+    "scenario_num": 9,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

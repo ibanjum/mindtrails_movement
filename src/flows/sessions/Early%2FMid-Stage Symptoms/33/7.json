@@ -1,14 +1,14 @@
 {
-    "header_text": "Book Club Meeting",
+    "header_text": "Medication Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Book Club Meeting"
+            "text": "Medication Costs"
         },
         {
             "type": "Media",
-            "url": "./images/425.jpg"
+            "url": "./images/269.jpg"
         }
     ],
     "type": "positive",

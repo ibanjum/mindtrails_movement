@@ -1,16 +1,16 @@
 {
-    "header_text": "Your First Child",
+    "header_text": "Achieving Your Goals",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your First Child"
+            "text": "Achieving Your Goals"
         },
         {
             "type": "Media",
-            "url": "./images/157.jpg"
+            "url": "./images/88.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

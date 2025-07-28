@@ -1,16 +1,16 @@
 {
-    "header_text": "Different Personalities ",
+    "header_text": "Friendships in the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Different Personalities "
+            "text": "Friendships in the Future"
         },
         {
             "type": "Media",
-            "url": "./images/570.jpg"
+            "url": "./images/707.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 9
 }

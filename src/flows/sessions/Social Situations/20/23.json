@@ -1,14 +1,14 @@
 {
-    "header_text": "Trivia Team",
+    "header_text": "Coughing at the Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trivia Team"
+            "text": "Coughing at the Store"
         },
         {
             "type": "Media",
-            "url": "./images/696.jpg"
+            "url": "./images/513.jpg"
         }
     ],
     "type": "positive",

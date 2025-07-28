@@ -1,14 +1,14 @@
 {
-    "header_text": "Not Getting a Response",
+    "header_text": "Getting Ready for a Date",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you continue to be anxious about this knowing it is not the case?"
+            "Text": "Do you have to impress this person? "
         },
         {
             "type": "Buttons",
-            "name": "Not Getting a Response_Mental Health_comp_question",
+            "name": "Getting Ready for a Date_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

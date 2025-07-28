@@ -1,14 +1,14 @@
 {
-    "header_text": "Reconnecting With People",
+    "header_text": "Not Invited to Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reconnecting With People"
+            "text": "Not Invited to Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/79.jpg"
+            "url": "./images/10.jpg"
         }
     ],
     "type": "positive",

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "When you think about it, you know that you have lots of time to save still, and finances don't look the same for... "
+            "text": "Finances don't look the same for everyone, but you are hopeful that you can work on your savings for retirement. You decide to speak to a financial advisor and feel a sense of..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "everyone"
+                "relief"
             ],
             "missing_letter_count": 1
         }

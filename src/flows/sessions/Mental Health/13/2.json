@@ -1,20 +1,20 @@
 {
-    "header_text": "Vacation Costs",
+    "header_text": "Special Day",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been feeling really overwhelmed and drained recently and want to go on a trip to take a break. When you look into flights, you realize that the cost of a trip may be totally out of your budget. You remind yourself you can go for a short trip somewhere nearby and still have... "
+            "text": "You have a dinner date scheduled with someone you've been wanting to hang out with for a while. On the day of the dinner, you feel a little nervous wondering whether they will appreciate you as much as you appreciate them. You realize that feeling a little anxious is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Vacation Costs_Mental Health_puzzle1",
+            "name": "Special Day_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "fun"
+                "okay"
             ],
             "missing_letter_count": 1
         }

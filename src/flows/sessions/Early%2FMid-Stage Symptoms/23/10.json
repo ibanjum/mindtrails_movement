@@ -1,16 +1,16 @@
 {
-    "header_text": "Lost your Belongings",
+    "header_text": "Setting up Camp",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lost your Belongings"
+            "text": "Setting up Camp"
         },
         {
             "type": "Media",
-            "url": "./images/834.jpg"
+            "url": "./images/836.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

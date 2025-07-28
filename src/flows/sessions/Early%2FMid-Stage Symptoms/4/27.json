@@ -1,25 +1,25 @@
 {
-    "header_text": "Games with Friends",
+    "header_text": "New Baby",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After playing a couple more rounds, you speak to your friends. They tell you that regardless of your symptoms, time spent with you is..."
+            "text": "You have just become a grandparent. You are scared about how your PD might affect the child's future. When thinking about being a grandparent, you remind yourself that you will fill your grandchild's life with..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Games with Friends_Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "New Baby_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "enjoyable"
+                "love"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

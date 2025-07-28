@@ -1,14 +1,14 @@
 {
-    "header_text": "Disagreement with a Friend",
+    "header_text": "Wedding Celebration",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Disagreement with a Friend"
+            "text": "Wedding Celebration"
         },
         {
             "type": "Media",
-            "url": "./images/743.jpg"
+            "url": "./images/730.jpg"
         }
     ],
     "type": "positive",

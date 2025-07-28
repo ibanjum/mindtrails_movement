@@ -1,29 +1,29 @@
 {
-    "header_text": "Board Game Mishap",
+    "header_text": "Cocktail Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Knocking over the board game pieces was..."
+            "Text": "With your partner's support, you can..."
         },
         {
             "type": "Buttons",
-            "name": "Board Game Mishap_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Cocktail Party_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Bothersome",
-                "Comical"
+                "Avoid interacting with others",
+                "Make the most out of the party"
             ],
             "columnCount": 1,
-            "correct_value": "Comical"
+            "correct_value": "Make the most out of the party"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

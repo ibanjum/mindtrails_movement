@@ -1,29 +1,29 @@
 {
-    "header_text": "Getting an Opportunity",
+    "header_text": "Coming up with Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "You believe that your application is:"
+            "Text": "Are everyone else's questions better than yours?"
         },
         {
             "type": "Buttons",
-            "name": "Getting an Opportunity_Work/Career Development_comp_question",
+            "name": "Coming up with Questions_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "A good one, relative to the other submissions.",
-                "One that will not stand out in a good pool."
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "One that will not stand out in a good pool."
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

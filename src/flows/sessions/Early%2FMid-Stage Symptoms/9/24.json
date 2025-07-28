@@ -1,25 +1,25 @@
 {
-    "header_text": "Replying to Email",
+    "header_text": "Dismissive Doctor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You receive an email from work marked \"EMERGENCY.\" You've been having difficulty typing, so you close the email and decide to respond later. When you return to your computer 30 minutes later, you find that your boss has sent you a message, and you worry that he is... "
+            "text": "You have a visit with your doctor today in regards to some new symptoms of PD you've been experiencing. Your doctor doesn't seem to be listening intentionally and forgets some of the signs you mentioned. You kindly repeat your concerns knowing their day has likely been... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Replying to Email_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Dismissive Doctor_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "disappointed"
+                "long"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

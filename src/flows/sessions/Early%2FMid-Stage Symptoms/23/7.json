@@ -1,14 +1,14 @@
 {
-    "header_text": "Movie Mix-Up",
+    "header_text": "Smoothie Shop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Movie Mix-Up"
+            "text": "Smoothie Shop"
         },
         {
             "type": "Media",
-            "url": "./images/833.jpg"
+            "url": "./images/835.jpg"
         }
     ],
     "type": "positive",

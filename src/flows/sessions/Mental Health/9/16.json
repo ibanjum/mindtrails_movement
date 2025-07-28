@@ -1,16 +1,16 @@
 {
-    "header_text": "Cardio with friend",
+    "header_text": "Taking a Break",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cardio with friend"
+            "text": "Taking a Break"
         },
         {
             "type": "Media",
-            "url": "./images/360.jpg"
+            "url": "./images/85.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

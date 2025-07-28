@@ -1,29 +1,25 @@
 {
-    "header_text": "Fitness Walk",
+    "header_text": "Tax Forms",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you ask your partner to slow down, they are..."
+            "text": "Taxes are due in a month, so you are working on filing them today. You are having trouble keeping track of all the numbers, and you become flustered. You grab a notepad and get..."
         },
         {
-            "type": "Buttons",
-            "name": "Fitness Walk_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Tax Forms_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Agreeable",
-                "Frustrated"
+            "display_delay": 2000,
+            "words": [
+                "organized"
             ],
-            "columnCount": 1,
-            "correct_value": "Agreeable"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 5
 }

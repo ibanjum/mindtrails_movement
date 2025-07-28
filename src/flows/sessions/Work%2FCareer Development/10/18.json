@@ -1,16 +1,16 @@
 {
-    "header_text": "Wrapping Up Work",
+    "header_text": "Misunderstanding",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Wrapping Up Work"
+            "text": "Misunderstanding"
         },
         {
             "type": "Media",
-            "url": "./images/81.jpg"
+            "url": "./images/82.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

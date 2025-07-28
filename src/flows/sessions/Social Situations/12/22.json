@@ -1,25 +1,25 @@
 {
-    "header_text": "Learning Social Media Dances",
+    "header_text": "A Rude Comment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're thinking about a new game you bought while you're at work. You really want to invite people over and learn how to play it, but you don't want to embarrass yourself in front of your coworkers. You decide not to bring it up since you are nervous, and you feel..."
+            "text": "You post a picture you are really confident about. You see a really rude comment as you go back to check your comments. You take a deep breath and decide not to feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Learning Social Media Dances_Social Situations_puzzle1",
+            "name": "A Rude Comment_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "sad"
+                "bothered"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

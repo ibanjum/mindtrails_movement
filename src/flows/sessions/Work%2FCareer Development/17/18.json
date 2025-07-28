@@ -1,25 +1,25 @@
 {
-    "header_text": "Mistake on a task",
+    "header_text": "Teaching Others",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the end, you realize that your boss is prompt in giving you feedback because they are investing in you, and interested in seeing you..."
+            "text": "You have been selected to lead a training class for new employees. The leader before you was extremely well-liked, and you worry you won't be able to live up to others' expectations of the course. You remember that you know the material well and thinking about leading the course makes you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Mistake on a task_Work/Career Development_puzzle_word2",
+            "name": "Teaching Others_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "progress"
+                "hopeful"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

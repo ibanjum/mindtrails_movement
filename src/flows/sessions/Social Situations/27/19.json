@@ -1,23 +1,23 @@
 {
-    "header_text": "An unwashed table",
+    "header_text": "Accepting Praise",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "While eating lunch with your friend, you..."
+            "Text": "Are you proud of the work you're doing?"
         },
         {
             "type": "Buttons",
-            "name": "An unwashed table_Social Situations_comp_question",
+            "name": "Accepting Praise_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Are able to enjoy the conversation",
-                "Are unbearably anxious"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Are able to enjoy the conversation"
+            "correct_value": "yes"
         }
     ],
     "navigation_conditions": [

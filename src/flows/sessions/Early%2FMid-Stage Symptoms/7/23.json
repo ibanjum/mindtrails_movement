@@ -1,16 +1,29 @@
 {
-    "header_text": "Night of Bad Sleep",
+    "header_text": "Crafts and Crochet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Night of Bad Sleep"
+            "type": "Text",
+            "Text": "Making an error in the pattern shows that you are..."
         },
         {
-            "type": "Media",
-            "url": "./images/760.jpg"
+            "type": "Buttons",
+            "name": "Crafts and Crochet_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Incapable",
+                "Learning"
+            ],
+            "columnCount": 1,
+            "correct_value": "Learning"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 7
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 6
 }

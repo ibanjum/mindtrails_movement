@@ -1,16 +1,16 @@
 {
-    "header_text": "Flashing movie",
+    "header_text": "Thoughts at the train station",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Flashing movie"
+            "text": "Thoughts at the train station"
         },
         {
             "type": "Media",
-            "url": "./images/443.jpg"
+            "url": "./images/454.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Mental Health",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "If you are facing financial difficulties, take a step back and try to identify what you do have control over (versus what you do not). For example, you can create a budget and track your spending going forward, though you might not be able to return something you've already purchased. "
+            "text": "Think about a time a friend faced an uncertain situation and was feeling anxious about it. What advice would you give your friend for thinking about the situation based on what you've learned in the training?"
+        },
+        {
+            "type": "Entry",
+            "name": "Tip #0_entry"
         }
     ]
 }

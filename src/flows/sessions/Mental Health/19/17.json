@@ -1,16 +1,16 @@
 {
-    "header_text": "Disease and Identity",
+    "header_text": "Committing to Activities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Disease and Identity"
+            "text": "Committing to Activities"
         },
         {
             "type": "Media",
-            "url": "./images/404.jpg"
+            "url": "./images/77.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

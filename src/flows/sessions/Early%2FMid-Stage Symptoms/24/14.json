@@ -1,14 +1,14 @@
 {
-    "header_text": "Writing a Letter",
+    "header_text": "Cleaning the House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Writing a Letter"
+            "text": "Cleaning the House"
         },
         {
             "type": "Media",
-            "url": "./images/841.jpg"
+            "url": "./images/227.jpg"
         }
     ],
     "type": "positive",

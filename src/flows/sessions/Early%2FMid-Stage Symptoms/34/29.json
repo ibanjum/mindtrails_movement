@@ -1,23 +1,23 @@
 {
-    "header_text": "Vacation Abroad",
+    "header_text": "Neighbor's Help",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your anxiety stop you from feeling excited about the trip?"
+            "Text": "As you think of a solution to your problem, you..."
         },
         {
             "type": "Buttons",
-            "name": "Vacation Abroad_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Neighbor's Help_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Calm down",
+                "Spiral"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Calm down"
         }
     ],
     "navigation_conditions": [

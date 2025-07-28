@@ -1,16 +1,16 @@
 {
-    "header_text": "Dinner at a Friend's House",
+    "header_text": "Risky Behavior",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dinner at a Friend's House"
+            "text": "Risky Behavior"
         },
         {
             "type": "Media",
-            "url": "./images/177.jpg"
+            "url": "./images/670.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

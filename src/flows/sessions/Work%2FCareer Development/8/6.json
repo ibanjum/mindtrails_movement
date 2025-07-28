@@ -1,16 +1,16 @@
 {
-    "header_text": "Running Late",
+    "header_text": "A Little Stumble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Running Late"
+            "text": "A Little Stumble"
         },
         {
             "type": "Media",
-            "url": "./images/58.jpg"
+            "url": "./images/59.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

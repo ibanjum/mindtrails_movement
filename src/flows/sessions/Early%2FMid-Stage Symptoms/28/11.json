@@ -1,14 +1,14 @@
 {
-    "header_text": "Holiday Market",
+    "header_text": "Shoe Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Holiday Market"
+            "text": "Shoe Shopping"
         },
         {
             "type": "Media",
-            "url": "./images/856.jpg"
+            "url": "./images/858.jpg"
         }
     ],
     "type": "positive",

@@ -1,17 +1,16 @@
 {
-    "header_text": "Working to Get Ahead",
+    "header_text": "Ready to Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You have just been given a job in an office that you really admire. To eventually receive the promotion you want, you know that you will have to work very hard for several years and the outcome is..."
+            "type": "Label",
+            "text": "Ready to Work"
         },
         {
-            "type": "Entry",
-            "name": "Working to Get Ahead_Mental Health_entry1"
+            "type": "Media",
+            "url": "./images/83.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

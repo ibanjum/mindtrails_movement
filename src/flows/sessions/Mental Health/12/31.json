@@ -1,20 +1,20 @@
 {
-    "header_text": "Trip to the Dentist",
+    "header_text": "Vacation Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have experienced a toothache for a few days. This is something you haven't felt before. You go to the dentist, and they provide... "
+            "text": "You have been feeling really overwhelmed and drained recently and want to go on a trip to take a break. When you look into flights, you realize that the cost of a trip may be totally out of your budget. You remind yourself you can go for a short trip somewhere nearby and still have... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Trip to the Dentist_Mental Health_puzzle1",
+            "name": "Vacation Costs_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "reassurance"
+                "fun"
             ],
             "missing_letter_count": 1
         }

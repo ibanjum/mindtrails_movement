@@ -1,16 +1,16 @@
 {
-    "header_text": "Couple Strolling",
+    "header_text": "Spilling Soup",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Couple Strolling"
+            "text": "Spilling Soup"
         },
         {
             "type": "Media",
-            "url": "./images/807.jpg"
+            "url": "./images/816.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Out for dinner",
+    "header_text": "Music Venue ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Out for dinner"
+            "text": "Music Venue "
         },
         {
             "type": "Media",
-            "url": "./images/720.jpg"
+            "url": "./images/723.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Greeting Someone",
+    "header_text": "Loud friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Greeting Someone"
+            "text": "Loud friend"
         },
         {
             "type": "Media",
-            "url": "./images/631.jpg"
+            "url": "./images/630.jpg"
         }
     ],
     "type": "positive",

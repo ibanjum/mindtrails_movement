@@ -1,16 +1,16 @@
 {
-    "header_text": "Morning Meeting",
+    "header_text": "Inside Jokes ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Morning Meeting"
+            "text": "Inside Jokes "
         },
         {
             "type": "Media",
-            "url": "./images/664.jpg"
+            "url": "./images/332.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

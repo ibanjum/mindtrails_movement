@@ -1,23 +1,23 @@
 {
-    "header_text": "Giving a Toast",
+    "header_text": "Lunch with Old Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "During your toast, your family members are..."
+            "Text": "Has PD made things awkward with your old friends?"
         },
         {
             "type": "Buttons",
-            "name": "Giving a Toast_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Lunch with Old Friends_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Disappointed",
-                "Focused"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Focused"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

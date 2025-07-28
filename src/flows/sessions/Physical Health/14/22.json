@@ -1,16 +1,16 @@
 {
-    "header_text": "Virus Fear",
+    "header_text": "Flu Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Virus Fear"
+            "text": "Flu Worries"
         },
         {
             "type": "Media",
-            "url": "./images/515.jpg"
+            "url": "./images/514.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

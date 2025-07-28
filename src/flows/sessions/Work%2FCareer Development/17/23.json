@@ -1,16 +1,16 @@
 {
-    "header_text": "Participation ",
+    "header_text": "Honest Feedback",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Participation "
+            "text": "Honest Feedback"
         },
         {
             "type": "Media",
-            "url": "./images/118.jpg"
+            "url": "./images/119.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

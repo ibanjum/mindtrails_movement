@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Dinner",
+    "header_text": "Enjoying the outdoors",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Family Dinner"
+            "text": "Enjoying the outdoors"
         },
         {
             "type": "Media",
-            "url": "./images/731.jpg"
+            "url": "./images/729.jpg"
         }
     ],
     "type": "positive",

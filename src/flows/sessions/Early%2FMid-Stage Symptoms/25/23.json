@@ -1,23 +1,23 @@
 {
-    "header_text": "Playing Music",
+    "header_text": "Board Game Mishap",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your identity as a musician is..."
+            "Text": "Knocking over the board game pieces was..."
         },
         {
             "type": "Buttons",
-            "name": "Playing Music_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Board Game Mishap_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Over",
-                "Changing"
+                "Bothersome",
+                "Comical"
             ],
             "columnCount": 1,
-            "correct_value": "Changing"
+            "correct_value": "Comical"
         }
     ],
     "navigation_conditions": [

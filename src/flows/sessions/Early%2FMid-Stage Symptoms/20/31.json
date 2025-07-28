@@ -1,14 +1,14 @@
 {
-    "header_text": "Cleaning your Car",
+    "header_text": "HOA Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cleaning your Car"
+            "text": "HOA Meeting"
         },
         {
             "type": "Media",
-            "url": "./images/595.jpg"
+            "url": "./images/829.jpg"
         }
     ],
     "type": "positive",

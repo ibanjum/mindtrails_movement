@@ -1,20 +1,20 @@
 {
-    "header_text": "Dancing class",
+    "header_text": "Healthy But Expensive ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are taking a dancing class and, during a break, find yourself talking to a newcomer about your job. As you chat, you notice that you are sweating. They probably assume this is a result of..."
+            "text": "You want to start eating healthier, so you start researching tips and recipes online. You quickly realize that many foods recommended by health experts cost a lot of money. When you think about eating healthier on a budget, you think you can be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Dancing class_Physical Health_puzzle1",
+            "name": "Healthy But Expensive _Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "dancing"
+                "successful"
             ],
             "missing_letter_count": 1
         }

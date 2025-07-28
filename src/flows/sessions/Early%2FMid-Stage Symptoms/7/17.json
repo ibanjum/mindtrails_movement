@@ -1,16 +1,16 @@
 {
-    "header_text": "Planning a Trip",
+    "header_text": "Night of Bad Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Planning a Trip"
+            "text": "Night of Bad Sleep"
         },
         {
             "type": "Media",
-            "url": "./images/759.jpg"
+            "url": "./images/760.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

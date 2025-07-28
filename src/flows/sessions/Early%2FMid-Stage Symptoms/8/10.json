@@ -1,16 +1,29 @@
 {
-    "header_text": "Avid Traveler",
+    "header_text": "Coffee Ordering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Avid Traveler"
+            "type": "Text",
+            "Text": "The employee is probably feeling..."
         },
         {
-            "type": "Media",
-            "url": "./images/765.jpg"
+            "type": "Buttons",
+            "name": "Coffee Ordering_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Interested",
+                "Frustrated"
+            ],
+            "columnCount": 1,
+            "correct_value": "Interested"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 3
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 2
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "New Kitten",
+    "header_text": "Trying Times",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Kitten"
+            "text": "Trying Times"
         },
         {
             "type": "Media",
-            "url": "./images/219.jpg"
+            "url": "./images/218.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

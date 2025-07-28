@@ -1,29 +1,16 @@
 {
-    "header_text": "The Movies Solo",
+    "header_text": "Morning errands",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "This experience feels..."
+            "type": "Label",
+            "text": "Morning errands"
         },
         {
-            "type": "Buttons",
-            "name": "The Movies Solo_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Normal",
-                "Embarrassing"
-            ],
-            "columnCount": 1,
-            "correct_value": "Embarrassing"
+            "type": "Media",
+            "url": "./images/962.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 2
+    "type": "positive",
+    "scenario_num": 3
 }

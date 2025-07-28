@@ -1,16 +1,16 @@
 {
-    "header_text": "Handwriting Challenge",
+    "header_text": "Lost your Belongings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Handwriting Challenge"
+            "text": "Lost your Belongings"
         },
         {
             "type": "Media",
-            "url": "./images/411.jpg"
+            "url": "./images/834.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Disclosing Your Mental Health",
+    "header_text": "Couples Counseling",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Disclosing Your Mental Health"
+            "text": "Couples Counseling"
         },
         {
             "type": "Media",
-            "url": "./images/393.jpg"
+            "url": "./images/394.jpg"
         }
     ],
     "type": "positive",

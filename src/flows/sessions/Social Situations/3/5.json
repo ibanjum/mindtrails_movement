@@ -1,25 +1,25 @@
 {
-    "header_text": "Helping an elder neighbor",
+    "header_text": "Dinner party invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "One day after work, you notice an elder neighbor slowly walking from their car to their house. They look off balance and you are worried that they are going to fall. You ask whether they need help, and they turn and stare at you, looking..."
+            "text": "A friend invites you to a dinner party that they are holding. They tell you who the other guests are, but you do not recognize any of the other names. You go anyway, and on the way there, you think that the other guests will find you..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Helping an elder neighbor_Social Situations_puzzle1",
+            "name": "Dinner party invitation_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "offended"
+                "friendly"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

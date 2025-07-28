@@ -1,16 +1,16 @@
 {
-    "header_text": "Sharing Social Media with New Friend",
+    "header_text": "Masks for Guests",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sharing Social Media with New Friend"
+            "text": "Masks for Guests"
         },
         {
             "type": "Media",
-            "url": "./images/673.jpg"
+            "url": "./images/181.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

@@ -1,20 +1,20 @@
 {
-    "header_text": "Creative Confidence ",
+    "header_text": "Jokes with Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are invited to a Halloween get-together and will only know a couple of people there. You decide to wear a really elaborate costume. When you arrive, everyone looks at you and probably thinks that you are..."
+            "text": "A group of your co-workers are whispering and looking in your direction. Some of them are laughing really hard. You don't have time to go say hi, and you think they were probably laughing at a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Creative Confidence _Social Situations_puzzle1",
+            "name": "Jokes with Friends _Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "creative"
+                "joke"
             ],
             "missing_letter_count": 1
         }

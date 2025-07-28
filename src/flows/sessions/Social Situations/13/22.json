@@ -1,14 +1,14 @@
 {
-    "header_text": "Inside Jokes ",
+    "header_text": "Social Media Self-Confidence",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Inside Jokes "
+            "text": "Social Media Self-Confidence"
         },
         {
             "type": "Media",
-            "url": "./images/332.jpg"
+            "url": "./images/663.jpg"
         }
     ],
     "type": "positive",

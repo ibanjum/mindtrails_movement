@@ -1,25 +1,25 @@
 {
-    "header_text": "Catching Your Breath",
+    "header_text": "Long Distance Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "It's a cool morning, and you're walking to get to your office. You start to feel really winded as you make it to the door. You take a second to breathe and feel..."
+            "text": "You reach the end of the trail, and your friends are taking pictures. Even though you're anxious, you go look around and..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Catching Your Breath_Physical Health_puzzle1",
+            "name": "Long Distance Walk_Physical Health_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "calm"
+                "smile"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

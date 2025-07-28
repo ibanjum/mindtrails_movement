@@ -1,16 +1,16 @@
 {
-    "header_text": "Spring Allergies",
+    "header_text": "Recent Exposure",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Spring Allergies"
+            "text": "Recent Exposure"
         },
         {
             "type": "Media",
-            "url": "./images/489.jpg"
+            "url": "./images/488.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Friends Excluding You",
+    "header_text": "Long Weekend Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friends Excluding You"
+            "text": "Long Weekend Alone"
         },
         {
             "type": "Media",
-            "url": "./images/688.jpg"
+            "url": "./images/687.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

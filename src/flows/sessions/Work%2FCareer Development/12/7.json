@@ -1,16 +1,16 @@
 {
-    "header_text": "New Skill",
+    "header_text": "Speaking Up at Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Skill"
+            "text": "Speaking Up at Work"
         },
         {
             "type": "Media",
-            "url": "./images/86.jpg"
+            "url": "./images/87.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

@@ -3,15 +3,14 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "After the presentation, you realize that these mistakes are common. The supervisor probably thinks your recovery and ability to continue presenting was very..."
+            "type": "Label",
+            "text": "Practicing Presentation"
         },
         {
-            "type": "Entry",
-            "name": "Practicing Presentation_Social Situations_entry2"
+            "type": "Media",
+            "url": "./images/639.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 4
 }

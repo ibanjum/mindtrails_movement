@@ -1,25 +1,25 @@
 {
-    "header_text": "Extra Income",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've recently been feeling overwhelmed with work, but you know that you need to get a second job to be in a more stable financial situation. While searching online for jobs, you saw an application for a job that sounds really fun for you. You think that working this second job will be... "
+            "text": "You have been called in for a performance review with your boss. Overall, you do good work. You know your boss has noticed some errors..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Extra Income_Work/Career Development_puzzle1",
+            "name": "Reviewing Your Work _Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "manageable"
+                "recently"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

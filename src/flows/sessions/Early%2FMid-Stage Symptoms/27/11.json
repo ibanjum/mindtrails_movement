@@ -1,16 +1,16 @@
 {
-    "header_text": "Cooking Struggle",
+    "header_text": "Morning Coffee",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cooking Struggle"
+            "text": "Morning Coffee"
         },
         {
             "type": "Media",
-            "url": "./images/247.jpg"
+            "url": "./images/761.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

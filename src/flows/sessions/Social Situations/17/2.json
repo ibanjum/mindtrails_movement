@@ -1,20 +1,20 @@
 {
-    "header_text": "An Invitation",
+    "header_text": "Lightening the Mood",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You invite your supervisor to an event this weekend. You're the only one of your friends that's close with their supervisor and are unsure of how others will perceive you. As you get ready for the event, you feel..."
+            "text": "You are trying to think of a good joke to put in the next email you send out to your friend group. You find a really funny one on a website after doing a quick search, but this is the first time you're ending your emails with a joke. Your friends will think that it's..."
         },
         {
             "type": "WordPuzzle",
-            "name": "An Invitation_Social Situations_puzzle1",
+            "name": "Lightening the Mood_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "happy"
+                "funny"
             ],
             "missing_letter_count": 2
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Talking about the Future",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Talking about the Future"
+            "text": "Beach Vacation"
         },
         {
             "type": "Media",
-            "url": "./images/207.jpg"
+            "url": "./images/206.jpg"
         }
     ],
     "type": "positive",

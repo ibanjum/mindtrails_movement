@@ -1,29 +1,25 @@
 {
-    "header_text": "Hospital waiting room",
+    "header_text": "Vacationing by plane",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "If you wash your hands, you will most likely ..."
+            "text": "You are traveling to your vacation destination on an airplane. As the plane accelerates during takeoff, your chest begins to feel tight. You decide to do five minutes of a breathing exercise, and you end up feeling..."
         },
         {
-            "type": "Buttons",
-            "name": "Hospital waiting room_Physical Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "Vacationing by plane_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Still get sick.",
-                "Stay healthy."
+            "display_delay": 2000,
+            "words": [
+                "relaxed"
             ],
-            "columnCount": 1,
-            "correct_value": "Still get sick."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
     "scenario_num": 1
 }

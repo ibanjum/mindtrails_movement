@@ -1,14 +1,14 @@
 {
-    "header_text": "Fitness Class",
+    "header_text": "Dream Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to remain active?"
+            "Text": "Can you still be excited about your dream car?"
         },
         {
             "type": "Buttons",
-            "name": "Fitness Class_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Dream Car_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

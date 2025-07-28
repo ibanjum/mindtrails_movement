@@ -1,16 +1,26 @@
 {
-    "header_text": "Checks at the dentist",
+    "header_text": "Sports game cheers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Checks at the dentist"
+            "text": "Sports game cheers"
         },
         {
             "type": "Media",
-            "url": "./images/348.jpg"
+            "url": "./images/446.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "negative",
+    "scenario_num": 5,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "New Environment",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Environment"
+            "text": "Party with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/703.jpg"
+            "url": "./images/379.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

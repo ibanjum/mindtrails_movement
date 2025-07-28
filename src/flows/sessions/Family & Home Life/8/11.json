@@ -1,14 +1,14 @@
 {
-    "header_text": "Political Opinions",
+    "header_text": "A Few Falls",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Political Opinions"
+            "text": "A Few Falls"
         },
         {
             "type": "Media",
-            "url": "./images/174.jpg"
+            "url": "./images/217.jpg"
         }
     ],
     "type": "resilience/negation",

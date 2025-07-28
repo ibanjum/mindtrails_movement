@@ -1,25 +1,39 @@
 {
-    "header_text": "Weekly Game Night",
+    "header_text": "House Play",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You usually lead the scoreboard during your family's weekly game night. You notice that you've been scoring less points over time. You figure your children must be getting better, and that makes you feel..."
+            "Text": "You know that your son will be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Weekly Game Night_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "House Play_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "great"
+            "buttons": [
+                "Upset",
+                "At ease"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "At ease"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Talking about the Future",
+    "header_text": "Record Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Talking about the Future"
+            "text": "Record Store"
         },
         {
             "type": "Media",
-            "url": "./images/207.jpg"
+            "url": "./images/799.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

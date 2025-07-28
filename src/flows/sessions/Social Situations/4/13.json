@@ -1,16 +1,16 @@
 {
-    "header_text": "Late friends",
+    "header_text": "A different perspective",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Late friends"
+            "text": "A different perspective"
         },
         {
             "type": "Media",
-            "url": "./images/624.jpg"
+            "url": "./images/623.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

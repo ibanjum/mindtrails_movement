@@ -1,29 +1,29 @@
 {
-    "header_text": "Cold Weather",
+    "header_text": "Spacing out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Before you got indoors again, you... "
+            "Text": "Do you feel calm after you space out during the meeting?"
         },
         {
             "type": "Buttons",
-            "name": "Cold Weather_Physical Health_comp_question",
+            "name": "Spacing out_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Assume that something bad is happening to you.",
-                "Tolerate your body's normal response to the cold."
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Tolerate your body's normal response to the cold."
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

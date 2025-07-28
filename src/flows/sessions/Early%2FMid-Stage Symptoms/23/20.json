@@ -1,25 +1,16 @@
 {
-    "header_text": "Beach Walk",
+    "header_text": "Shopping Help",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You are on a trip to the beach with a close friend. Walking in the sand is making you lose your balance, and you are afraid to fall. You stop walking and look out at the water, feeling..."
+            "type": "Label",
+            "text": "Shopping Help"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Beach Walk_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "awe"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/838.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 6
 }

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "When checking the site over the next few weeks, you expect"
+            "Text": "When checking the site over the next few weeks, you expect..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "To receive lots of messages from other users.",
-                "To get very few contacts."
+                "To receive lots of messages from other users",
+                "To get very few contacts"
             ],
             "columnCount": 1,
-            "correct_value": "To get very few contacts."
+            "correct_value": "To get very few contacts"
         }
     ],
     "navigation_conditions": [

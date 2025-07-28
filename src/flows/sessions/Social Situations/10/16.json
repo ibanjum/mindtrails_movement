@@ -1,16 +1,16 @@
 {
-    "header_text": "Trivia Night",
+    "header_text": "Sharing Favorite Shows",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trivia Night"
+            "text": "Sharing Favorite Shows"
         },
         {
             "type": "Media",
-            "url": "./images/652.jpg"
+            "url": "./images/388.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

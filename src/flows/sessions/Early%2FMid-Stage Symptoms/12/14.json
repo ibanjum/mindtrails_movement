@@ -1,14 +1,14 @@
 {
-    "header_text": "Paying With Cash",
+    "header_text": "Moving to a New City",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Paying With Cash"
+            "text": "Moving to a New City"
         },
         {
             "type": "Media",
-            "url": "./images/787.jpg"
+            "url": "./images/789.jpg"
         }
     ],
     "type": "positive",

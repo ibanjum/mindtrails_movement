@@ -1,26 +1,16 @@
 {
-    "header_text": "Gardening",
+    "header_text": "Forgetting the Laundry",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Gardening"
+            "text": "Forgetting the Laundry"
         },
         {
             "type": "Media",
-            "url": "./images/937.jpg"
+            "url": "./images/739.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 6,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "type": "positive",
+    "scenario_num": 6
 }

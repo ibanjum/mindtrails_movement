@@ -1,16 +1,16 @@
 {
-    "header_text": "Certainty of being correct",
+    "header_text": "A Little Stumble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Certainty of being correct"
+            "text": "A Little Stumble"
         },
         {
             "type": "Media",
-            "url": "./images/10.jpg"
+            "url": "./images/59.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

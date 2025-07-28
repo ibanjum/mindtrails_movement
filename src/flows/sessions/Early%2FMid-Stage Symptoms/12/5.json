@@ -1,25 +1,25 @@
 {
-    "header_text": "Spiritual Journey",
+    "header_text": "Symptoms at Shopping Mall",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your spiritual journey has become more important to you in recent years. As your HD symptoms progress, you find it difficult to concentrate on developing your spiritual practice more. After taking some time to reflect on your struggles, you feel that your spiritual practice will..."
+            "text": "While you're in a shopping mall, your tremor is worse than usual while trying on clothes. You wonder whether to call your doctor but worry they will think you are overreacting. You decide to call and make an appointment while feeling..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Spiritual Journey_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Symptoms at Shopping Mall_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "adapt"
+                "nervous"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

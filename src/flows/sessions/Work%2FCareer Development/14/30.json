@@ -1,14 +1,14 @@
 {
-    "header_text": "A New Opportunity",
+    "header_text": "Work-Life Balance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A New Opportunity"
+            "text": "Work-Life Balance"
         },
         {
             "type": "Media",
-            "url": "./images/73.jpg"
+            "url": "./images/106.jpg"
         }
     ],
     "type": "positive",

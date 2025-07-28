@@ -1,14 +1,14 @@
 {
-    "header_text": "Computer Screen Problems",
+    "header_text": "Headache at the Doctor's Office",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Computer Screen Problems"
+            "text": "Headache at the Doctor's Office"
         },
         {
             "type": "Media",
-            "url": "./images/504.jpg"
+            "url": "./images/503.jpg"
         }
     ],
     "type": "positive",

@@ -1,25 +1,29 @@
 {
-    "header_text": "Building Project",
+    "header_text": "Farmer's Market Sweets",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are buying tools at the hardware store with your son to start a new project. You think about how your son will have to do most of the building because of your PD. You are still eager to complete the project, knowing you both will make a new... "
+            "Text": "Buying the cookie is a..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Building Project_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Farmer's Market Sweets_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "memory"
+            "buttons": [
+                "Mistake",
+                "Treat"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Treat"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 3
 }

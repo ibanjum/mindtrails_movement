@@ -1,14 +1,14 @@
 {
-    "header_text": "Luncheon Looks",
+    "header_text": "Posting about Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Luncheon Looks"
+            "text": "Posting about Family"
         },
         {
             "type": "Media",
-            "url": "./images/699.jpg"
+            "url": "./images/175.jpg"
         }
     ],
     "type": "positive",

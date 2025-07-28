@@ -1,23 +1,23 @@
 {
-    "header_text": "Confusing Movie",
+    "header_text": "Dentist Difficulty",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Checking in with your family is..."
+            "Text": "The dentist is..."
         },
         {
             "type": "Buttons",
-            "name": "Confusing Movie_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Dentist Difficulty_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Reassuring",
-                "Upsetting"
+                "Bothered",
+                "Accepting"
             ],
             "columnCount": 1,
-            "correct_value": "Reassuring"
+            "correct_value": "Accepting"
         }
     ],
     "navigation_conditions": [

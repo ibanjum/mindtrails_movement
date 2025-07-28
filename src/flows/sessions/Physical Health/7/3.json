@@ -1,23 +1,23 @@
 {
-    "header_text": "Sensational Party",
+    "header_text": "Annual checkup results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "People will probably..."
+            "Text": "Are your worries about your blood test results tolerable? "
         },
         {
             "type": "Buttons",
-            "name": "Sensational Party_Physical Health_comp_question",
+            "name": "Annual checkup results_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Notice that you are sweating",
-                "Not see you sweat since the room is dimly lit"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Not see you sweat since the room is dimly lit"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

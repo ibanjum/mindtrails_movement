@@ -1,16 +1,16 @@
 {
-    "header_text": "Daughter's Birthday",
+    "header_text": "Tripping at Family Barbecue",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Daughter's Birthday"
+            "text": "Tripping at Family Barbecue"
         },
         {
             "type": "Media",
-            "url": "./images/831.jpg"
+            "url": "./images/215.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

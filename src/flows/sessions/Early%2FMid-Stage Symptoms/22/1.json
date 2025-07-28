@@ -1,14 +1,14 @@
 {
-    "header_text": "Online Shopping",
+    "header_text": "Baking Cookies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Online Shopping"
+            "text": "Baking Cookies"
         },
         {
             "type": "Media",
-            "url": "./images/222.jpg"
+            "url": "./images/223.jpg"
         }
     ],
     "type": "positive",

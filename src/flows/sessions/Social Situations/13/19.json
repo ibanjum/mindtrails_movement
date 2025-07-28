@@ -1,16 +1,16 @@
 {
-    "header_text": "Social Media Self-Confidence",
+    "header_text": "Meeting Rush",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Media Self-Confidence"
+            "text": "Meeting Rush"
         },
         {
             "type": "Media",
-            "url": "./images/663.jpg"
+            "url": "./images/662.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

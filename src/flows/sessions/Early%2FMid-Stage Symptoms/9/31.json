@@ -1,25 +1,29 @@
 {
-    "header_text": "Dismissive Doctor",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a visit with your doctor today in regards to some new symptoms of PD you've been experiencing. Your doctor doesn't seem to be listening intentionally and forgets some of the signs you mentioned. You kindly repeat your concerns knowing their day has likely been... "
+            "Text": "Swimming in the ocean with your nieces and nephews will be..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Dismissive Doctor_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Beach Vacation_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "long"
+            "buttons": [
+                "Amusing",
+                "Unpleasant"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Amusing"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 9
 }

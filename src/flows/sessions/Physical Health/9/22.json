@@ -1,14 +1,14 @@
 {
-    "header_text": "Getting into the Groove",
+    "header_text": "Feeling Dizzy",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Getting into the Groove"
+            "text": "Feeling Dizzy"
         },
         {
             "type": "Media",
-            "url": "./images/487.jpg"
+            "url": "./images/486.jpg"
         }
     ],
     "type": "positive",

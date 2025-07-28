@@ -1,14 +1,14 @@
 {
-    "header_text": "Workout Whispers",
+    "header_text": "Forgotten Item",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Workout Whispers"
+            "text": "Forgotten Item"
         },
         {
             "type": "Media",
-            "url": "./images/412.jpg"
+            "url": "./images/413.jpg"
         }
     ],
     "type": "positive",

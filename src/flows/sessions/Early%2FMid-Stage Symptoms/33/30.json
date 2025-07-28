@@ -1,14 +1,14 @@
 {
-    "header_text": "Support Group",
+    "header_text": "Kitchen Coordination",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Support Group"
+            "text": "Kitchen Coordination"
         },
         {
             "type": "Media",
-            "url": "./images/427.jpg"
+            "url": "./images/246.jpg"
         }
     ],
     "type": "positive",

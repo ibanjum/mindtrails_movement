@@ -1,16 +1,29 @@
 {
-    "header_text": "Baking Cookies",
+    "header_text": "Retirement Celebration",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Baking Cookies"
+            "type": "Text",
+            "Text": "The realization that your family is coming together for you makes you feel... "
         },
         {
-            "type": "Media",
-            "url": "./images/223.jpg"
+            "type": "Buttons",
+            "name": "Retirement Celebration_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Pessimistic",
+                "Optimistic"
+            ],
+            "columnCount": 1,
+            "correct_value": "Optimistic"
         }
     ],
-    "type": "positive",
-    "scenario_num": 2
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

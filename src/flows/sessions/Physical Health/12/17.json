@@ -1,14 +1,14 @@
 {
-    "header_text": "Hard Walk",
+    "header_text": "Late Communication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hard Walk"
+            "text": "Late Communication"
         },
         {
             "type": "Media",
-            "url": "./images/499.jpg"
+            "url": "./images/498.jpg"
         }
     ],
     "type": "positive",

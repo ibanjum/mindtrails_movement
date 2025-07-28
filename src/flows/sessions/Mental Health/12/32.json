@@ -1,20 +1,20 @@
 {
-    "header_text": "Trip to the Dentist",
+    "header_text": "Vacation Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does the dentist provide comfort?"
+            "Text": "Can you still take time for yourself on a budget?"
         },
         {
             "type": "Buttons",
-            "name": "Trip to the Dentist_Mental Health_comp_question",
+            "name": "Vacation Costs_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "Yes"

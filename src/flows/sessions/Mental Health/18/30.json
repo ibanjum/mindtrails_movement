@@ -1,14 +1,14 @@
 {
-    "header_text": "Interview anticipation",
+    "header_text": "A night off",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Interview anticipation"
+            "text": "A night off"
         },
         {
             "type": "Media",
-            "url": "./images/12.jpg"
+            "url": "./images/22.jpg"
         }
     ],
     "type": "positive",

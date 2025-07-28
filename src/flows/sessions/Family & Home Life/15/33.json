@@ -1,20 +1,20 @@
 {
-    "header_text": "Puzzle Time",
+    "header_text": "Baking Cookies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your grandchild loves puzzles, so you are working on one together. You feel like the puzzle should be easy, but you are struggling to find and fit the pieces. You allow your grandchild to complete the puzzle alone, and watching them makes you..."
+            "text": "You have decorated cookies with your grandchild and placed them in the oven to bake. As you pull the tray out, it drops to the floor, breaking a few of the cookies. You feel like you disappointed your grandkid, but they let out a... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Puzzle Time_Family & Home Life_puzzle1",
+            "name": "Baking Cookies_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "joyful"
+                "giggle"
             ],
             "missing_letter_count": 1
         }

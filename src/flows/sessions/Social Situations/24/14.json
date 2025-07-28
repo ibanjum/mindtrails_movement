@@ -1,14 +1,14 @@
 {
-    "header_text": "Your Friend's Support",
+    "header_text": "Friendships in the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your Friend's Support"
+            "text": "Friendships in the Future"
         },
         {
             "type": "Media",
-            "url": "./images/708.jpg"
+            "url": "./images/707.jpg"
         }
     ],
     "type": "positive",

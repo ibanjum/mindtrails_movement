@@ -1,10 +1,29 @@
 {
-    "header_text": "Manage Your Feelings: Family & Home Life",
+    "header_text": "Babysitting Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "If a particular assignment feels daunting, choose a certain time of day when you tend to feel most motivated to try and complete it. "
+            "Text": "Your grandchild is..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Babysitting Questions_Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Happy to be with you",
+                "Feeling impatient"
+            ],
+            "columnCount": 1,
+            "correct_value": "Happy to be with you"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

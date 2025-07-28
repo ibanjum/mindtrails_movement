@@ -1,25 +1,25 @@
 {
-    "header_text": "Brushing Teeth",
+    "header_text": "Getting Coffee",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You wake up feeling particularly anxious and stiff. It is hard to get out of bed, and you struggle as you try to go about your morning routine. You find that you are unable to brush your teeth, and you begin to..."
+            "text": "You are waiting for your drink at a cafe. When you think about walking over to pick up your drink, you fear others will notice your unsteady walking. As you're walking over, your legs are noticeably unstable with each step, and you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Brushing Teeth_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Getting Coffee_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "panic"
+                "embarrassment"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 2
 }

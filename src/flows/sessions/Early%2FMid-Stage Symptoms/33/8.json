@@ -1,20 +1,20 @@
 {
-    "header_text": "Book Club Meeting",
+    "header_text": "Medication Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at at your monthly book club meeting. Your friends keep asking you to repeat yourself, which makes you feel irritated and unsettled. You practice breathing exercises that help you regulate your emotions and end up having a good..."
+            "text": "A new PD medication was just approved. While this makes you excited, today you're feeling anxious about how expensive your future health care is going to get. As you search the web for information about support resources, you begin to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Book Club Meeting_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Medication Costs_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "time"
+                "relax"
             ],
             "missing_letter_count": 2
         }

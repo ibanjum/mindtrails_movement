@@ -1,16 +1,16 @@
 {
-    "header_text": "Crowded Waiting Room",
+    "header_text": "Avid Traveler",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Crowded Waiting Room"
+            "text": "Avid Traveler"
         },
         {
             "type": "Media",
-            "url": "./images/967.jpg"
+            "url": "./images/765.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

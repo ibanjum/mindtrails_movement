@@ -1,14 +1,14 @@
 {
-    "header_text": "Dinner Party",
+    "header_text": "New Costs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dinner Party"
+            "text": "New Costs"
         },
         {
             "type": "Media",
-            "url": "./images/732.jpg"
+            "url": "./images/747.jpg"
         }
     ],
     "type": "positive",

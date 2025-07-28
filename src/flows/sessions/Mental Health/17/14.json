@@ -1,14 +1,14 @@
 {
-    "header_text": "Feeling Excluded on Social Media",
+    "header_text": "Time to Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Excluded on Social Media"
+            "text": "Time to Yourself"
         },
         {
             "type": "Media",
-            "url": "./images/398.jpg"
+            "url": "./images/177.jpg"
         }
     ],
     "type": "positive",

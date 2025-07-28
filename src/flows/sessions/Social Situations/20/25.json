@@ -1,14 +1,10 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Manage Your Feelings: Social Situations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think of something that caused you anxiety the first time you did it. What strategies helped you work through that?"
-        },
-        {
-            "type": "Entry",
-            "name": "Tip #1_entry"
+            "text": "Think of times in your past when you were worried about an aspect of your physical health that ended up being perfectly normal."
         }
     ]
 }

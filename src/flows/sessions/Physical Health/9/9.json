@@ -1,16 +1,16 @@
 {
-    "header_text": "Upset Stomach",
+    "header_text": "Sleep Sensations ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Upset Stomach"
+            "text": "Sleep Sensations "
         },
         {
             "type": "Media",
-            "url": "./images/482.jpg"
+            "url": "./images/481.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

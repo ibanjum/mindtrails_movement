@@ -1,16 +1,16 @@
 {
-    "header_text": "Best Friend's Party",
+    "header_text": "Difficult Handoff",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Best Friend's Party"
+            "text": "Difficult Handoff"
         },
         {
             "type": "Media",
-            "url": "./images/811.jpg"
+            "url": "./images/813.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

@@ -1,25 +1,16 @@
 {
-    "header_text": "Appointment with the doctor",
+    "header_text": "Hospital waiting room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You have been feeling a little sick lately, so you schedule a doctor's appointment. The soonest appointment you can get is a few days away. While you wait for your doctor's appointment, you think your sickness is probably..."
+            "type": "Label",
+            "text": "Hospital waiting room"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Appointment with the doctor_Physical Health_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "temporary"
-            ],
-            "missing_letter_count": 1
+            "type": "Media",
+            "url": "./images/430.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 6
 }

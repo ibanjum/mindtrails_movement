@@ -1,25 +1,29 @@
 {
-    "header_text": "Cocktail Party",
+    "header_text": "Giving a Toast",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You and your partner develop a system to help jog your memory. Having your partner there to help you remember people's names allows you to enjoy the party and feel more..."
+            "Text": "During your toast, your family members are..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Cocktail Party_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Giving a Toast_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "comfortable"
+            "buttons": [
+                "Disappointed",
+                "Focused"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Focused"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 0
 }

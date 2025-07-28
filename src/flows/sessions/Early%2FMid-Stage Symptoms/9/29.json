@@ -1,29 +1,16 @@
 {
-    "header_text": "Name Recall ",
+    "header_text": "Beach Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "The new friend's response is a sign of..."
+            "type": "Label",
+            "text": "Beach Vacation"
         },
         {
-            "type": "Buttons",
-            "name": "Name Recall _Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Relief",
-                "Frustration"
-            ],
-            "columnCount": 1,
-            "correct_value": "Relief"
+            "type": "Media",
+            "url": "./images/206.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 9
 }

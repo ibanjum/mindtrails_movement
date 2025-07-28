@@ -1,14 +1,14 @@
 {
-    "header_text": "Sweat Stains",
+    "header_text": "Coughing at the Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sweat Stains"
+            "text": "Coughing at the Store"
         },
         {
             "type": "Media",
-            "url": "./images/483.jpg"
+            "url": "./images/513.jpg"
         }
     ],
     "type": "positive",

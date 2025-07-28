@@ -1,20 +1,20 @@
 {
-    "header_text": "Medical Presentation",
+    "header_text": "Research Study Risks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at an educational event about Parkinson's disease, and one of the speakers is using unfamiliar medical terms. You feel lost, and you become nervous that you are the only person having trouble understanding the presentation. You look around at the people near you and notice that everyone else seems..."
+            "text": "You were recently invited to participate in a PD research study. As you review the study information and potential side effects, you begin to feel hesitant. After talking it over with the research coordinator, you decide that the risks of the study are..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Medical Presentation_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Research Study Risks_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "confused"
+                "low"
             ],
             "missing_letter_count": 2
         }

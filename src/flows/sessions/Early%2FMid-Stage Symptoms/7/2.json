@@ -1,20 +1,20 @@
 {
-    "header_text": "House Cleaning",
+    "header_text": "Future Gym Visits",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You take pride in your home and like to deep clean it regularly. Lately, you've been feeling more tired and have had to hire someone to help you clean your house. Having someone else there to help you clean makes you feel..."
+            "text": "You're at the gym lifting weights when you suddenly feel off balance. You pause your workout out of concern and wonder how you will continue to exercise as your disease progresses. You remember that working out is important for your well-being, so you decide to embrace the future with..."
         },
         {
             "type": "WordPuzzle",
-            "name": "House Cleaning_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Future Gym Visits_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "grateful"
+                "optimism"
             ],
             "missing_letter_count": 2
         }

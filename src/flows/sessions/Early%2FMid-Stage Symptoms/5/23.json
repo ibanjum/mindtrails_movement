@@ -1,20 +1,20 @@
 {
-    "header_text": "Facial Expression ",
+    "header_text": "Future Dog Walking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You make a lighthearted joke that breaks the tension and your friends realize you aren't angry at all. They quickly grasp your true warmth and everyone feels..."
+            "text": "You remind yourself that your dog's love is unconditional and that you can find creative ways to care for them. This helps you to see the future more..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Facial Expression _Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "Future Dog Walking_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "happy"
+                "positively"
             ],
             "missing_letter_count": 2
         }

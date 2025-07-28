@@ -1,16 +1,16 @@
 {
-    "header_text": "Critical Friend",
+    "header_text": "Managing Stress",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Critical Friend"
+            "text": "Managing Stress"
         },
         {
             "type": "Media",
-            "url": "./images/169.jpg"
+            "url": "./images/484.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

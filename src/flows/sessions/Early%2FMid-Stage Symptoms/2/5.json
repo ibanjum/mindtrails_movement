@@ -1,26 +1,25 @@
 {
-    "header_text": "Keys Forgotten",
+    "header_text": "Gathering at the park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Keys Forgotten"
+            "type": "Text",
+            "text": "You're attending a family gathering at a park and are worried when you notice your hands are trembling more than usual. Your anxiety makes your hands shake worse, making you even more anxious. You sit down and take several deep, calming breaths, and your tremor starts to..."
         },
         {
-            "type": "Media",
-            "url": "./images/208.jpg"
+            "type": "WordPuzzle",
+            "name": "Gathering at the park_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "subside"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 1,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
-            }
-        ],
-        "position": "before",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
 }

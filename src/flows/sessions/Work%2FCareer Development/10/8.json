@@ -1,17 +1,16 @@
 {
-    "header_text": "Committing to Activities",
+    "header_text": "Taking Your Own Career Path",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You were very excited to return to in-person office work and decided to commit to a lot of activities. You've found it challenging to meet all of your responsibilities, and you worry that you are failing at... "
+            "type": "Label",
+            "text": "Taking Your Own Career Path"
         },
         {
-            "type": "Entry",
-            "name": "Committing to Activities_Work/Career Development_entry1"
+            "type": "Media",
+            "url": "./images/78.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

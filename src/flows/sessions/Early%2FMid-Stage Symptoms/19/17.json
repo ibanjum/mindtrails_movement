@@ -1,16 +1,16 @@
 {
-    "header_text": "Formal Event",
+    "header_text": "Fresh Air",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Formal Event"
+            "text": "Fresh Air"
         },
         {
             "type": "Media",
-            "url": "./images/592.jpg"
+            "url": "./images/210.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

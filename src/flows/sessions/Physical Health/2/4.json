@@ -1,14 +1,14 @@
 {
-    "header_text": "Health evaluation",
+    "header_text": "First time skydiving",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Health evaluation"
+            "text": "First time skydiving"
         },
         {
             "type": "Media",
-            "url": "./images/438.jpg"
+            "url": "./images/437.jpg"
         }
     ],
     "type": "positive",

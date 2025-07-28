@@ -1,16 +1,16 @@
 {
-    "header_text": "Stress in Your Relationship",
+    "header_text": "Puzzle Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Stress in Your Relationship"
+            "text": "Puzzle Time"
         },
         {
             "type": "Media",
-            "url": "./images/225.jpg"
+            "url": "./images/224.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 0
 }

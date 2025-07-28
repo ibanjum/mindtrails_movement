@@ -1,14 +1,14 @@
 {
-    "header_text": "Locked door",
+    "header_text": "Office Talk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Locked door"
+            "text": "Office Talk"
         },
         {
             "type": "Media",
-            "url": "./images/102.jpg"
+            "url": "./images/103.jpg"
         }
     ],
     "type": "positive",

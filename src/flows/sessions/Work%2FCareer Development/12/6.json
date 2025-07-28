@@ -1,29 +1,29 @@
 {
-    "header_text": "Taking a Break",
+    "header_text": "New Skill",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Should you do your work right now?"
+            "Text": "You will most likely"
         },
         {
             "type": "Buttons",
-            "name": "Taking a Break_Work/Career Development_comp_question",
+            "name": "New Skill_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Complete the program and learn some useful data science skills.",
+                "Quit this program because you are doing poorly."
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Quit this program because you are doing poorly."
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

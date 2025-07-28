@@ -1,14 +1,14 @@
 {
-    "header_text": "Borrowing from a Friend",
+    "header_text": "Learning Social Media Dances",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your friend think that you took their charger on purpose?"
+            "Text": "Are you anxious about playing this game in front of your coworker?\n"
         },
         {
             "type": "Buttons",
-            "name": "Borrowing from a Friend_Social Situations_comp_question",
+            "name": "Learning Social Media Dances_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,13 +17,13 @@
                 "No"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 7
 }

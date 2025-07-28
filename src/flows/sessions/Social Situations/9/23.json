@@ -1,17 +1,17 @@
 {
-    "header_text": "Zoning Out",
+    "header_text": "Grocery Store Experience",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are sitting in an online meeting and space out for a minute. Your boss asks you a question, and you don't hear it. You ask her to repeat her question, and this makes you feel..."
+            "text": "In the end, you realize that people were probably just surprised by the sound. The shoppers saw that no one was injured and probably felt..."
         },
         {
             "type": "Entry",
-            "name": "Zoning Out_Social Situations_entry1"
+            "name": "Grocery Store Experience_Social Situations_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

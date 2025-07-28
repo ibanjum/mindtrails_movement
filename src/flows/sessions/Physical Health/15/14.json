@@ -1,16 +1,16 @@
 {
-    "header_text": "Out of Your Control",
+    "header_text": "Rearranging After Exposure",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Out of Your Control"
+            "text": "Rearranging After Exposure"
         },
         {
             "type": "Media",
-            "url": "./images/65.jpg"
+            "url": "./images/75.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Prospective Excitement",
+    "header_text": "Extra Income",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you anxious about your plans for the end of the year?"
+            "Text": "Do you think you'll thrive with a second job?"
         },
         {
             "type": "Buttons",
-            "name": "Prospective Excitement_Work/Career Development_comp_question",
+            "name": "Extra Income_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,7 +17,7 @@
                 "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

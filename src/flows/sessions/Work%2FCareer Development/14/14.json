@@ -1,16 +1,16 @@
 {
-    "header_text": "Office Talk",
+    "header_text": "Your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Office Talk"
+            "text": "Your Resume"
         },
         {
             "type": "Media",
-            "url": "./images/103.jpg"
+            "url": "./images/93.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

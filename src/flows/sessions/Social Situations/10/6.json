@@ -1,14 +1,14 @@
 {
-    "header_text": "Wearing Something Old",
+    "header_text": "Your New Post",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You get invited to an office party and you decide to wear a suit you got last year. You arrive and everyone else seems to have an outfit that is brand new. As you walk around, the host comes up to you and says you look..."
+            "text": "You just posted a new picture an hour ago. When you check how many likes it has gotten, you see no one has liked it yet. It's late at night, and you realize that everyone is..."
         },
         {
             "type": "Entry",
-            "name": "Wearing Something Old_Social Situations_entry1"
+            "name": "Your New Post_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

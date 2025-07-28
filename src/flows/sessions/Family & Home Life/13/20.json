@@ -1,16 +1,16 @@
 {
-    "header_text": "Weekly Game Night",
+    "header_text": "Future Dog Walking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Weekly Game Night"
+            "text": "Future Dog Walking"
         },
         {
             "type": "Media",
-            "url": "./images/202.jpg"
+            "url": "./images/201.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

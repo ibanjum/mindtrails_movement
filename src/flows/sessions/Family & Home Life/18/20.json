@@ -1,16 +1,29 @@
 {
-    "header_text": "Reading before Bedtime",
+    "header_text": "Long Distance Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Reading before Bedtime"
+            "type": "Text",
+            "Text": "You can see your spouse saying"
         },
         {
-            "type": "Media",
-            "url": "./images/240.jpg"
+            "type": "Buttons",
+            "name": "Long Distance Relationship_Family & Home Life_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "\"I'm so glad we are able to do this together.\"",
+                "\"I don't think this is working out.\""
+            ],
+            "columnCount": 1,
+            "correct_value": "\"I don't think this is working out.\""
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 5
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Risky Behavior",
+    "header_text": "Trick or Treat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Risky Behavior"
+            "text": "Trick or Treat"
         },
         {
             "type": "Media",
-            "url": "./images/670.jpg"
+            "url": "./images/669.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 5
 }

@@ -1,17 +1,17 @@
 {
-    "header_text": "Working to Get Ahead",
+    "header_text": "Ready to Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you envision your likely position in the company down the road, you do not see yourself getting passed by, and you expect the job you want will be given to..."
+            "text": "You have a lot of tasks to finish tomorrow. You've been procrastinating getting it done because it is going to be hard. When you think about doing your work tonight, you feel..."
         },
         {
             "type": "Entry",
-            "name": "Working to Get Ahead_Mental Health_entry2"
+            "name": "Ready to Work_Mental Health_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

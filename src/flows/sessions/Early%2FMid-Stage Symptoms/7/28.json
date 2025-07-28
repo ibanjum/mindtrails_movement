@@ -1,20 +1,20 @@
 {
-    "header_text": "Crafts and Crochet",
+    "header_text": "Produce Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have more free time lately, so you've been trying new crafts. While trying to crochet a coaster, you make an error in the pattern. You decide that your attempt to learn this new skill is..."
+            "text": "You are shopping for fresh fruits and vegetables in the produce section at the store. When you see all the options, you feel overwhelmed about making decisions on the spot. You check your list and only buy what you... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Crafts and Crochet_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Produce Shopping_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "worthwhile"
+                "need"
             ],
             "missing_letter_count": 2
         }

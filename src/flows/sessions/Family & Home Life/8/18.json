@@ -1,10 +1,10 @@
 {
-    "header_text": "Your First Child",
+    "header_text": "Evolving Relationship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your First Child"
+            "text": "Evolving Relationship"
         },
         {
             "type": "Media",

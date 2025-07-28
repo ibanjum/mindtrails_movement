@@ -1,23 +1,23 @@
 {
-    "header_text": "Yoga Routine",
+    "header_text": "Unfamiliar Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Making a mistake shows that you are..."
+            "Text": "Are you able to find your way home?"
         },
         {
             "type": "Buttons",
-            "name": "Yoga Routine_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Unfamiliar Walk_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Incapable",
-                "Learning"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Learning"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

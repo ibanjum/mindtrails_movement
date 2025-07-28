@@ -1,16 +1,16 @@
 {
-    "header_text": "Presentation Panic",
+    "header_text": "Dry Difficulty",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Presentation Panic"
+            "text": "Dry Difficulty"
         },
         {
             "type": "Media",
-            "url": "./images/108.jpg"
+            "url": "./images/480.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

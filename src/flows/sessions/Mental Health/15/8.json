@@ -1,16 +1,16 @@
 {
-    "header_text": "Sharing Favorite Shows",
+    "header_text": "Mental Health Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sharing Favorite Shows"
+            "text": "Mental Health Issues"
         },
         {
             "type": "Media",
-            "url": "./images/388.jpg"
+            "url": "./images/389.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

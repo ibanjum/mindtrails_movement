@@ -1,25 +1,25 @@
 {
-    "header_text": "Important Opinion",
+    "header_text": "Not Getting a Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "In the end, you realize that they brought the error to your attention so you could improve it before sending it in. You fix the incomplete section and believe that your boss head thinks you are..."
+            "text": "You notice that your significant other has not been as responsive to your messages recently. This is unlike them, as they typically respond right away. You know they have been extra busy and that is likely why they haven't been..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Important Opinion_Mental Health_puzzle_word2",
+            "name": "Not Getting a Response_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "learning"
+                "responding"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

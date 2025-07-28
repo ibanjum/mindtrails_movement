@@ -1,14 +1,14 @@
 {
-    "header_text": "Silence on a drive",
+    "header_text": "Overhearing your name ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Silence on a drive"
+            "text": "Overhearing your name "
         },
         {
             "type": "Media",
-            "url": "./images/619.jpg"
+            "url": "./images/403.jpg"
         }
     ],
     "type": "positive",

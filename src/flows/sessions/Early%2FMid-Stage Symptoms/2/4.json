@@ -1,29 +1,26 @@
 {
-    "header_text": "Forgetting PIN Number",
+    "header_text": "Gathering at the park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Your family didn't respond because they were..."
+            "type": "Label",
+            "text": "Gathering at the park"
         },
         {
-            "type": "Buttons",
-            "name": "Forgetting PIN Number_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Annoyed",
-                "Distracted"
-            ],
-            "columnCount": 1,
-            "correct_value": "Distracted"
+            "type": "Media",
+            "url": "./images/961.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 0
+    "type": "positive",
+    "scenario_num": 1,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember to answer this question based on the ending of the story you just read, not how you think it would end. This will help reinforce more flexible thinking! "
+            }
+        ],
+        "position": "before",
+        "information_count": 1
+    }
 }

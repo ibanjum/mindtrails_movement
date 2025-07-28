@@ -1,25 +1,39 @@
 {
-    "header_text": "Seeing A Dog",
+    "header_text": "Chores and Errands",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are walking with your spouse and see a dog in the distance. You point it out to your spouse, but they can't see anything. You realize you might be hallucinating, and this makes you feel..."
+            "Text": "Are you upset with yourself for having to take a break?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Seeing A Dog_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Chores and Errands_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "helpless"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_training.png"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

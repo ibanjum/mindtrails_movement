@@ -1,16 +1,16 @@
 {
-    "header_text": "Lost in the Forest",
+    "header_text": "Social Changes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lost in the Forest"
+            "text": "Social Changes"
         },
         {
             "type": "Media",
-            "url": "./images/821.jpg"
+            "url": "./images/823.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

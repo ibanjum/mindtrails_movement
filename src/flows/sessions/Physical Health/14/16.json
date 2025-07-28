@@ -1,16 +1,16 @@
 {
-    "header_text": "Trying New Foods",
+    "header_text": "Sweat Stains",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trying New Foods"
+            "text": "Sweat Stains"
         },
         {
             "type": "Media",
-            "url": "./images/336.jpg"
+            "url": "./images/483.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

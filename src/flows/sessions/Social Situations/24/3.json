@@ -1,23 +1,23 @@
 {
-    "header_text": "Reconciling with your friend",
+    "header_text": "Book Club Dinner ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend cancelled the meeting because they are..."
+            "Text": "The other book club members probably..."
         },
         {
             "type": "Buttons",
-            "name": "Reconciling with your friend_Social Situations_comp_question",
+            "name": "Book Club Dinner _Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Mad at you.",
-                "Exhausted from a busy week"
+                "Will not want to be friends outside of the book club",
+                "Will enjoy your company outside the book club"
             ],
             "columnCount": 1,
-            "correct_value": "Exhausted from a busy week"
+            "correct_value": "Will enjoy your company outside the book club"
         }
     ],
     "navigation_conditions": [

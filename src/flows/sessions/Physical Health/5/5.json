@@ -1,14 +1,14 @@
 {
-    "header_text": "Spacing out",
+    "header_text": "An accidental bang",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Spacing out"
+            "text": "An accidental bang"
         },
         {
             "type": "Media",
-            "url": "./images/457.jpg"
+            "url": "./images/456.jpg"
         }
     ],
     "type": "positive",

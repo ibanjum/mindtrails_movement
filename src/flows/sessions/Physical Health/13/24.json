@@ -1,20 +1,20 @@
 {
-    "header_text": "Taking Precautions ",
+    "header_text": "Rescheduled Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think your grandchildren will get the flu?"
+            "Text": "Are you going to stress out if you have to cancel your trip?"
         },
         {
             "type": "Buttons",
-            "name": "Taking Precautions _Physical Health_comp_question",
+            "name": "Rescheduled Vacation_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"

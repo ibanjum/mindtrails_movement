@@ -1,14 +1,14 @@
 {
-    "header_text": "Call Ending Suddenly",
+    "header_text": "Intoxication Situation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Call Ending Suddenly"
+            "text": "Intoxication Situation"
         },
         {
             "type": "Media",
-            "url": "./images/683.jpg"
+            "url": "./images/124.jpg"
         }
     ],
     "type": "positive",

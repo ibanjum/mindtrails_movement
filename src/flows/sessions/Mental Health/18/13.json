@@ -1,29 +1,29 @@
 {
-    "header_text": "Meditation Journey",
+    "header_text": "Working to Get Ahead",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Meditation..."
+            "Text": "The future you see for yourself is..."
         },
         {
             "type": "Buttons",
-            "name": "Meditation Journey_Mental Health_comp_question",
+            "name": "Working to Get Ahead_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Helps improve your well-being.",
-                "Makes you more anxious than before."
+                "Having the position you want",
+                "Being stuck in a position below the one you imagine"
             ],
             "columnCount": 1,
-            "correct_value": "Helps improve your well-being."
+            "correct_value": "Being stuck in a position below the one you imagine"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

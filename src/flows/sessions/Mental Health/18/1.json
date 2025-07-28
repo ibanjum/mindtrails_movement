@@ -1,14 +1,14 @@
 {
-    "header_text": "Using Different Technology",
+    "header_text": "Family Questions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Using Different Technology"
+            "text": "Family Questions"
         },
         {
             "type": "Media",
-            "url": "./images/32.jpg"
+            "url": "./images/183.jpg"
         }
     ],
     "type": "positive",

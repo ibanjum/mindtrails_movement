@@ -1,27 +1,17 @@
 {
-    "header_text": "A Crucial Call",
+    "header_text": "Working to Get Ahead",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Today, you will receive an important call. You'll find out if you got the job you interviewed for. As you think about waiting for the call, your anxiety is..."
+            "text": "You have just been given a job in an office that you really like. To eventually receive the promotion you want, you know that you will have to work very hard for several years. Even then, the outcome is..."
         },
         {
             "type": "Entry",
-            "name": "A Crucial Call_Mental Health_entry1"
+            "name": "Working to Get Ahead_Mental Health_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

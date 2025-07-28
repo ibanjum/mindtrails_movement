@@ -1,29 +1,29 @@
 {
-    "header_text": "Spilling Food on Laptop",
+    "header_text": "Planning a Trip",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After easily cleaning the spill, you feel..."
+            "Text": "Walking outside when you felt tired was..."
         },
         {
             "type": "Buttons",
-            "name": "Spilling Food on Laptop_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Planning a Trip_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Relieved",
-                "Agitated"
+                "Exhausting",
+                "Refreshing"
             ],
             "columnCount": 1,
-            "correct_value": "Relieved"
+            "correct_value": "Refreshing"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

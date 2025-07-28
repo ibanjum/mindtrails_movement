@@ -1,29 +1,29 @@
 {
-    "header_text": "Music Venue ",
+    "header_text": "Walking Down Steps",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your partner's support makes you feel..."
+            "Text": "In the future, walking down the stairs will be..."
         },
         {
             "type": "Buttons",
-            "name": "Music Venue _Early/Mid-Stage Symptoms_comp_question",
+            "name": "Walking Down Steps_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Anxious",
-                "Assured"
+                "Impossible",
+                "Manageable"
             ],
             "columnCount": 1,
-            "correct_value": "Assured"
+            "correct_value": "Manageable"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

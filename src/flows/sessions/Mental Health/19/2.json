@@ -1,14 +1,14 @@
 {
-    "header_text": "A night off",
+    "header_text": "Nerve-wracking presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A night off"
+            "text": "Nerve-wracking presentation"
         },
         {
             "type": "Media",
-            "url": "./images/22.jpg"
+            "url": "./images/26.jpg"
         }
     ],
     "type": "positive",

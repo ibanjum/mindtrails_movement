@@ -1,20 +1,20 @@
 {
-    "header_text": "Produce Shopping",
+    "header_text": "At the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are shopping for fresh fruits and vegetables in the produce section at the store. When you see all the options, you feel overwhelmed about making decisions on the spot. You check your list and only buy what you... "
+            "text": "You are at the park with a friend when your hands start shaking. Your heart begins to pound when your friend notices your hands, and you feel out of control. You begin to focus on taking slow, deep breaths and remind yourself this feeling will..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Produce Shopping_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "At the Park_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "need"
+                "pass"
             ],
             "missing_letter_count": 2
         }

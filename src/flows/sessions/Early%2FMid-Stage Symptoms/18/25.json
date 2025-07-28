@@ -1,25 +1,29 @@
 {
-    "header_text": "Texting and TV",
+    "header_text": "To-do List",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at home, relaxing on the couch and watching your favorite TV show while also texting with a friend. However, you are struggling to focus on both tasks at the same time, making you feel overwhelmed. You remind yourself that if you need to pause your show or take a break from texting, then that is..."
+            "Text": "Even though it takes you more time to finish your to-do list, you still feel... "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Texting and TV_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "To-do List_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "okay"
+            "buttons": [
+                "Stressed",
+                "Calm"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Calm"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 7
 }

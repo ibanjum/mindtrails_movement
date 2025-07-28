@@ -1,16 +1,17 @@
 {
-    "header_text": "An Acquaintance",
+    "header_text": "Grocery Store Experience",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "An Acquaintance"
+            "type": "Text",
+            "text": "You are shopping in a grocery store. You accidently knock several cans on the floor as you're browing, and shoppers turn to look at you. The shoppers see the cans on the floor and respond with..."
         },
         {
-            "type": "Media",
-            "url": "./images/650.jpg"
+            "type": "Entry",
+            "name": "Grocery Store Experience_Social Situations_entry1"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

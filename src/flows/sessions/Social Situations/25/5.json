@@ -1,14 +1,14 @@
 {
-    "header_text": "Guest in a Bilingual Home",
+    "header_text": "Cultural Family Celebrations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Guest in a Bilingual Home"
+            "text": "Cultural Family Celebrations"
         },
         {
             "type": "Media",
-            "url": "./images/144.jpg"
+            "url": "./images/84.jpg"
         }
     ],
     "type": "positive",

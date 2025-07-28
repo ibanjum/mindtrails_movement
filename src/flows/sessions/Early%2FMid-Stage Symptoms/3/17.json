@@ -1,14 +1,14 @@
 {
-    "header_text": "Shopping in a Crowd",
+    "header_text": "Out for dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Shopping in a Crowd"
+            "text": "Out for dinner"
         },
         {
             "type": "Media",
-            "url": "./images/718.jpg"
+            "url": "./images/720.jpg"
         }
     ],
     "type": "positive",

@@ -1,17 +1,17 @@
 {
-    "header_text": "Trivia Night",
+    "header_text": "Sharing Favorite Shows",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on your way home after participating in trivia night. As your mind wanders, you think about the one question you missed. Overall, you consider your performance a..."
+            "text": "You are talking with a group of coworkers about TV shows. When you say what you like about an old TV show that you just discovered, no one responds. They probably think that you are..."
         },
         {
             "type": "Entry",
-            "name": "Trivia Night_Social Situations_entry1"
+            "name": "Sharing Favorite Shows_Social Situations_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

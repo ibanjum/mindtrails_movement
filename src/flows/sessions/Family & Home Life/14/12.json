@@ -1,25 +1,25 @@
 {
-    "header_text": "Feeling Unsteady",
+    "header_text": "Keys Forgotten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are carrying a plate of food to your family at the dining table and begin to feel unsteady. You drop the plate of food on the ground as your reach to grab the counter to steady yourself. You know that it was an accident and your family will be... "
+            "text": "You apologize to your family for treating them that way. They say that they don't think you treated them badly, so you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Feeling Unsteady_Family & Home Life_puzzle1",
+            "name": "Keys Forgotten_Family & Home Life_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "forgiving"
+                "better"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

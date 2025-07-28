@@ -1,16 +1,16 @@
 {
-    "header_text": "Jokes with Friends ",
+    "header_text": "Balancing Home Life and Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Jokes with Friends "
+            "text": "Balancing Home Life and Friends"
         },
         {
             "type": "Media",
-            "url": "./images/660.jpg"
+            "url": "./images/194.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

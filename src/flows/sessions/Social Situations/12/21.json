@@ -1,16 +1,16 @@
 {
-    "header_text": "Learning Social Media Dances",
+    "header_text": "A Rude Comment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Learning Social Media Dances"
+            "text": "A Rude Comment"
         },
         {
             "type": "Media",
-            "url": "./images/657.jpg"
+            "url": "./images/385.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "First Impressions",
+    "header_text": "Out of Your Control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "First Impressions"
+            "text": "Out of Your Control"
         },
         {
             "type": "Media",
-            "url": "./images/64.jpg"
+            "url": "./images/65.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "To-do List",
+    "header_text": "Lost Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "To-do List"
+            "text": "Lost Phone"
         },
         {
             "type": "Media",
-            "url": "./images/406.jpg"
+            "url": "./images/346.jpg"
         }
     ],
     "type": "positive",

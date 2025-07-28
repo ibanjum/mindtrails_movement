@@ -1,16 +1,16 @@
 {
-    "header_text": "Meeting Rush",
+    "header_text": "Creative Confidence ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Meeting Rush"
+            "text": "Creative Confidence "
         },
         {
             "type": "Media",
-            "url": "./images/662.jpg"
+            "url": "./images/661.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

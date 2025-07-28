@@ -1,14 +1,14 @@
 {
-    "header_text": "Ready to Work",
+    "header_text": "Managing Responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ready to Work"
+            "text": "Managing Responsibilities"
         },
         {
             "type": "Media",
-            "url": "./images/83.jpg"
+            "url": "./images/84.jpg"
         }
     ],
     "type": "positive",

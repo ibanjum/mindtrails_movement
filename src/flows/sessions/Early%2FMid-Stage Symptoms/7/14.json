@@ -1,16 +1,16 @@
 {
-    "header_text": "Convenience Store",
+    "header_text": "Conflict with Spouse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Convenience Store"
+            "text": "Conflict with Spouse"
         },
         {
             "type": "Media",
-            "url": "./images/758.jpg"
+            "url": "./images/593.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

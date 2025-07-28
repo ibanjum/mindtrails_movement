@@ -1,16 +1,16 @@
 {
-    "header_text": "Feeling Lightheaded",
+    "header_text": "Dry mouth cause",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Lightheaded"
+            "text": "Dry mouth cause"
         },
         {
             "type": "Media",
-            "url": "./images/364.jpg"
+            "url": "./images/453.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Sharing With Support Group ",
+    "header_text": "Trivia Team",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sharing With Support Group "
+            "text": "Trivia Team"
         },
         {
             "type": "Media",
-            "url": "./images/697.jpg"
+            "url": "./images/696.jpg"
         }
     ],
     "type": "positive",

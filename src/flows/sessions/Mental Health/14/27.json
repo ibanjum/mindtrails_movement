@@ -1,20 +1,20 @@
 {
-    "header_text": "Past Experiences",
+    "header_text": "A Rude Comment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your last relationship did not end very well. You are entering a new relationship, but you are still dealing with the feelings from your past relationship. You think you can work out a compromise... "
+            "text": "You post a picture you are really confident about. You see a really rude comment as you go back to check your comments. You take a deep breath and decide not to feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Past Experiences_Mental Health_puzzle1",
+            "name": "A Rude Comment_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "together"
+                "bothered"
             ],
             "missing_letter_count": 1
         }

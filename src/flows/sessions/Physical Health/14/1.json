@@ -1,16 +1,16 @@
 {
-    "header_text": "Medical Guilt",
+    "header_text": "Monday Morning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Medical Guilt"
+            "text": "Monday Morning"
         },
         {
             "type": "Media",
-            "url": "./images/511.jpg"
+            "url": "./images/264.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

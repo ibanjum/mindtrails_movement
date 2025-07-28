@@ -1,23 +1,23 @@
 {
-    "header_text": "Movie Theater Distraction",
+    "header_text": "Delayed Texting ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "As you become aware of your movements, you decide to focus on the..."
+            "Text": "The recipient of your text will..."
         },
         {
             "type": "Buttons",
-            "name": "Movie Theater Distraction_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Delayed Texting _Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Thoughts of people nearby",
-                "Film in front of you"
+                "Happily wait",
+                "Be frustrated"
             ],
             "columnCount": 1,
-            "correct_value": "Film in front of you"
+            "correct_value": "Happily wait"
         }
     ],
     "navigation_conditions": [

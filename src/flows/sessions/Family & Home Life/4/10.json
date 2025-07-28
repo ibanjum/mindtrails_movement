@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your siblings be upset about your disagreement?"
+            "Text": "Will your siblings be upset that you disagree with them?"
         },
         {
             "type": "Buttons",

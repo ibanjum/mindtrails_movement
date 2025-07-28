@@ -1,14 +1,14 @@
 {
-    "header_text": "Financial Planning",
+    "header_text": "Yoga Equipment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Financial Planning"
+            "text": "Yoga Equipment"
         },
         {
             "type": "Media",
-            "url": "./images/324.jpg"
+            "url": "./images/522.jpg"
         }
     ],
     "type": "positive",

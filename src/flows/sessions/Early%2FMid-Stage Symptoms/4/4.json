@@ -1,16 +1,16 @@
 {
-    "header_text": "Walking Down Steps",
+    "header_text": "Household responsibilities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Walking Down Steps"
+            "text": "Household responsibilities"
         },
         {
             "type": "Media",
-            "url": "./images/728.jpg"
+            "url": "./images/741.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Setting up Camp",
+    "header_text": "Work Gala",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Setting up Camp"
+            "text": "Work Gala"
         },
         {
             "type": "Media",
-            "url": "./images/836.jpg"
+            "url": "./images/578.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

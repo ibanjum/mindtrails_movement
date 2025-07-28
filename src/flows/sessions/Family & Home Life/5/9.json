@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You and your sister recently had an argument, and you haven't talked to each other in weeks. You love your sister very much, but both of you are still upset by what the other said the last time you two... "
+            "text": "You and your sister recently argued. You haven't talked to each other in weeks, even though you love your sister very much. Both of you are still upset by what the other said the last time you two... "
         },
         {
             "type": "WordPuzzle",

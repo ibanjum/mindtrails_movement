@@ -1,14 +1,14 @@
 {
-    "header_text": "Differing opinion",
+    "header_text": "Collecting an old friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Differing opinion"
+            "text": "Collecting an old friend"
         },
         {
             "type": "Media",
-            "url": "./images/611.jpg"
+            "url": "./images/610.jpg"
         }
     ],
     "type": "positive",

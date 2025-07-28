@@ -1,14 +1,14 @@
 {
-    "header_text": "New City New Friends",
+    "header_text": "Absent Sister",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New City New Friends"
+            "text": "Absent Sister"
         },
         {
             "type": "Media",
-            "url": "./images/690.jpg"
+            "url": "./images/186.jpg"
         }
     ],
     "type": "positive",

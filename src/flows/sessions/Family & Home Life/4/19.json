@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "You imagine the next conversation with your sister as being"
+            "Text": "You imagine the next conversation with your sister as being..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "A yelling match that ends with both of you still upset.",
-                "A pleasant return to the way things used to be."
+                "A yelling match that ends with both of you still upset",
+                "A pleasant return to the way things used to be"
             ],
             "columnCount": 1,
-            "correct_value": "A yelling match that ends with both of you still upset."
+            "correct_value": "A yelling match that ends with both of you still upset"
         }
     ],
     "navigation_conditions": [

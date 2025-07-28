@@ -1,14 +1,14 @@
 {
-    "header_text": "Plans to Visit Family",
+    "header_text": "Safe Delivery",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Plans to Visit Family"
+            "text": "Safe Delivery"
         },
         {
             "type": "Media",
-            "url": "./images/507.jpg"
+            "url": "./images/506.jpg"
         }
     ],
     "type": "positive",

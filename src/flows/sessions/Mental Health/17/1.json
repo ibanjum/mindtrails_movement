@@ -1,16 +1,16 @@
 {
-    "header_text": "Couples Counseling",
+    "header_text": "Sharing with Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Couples Counseling"
+            "text": "Sharing with Someone New"
         },
         {
             "type": "Media",
-            "url": "./images/394.jpg"
+            "url": "./images/395.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

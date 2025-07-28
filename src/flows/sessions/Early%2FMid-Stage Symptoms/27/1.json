@@ -1,16 +1,16 @@
 {
-    "header_text": "Cocktail Party",
+    "header_text": "Giving a Toast",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cocktail Party"
+            "text": "Giving a Toast"
         },
         {
             "type": "Media",
-            "url": "./images/849.jpg"
+            "url": "./images/235.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

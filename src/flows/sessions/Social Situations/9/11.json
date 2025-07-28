@@ -1,16 +1,16 @@
 {
-    "header_text": "Feeling Abandoned By a Close Friend",
+    "header_text": "Nerves at a Big Moment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Abandoned By a Close Friend"
+            "text": "Nerves at a Big Moment"
         },
         {
             "type": "Media",
-            "url": "./images/601.jpg"
+            "url": "./images/645.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

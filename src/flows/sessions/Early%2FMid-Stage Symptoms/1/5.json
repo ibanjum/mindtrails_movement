@@ -1,16 +1,25 @@
 {
-    "header_text": "Lost Things",
+    "header_text": "Brushing Teeth",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Lost Things"
+            "type": "Text",
+            "text": "You wake up feeling particularly anxious and stiff. It is hard to get out of bed, and you struggle as you try to go about your morning routine. You find that you are unable to brush your teeth, and you begin to..."
         },
         {
-            "type": "Media",
-            "url": "./images/734.jpg"
+            "type": "WordPuzzle",
+            "name": "Brushing Teeth_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "panic"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

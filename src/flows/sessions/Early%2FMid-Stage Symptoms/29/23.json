@@ -1,16 +1,16 @@
 {
-    "header_text": "House For Sale",
+    "header_text": "Therapy Shift",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "House For Sale"
+            "text": "Therapy Shift"
         },
         {
             "type": "Media",
-            "url": "./images/198.jpg"
+            "url": "./images/418.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

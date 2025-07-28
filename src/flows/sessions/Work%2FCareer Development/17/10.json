@@ -1,14 +1,14 @@
 {
-    "header_text": "Coming up with Questions",
+    "header_text": "Writing Notes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Coming up with Questions"
+            "text": "Writing Notes"
         },
         {
             "type": "Media",
-            "url": "./images/114.jpg"
+            "url": "./images/115.jpg"
         }
     ],
     "type": "positive",

@@ -1,14 +1,14 @@
 {
-    "header_text": "Sensational Party",
+    "header_text": "Annual checkup results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Sensational Party"
+            "text": "Annual checkup results"
         },
         {
             "type": "Media",
-            "url": "./images/465.jpg"
+            "url": "./images/464.jpg"
         }
     ],
     "type": "positive",

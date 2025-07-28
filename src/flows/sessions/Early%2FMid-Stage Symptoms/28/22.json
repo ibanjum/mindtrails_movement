@@ -1,25 +1,25 @@
 {
-    "header_text": "Chopping Technique",
+    "header_text": "Hosting Book Club",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "They tell you that they used to work in a kitchen and proceed to show you the right technique. Understanding that they're just trying to help makes you feel..."
+            "text": "You are hosting book club tonight. As you look around at the friends you love, you begin to feel an overwhelming sadness. You open up to the group, knowing your book club is a safe... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Chopping Technique_Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "Hosting Book Club_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "relieved"
+                "haven"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Close Friend's Birthday",
+    "header_text": "Cooking a Casserole",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Close Friend's Birthday"
+            "text": "Cooking a Casserole"
         },
         {
             "type": "Media",
-            "url": "./images/189.jpg"
+            "url": "./images/574.jpg"
         }
     ],
     "type": "positive",

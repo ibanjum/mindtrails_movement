@@ -1,14 +1,14 @@
 {
-    "header_text": "Trying Out a Funny Caption",
+    "header_text": "Not Feeling Supported",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you worried what your coworkers will think of your joke?"
+            "Text": "Do you feel worried about what other people think?"
         },
         {
             "type": "Buttons",
-            "name": "Trying Out a Funny Caption_Social Situations_comp_question",
+            "name": "Not Feeling Supported_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 3
 }

@@ -1,18 +1,18 @@
 {
-    "header_text": "Fear of Missing Out",
+    "header_text": "Practicing Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "When you get to work, you overhear some colleagues talking about the fun night they had out together last night. You don't remember being invited to hang out with them. You think about missing out on the fun and realize that you weren't invited because you are..."
+            "text": "After the presentation, you realize that these mistakes are common. The supervisor probably thinks your recovery and ability to continue presenting was very..."
         },
         {
             "type": "Entry",
-            "name": "Fear of Missing Out_Social Situations_entry1"
+            "name": "Practicing Presentation_Social Situations_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4,
     "information": {
         "elements": [

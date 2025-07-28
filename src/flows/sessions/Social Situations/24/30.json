@@ -1,14 +1,14 @@
 {
-    "header_text": "Showcasing your experience",
+    "header_text": "Introducing Your Family to Someone New",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Showcasing your experience"
+            "text": "Introducing Your Family to Someone New"
         },
         {
             "type": "Media",
-            "url": "./images/9.jpg"
+            "url": "./images/150.jpg"
         }
     ],
     "type": "positive",

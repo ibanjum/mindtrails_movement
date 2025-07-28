@@ -1,16 +1,16 @@
 {
-    "header_text": "A different perspective",
+    "header_text": "Tripping in Public",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A different perspective"
+            "text": "Tripping in Public"
         },
         {
             "type": "Media",
-            "url": "./images/623.jpg"
+            "url": "./images/622.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

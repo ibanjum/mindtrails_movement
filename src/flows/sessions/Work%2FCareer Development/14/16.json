@@ -1,29 +1,29 @@
 {
-    "header_text": "Office Talk",
+    "header_text": "Your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to continue the discussion with your boss?"
+            "Text": "You believe your resume could..."
         },
         {
             "type": "Buttons",
-            "name": "Office Talk_Work/Career Development_comp_question",
+            "name": "Your Resume_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Be the main reason you do not hear back from this employer",
+                "Be a large factor in an eventual job offer"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "Be the main reason you do not hear back from this employer"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Brief Introduction",
+    "header_text": "Busy cafe",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Brief Introduction"
+            "text": "Busy cafe"
         },
         {
             "type": "Media",
-            "url": "./images/123.jpg"
+            "url": "./images/632.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

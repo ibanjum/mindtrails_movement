@@ -1,14 +1,14 @@
 {
-    "header_text": "Finding a Therapist",
+    "header_text": "Emotionless Face",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Finding a Therapist"
+            "text": "Emotionless Face"
         },
         {
             "type": "Media",
-            "url": "./images/421.jpg"
+            "url": "./images/884.jpg"
         }
     ],
     "type": "positive",

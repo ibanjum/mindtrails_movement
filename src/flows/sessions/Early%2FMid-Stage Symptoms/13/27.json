@@ -1,14 +1,14 @@
 {
-    "header_text": "Shopping Anxiety",
+    "header_text": "Neighbor Chat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Shopping Anxiety"
+            "text": "Neighbor Chat"
         },
         {
             "type": "Media",
-            "url": "./images/970.jpg"
+            "url": "./images/798.jpg"
         }
     ],
     "type": "positive",

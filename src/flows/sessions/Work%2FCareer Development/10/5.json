@@ -1,16 +1,16 @@
 {
-    "header_text": "Waking Up Ready",
+    "header_text": "Committing to Activities",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Waking Up Ready"
+            "text": "Committing to Activities"
         },
         {
             "type": "Media",
-            "url": "./images/76.jpg"
+            "url": "./images/77.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

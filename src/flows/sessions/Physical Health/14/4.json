@@ -1,14 +1,14 @@
 {
-    "header_text": "Unmasked Peers",
+    "header_text": "Medical Guilt",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Unmasked Peers"
+            "text": "Medical Guilt"
         },
         {
             "type": "Media",
-            "url": "./images/512.jpg"
+            "url": "./images/511.jpg"
         }
     ],
     "type": "positive",

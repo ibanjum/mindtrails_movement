@@ -1,14 +1,14 @@
 {
-    "header_text": "Ready to Work",
+    "header_text": "Disease and Identity",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a lot of tasks to finish tomorrow. You've been procrastinating getting it done because it is going to be hard. When you think about doing your work tonight, you feel..."
+            "text": "You feel as if PD has become central to your identity. You have recently been feeling the burden of explaining your diagnosis in every conversation, especially with new people. You begin to understand your disease as something that can be both shared and kept... "
         },
         {
             "type": "Entry",
-            "name": "Ready to Work_Mental Health_entry1"
+            "name": "Disease and Identity_Mental Health_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

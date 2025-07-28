@@ -1,17 +1,17 @@
 {
-    "header_text": "Different Expectations",
+    "header_text": "Expectations",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You check online to see if you were selected for a raise. You see that you were not, although you expected to be. You think about what this will mean for your future, and know everything will be..."
+            "text": "Your boss wants to meet with you for your performance review. They have high expectations for you, but you performed worse than previous years. Your boss will be..."
         },
         {
             "type": "Entry",
-            "name": "Different Expectations_Work/Career Development_entry1"
+            "name": "Expectations_Work/Career Development_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

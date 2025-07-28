@@ -1,16 +1,16 @@
 {
-    "header_text": "Hiking with Friends",
+    "header_text": "Walking in the Cold",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hiking with Friends"
+            "text": "Walking in the Cold"
         },
         {
             "type": "Media",
-            "url": "./images/502.jpg"
+            "url": "./images/501.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 8
 }

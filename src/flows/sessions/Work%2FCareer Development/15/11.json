@@ -1,23 +1,23 @@
 {
-    "header_text": "Unfinished Work",
+    "header_text": "Fundraiser presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you get everything done?"
+            "Text": "The coworkers are probably thinking..."
         },
         {
             "type": "Buttons",
-            "name": "Unfinished Work_Work/Career Development_comp_question",
+            "name": "Fundraiser presentation_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "That they don't want to help you with the fundraiser",
+                "That they want to help you with the fundraiser"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "That they want to help you with the fundraiser"
         }
     ],
     "navigation_conditions": [

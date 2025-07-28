@@ -1,25 +1,29 @@
 {
-    "header_text": "Unfamiliar Walk",
+    "header_text": "Parked Car",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on a walk with your dog, trying to relax and exercise. You find yourself on an unusual route and don't recognize your surroundings. You take out your cell phone and reroute home, showing that you are able to..."
+            "Text": "Has your friend noticed changes in your memory?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Unfamiliar Walk_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Parked Car_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "adapt"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
     "scenario_num": 2
 }

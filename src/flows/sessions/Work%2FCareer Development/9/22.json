@@ -1,14 +1,14 @@
 {
-    "header_text": "A Crucial Call",
+    "header_text": "Rearranging After Exposure",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A Crucial Call"
+            "text": "Rearranging After Exposure"
         },
         {
             "type": "Media",
-            "url": "./images/74.jpg"
+            "url": "./images/75.jpg"
         }
     ],
     "type": "positive",

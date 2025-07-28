@@ -1,14 +1,14 @@
 {
-    "header_text": "Rearranging After Exposure",
+    "header_text": "Health and aging",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Rearranging After Exposure"
+            "text": "Health and aging"
         },
         {
             "type": "Media",
-            "url": "./images/75.jpg"
+            "url": "./images/131.jpg"
         }
     ],
     "type": "positive",

@@ -1,25 +1,29 @@
 {
-    "header_text": "House Play",
+    "header_text": "Forgotten Ingredients",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are babysitting your grandchild in your home. You are having difficulty keeping up with your grandchild running around and wonder if your son will be worried about his child's safety. You believe that your son will feel..."
+            "Text": "Your friend would share the recipe again..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "House Play_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Forgotten Ingredients_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "okay"
+            "buttons": [
+                "Reluctantly",
+                "Happily"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Happily"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 6
 }

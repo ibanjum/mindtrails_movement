@@ -1,16 +1,16 @@
 {
-    "header_text": "Meeting up with a Friend",
+    "header_text": "April Proposal",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Meeting up with a Friend"
+            "text": "April Proposal"
         },
         {
             "type": "Media",
-            "url": "./images/727.jpg"
+            "url": "./images/585.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

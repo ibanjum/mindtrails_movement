@@ -1,16 +1,16 @@
 {
-    "header_text": "Discussing the Evaluation ",
+    "header_text": "Troublesome Typos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Discussing the Evaluation "
+            "text": "Troublesome Typos"
         },
         {
             "type": "Media",
-            "url": "./images/62.jpg"
+            "url": "./images/63.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

@@ -1,20 +1,20 @@
 {
-    "header_text": "Book Club",
+    "header_text": "Day in the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are in a book club, and you really enjoy getting to talk about your ideas with the other members. You are excited thinking about all the books you would like to discuss in the future, but wonder if your PD will affect your ability to participate like you do now. You know that even if your experience of the book club looks different in the future, there will still be ways to stay..."
+            "text": "You are at the park with your grandchild. They ask you to play catch, and your unsteady gait causes you to stumble. Whether or not your grandchild notices, you do not lose confidence in your role as a loving grandparent to your..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Book Club_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Day in the Park_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "engaged"
+                "grandchild"
             ],
             "missing_letter_count": 2
         }

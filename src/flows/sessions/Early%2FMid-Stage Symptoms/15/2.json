@@ -1,16 +1,16 @@
 {
-    "header_text": "Directions to Thrift Store",
+    "header_text": "Unsteadiness in the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Directions to Thrift Store"
+            "text": "Unsteadiness in the Park"
         },
         {
             "type": "Media",
-            "url": "./images/805.jpg"
+            "url": "./images/915.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 0
 }

@@ -3,14 +3,15 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Committing to Activities"
+            "type": "Text",
+            "text": "You realize that being back in person is an adjustment, and it will take some time to get used to. You think with everything you have going on, you're doing a great... "
         },
         {
-            "type": "Media",
-            "url": "./images/77.jpg"
+            "type": "Entry",
+            "name": "Committing to Activities_Mental Health_entry2"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 8
+    "scenario_num": 7
 }

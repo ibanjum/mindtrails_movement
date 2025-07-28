@@ -1,23 +1,23 @@
 {
-    "header_text": "Shopping Anxiety",
+    "header_text": "Neighbor Chat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your anxiety will..."
+            "Text": "Your neighbor is asking if you are okay because..."
         },
         {
             "type": "Buttons",
-            "name": "Shopping Anxiety_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Neighbor Chat_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Pass",
-                "Get stronger"
+                "They are offended",
+                "They care about you"
             ],
             "columnCount": 1,
-            "correct_value": "Pass"
+            "correct_value": "They care about you"
         }
     ],
     "navigation_conditions": [

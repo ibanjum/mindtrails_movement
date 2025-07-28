@@ -1,29 +1,25 @@
 {
-    "header_text": "Invitation to Dinner",
+    "header_text": "Spilling Food on Laptop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your reaction to your friend's invitation keeps you..."
+            "text": "You realize that the spill is not that bad and you clean it up fairly easily. You now feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Invitation to Dinner_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Spilling Food on Laptop_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Panicked",
-                "Grounded"
+            "display_delay": 2000,
+            "words": [
+                "relieved"
             ],
-            "columnCount": 1,
-            "correct_value": "Grounded"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

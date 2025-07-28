@@ -1,10 +1,29 @@
 {
-    "header_text": "Manage Your Feelings: Early/Mid-Stage Symptoms",
+    "header_text": "Shopping for Clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Try to imagine something from your partner's point of view."
+            "Text": "Everyone is..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Shopping for Clothes_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Busy shopping",
+                "Watching you"
+            ],
+            "columnCount": 1,
+            "correct_value": "Busy shopping"
         }
-    ]
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 9
 }

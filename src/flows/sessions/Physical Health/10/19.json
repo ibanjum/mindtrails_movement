@@ -1,16 +1,17 @@
 {
-    "header_text": "Wearing a Mask to Work",
+    "header_text": "Feeling Faint",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Wearing a Mask to Work"
+            "type": "Text",
+            "text": "You decide to spin yourself really quickly on an office chair. You feel butterflies in your stomach, and your head gets dizzy as the chair slows down from spinning. These feelings probably mean that you are going to..."
         },
         {
-            "type": "Media",
-            "url": "./images/492.jpg"
+            "type": "Entry",
+            "name": "Feeling Faint_Physical Health_entry1"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 7
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Your First Grandchild",
+    "header_text": "Workout Whispers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Your First Grandchild"
+            "text": "Workout Whispers"
         },
         {
             "type": "Media",
-            "url": "./images/157.jpg"
+            "url": "./images/412.jpg"
         }
     ],
     "type": "positive",

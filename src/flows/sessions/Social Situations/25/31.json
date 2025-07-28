@@ -1,14 +1,14 @@
 {
-    "header_text": "Inside Jokes",
+    "header_text": "Spending Money with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Inside Jokes"
+            "text": "Spending Money with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/332.jpg"
+            "url": "./images/263.jpg"
         }
     ],
     "type": "positive",

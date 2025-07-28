@@ -1,23 +1,23 @@
 {
-    "header_text": "Beach Vacation",
+    "header_text": "Arcade Games",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Swimming in the ocean with your nieces and nephews will be..."
+            "Text": "Your family is being..."
         },
         {
             "type": "Buttons",
-            "name": "Beach Vacation_Family & Home Life_comp_question",
+            "name": "Arcade Games_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Unpleasant",
-                "Amusing"
+                "Playful",
+                "Judgmental"
             ],
             "columnCount": 1,
-            "correct_value": "Amusing"
+            "correct_value": "Playful"
         }
     ],
     "navigation_conditions": [

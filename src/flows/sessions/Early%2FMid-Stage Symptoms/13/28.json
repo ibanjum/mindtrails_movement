@@ -1,20 +1,20 @@
 {
-    "header_text": "Shopping Anxiety",
+    "header_text": "Neighbor Chat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are pushing a full cart of groceries, and you've just reached your car in the parking lot. You are worried about your ability to unload some of the heavier items without falling, and your heart starts to race. As you start to feel out of control, you focus on deep breaths and remind yourself it will be..."
+            "text": "You are chatting with a neighbor about their upcoming wedding plans, but you are having trouble concentrating and taking in the details of the conversation. Your neighbor notices and asks you if you are okay. You feel embarrassed, but you know they are asking because they..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Shopping Anxiety_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Neighbor Chat_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "alright"
+                "care"
             ],
             "missing_letter_count": 2
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Falling Behind at Work",
+    "header_text": "Looking at your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Falling Behind at Work"
+            "text": "Looking at your Resume"
         },
         {
             "type": "Media",
-            "url": "./images/110.jpg"
+            "url": "./images/94.jpg"
         }
     ],
     "type": "positive",

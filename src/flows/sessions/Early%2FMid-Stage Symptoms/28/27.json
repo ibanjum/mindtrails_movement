@@ -1,14 +1,14 @@
 {
-    "header_text": "Hosting Book Club",
+    "header_text": "Talk with Counselor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hosting Book Club"
+            "text": "Talk with Counselor"
         },
         {
             "type": "Media",
-            "url": "./images/860.jpg"
+            "url": "./images/419.jpg"
         }
     ],
     "type": "positive",

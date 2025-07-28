@@ -1,14 +1,14 @@
 {
-    "header_text": "1, 2, 3. Eyes on Me",
+    "header_text": "Using Different Technology",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you feeling prepared for your presentation?"
+            "Text": "Do you feel capable of completing the work for this project?"
         },
         {
             "type": "Buttons",
-            "name": "1, 2, 3. Eyes on Me_Work/Career Development_comp_question",
+            "name": "Using Different Technology_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

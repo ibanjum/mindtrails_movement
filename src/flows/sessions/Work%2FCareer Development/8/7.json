@@ -1,17 +1,17 @@
 {
-    "header_text": "Running Late",
+    "header_text": "A Little Stumble",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You wake up and realize that you're late for your first online meeting of the day. You log into the meeting and when you do, your supervisor stops talking. You apologize for being late in the chat, and spend the rest of the meeting feeling..."
+            "text": "Your boss is watching your presentation in your meeting today. During the presentation, you stumble over your words a lot. You feel..."
         },
         {
             "type": "Entry",
-            "name": "Running Late_Work/Career Development_entry1"
+            "name": "A Little Stumble_Work/Career Development_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

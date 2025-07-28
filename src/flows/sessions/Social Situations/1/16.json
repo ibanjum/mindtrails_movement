@@ -1,39 +1,25 @@
 {
-    "header_text": "Theater group thoughts",
+    "header_text": "Controversial news story",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Everyone probably believes ..."
+            "text": "You realize that your coworker probably thinks that you both have strong convictions, even though the discussion was heated. You have earned your coworker's..."
         },
         {
-            "type": "Buttons",
-            "name": "Theater group thoughts_Social Situations_comp_question",
+            "type": "WordPuzzle",
+            "name": "Controversial news story_Social Situations_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "You have innovative ideas.",
-                "You have terrible ideas."
+            "display_delay": 2000,
+            "words": [
+                "respect"
             ],
-            "columnCount": 1,
-            "correct_value": "You have terrible ideas."
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Why are you filling in words with letters? By repeatedly filling in missing letters to complete positive, neutral, or negative words, the brain engages in flexible thinking patterns to reduce rigid thinking. "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4
 }

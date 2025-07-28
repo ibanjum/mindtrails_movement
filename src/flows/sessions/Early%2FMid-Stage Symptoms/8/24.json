@@ -1,14 +1,14 @@
 {
-    "header_text": "Book Club",
+    "header_text": "Day in the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Book Club"
+            "text": "Day in the Park"
         },
         {
             "type": "Media",
-            "url": "./images/769.jpg"
+            "url": "./images/771.jpg"
         }
     ],
     "type": "positive",

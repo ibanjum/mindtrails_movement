@@ -1,16 +1,16 @@
 {
-    "header_text": "Crowded Grocery Store",
+    "header_text": "Shopping For Party Supplies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Crowded Grocery Store"
+            "text": "Shopping For Party Supplies"
         },
         {
             "type": "Media",
-            "url": "./images/956.jpg"
+            "url": "./images/581.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

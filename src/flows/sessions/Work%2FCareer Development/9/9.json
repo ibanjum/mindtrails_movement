@@ -1,16 +1,16 @@
 {
-    "header_text": "Supportive Guidance ",
+    "header_text": "Office Initiative",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Supportive Guidance "
+            "text": "Office Initiative"
         },
         {
             "type": "Media",
-            "url": "./images/69.jpg"
+            "url": "./images/70.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

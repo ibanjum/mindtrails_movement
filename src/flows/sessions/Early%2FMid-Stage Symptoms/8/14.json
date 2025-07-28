@@ -1,16 +1,16 @@
 {
-    "header_text": "Coffee Ordering",
+    "header_text": "Creating Art ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Coffee Ordering"
+            "text": "Creating Art "
         },
         {
             "type": "Media",
-            "url": "./images/766.jpg"
+            "url": "./images/768.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Posting New Content",
+    "header_text": "Feeling Excluded on Social Media",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Posting New Content"
+            "text": "Feeling Excluded on Social Media"
         },
         {
             "type": "Media",
-            "url": "./images/679.jpg"
+            "url": "./images/398.jpg"
         }
     ],
     "type": "positive",

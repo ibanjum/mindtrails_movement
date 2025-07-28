@@ -1,14 +1,14 @@
 {
-    "header_text": "Navigation Irritation",
+    "header_text": "Online Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Navigation Irritation"
+            "text": "Online Shopping"
         },
         {
             "type": "Media",
-            "url": "./images/594.jpg"
+            "url": "./images/222.jpg"
         }
     ],
     "type": "positive",

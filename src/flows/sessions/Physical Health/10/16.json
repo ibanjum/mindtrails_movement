@@ -1,16 +1,16 @@
 {
-    "header_text": "Feeling Faint",
+    "header_text": "Play Cancellation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Feeling Faint"
+            "text": "Play Cancellation"
         },
         {
             "type": "Media",
-            "url": "./images/473.jpg"
+            "url": "./images/957.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

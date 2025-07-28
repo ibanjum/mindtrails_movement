@@ -1,14 +1,14 @@
 {
-    "header_text": "Thinking fast at work",
+    "header_text": "Garden Planting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Thinking fast at work"
+            "text": "Garden Planting"
         },
         {
             "type": "Media",
-            "url": "./images/770.jpg"
+            "url": "./images/772.jpg"
         }
     ],
     "type": "positive",

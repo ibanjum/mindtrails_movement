@@ -1,20 +1,20 @@
 {
-    "header_text": "Sweat Stains",
+    "header_text": "Smelly Lunch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your friends make fun of your sweat marks on your shirt? "
+            "Text": "Are you embarrassed by your lunch? "
         },
         {
             "type": "Buttons",
-            "name": "Sweat Stains_Social Situations_comp_question",
+            "name": "Smelly Lunch_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"

@@ -1,16 +1,16 @@
 {
-    "header_text": "Borrowing from a Friend",
+    "header_text": "Learning Social Media Dances",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Borrowing from a Friend"
+            "text": "Learning Social Media Dances"
         },
         {
             "type": "Media",
-            "url": "./images/121.jpg"
+            "url": "./images/657.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 7
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "April Proposal",
+    "header_text": "Family Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "April Proposal"
+            "text": "Family Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/585.jpg"
+            "url": "./images/731.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

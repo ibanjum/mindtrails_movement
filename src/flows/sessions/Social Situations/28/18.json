@@ -1,20 +1,20 @@
 {
-    "header_text": "Managing Stress",
+    "header_text": "Office Talk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have to give a presentation for your coworkers today. When you stand up in front of your colleagues, you feel your cheeks get hot and your hands start to tremble. You think that these sensations will be..."
+            "text": "You are having a discussion with your boss in their office, which is a little anxiety-provoking for you. You think about ending the discussion early. After a brief pause, you decide to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Managing Stress_Social Situations_puzzle1",
+            "name": "Office Talk_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "manageable"
+                "stay"
             ],
             "missing_letter_count": 2
         }

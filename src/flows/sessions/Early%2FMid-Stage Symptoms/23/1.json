@@ -1,14 +1,14 @@
 {
-    "header_text": "Crafting Workshop",
+    "header_text": "Movie Mix-Up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Crafting Workshop"
+            "text": "Movie Mix-Up"
         },
         {
             "type": "Media",
-            "url": "./images/521.jpg"
+            "url": "./images/833.jpg"
         }
     ],
     "type": "positive",

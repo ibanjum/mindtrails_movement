@@ -1,29 +1,25 @@
 {
-    "header_text": "Catching up with a friend",
+    "header_text": "Family Gathering",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you like catching up with your friend?"
+            "text": "You are at a family gathering and see people you haven’t spoken to in years. Your tremors have gotten more noticeable, and you worry how others will react. While you can’t control what others think, you know most people will be understanding, and the day will still be...\n"
         },
         {
-            "type": "Buttons",
-            "name": "Catching up with a friend_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Family Gathering_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "enjoyable"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 2
 }

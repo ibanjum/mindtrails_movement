@@ -1,16 +1,16 @@
 {
-    "header_text": "Laundry Dilemma",
+    "header_text": "Trip Planning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Laundry Dilemma"
+            "text": "Trip Planning"
         },
         {
             "type": "Media",
-            "url": "./images/234.jpg"
+            "url": "./images/847.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

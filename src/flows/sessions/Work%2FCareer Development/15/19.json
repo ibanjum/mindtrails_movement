@@ -1,16 +1,16 @@
 {
-    "header_text": "Being in Charge",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Being in Charge"
+            "text": "Reviewing Your Work "
         },
         {
             "type": "Media",
-            "url": "./images/109.jpg"
+            "url": "./images/91.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

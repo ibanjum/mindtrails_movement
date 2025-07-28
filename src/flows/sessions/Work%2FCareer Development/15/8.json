@@ -1,20 +1,20 @@
 {
-    "header_text": "Changing Your Trajectory",
+    "header_text": "Unfinished Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think you will find a new job that you find rewarding?"
+            "Text": "Will you get everything done?"
         },
         {
             "type": "Buttons",
-            "name": "Changing Your Trajectory_Work/Career Development_comp_question",
+            "name": "Unfinished Work_Work/Career Development_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

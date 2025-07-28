@@ -1,23 +1,23 @@
 {
-    "header_text": "Community Meeting",
+    "header_text": "Book Club Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "During the meeting you were able to.."
+            "Text": "Breathing exercises allow you to..."
         },
         {
             "type": "Buttons",
-            "name": "Community Meeting_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Book Club Meeting_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Give up",
-                "Focus"
+                "Get worked up",
+                "Enjoy yourself"
             ],
             "columnCount": 1,
-            "correct_value": "Focus"
+            "correct_value": "Enjoy yourself"
         }
     ],
     "navigation_conditions": [

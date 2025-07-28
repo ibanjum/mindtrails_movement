@@ -1,17 +1,17 @@
 {
-    "header_text": "Your First Child",
+    "header_text": "Achieving Your Goals",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You recently welcomed your first grandchild. You want to have a good relationship throughout your grandchild's life, but you worry about making mistakes as a grandparent. When your grandchild is an adult, you believe that the relationship will be..."
+            "text": "You would like to apply for a higher position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal and have worked hard to make yourself a good employee. You feel that your chances of getting this new job are..."
         },
         {
             "type": "Entry",
-            "name": "Your First Child_Mental Health_entry1"
+            "name": "Achieving Your Goals_Mental Health_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

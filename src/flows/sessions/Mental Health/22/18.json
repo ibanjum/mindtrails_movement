@@ -1,16 +1,16 @@
 {
-    "header_text": "Playing the Piano",
+    "header_text": "Talk with Counselor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Playing the Piano"
+            "text": "Talk with Counselor"
         },
         {
             "type": "Media",
-            "url": "./images/187.jpg"
+            "url": "./images/419.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 7
 }

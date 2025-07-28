@@ -1,29 +1,25 @@
 {
-    "header_text": "Setting up Camp",
+    "header_text": "Work Gala",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After putting up your tent at your own pace, you feel..."
+            "text": "After you finish dancing, you speak with your partner. You realize they were just happy that you were able to dance together and that you are...  "
         },
         {
-            "type": "Buttons",
-            "name": "Setting up Camp_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Work Gala_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Giddy",
-                "Self-conscious"
+            "display_delay": 2000,
+            "words": [
+                "safe"
             ],
-            "columnCount": 1,
-            "correct_value": "Giddy"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

@@ -11,6 +11,6 @@
             "name": "lessons_learned_Early/Mid-Stage Symptoms_0"
         }
     ],
-    "type": "resilience/negation",
+    "type": "negative",
     "scenario_num": 0
 }

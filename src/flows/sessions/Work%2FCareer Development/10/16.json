@@ -1,16 +1,16 @@
 {
-    "header_text": "Managing Multiple Positions",
+    "header_text": "Wrapping Up Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Managing Multiple Positions"
+            "text": "Wrapping Up Work"
         },
         {
             "type": "Media",
-            "url": "./images/80.jpg"
+            "url": "./images/81.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

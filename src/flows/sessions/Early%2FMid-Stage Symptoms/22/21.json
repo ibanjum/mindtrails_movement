@@ -1,14 +1,14 @@
 {
-    "header_text": "Family Board Game",
+    "header_text": "Crossing a Bridge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Family Board Game"
+            "text": "Crossing a Bridge"
         },
         {
             "type": "Media",
-            "url": "./images/226.jpg"
+            "url": "./images/519.jpg"
         }
     ],
     "type": "positive",

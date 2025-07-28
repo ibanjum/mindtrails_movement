@@ -1,16 +1,16 @@
 {
-    "header_text": "Travel Dreams",
+    "header_text": "A Tricky Hike",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Travel Dreams"
+            "text": "A Tricky Hike"
         },
         {
             "type": "Media",
-            "url": "./images/782.jpg"
+            "url": "./images/783.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

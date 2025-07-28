@@ -1,16 +1,16 @@
 {
-    "header_text": "Balancing Home Life and Friends",
+    "header_text": "Issues While Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Balancing Home Life and Friends"
+            "text": "Issues While Shopping"
         },
         {
             "type": "Media",
-            "url": "./images/194.jpg"
+            "url": "./images/313.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

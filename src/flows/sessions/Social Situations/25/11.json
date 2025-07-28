@@ -1,16 +1,16 @@
 {
-    "header_text": "Introducing Your Spouse to New Friends",
+    "header_text": "Book Club Friends ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Introducing Your Spouse to New Friends"
+            "text": "Book Club Friends "
         },
         {
             "type": "Media",
-            "url": "./images/152.jpg"
+            "url": "./images/356.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

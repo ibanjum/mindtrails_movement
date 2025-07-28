@@ -1,16 +1,16 @@
 {
-    "header_text": "Joining a New Club",
+    "header_text": "Holiday Away From Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Joining a New Club"
+            "text": "Holiday Away From Home"
         },
         {
             "type": "Media",
-            "url": "./images/356.jpg"
+            "url": "./images/156.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 9
 }

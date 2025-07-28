@@ -1,25 +1,25 @@
 {
-    "header_text": "Attending a Dance Recital",
+    "header_text": "Cleaning the House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "After the performance is over, you speak with your grandchild and compliment them on their performance. You realize that your grandchild is just happy you were able to attend, regardless of your..."
+            "text": "Home renovations are long overdue, so today you are cleaning your house before the workers arrive. You are working slower than usual, and your spouse points out several spots you missed. Annoyed, you ask your spouse for help finishing up and communicate your... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Attending a Dance Recital_Family & Home Life_puzzle_word2",
+            "name": "Cleaning the House_Family & Home Life_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "symptoms"
+                "feelings"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

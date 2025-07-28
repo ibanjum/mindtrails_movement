@@ -1,23 +1,23 @@
 {
-    "header_text": "Walking with a Friend",
+    "header_text": "Plans to Visit Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Tomorrow, you will probably..."
+            "Text": "Can you always reschedule your trip to see your family?"
         },
         {
             "type": "Buttons",
-            "name": "Walking with a Friend_Physical Health_comp_question",
+            "name": "Plans to Visit Family_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Fall way behind your friend during your walk",
-                "Be able to keep up with your friend"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Be able to keep up with your friend"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

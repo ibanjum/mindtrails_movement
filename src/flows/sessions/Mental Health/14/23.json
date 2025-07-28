@@ -1,16 +1,16 @@
 {
-    "header_text": "Heart Rate Worries",
+    "header_text": "Past Experiences",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Heart Rate Worries"
+            "text": "Past Experiences"
         },
         {
             "type": "Media",
-            "url": "./images/383.jpg"
+            "url": "./images/384.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

@@ -1,23 +1,23 @@
 {
-    "header_text": "Movie Mix-Up",
+    "header_text": "Smoothie Shop",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you try to focus and follow the movie plot, you are..."
+            "Text": "Your colleague remembering your order is..."
         },
         {
             "type": "Buttons",
-            "name": "Movie Mix-Up_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Smoothie Shop_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Hopeless",
-                "Successful"
+                "Embarrassing",
+                "Thoughtful"
             ],
             "columnCount": 1,
-            "correct_value": "Successful"
+            "correct_value": "Thoughtful"
         }
     ],
     "navigation_conditions": [

@@ -1,14 +1,14 @@
 {
-    "header_text": "Conversation with Stranger",
+    "header_text": "Lunch with a Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conversation with Stranger"
+            "text": "Lunch with a Friend"
         },
         {
             "type": "Media",
-            "url": "./images/627.jpg"
+            "url": "./images/626.jpg"
         }
     ],
     "type": "positive",

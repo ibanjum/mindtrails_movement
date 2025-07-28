@@ -1,16 +1,16 @@
 {
-    "header_text": "Giving a Toast",
+    "header_text": "Laundry Dilemma",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Giving a Toast"
+            "text": "Laundry Dilemma"
         },
         {
             "type": "Media",
-            "url": "./images/235.jpg"
+            "url": "./images/234.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

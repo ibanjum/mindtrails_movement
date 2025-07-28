@@ -1,17 +1,17 @@
 {
-    "header_text": "Expectations",
+    "header_text": "Class Clowns",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You think about why they want you to perform well. You know it is because they want you to do well, so that makes you feel..."
+            "text": "During a staff meeting, you are called on to share your thoughts. As you start to talk, you hear a loud burst of laughter behind you. Your fellow coworkers are laughing at a..."
         },
         {
             "type": "Entry",
-            "name": "Expectations_Work/Career Development_entry2"
+            "name": "Class Clowns_Work/Career Development_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

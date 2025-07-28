@@ -1,14 +1,14 @@
 {
-    "header_text": "Friends Hanging Out",
+    "header_text": "No Response",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friends Hanging Out"
+            "text": "No Response"
         },
         {
             "type": "Media",
-            "url": "./images/659.jpg"
+            "url": "./images/658.jpg"
         }
     ],
     "type": "positive",

@@ -1,14 +1,14 @@
 {
-    "header_text": "Blood test results",
+    "header_text": "Out on a boat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Blood test results"
+            "text": "Out on a boat"
         },
         {
             "type": "Media",
-            "url": "./images/366.jpg"
+            "url": "./images/442.jpg"
         }
     ],
     "type": "positive",

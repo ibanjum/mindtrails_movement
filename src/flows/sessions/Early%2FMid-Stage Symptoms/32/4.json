@@ -1,29 +1,16 @@
 {
-    "header_text": "Stained Laundry",
+    "header_text": "Lunch with Neighbor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "The laundry got stained because of your..."
+            "type": "Label",
+            "text": "Lunch with Neighbor"
         },
         {
-            "type": "Buttons",
-            "name": "Stained Laundry_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Partner's miscommunication",
-                "Difficulty paying attention"
-            ],
-            "columnCount": 1,
-            "correct_value": "Partner's miscommunication"
+            "type": "Media",
+            "url": "./images/872.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "resilience/negation",
-    "scenario_num": 0
+    "scenario_num": 1
 }

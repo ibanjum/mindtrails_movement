@@ -1,20 +1,20 @@
 {
-    "header_text": "Working to Get Ahead",
+    "header_text": "Burn Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have just been given a job in an office that you really admire. To eventually receive the promotion you want, you know that you will have to work very hard for several years and the outcome is uncertain. As you envision your likely position in the company down the road, you expect the job you want will be awarded to..."
+            "text": "You have been working really hard for the past year and are starting to feel burned out. You feel like you need to take a break, but you’re worried about the financial repercussions of taking time off. You think that taking time off to focus on your mental health is... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Working to Get Ahead_Mental Health_puzzle1",
+            "name": "Burn Out_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "you"
+                "important"
             ],
             "missing_letter_count": 1
         }

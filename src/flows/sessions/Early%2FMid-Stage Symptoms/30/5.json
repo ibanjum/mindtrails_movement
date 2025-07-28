@@ -1,16 +1,16 @@
 {
-    "header_text": "Missing Wallet",
+    "header_text": "Fitness Class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Missing Wallet"
+            "text": "Fitness Class"
         },
         {
             "type": "Media",
-            "url": "./images/304.jpg"
+            "url": "./images/523.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Coffee Together",
+    "header_text": "Crowded Waiting Room",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Coffee Together"
+            "text": "Crowded Waiting Room"
         },
         {
             "type": "Media",
-            "url": "./images/761.jpg"
+            "url": "./images/967.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 9
 }

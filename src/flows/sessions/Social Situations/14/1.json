@@ -1,14 +1,14 @@
 {
-    "header_text": "Comedic Genius",
+    "header_text": "Missed Connection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comedic Genius"
+            "text": "Missed Connection"
         },
         {
             "type": "Media",
-            "url": "./images/666.jpg"
+            "url": "./images/665.jpg"
         }
     ],
     "type": "positive",

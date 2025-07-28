@@ -1,14 +1,14 @@
 {
-    "header_text": "A big presentation",
+    "header_text": "Presenting your Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A big presentation"
+            "text": "Presenting your Work"
         },
         {
             "type": "Media",
-            "url": "./images/111.jpg"
+            "url": "./images/112.jpg"
         }
     ],
     "type": "positive",

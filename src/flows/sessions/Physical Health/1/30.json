@@ -1,29 +1,25 @@
 {
-    "header_text": "Coughing friend",
+    "header_text": "Dinner Party Supplies",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you manage your anxiety about potentially getting sick from your friend?"
+            "text": "You are co-hosting a dinner party at your friend's apartment, and you just finished all the shopping. You start to sweat and feel your heart pounding after a couple of trips carrying the groceries up to the third floor. You feel a bit scared of these sensations. Unsure of whether they are good or bad, you decide to simply accept..."
         },
         {
-            "type": "Buttons",
-            "name": "Coughing friend_Physical Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "Dinner Party Supplies_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "them"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

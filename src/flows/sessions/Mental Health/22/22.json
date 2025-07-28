@@ -1,16 +1,16 @@
 {
-    "header_text": "Farmer's Market Sweets",
+    "header_text": "Crowded Grocery Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Farmer's Market Sweets"
+            "text": "Crowded Grocery Store"
         },
         {
             "type": "Media",
-            "url": "./images/420.jpg"
+            "url": "./images/956.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

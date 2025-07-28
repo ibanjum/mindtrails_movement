@@ -1,23 +1,23 @@
 {
-    "header_text": "Family Recipe",
+    "header_text": "New Kitten",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your attempt to cook dinner will be a..."
+            "Text": "Will your kitten be cared for?"
         },
         {
             "type": "Buttons",
-            "name": "Family Recipe_Family & Home Life_comp_question",
+            "name": "New Kitten_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Failure",
-                "Success"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "Success"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

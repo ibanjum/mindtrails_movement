@@ -1,16 +1,16 @@
 {
-    "header_text": "Cooking a Casserole",
+    "header_text": "Sharing With Support Group ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cooking a Casserole"
+            "text": "Sharing With Support Group "
         },
         {
             "type": "Media",
-            "url": "./images/574.jpg"
+            "url": "./images/697.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

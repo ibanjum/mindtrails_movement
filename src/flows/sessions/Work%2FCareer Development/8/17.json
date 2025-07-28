@@ -1,16 +1,16 @@
 {
-    "header_text": "Troublesome Typos",
+    "header_text": "First Impressions",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Troublesome Typos"
+            "text": "First Impressions"
         },
         {
             "type": "Media",
-            "url": "./images/63.jpg"
+            "url": "./images/64.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 7
 }

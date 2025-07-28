@@ -1,14 +1,14 @@
 {
-    "header_text": "Past Experiences",
+    "header_text": "A Rude Comment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Past Experiences"
+            "text": "A Rude Comment"
         },
         {
             "type": "Media",
-            "url": "./images/384.jpg"
+            "url": "./images/385.jpg"
         }
     ],
     "type": "positive",

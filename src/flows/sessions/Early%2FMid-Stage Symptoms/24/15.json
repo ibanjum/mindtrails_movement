@@ -1,20 +1,20 @@
 {
-    "header_text": "Writing a Letter",
+    "header_text": "Cleaning the House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Today you are writing a letter to a loved one and finding it difficult to write clearly. You have to re-read previous sentences frequently, and you fear that the final product won't make any sense to the recipient. A few days after you send the letter, your loved one calls to tell you that your words were..."
+            "text": "Home renovations are long overdue, so today you are cleaning your house before the workers arrive. You are working slower than usual, and your spouse points out several spots you missed. Annoyed, you ask your spouse for help finishing up and communicate your... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Writing a Letter_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Cleaning the House_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "beautiful"
+                "feelings"
             ],
             "missing_letter_count": 2
         }

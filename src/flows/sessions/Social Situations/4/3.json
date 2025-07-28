@@ -1,23 +1,23 @@
 {
-    "header_text": "Conversing at a party",
+    "header_text": "Silence on a drive",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The group that was talking probably ignored you because they..."
+            "Text": "Does your friend think you are awkward when there is silence during the drive?"
         },
         {
             "type": "Buttons",
-            "name": "Conversing at a party_Social Situations_comp_question",
+            "name": "Silence on a drive_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Do not like you",
-                "Did not see you there"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Did not see you there"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

@@ -1,16 +1,17 @@
 {
-    "header_text": "Absent Sister",
+    "header_text": "New Training Plan",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Absent Sister"
+            "type": "Text",
+            "text": "You are giving a presentation to your coworkers about a new training plan. You feel that your hands are shaking a little. Wondering if it is obvious, you look around and see that a few people have..."
         },
         {
-            "type": "Media",
-            "url": "./images/186.jpg"
+            "type": "Entry",
+            "name": "New Training Plan_Social Situations_entry1"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

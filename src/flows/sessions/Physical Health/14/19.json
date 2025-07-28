@@ -1,16 +1,16 @@
 {
-    "header_text": "Flu Worries",
+    "header_text": "Trying New Foods",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Flu Worries"
+            "text": "Trying New Foods"
         },
         {
             "type": "Media",
-            "url": "./images/514.jpg"
+            "url": "./images/336.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

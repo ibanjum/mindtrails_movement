@@ -1,23 +1,23 @@
 {
-    "header_text": "Baking Cookies",
+    "header_text": "Online Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After you drop the tray, your grandchild is..."
+            "Text": "When you tell your child about the mix-up, they will probably respond..."
         },
         {
             "type": "Buttons",
-            "name": "Baking Cookies_Family & Home Life_comp_question",
+            "name": "Online Shopping_Family & Home Life_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Upset",
-                "Entertained"
+                "Gently",
+                "Harshly"
             ],
             "columnCount": 1,
-            "correct_value": "Entertained"
+            "correct_value": "Gently"
         }
     ],
     "navigation_conditions": [

@@ -1,14 +1,14 @@
 {
-    "header_text": "Recovering from the Flu",
+    "header_text": "Out of Your Control",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you recover from your time off?"
+            "Text": "Do you feel sick throughout the rest of your interview? "
         },
         {
             "type": "Buttons",
-            "name": "Recovering from the Flu_Physical Health_comp_question",
+            "name": "Out of Your Control_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -17,13 +17,13 @@
                 "No"
             ],
             "columnCount": 1,
-            "correct_value": "Yes"
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

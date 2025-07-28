@@ -1,14 +1,14 @@
 {
-    "header_text": "Seeing an Old Friend",
+    "header_text": "Wearing a Mask to Work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Seeing an Old Friend"
+            "text": "Wearing a Mask to Work"
         },
         {
             "type": "Media",
-            "url": "./images/493.jpg"
+            "url": "./images/492.jpg"
         }
     ],
     "type": "positive",

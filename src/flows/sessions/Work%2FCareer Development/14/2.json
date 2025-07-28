@@ -1,20 +1,20 @@
 {
-    "header_text": "Prospective Excitement",
+    "header_text": "Extra Income",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You'd like to take some time off to travel after a long and stressful year. Your family expects you to work more hours to help with finances, and you don't want to let them down. When considering your plans for the end of the year, you feel..."
+            "text": "You've recently been feeling overwhelmed with work, but you know that you need to get a second job to be in a more stable financial situation. While searching online for jobs, you saw an application for a job that sounds really fun for you. You think that working this second job will be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Prospective Excitement_Work/Career Development_puzzle1",
+            "name": "Extra Income_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "excited"
+                "manageable"
             ],
             "missing_letter_count": 1
         }

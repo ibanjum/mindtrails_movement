@@ -1,10 +1,14 @@
 {
-    "header_text": "Manage Your Feelings: Early/Mid-Stage Symptoms",
+    "header_text": "Apply to Daily Life: Make It Work for You!",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "If you find yourself feeling angry during a conversation with your partner, try expressing your thoughts and feelings calmly rather than yelling or making accusations."
+            "text": "Think about a situation that you would love to be in, but are too scared or anxious to actually put yourself in it even though it might lead to personal growth. What strategies could you put into practice to help get yourself there?"
+        },
+        {
+            "type": "Entry",
+            "name": "Tip #10_entry"
         }
     ]
 }

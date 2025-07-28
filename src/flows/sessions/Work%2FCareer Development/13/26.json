@@ -1,29 +1,16 @@
 {
-    "header_text": "Achieving Your Goals",
+    "header_text": "Feeling Different",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "You believe that you will probably"
+            "type": "Label",
+            "text": "Feeling Different"
         },
         {
-            "type": "Buttons",
-            "name": "Achieving Your Goals_Work/Career Development_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Not end up fulfilling your dreams, and feel disappointed with where you end up.",
-                "Get the job and advance your career even further."
-            ],
-            "columnCount": 1,
-            "correct_value": "Not end up fulfilling your dreams, and feel disappointed with where you end up."
+            "type": "Media",
+            "url": "./images/99.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 7
+    "type": "positive",
+    "scenario_num": 8
 }

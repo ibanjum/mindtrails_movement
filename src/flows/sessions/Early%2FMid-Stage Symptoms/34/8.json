@@ -1,25 +1,25 @@
 {
-    "header_text": "Follow-up at Doctor's Office",
+    "header_text": "Taking Time Off",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're visiting the doctor for a follow-up appointment. As you describe some recent symptoms you've been having, you notice the doctor is typing a lot. When they look up at you, they have an expression of..."
+            "text": "At work, you've noticed more difficulty typing. You decide to email your boss to ask to take time off to focus on your health. You see a reply pop up in your email after a while, and you feel... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Follow-up at Doctor's Office_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Taking Time Off_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "sorrow"
+                "scared"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

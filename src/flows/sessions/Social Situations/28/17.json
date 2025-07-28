@@ -1,14 +1,14 @@
 {
-    "header_text": "Managing Stress",
+    "header_text": "Office Talk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Managing Stress"
+            "text": "Office Talk"
         },
         {
             "type": "Media",
-            "url": "./images/484.jpg"
+            "url": "./images/103.jpg"
         }
     ],
     "type": "positive",

@@ -1,25 +1,16 @@
 {
-    "header_text": "A Long Dinner",
+    "header_text": "Planning a Family Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You're at dinner with friends, which runs longer than expected as you all spend time catching up. You know that your medication will be wearing off soon, and you did not bring any with you. If you begin to show symptoms of your medication wearing off, your friends will be... "
+            "type": "Label",
+            "text": "Planning a Family Vacation"
         },
         {
-            "type": "WordPuzzle",
-            "name": "A Long Dinner_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "supportive"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/735.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 9
 }

@@ -1,25 +1,29 @@
 {
-    "header_text": "Losing Your Phone",
+    "header_text": "Writing a Letter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at home, and you have misplaced your phone again. You become stressed about your memory loss lately. You retrace your steps to jog your memory, and you realize that your chances of finding your phone are relatively..."
+            "Text": "Are you able to share your thoughts in a letter?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Losing Your Phone_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Writing a Letter_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "low"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 2
 }

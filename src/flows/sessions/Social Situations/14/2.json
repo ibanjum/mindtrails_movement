@@ -1,14 +1,14 @@
 {
-    "header_text": "Comedic Genius",
+    "header_text": "Missed Connection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're out to lunch with a group of your friends. You make a joke that you think is really funny, but no one really laughs. They were probably..."
+            "text": "You are sitting at a coffee shop when you see your friend. They walk past you and sit down next to someone else. They must have been..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Comedic Genius_Social Situations_puzzle1",
+            "name": "Missed Connection_Social Situations_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

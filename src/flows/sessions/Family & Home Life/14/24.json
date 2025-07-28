@@ -1,16 +1,16 @@
 {
-    "header_text": "Affording Education",
+    "header_text": "Cleaning Your Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Affording Education"
+            "text": "Cleaning Your Home"
         },
         {
             "type": "Media",
-            "url": "./images/191.jpg"
+            "url": "./images/212.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 7
 }

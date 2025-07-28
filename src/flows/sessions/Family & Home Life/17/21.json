@@ -1,16 +1,16 @@
 {
-    "header_text": "Hosting a Dinner",
+    "header_text": "Hiking Incident",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hosting a Dinner"
+            "text": "Hiking Incident"
         },
         {
             "type": "Media",
-            "url": "./images/231.jpg"
+            "url": "./images/230.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

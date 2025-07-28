@@ -1,16 +1,16 @@
 {
-    "header_text": "Checks at the dentist",
+    "header_text": "Spider bite",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Checks at the dentist"
+            "text": "Spider bite"
         },
         {
             "type": "Media",
-            "url": "./images/348.jpg"
+            "url": "./images/461.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

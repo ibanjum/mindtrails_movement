@@ -1,14 +1,14 @@
 {
-    "header_text": "Yoga Routine",
+    "header_text": "Playing Music",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yoga Routine"
+            "text": "Playing Music"
         },
         {
             "type": "Media",
-            "url": "./images/415.jpg"
+            "url": "./images/416.jpg"
         }
     ],
     "type": "positive",

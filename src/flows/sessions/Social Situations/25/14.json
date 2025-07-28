@@ -1,16 +1,16 @@
 {
-    "header_text": "Working Late",
+    "header_text": "Introducing Your Spouse to New Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Working Late"
+            "text": "Introducing Your Spouse to New Friends"
         },
         {
             "type": "Media",
-            "url": "./images/290.jpg"
+            "url": "./images/152.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

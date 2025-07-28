@@ -1,14 +1,14 @@
 {
-    "header_text": "Organizing an Event",
+    "header_text": "Picnic Packing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Organizing an Event"
+            "text": "Picnic Packing"
         },
         {
             "type": "Media",
-            "url": "./images/866.jpg"
+            "url": "./images/867.jpg"
         }
     ],
     "type": "positive",

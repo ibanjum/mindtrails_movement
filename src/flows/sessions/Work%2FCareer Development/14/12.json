@@ -1,20 +1,20 @@
 {
-    "header_text": "Locked door",
+    "header_text": "Office Talk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You get home from work on a Friday evening and wonder whether you locked the office door. You usually lock the door, but you still feel anxious not knowing for sure. Your weekend away from the office will be..."
+            "text": "You are having a discussion with your boss in their office, which is a little anxiety-provoking for you. You think about ending the discussion early. After a brief pause, you decide to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Locked door_Work/Career Development_puzzle1",
+            "name": "Office Talk_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "enjoyable"
+                "stay"
             ],
             "missing_letter_count": 1
         }

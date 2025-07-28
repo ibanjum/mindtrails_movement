@@ -1,16 +1,16 @@
 {
-    "header_text": "Seeing Others Hanging Out",
+    "header_text": "Confirming Plans",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Seeing Others Hanging Out"
+            "text": "Confirming Plans"
         },
         {
             "type": "Media",
-            "url": "./images/682.jpg"
+            "url": "./images/681.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

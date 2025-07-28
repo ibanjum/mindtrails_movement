@@ -1,14 +1,14 @@
 {
-    "header_text": "Assembling Furniture",
+    "header_text": "Journaling Shift",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You recently ordered furniture online that you have to assemble yourself. You struggle to make out the diagrams and wonder if you are particularly struggling because of PD. You think to yourself that the manufacturer's instructions are bad, and this makes you... "
+            "text": "Your therapist recommended that you try journaling as a way to process some of your emotions. You're very frustrated with this practice because it takes you a lot longer to write anything lately. You decide to accept this as part of the process, and you become more..."
         },
         {
             "type": "Entry",
-            "name": "Assembling Furniture_Mental Health_entry1"
+            "name": "Journaling Shift_Mental Health_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

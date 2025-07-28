@@ -1,14 +1,14 @@
 {
-    "header_text": "Ready to Work",
+    "header_text": "Disease and Identity",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Ready to Work"
+            "text": "Disease and Identity"
         },
         {
             "type": "Media",
-            "url": "./images/83.jpg"
+            "url": "./images/404.jpg"
         }
     ],
     "type": "positive",

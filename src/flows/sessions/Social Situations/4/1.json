@@ -1,14 +1,14 @@
 {
-    "header_text": "Conversing at a party",
+    "header_text": "Silence on a drive",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Conversing at a party"
+            "text": "Silence on a drive"
         },
         {
             "type": "Media",
-            "url": "./images/620.jpg"
+            "url": "./images/619.jpg"
         }
     ],
     "type": "positive",

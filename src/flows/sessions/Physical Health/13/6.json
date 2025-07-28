@@ -1,14 +1,14 @@
 {
-    "header_text": "Positive Test",
+    "header_text": "Computer Screen Problems",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you test positive?"
+            "Text": "Is your headache related to looking at your computer for too long?"
         },
         {
             "type": "Buttons",
-            "name": "Positive Test_Physical Health_comp_question",
+            "name": "Computer Screen Problems_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

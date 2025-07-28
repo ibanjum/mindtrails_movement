@@ -1,17 +1,17 @@
 {
-    "header_text": "Difficult walk",
+    "header_text": "Treating Yourself",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide that these sensations are tolerable, and you..."
+            "text": "You've had a lot going on recently and haven't felt like yourself. You want to treat yourself to something you enjoy, but you aren't sure you have room in your budget. You decide to buy yourself something small that you can definitely..."
         },
         {
             "type": "Entry",
-            "name": "Difficult walk_Mental Health_entry2"
+            "name": "Treating Yourself_Mental Health_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

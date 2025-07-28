@@ -1,14 +1,14 @@
 {
-    "header_text": "Recent Exposure",
+    "header_text": "Getting into the Groove",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You were recently exposed to someone who had a virus, but you haven't experienced any symptoms. Your friends invite you to get dinner with them, and you wonder if you should go. You feel well and decide to go out with your... "
+            "text": "You are taking a dancing class and, during a break, feel your legs go wobbly. You focus on these feelings as you get a drink of water. Wobbly legs probably mean that you are pushing..."
         },
         {
             "type": "Entry",
-            "name": "Recent Exposure_Physical Health_entry1"
+            "name": "Getting into the Groove_Physical Health_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",

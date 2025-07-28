@@ -1,16 +1,16 @@
 {
-    "header_text": "Favorite Restaurant",
+    "header_text": "Bowling Alley",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Favorite Restaurant"
+            "text": "Bowling Alley"
         },
         {
             "type": "Media",
-            "url": "./images/748.jpg"
+            "url": "./images/750.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

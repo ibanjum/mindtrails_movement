@@ -1,29 +1,16 @@
 {
-    "header_text": "Morning Coffee",
+    "header_text": "New Friendship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Your spouse is trying to be..."
+            "type": "Label",
+            "text": "New Friendship"
         },
         {
-            "type": "Buttons",
-            "name": "Morning Coffee_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Hovering",
-                "Kind"
-            ],
-            "columnCount": 1,
-            "correct_value": "Kind"
+            "type": "Media",
+            "url": "./images/854.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 6
 }

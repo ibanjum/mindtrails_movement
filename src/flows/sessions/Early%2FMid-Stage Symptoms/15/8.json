@@ -1,29 +1,16 @@
 {
-    "header_text": "Delayed Texting ",
+    "header_text": "Overwhelmed at Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "The recipient of your text will..."
+            "type": "Label",
+            "text": "Overwhelmed at Meeting"
         },
         {
-            "type": "Buttons",
-            "name": "Delayed Texting _Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Happily wait",
-                "Be frustrated"
-            ],
-            "columnCount": 1,
-            "correct_value": "Happily wait"
+            "type": "Media",
+            "url": "./images/808.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 1
+    "scenario_num": 2
 }

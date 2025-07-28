@@ -1,16 +1,16 @@
 {
-    "header_text": "Research Visit",
+    "header_text": "Gardening Help",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Research Visit"
+            "text": "Gardening Help"
         },
         {
             "type": "Media",
-            "url": "./images/438.jpg"
+            "url": "./images/792.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

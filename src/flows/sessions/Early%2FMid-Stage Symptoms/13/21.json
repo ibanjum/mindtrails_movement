@@ -1,16 +1,16 @@
 {
-    "header_text": "Family Dinner Fight",
+    "header_text": "Shopping Anxiety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Family Dinner Fight"
+            "text": "Shopping Anxiety"
         },
         {
             "type": "Media",
-            "url": "./images/795.jpg"
+            "url": "./images/970.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 6
 }

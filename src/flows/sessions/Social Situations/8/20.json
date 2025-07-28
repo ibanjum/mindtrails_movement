@@ -1,14 +1,14 @@
 {
-    "header_text": "Too Much Attention",
+    "header_text": "Getting to Know New People",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Too Much Attention"
+            "text": "Getting to Know New People"
         },
         {
             "type": "Media",
-            "url": "./images/490.jpg"
+            "url": "./images/642.jpg"
         }
     ],
     "type": "positive",

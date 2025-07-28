@@ -1,20 +1,20 @@
 {
-    "header_text": "Trusting Yourself",
+    "header_text": "Certainty of being correct",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you think that you're dumb because you made a mistake?"
+            "Text": "Are you uneasy about your answer?"
         },
         {
             "type": "Buttons",
-            "name": "Trusting Yourself_Mental Health_comp_question",
+            "name": "Certainty of being correct_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "No"

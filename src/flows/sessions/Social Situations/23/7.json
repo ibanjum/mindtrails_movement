@@ -1,14 +1,14 @@
 {
-    "header_text": "On a Walk",
+    "header_text": "Luncheon Looks",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "On a Walk"
+            "text": "Luncheon Looks"
         },
         {
             "type": "Media",
-            "url": "./images/700.jpg"
+            "url": "./images/699.jpg"
         }
     ],
     "type": "positive",

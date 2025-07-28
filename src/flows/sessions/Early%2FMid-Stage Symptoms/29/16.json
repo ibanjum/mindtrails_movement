@@ -1,29 +1,16 @@
 {
-    "header_text": "Dropping Food",
+    "header_text": "House For Sale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Is your brother annoyed at having to help you clean up?"
+            "type": "Label",
+            "text": "House For Sale"
         },
         {
-            "type": "Buttons",
-            "name": "Dropping Food_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/198.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "negative",
-    "scenario_num": 4
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Friendships in the Future",
+    "header_text": "Holiday Away From Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friendships in the Future"
+            "text": "Holiday Away From Home"
         },
         {
             "type": "Media",
-            "url": "./images/707.jpg"
+            "url": "./images/156.jpg"
         }
     ],
     "type": "positive",

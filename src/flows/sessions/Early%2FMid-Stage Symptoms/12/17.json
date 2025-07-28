@@ -1,16 +1,16 @@
 {
-    "header_text": "Meal Program Volunteering",
+    "header_text": "Lunch with New Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Meal Program Volunteering"
+            "text": "Lunch with New Friend"
         },
         {
             "type": "Media",
-            "url": "./images/788.jpg"
+            "url": "./images/790.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

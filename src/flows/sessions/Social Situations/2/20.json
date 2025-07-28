@@ -1,16 +1,16 @@
 {
-    "header_text": "Mistake on a task",
+    "header_text": "A child's request",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Mistake on a task"
+            "text": "A child's request"
         },
         {
             "type": "Media",
-            "url": "./images/116.jpg"
+            "url": "./images/608.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

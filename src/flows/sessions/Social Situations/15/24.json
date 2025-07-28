@@ -1,16 +1,16 @@
 {
-    "header_text": "Different Music Tastes",
+    "header_text": "Social Media Scores",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Different Music Tastes"
+            "text": "Social Media Scores"
         },
         {
             "type": "Media",
-            "url": "./images/675.jpg"
+            "url": "./images/672.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 7
 }

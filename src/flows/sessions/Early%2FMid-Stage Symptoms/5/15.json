@@ -1,16 +1,25 @@
 {
-    "header_text": "Bowling Alley",
+    "header_text": "Facial Expression ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Bowling Alley"
+            "type": "Text",
+            "text": "Your face often appears less expressive than it used to. As you walk into a room of laughing friends, you glimpse your blank face in the mirror. Your friends exchange uneasy glances as they misinterpret your expression as a sign of..."
         },
         {
-            "type": "Media",
-            "url": "./images/750.jpg"
+            "type": "WordPuzzle",
+            "name": "Facial Expression _Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "anger"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "negative",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

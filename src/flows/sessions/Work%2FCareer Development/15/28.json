@@ -1,14 +1,14 @@
 {
-    "header_text": "Looking at your Resume",
+    "header_text": "A big presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Looking at your Resume"
+            "text": "A big presentation"
         },
         {
             "type": "Media",
-            "url": "./images/94.jpg"
+            "url": "./images/111.jpg"
         }
     ],
     "type": "positive",

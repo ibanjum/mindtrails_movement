@@ -1,20 +1,20 @@
 {
-    "header_text": "Playing Music",
+    "header_text": "Board Game Mishap",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Playing musical instruments has been a favorite hobby of yours since childhood. Reading the sheet music used to be a strength, but now you have trouble following it. When you take a deep breath and slow down, you are able to refocus and..."
+            "text": "You are playing an old board game during family game night. On one of your turns, you knock over all of the pieces. You instantly expect your family to be frustrated, but they are tired of the game and begin to..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Playing Music_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Board Game Mishap_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "continue"
+                "laugh"
             ],
             "missing_letter_count": 2
         }

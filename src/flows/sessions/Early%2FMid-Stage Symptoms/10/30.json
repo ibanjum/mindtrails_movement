@@ -1,29 +1,29 @@
 {
-    "header_text": "A Tricky Hike",
+    "header_text": "New Conflict With Spouse",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "With the walking stick, you feel..."
+            "Text": "Reflecting on your relationship with your spouse, you feel..."
         },
         {
             "type": "Buttons",
-            "name": "A Tricky Hike_Early/Mid-Stage Symptoms_comp_question",
+            "name": "New Conflict With Spouse_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Incapable.",
-                "Secure."
+                "Afraid",
+                "Committed"
             ],
             "columnCount": 1,
-            "correct_value": "Secure."
+            "correct_value": "Committed"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Office Talk",
+    "header_text": "Social Media Presence",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Office Talk"
+            "text": "Social Media Presence"
         },
         {
             "type": "Media",
-            "url": "./images/103.jpg"
+            "url": "./images/601.jpg"
         }
     ],
     "type": "positive",

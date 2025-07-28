@@ -1,14 +1,14 @@
 {
-    "header_text": "Political Opinions",
+    "header_text": "A Few Falls",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have a levelheaded discussion with your family about the candidates. You realize that sharing your opinion, even though it's different, contributes a lot to everyone's understanding of the..."
+            "text": "They talk with you about using a cane or walker so that you can be more sturdy on your feet, and you agree. Seeing their faces relax makes you..."
         },
         {
             "type": "Entry",
-            "name": "Political Opinions_Family & Home Life_entry2"
+            "name": "A Few Falls_Family & Home Life_entry2"
         }
     ],
     "navigation_conditions": "wait_for_correct",

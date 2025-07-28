@@ -1,16 +1,16 @@
 {
-    "header_text": "Making a Toast",
+    "header_text": "Funny Photos",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Making a Toast"
+            "text": "Funny Photos"
         },
         {
             "type": "Media",
-            "url": "./images/635.jpg"
+            "url": "./images/634.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 6
 }

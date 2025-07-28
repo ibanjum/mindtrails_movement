@@ -1,16 +1,16 @@
 {
-    "header_text": "Pool Time",
+    "header_text": "Playing the Piano",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Pool Time"
+            "text": "Playing the Piano"
         },
         {
             "type": "Media",
-            "url": "./images/400.jpg"
+            "url": "./images/187.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

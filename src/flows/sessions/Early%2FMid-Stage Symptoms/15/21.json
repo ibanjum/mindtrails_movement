@@ -1,16 +1,16 @@
 {
-    "header_text": "Comparing at the Gym",
+    "header_text": "Clapping at Concert",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comparing at the Gym"
+            "text": "Clapping at Concert"
         },
         {
             "type": "Media",
-            "url": "./images/525.jpg"
+            "url": "./images/810.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 6
 }

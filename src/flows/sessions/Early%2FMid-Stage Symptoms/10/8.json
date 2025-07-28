@@ -1,16 +1,16 @@
 {
-    "header_text": "Holding the Phone",
+    "header_text": "Difficulty Baking",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Holding the Phone"
+            "text": "Difficulty Baking"
         },
         {
             "type": "Media",
-            "url": "./images/775.jpg"
+            "url": "./images/576.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

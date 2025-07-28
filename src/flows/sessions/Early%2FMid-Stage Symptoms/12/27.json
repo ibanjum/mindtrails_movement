@@ -1,14 +1,14 @@
 {
-    "header_text": "April Proposal",
+    "header_text": "Medical Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "April Proposal"
+            "text": "Medical Presentation"
         },
         {
             "type": "Media",
-            "url": "./images/585.jpg"
+            "url": "./images/126.jpg"
         }
     ],
     "type": "positive",

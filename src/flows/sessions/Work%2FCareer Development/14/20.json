@@ -1,14 +1,14 @@
 {
-    "header_text": "Comparing Your Work to Others'",
+    "header_text": "Life Changes ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comparing Your Work to Others'"
+            "text": "Life Changes "
         },
         {
             "type": "Media",
-            "url": "./images/104.jpg"
+            "url": "./images/105.jpg"
         }
     ],
     "type": "positive",

@@ -1,14 +1,14 @@
 {
-    "header_text": "Fast Card Game",
+    "header_text": "Graduation Toast",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Fast Card Game"
+            "text": "Graduation Toast"
         },
         {
             "type": "Media",
-            "url": "./images/871.jpg"
+            "url": "./images/244.jpg"
         }
     ],
     "type": "positive",

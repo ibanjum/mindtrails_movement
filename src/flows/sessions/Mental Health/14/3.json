@@ -1,23 +1,23 @@
 {
-    "header_text": "Getting Ready for a Date",
+    "header_text": "Party with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you have to impress this person? "
+            "Text": "Does your friend agree with you about not engaging with others?"
         },
         {
             "type": "Buttons",
-            "name": "Getting Ready for a Date_Mental Health_comp_question",
+            "name": "Party with Friends_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
-            "correct_value": "No"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

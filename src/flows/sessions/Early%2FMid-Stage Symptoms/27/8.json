@@ -1,14 +1,14 @@
 {
-    "header_text": "Giving a Toast",
+    "header_text": "Lunch with Old Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Giving a Toast"
+            "text": "Lunch with Old Friends"
         },
         {
             "type": "Media",
-            "url": "./images/235.jpg"
+            "url": "./images/851.jpg"
         }
     ],
     "type": "positive",

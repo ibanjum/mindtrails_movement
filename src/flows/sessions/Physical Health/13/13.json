@@ -1,14 +1,14 @@
 {
-    "header_text": "Walking with a Friend",
+    "header_text": "Plans to Visit Family",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Walking with a Friend"
+            "text": "Plans to Visit Family"
         },
         {
             "type": "Media",
-            "url": "./images/497.jpg"
+            "url": "./images/507.jpg"
         }
     ],
     "type": "positive",

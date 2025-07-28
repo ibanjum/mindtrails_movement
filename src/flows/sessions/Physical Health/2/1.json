@@ -1,14 +1,14 @@
 {
-    "header_text": "First time skydiving",
+    "header_text": "Coughing friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "First time skydiving"
+            "text": "Coughing friend"
         },
         {
             "type": "Media",
-            "url": "./images/437.jpg"
+            "url": "./images/436.jpg"
         }
     ],
     "type": "positive",

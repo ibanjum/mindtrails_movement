@@ -1,16 +1,16 @@
 {
-    "header_text": "Friendships in the Future",
+    "header_text": "Sensational Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friendships in the Future"
+            "text": "Sensational Party"
         },
         {
             "type": "Media",
-            "url": "./images/707.jpg"
+            "url": "./images/465.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 8
 }

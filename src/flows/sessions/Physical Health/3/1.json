@@ -1,14 +1,14 @@
 {
-    "header_text": "Flashing movie",
+    "header_text": "Blood test results",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Flashing movie"
+            "text": "Blood test results"
         },
         {
             "type": "Media",
-            "url": "./images/443.jpg"
+            "url": "./images/366.jpg"
         }
     ],
     "type": "positive",

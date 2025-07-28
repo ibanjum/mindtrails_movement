@@ -1,17 +1,17 @@
 {
-    "header_text": "Presentation Panic",
+    "header_text": "Dry Difficulty",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are giving a presentation that you have been really nervous to give. As you talk, you feel a lump in your throat and you start to cough. These feelings probably mean that you are..."
+            "text": "You are talking to your friend about your day and suddenly you feel your throat go dry. You cough a little and reach for a glass of water. The water helps a little, and you realize that the dry throat was probably..."
         },
         {
             "type": "Entry",
-            "name": "Presentation Panic_Physical Health_entry1"
+            "name": "Dry Difficulty_Physical Health_entry1"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

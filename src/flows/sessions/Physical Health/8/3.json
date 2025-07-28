@@ -1,17 +1,29 @@
 {
-    "header_text": "Going for a Spin",
+    "header_text": "A Toothache",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You decide to spin yourself really quickly in an office chair. You feel butterflies in your stomach and your head get dizzy as the chair slows down from spinning. These feelings probably mean that you are..."
+            "Text": "Can you handle going to the dentist?"
         },
         {
-            "type": "Entry",
-            "name": "Going for a Spin_Physical Health_entry1"
+            "type": "Buttons",
+            "name": "A Toothache_Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "columnCount": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 0
 }

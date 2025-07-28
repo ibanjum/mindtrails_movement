@@ -1,16 +1,16 @@
 {
-    "header_text": "Holiday Away From Home",
+    "header_text": "High Paying Jobs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Holiday Away From Home"
+            "text": "High Paying Jobs"
         },
         {
             "type": "Media",
-            "url": "./images/156.jpg"
+            "url": "./images/271.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 8
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Class Clowns",
+    "header_text": "Supportive Guidance ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Class Clowns"
+            "text": "Supportive Guidance "
         },
         {
             "type": "Media",
-            "url": "./images/68.jpg"
+            "url": "./images/69.jpg"
         }
     ],
     "type": "positive",

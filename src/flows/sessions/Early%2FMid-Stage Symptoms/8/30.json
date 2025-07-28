@@ -1,16 +1,16 @@
 {
-    "header_text": "Day in the Park",
+    "header_text": "Crowded Grocery Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Day in the Park"
+            "text": "Crowded Grocery Store"
         },
         {
             "type": "Media",
-            "url": "./images/771.jpg"
+            "url": "./images/956.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

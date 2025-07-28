@@ -1,16 +1,29 @@
 {
-    "header_text": "New Therapist",
+    "header_text": "Research Study",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "New Therapist"
+            "type": "Text",
+            "Text": "You felt better because you know... "
         },
         {
-            "type": "Media",
-            "url": "./images/173.jpg"
+            "type": "Buttons",
+            "name": "Research Study_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You can stop any time",
+                "You must continue on"
+            ],
+            "columnCount": 1,
+            "correct_value": "You can stop any time"
         }
     ],
-    "type": "positive",
-    "scenario_num": 6
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

@@ -1,20 +1,20 @@
 {
-    "header_text": "Greeting Someone",
+    "header_text": "Loud friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Does your neighbor think that you are friendly?"
+            "Text": "Is it okay for people to look at you and your friend while out shopping?"
         },
         {
             "type": "Buttons",
-            "name": "Greeting Someone_Social Situations_comp_question",
+            "name": "Loud friend_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "Yes"

@@ -1,16 +1,16 @@
 {
-    "header_text": "An Invitation",
+    "header_text": "Long Walk Outside",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "An Invitation"
+            "text": "Long Walk Outside"
         },
         {
             "type": "Media",
-            "url": "./images/396.jpg"
+            "url": "./images/397.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

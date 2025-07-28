@@ -1,14 +1,14 @@
 {
-    "header_text": "New Costs",
+    "header_text": "Safety at Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Costs"
+            "text": "Safety at Home"
         },
         {
             "type": "Media",
-            "url": "./images/747.jpg"
+            "url": "./images/749.jpg"
         }
     ],
     "type": "positive",

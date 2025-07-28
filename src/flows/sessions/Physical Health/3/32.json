@@ -1,29 +1,29 @@
 {
-    "header_text": "Hot surface burn",
+    "header_text": "Walking Trail",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "After running water over your finger, your burn will probably..."
+            "Text": "Are you able to manage your anxiety by observing your breathing?"
         },
         {
             "type": "Buttons",
-            "name": "Hot surface burn_Physical Health_comp_question",
+            "name": "Walking Trail_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Remain very painful",
-                "Hurt much less"
+                "Yes",
+                "No"
             ],
             "columnCount": 1,
-            "correct_value": "Hurt much less"
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

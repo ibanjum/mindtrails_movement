@@ -1,20 +1,20 @@
 {
-    "header_text": "Burn Out",
+    "header_text": "Stomach Ache",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is it important to take breaks sometimes?"
+            "Text": "Is the stomach ache from anxiety?"
         },
         {
             "type": "Buttons",
-            "name": "Burn Out_Mental Health_comp_question",
+            "name": "Stomach Ache_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "No",
+                "Yes"
             ],
             "columnCount": 1,
             "correct_value": "Yes"
@@ -24,6 +24,6 @@
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

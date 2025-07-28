@@ -1,25 +1,29 @@
 {
-    "header_text": "Picnic Packing",
+    "header_text": "Planning an Outing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You were invited to join a picnic with several friends. As you pack, you can't seem to remember what to bring. You grab paper and a pencil and call your friends again, knowing they will give you a... "
+            "Text": "Do you have to give up on planning the outing?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Picnic Packing_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Planning an Outing_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "reminder"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "columnCount": 1,
+            "correct_value": "No"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
     "scenario_num": 6
 }

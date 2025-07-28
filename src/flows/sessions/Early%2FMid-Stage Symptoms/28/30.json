@@ -1,16 +1,16 @@
 {
-    "header_text": "Yoga Equipment",
+    "header_text": "Downsizing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yoga Equipment"
+            "text": "Downsizing"
         },
         {
             "type": "Media",
-            "url": "./images/522.jpg"
+            "url": "./images/861.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

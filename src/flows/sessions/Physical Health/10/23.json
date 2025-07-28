@@ -1,14 +1,14 @@
 {
-    "header_text": "Cough After Going Out ",
+    "header_text": "Seeing an Old Friend",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cough After Going Out "
+            "text": "Seeing an Old Friend"
         },
         {
             "type": "Media",
-            "url": "./images/436.jpg"
+            "url": "./images/493.jpg"
         }
     ],
     "type": "positive",

@@ -1,14 +1,14 @@
 {
-    "header_text": "Vacation Abroad",
+    "header_text": "Neighbor's Help",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vacation Abroad"
+            "text": "Neighbor's Help"
         },
         {
             "type": "Media",
-            "url": "./images/428.jpg"
+            "url": "./images/974.jpg"
         }
     ],
     "type": "positive",

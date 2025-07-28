@@ -1,14 +1,14 @@
 {
-    "header_text": "Intimacy and Communication",
+    "header_text": "Research Visit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Intimacy and Communication"
+            "text": "Research Visit"
         },
         {
             "type": "Media",
-            "url": "./images/587.jpg"
+            "url": "./images/438.jpg"
         }
     ],
     "type": "positive",

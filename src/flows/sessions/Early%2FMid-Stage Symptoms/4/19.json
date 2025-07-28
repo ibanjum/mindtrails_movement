@@ -1,16 +1,16 @@
 {
-    "header_text": "Enjoying the outdoors",
+    "header_text": "Games with Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Enjoying the outdoors"
+            "text": "Games with Friends"
         },
         {
             "type": "Media",
-            "url": "./images/729.jpg"
+            "url": "./images/716.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

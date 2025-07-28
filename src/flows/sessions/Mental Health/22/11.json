@@ -1,16 +1,16 @@
 {
-    "header_text": "Playing Music",
+    "header_text": "New Book Club ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Playing Music"
+            "text": "New Book Club "
         },
         {
             "type": "Media",
-            "url": "./images/416.jpg"
+            "url": "./images/417.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 4
 }

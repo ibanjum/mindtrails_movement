@@ -1,29 +1,25 @@
 {
-    "header_text": "Shopping Help",
+    "header_text": "Side Dish Selection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "As your spouse helps you buy groceries, you feel..."
+            "text": "You decide to ask the waiter about the options for sides, and they politely explain. After this, you easily pick your side dish with..."
         },
         {
-            "type": "Buttons",
-            "name": "Shopping Help_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Side Dish Selection_Early/Mid-Stage Symptoms_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Grateful",
-                "Resentful"
+            "display_delay": 2000,
+            "words": [
+                "confidence"
             ],
-            "columnCount": 1,
-            "correct_value": "Grateful"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 8
 }

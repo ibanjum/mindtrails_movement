@@ -1,14 +1,14 @@
 {
-    "header_text": "Making a Choice",
+    "header_text": "Supportive Person ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Making a Choice"
+            "text": "Supportive Person "
         },
         {
             "type": "Media",
-            "url": "./images/60.jpg"
+            "url": "./images/61.jpg"
         }
     ],
     "type": "positive",

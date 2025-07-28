@@ -1,14 +1,14 @@
 {
-    "header_text": "Time to Yourself",
+    "header_text": "Attending Wedding Alone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Time to Yourself"
+            "text": "Attending Wedding Alone"
         },
         {
             "type": "Media",
-            "url": "./images/177.jpg"
+            "url": "./images/686.jpg"
         }
     ],
     "type": "positive",

@@ -1,14 +1,14 @@
 {
-    "header_text": "Taking Precautions ",
+    "header_text": "Rescheduled Vacation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Taking Precautions "
+            "text": "Rescheduled Vacation"
         },
         {
             "type": "Media",
-            "url": "./images/510.jpg"
+            "url": "./images/509.jpg"
         }
     ],
     "type": "positive",
