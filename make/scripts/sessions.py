@@ -251,7 +251,7 @@ def try_add_reminders(session_number, session, reminders):
             index = get_page_index(page,session,position)
 
             if index is not None:
-                session[index]["information"] = { "elements": [ get_reminder_element(reminder) ], "position": position, "information_count": 1}
+                session[index]["information"] = get_reminder_element(reminder,position,1)
 
     return session
 
@@ -287,7 +287,7 @@ for popname,s,l,i in populations:
         for page,position,reminder in reminders[key]:
             for p in flat(surveys,f"{popname}_beforedomain_all"):
                 if page in lower(p["header_text"]):
-                    p["information"] = { "elements": [ get_reminder_element(reminder) ], "position": position, "information_count": 3 }
+                    p["information"] = get_reminder_element(reminder,position,3)
 
     # Define folders
     folders = {}

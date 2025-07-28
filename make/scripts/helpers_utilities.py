@@ -51,7 +51,7 @@ def is_int(val):
         return True
 
 def is_yesno(values):
-    return set([v.lower() for v in values]) in [set(["si", "no"]),set(["yes","no"])]
+    return set([v.lower() for v in values]) == set(["yes","no"])
 
 def has_value(value):
     return value and value.strip() and value.upper() not in ["NA","N/A","N\\A"]
@@ -179,6 +179,8 @@ def get_page_index(scenario, session, position):
 
     return None
 
-def get_reminder_element(reminder):
+def get_reminder_element(reminder,position,count):
+    if not reminder: return None
     is_image = ".png" in reminder or ".jpg" in reminder or ".jpeg" in reminder
-    return {"type":"text", "text": reminder} if not is_image else {"type":"media", "url": media_url(reminder)}
+    element = {"type":"text", "text": reminder} if not is_image else {"type":"media", "url": media_url(reminder)}
+    return { "elements": [ element ], "position": position, "information_count": count }

@@ -126,6 +126,11 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                           puzzle_text_2=None, n_missing=1, include_lessons_learned=False,
                           lessons_learned_dict=None, tipe=None):
 
+    try:
+        assert correct_answer.lower() in [a.lower() for a in  answers]
+    except:
+        print(1)
+
     n_missing = lower(str(n_missing))
     pages = []
 
