@@ -1,16 +1,16 @@
 {
-    "header_text": "Garden Changes",
+    "header_text": "Local Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Garden Changes"
+            "type": "Text",
+            "text": "You are volunteering at the check-in desk for a local event. You are having trouble keeping track of all the check-in tasks and a huge line forms. The event organizer starts walking in your direction, and you worry that they think you are... "
         },
         {
-            "type": "Media",
-            "url": "./images/827.jpg"
+            "type": "Entry"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 1
 }

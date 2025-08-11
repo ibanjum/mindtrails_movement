@@ -1,20 +1,20 @@
 {
-    "header_text": "Reviewing Your Work ",
+    "header_text": "Your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "As you prepare for the review, you do not think your boss will forget your good work. In your meeting, you think you will receive..."
+            "text": "As you look over your resume, you do not anticipate your potential employer writing you off. You think that the interviewer will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Reviewing Your Work _Work/Career Development_puzzle_word2",
+            "name": "Your Resume_Work/Career Development_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "praise"
+                "impressed"
             ],
             "missing_letter_count": 1
         }

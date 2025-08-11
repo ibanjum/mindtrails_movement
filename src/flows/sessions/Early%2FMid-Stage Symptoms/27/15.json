@@ -1,25 +1,25 @@
 {
-    "header_text": "Dining Out",
+    "header_text": "Morning Coffee",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "When eating out with your friends, you feel self-conscious about how you now move and eat slower than before your diagnosis. Your friends are already done with their food, and you can see them watching you closely. You look over at them, and they appear to be..."
+            "text": "You are drinking morning coffee next to your spouse and suddenly cough on the sip you are taking. Your spouse looks at you like they have something to say. Then, they ask if they can get you a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Dining Out_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Morning Coffee_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "frustrated"
+                "refill"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

@@ -7,8 +7,7 @@
             "text": "As you envision your likely position in the company down the road, you do not see yourself getting passed by. You are hopeful that you'll land your dream..."
         },
         {
-            "type": "Entry",
-            "name": "Working to Get Ahead_Mental Health_entry2"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

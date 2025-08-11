@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I want to scream, but instead gently move the spider outside.",
                 "I leave the bathroom immediately and don't take a shower.",
                 "I go on with my bathroom routine.",
                 "I want to run away, but decide to stay and face my fears.",
                 "I put on my favorite song and hop in the shower."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -1,23 +1,23 @@
 {
-    "header_text": "Talking about the Future",
+    "header_text": "Shopping Anxiety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The next time your family is talking about a life event in the distant future, you will..."
+            "Text": "Your anxiety will..."
         },
         {
             "type": "Buttons",
-            "name": "Talking about the Future_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Shopping Anxiety_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Avoid the conversation",
-                "Tell them how you're feeling"
+                "Pass",
+                "Get stronger"
             ],
-            "columnCount": 1,
-            "correct_value": "Tell them how you're feeling"
+            "column_count": 1,
+            "correct_value": "Pass"
         }
     ],
     "navigation_conditions": [

@@ -7,19 +7,10 @@
             "text": "It is the morning, and you are getting ready for the day. You're feeling particularly off balance and you think about your ability to get ready in the future. The progression of your PD makes you feel..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Off Balance_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "worried"
-            ],
-            "missing_letter_count": 2
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 4
 }

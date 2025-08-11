@@ -16,7 +16,7 @@
                 "You have poor table manners",
                 "You are great company"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "You are great company"
         }
     ],

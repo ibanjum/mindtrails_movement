@@ -1,20 +1,20 @@
 {
-    "header_text": "Journaling Issues",
+    "header_text": "Trouble Reading",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are writing in your journal and start to flip back through. You notice how much your handwriting has changed and begin to worry about your ability to journal in the future. You brainstorm creative ways to journal and soon feel confident that you can..."
+            "text": "While reading at home, you notice you are having trouble focusing on the words and remembering the information. This causes you to feel concerned and makes it even harder to read. You and your doctor make a plan to help you with this, and you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Journaling Issues_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Trouble Reading_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "adapt"
+                "better"
             ],
             "missing_letter_count": 2
         }

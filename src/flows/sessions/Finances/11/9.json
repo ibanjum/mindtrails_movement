@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I feel happy to be around all of my friends.",
                 "I feel terrible, but decide the party will go on.",
                 "I feel guilty for bringing a less expensive present.",
                 "I feel enthusiastic about sharing my good energy.",
                 "I'm sick to my stomach thinking about whether my friend will like their gift, but remind myself that they will appreciate my thoughtfulness."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

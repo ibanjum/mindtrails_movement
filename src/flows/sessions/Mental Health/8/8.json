@@ -1,16 +1,16 @@
 {
-    "header_text": "Achieving Your Goals",
+    "header_text": "Feeling Numb",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Achieving Your Goals"
+            "type": "Text",
+            "text": "You have been dealing with some stressful situations recently. You are reflecting on the past few weeks and wonder if you have been feeling numb. You remember that you've been coping well and have most likely kept your emotions..."
         },
         {
-            "type": "Media",
-            "url": "./images/88.jpg"
+            "type": "Entry"
         }
     ],
-    "type": "negative",
-    "scenario_num": 3
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
 }

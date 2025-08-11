@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "When you think far into the future, you can see yourself"
+            "Text": "When you think far into the future, you can see yourself..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Enjoying your golden years with your spouse.",
-                "Regretting that your spouse and you couldn't make things work."
+                "Enjoying your golden years with your spouse",
+                "Realizing that you and your spouse couldn't make things work"
             ],
-            "columnCount": 1,
-            "correct_value": "Regretting that your spouse and you couldn't make things work."
+            "column_count": 1,
+            "correct_value": "Realizing that you and your spouse couldn't make things work"
         }
     ],
     "navigation_conditions": [

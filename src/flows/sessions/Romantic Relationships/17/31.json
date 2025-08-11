@@ -4,26 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "You trust that your date will react with..."
+            "text": "You have recently decided to try dating again. However, with your diagnosis of PD, you are fearful about being honest about your condition. You decide to share your journey with your date, knowing they will be... "
         },
         {
-            "type": "Buttons",
-            "name": "Dating Again_Romantic Relationships_comp_question",
+            "type": "WordPuzzle",
+            "name": "Dating Again_Romantic Relationships_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Rejection",
-                "Understanding"
+            "display_delay": 2000,
+            "words": [
+                "understanding"
             ],
-            "columnCount": 1,
-            "correct_value": "Understanding"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 9
 }

@@ -1,23 +1,23 @@
 {
-    "header_text": "Poor Sleep",
+    "header_text": "Family Trivia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your spouse will be..."
+            "Text": "It is important..."
         },
         {
             "type": "Buttons",
-            "name": "Poor Sleep_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Family Trivia_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Be frustrated with your mood",
-                "Compassionate towards you"
+                "That you have the best memory",
+                "That you are there with family"
             ],
-            "columnCount": 1,
-            "correct_value": "Compassionate towards you"
+            "column_count": 1,
+            "correct_value": "That you are there with family"
         }
     ],
     "navigation_conditions": [

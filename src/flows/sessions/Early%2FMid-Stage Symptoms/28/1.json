@@ -1,16 +1,16 @@
 {
-    "header_text": "A Few Falls",
+    "header_text": "Boxing Class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "A Few Falls"
+            "text": "Boxing Class"
         },
         {
             "type": "Media",
-            "url": "./images/217.jpg"
+            "url": "./images/971.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 0
 }

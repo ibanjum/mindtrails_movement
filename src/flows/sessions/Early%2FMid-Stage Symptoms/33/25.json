@@ -1,25 +1,29 @@
 {
-    "header_text": "Support Group",
+    "header_text": "Dentist Difficulty",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're attending a support group for people with PD. You feel a mix of emotions as you share your experiences. As it turns out, being in the group helps you feel..."
+            "Text": "The dentist is..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Support Group_Early/Mid-Stage Symptoms_puzzle1",
+            "type": "Buttons",
+            "name": "Dentist Difficulty_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "understood"
+            "buttons": [
+                "Bothered",
+                "Accepting"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Accepting"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 9
 }

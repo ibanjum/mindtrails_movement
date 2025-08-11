@@ -1,10 +1,10 @@
 {
-    "header_text": "Important Presentation ",
+    "header_text": "Major Conference",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Important Presentation "
+            "text": "Major Conference"
         },
         {
             "type": "Media",

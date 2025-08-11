@@ -4,11 +4,10 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Returning home on a very hot day, you quickly drink a large glass of water. You soon feel abnormally full and a bit sick to your stomach. This feeling is surprising and uncomfortable, but you realize that it is something you can simply..."
+            "text": "You return home on a very hot day. You quickly drink a large glass of water. You soon feel way too full and a bit..."
         },
         {
-            "type": "Entry",
-            "name": "Hot day _Mental Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

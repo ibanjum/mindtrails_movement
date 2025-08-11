@@ -1,16 +1,16 @@
 {
-    "header_text": "Missing a Turn",
+    "header_text": "Finding Balance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Missing a Turn"
+            "text": "Finding Balance"
         },
         {
             "type": "Media",
-            "url": "./images/874.jpg"
+            "url": "./images/524.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 7
 }

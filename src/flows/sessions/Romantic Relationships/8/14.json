@@ -7,8 +7,7 @@
             "text": "Your significant other, whom you have been dating for a few years, wants to talk about the relationship. This is the first time you have dated someone for such a long time. You see your relationship fizzling..."
         },
         {
-            "type": "Entry",
-            "name": "Long-Term Relationship_Romantic Relationships_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

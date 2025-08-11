@@ -16,7 +16,7 @@
                 "Something you should be worried about",
                 "Temporary and nothing you should be worried about"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Temporary and nothing you should be worried about"
         }
     ],

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I'm glad that this is a short bus ride.",
                 "I am anxious about why my friend walked past me, but I can ask them about it later.",
                 "I'm excited to see my other friends and colleagues at work today.",
                 "I'm annoyed with my friend right now.",
                 "I'm scared that people will judge me, but I remember that lots of people ride the bus alone."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

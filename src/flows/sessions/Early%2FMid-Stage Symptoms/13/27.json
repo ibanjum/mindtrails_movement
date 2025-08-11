@@ -1,14 +1,14 @@
 {
-    "header_text": "Neighbor Chat",
+    "header_text": "Talking about the Future",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Neighbor Chat"
+            "text": "Talking about the Future"
         },
         {
             "type": "Media",
-            "url": "./images/798.jpg"
+            "url": "./images/207.jpg"
         }
     ],
     "type": "positive",

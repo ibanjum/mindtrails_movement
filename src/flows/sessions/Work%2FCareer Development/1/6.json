@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Annoyed that you're telling them what to do.",
-                "Grateful that you politely communicated your concerns over their contribution."
+                "Annoyed that you're telling them what to do",
+                "Grateful that you politely communicated your concerns"
             ],
-            "columnCount": 1,
-            "correct_value": "Grateful that you politely communicated your concerns over their contribution."
+            "column_count": 1,
+            "correct_value": "Grateful that you politely communicated your concerns"
         }
     ],
     "navigation_conditions": [

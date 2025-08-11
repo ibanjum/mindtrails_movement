@@ -7,8 +7,7 @@
             "text": "You have a busy week ahead, so you sit down to write a to-do list. You're concerned because your handwriting doesn't look as neat as it was in the past. You realize that if your writing worsens over time, technology will help you..."
         },
         {
-            "type": "Entry",
-            "name": "Handwriting Challenge_Mental Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -4,26 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Can you tolerate your nervousness as you wait to find out your evaluation?"
+            "text": "The window for staff evaluations just closed, and you are not sure whether you did well or not. You feel nervous as you think about how other people graded you. You think being nervous is..."
         },
         {
-            "type": "Buttons",
-            "name": "Evaluation results_Mental Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "Evaluation results_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "manageable"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Feeling Numb",
+    "header_text": "Hot day ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Feeling Numb"
+            "type": "Text",
+            "text": "This feeling is surprising and uncomfortable. You realize this is something you can observe, and you start feeling..."
         },
         {
-            "type": "Media",
-            "url": "./images/354.jpg"
+            "type": "Entry"
         }
     ],
-    "type": "positive",
-    "scenario_num": 2
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
 }

@@ -3,14 +3,14 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Language Class"
+            "type": "Text",
+            "text": "You enroll in a class to learn a new language, a task that's been on your bucket list for years. You find it difficult to remember new vocabulary, and you're dreading the day that the teacher will call on you in front of everyone. When the day comes, it is obvious to everyone that you have... "
         },
         {
-            "type": "Media",
-            "url": "./images/868.jpg"
+            "type": "Entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 6
 }

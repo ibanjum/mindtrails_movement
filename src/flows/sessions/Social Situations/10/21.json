@@ -7,8 +7,7 @@
             "text": "You finish a task due next week for your boss and ask them for their opinion. They say the work is good, apart from an incomplete section. You feel that they think you are..."
         },
         {
-            "type": "Entry",
-            "name": "Important Opinion_Social Situations_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

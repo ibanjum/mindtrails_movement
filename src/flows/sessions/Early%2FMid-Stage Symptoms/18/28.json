@@ -3,27 +3,14 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Deciding to be mindful has made you feel..."
+            "type": "Label",
+            "text": "Lost Phone"
         },
         {
-            "type": "Buttons",
-            "name": "Lost Phone_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "More at ease",
-                "More stressed"
-            ],
-            "columnCount": 1,
-            "correct_value": "More at ease"
+            "type": "Media",
+            "url": "./images/346.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 9
 }

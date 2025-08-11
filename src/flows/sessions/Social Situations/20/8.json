@@ -7,8 +7,7 @@
             "text": "You go to send an email to your department. As you type the email, you wonder about the wording. You think of different ways to relay the information and feel..."
         },
         {
-            "type": "Entry",
-            "name": "Overwhelming Options_Social Situations_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -7,8 +7,7 @@
             "text": "You are taking a dancing class and, during a break, feel your legs go wobbly. You focus on these feelings as you get a drink of water. Wobbly legs probably mean that you are pushing..."
         },
         {
-            "type": "Entry",
-            "name": "Getting into the Groove_Physical Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

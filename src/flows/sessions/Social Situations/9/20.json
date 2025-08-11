@@ -7,8 +7,7 @@
             "text": "You are at your first staff meeting in a new department, and you arrive early. A group of people goes quiet after you ask them if you can sit at their table. They are probably..."
         },
         {
-            "type": "Entry",
-            "name": "Finding a Place to Sit_Social Situations_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

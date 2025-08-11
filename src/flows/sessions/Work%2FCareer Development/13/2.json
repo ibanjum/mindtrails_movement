@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You have been in the same post for five years, and you are beginning to feel bored and unchallenged in your job. You would like to try for a new position, but you worry if you will be competitive on the job market. Thinking about your career trajectory, you believe your chances of finding a new job that you find fulfilling are..."
+            "text": "You have been in the same job position for five years, and you are beginning to feel bored. You would like to try for a new role, but you worry if you will be a competitive candidate. Thinking about your career, you believe your chances of finding a fulfilling job will be..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "likely"
+                "high"
             ],
             "missing_letter_count": 1
         }

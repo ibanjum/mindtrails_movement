@@ -1,25 +1,25 @@
 {
-    "header_text": "Changing Household Roles",
+    "header_text": "Playing Music",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You set a family meeting to talk things over. Everyone feels that if you take on different responsibilities around the house, they will..."
+            "text": "Playing musical instruments has been a favorite hobby of yours since childhood. Reading the sheet music used to be a strength, but now you have trouble following it. When you take a deep breath and slow down, you are able to refocus and..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Changing Household Roles_Early/Mid-Stage Symptoms_puzzle_word2",
+            "name": "Playing Music_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "adjust"
+                "continue"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

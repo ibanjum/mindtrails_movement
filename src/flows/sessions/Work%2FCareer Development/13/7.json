@@ -1,16 +1,16 @@
 {
-    "header_text": "Taking Your Time",
+    "header_text": "Reviewing Your Work ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Taking Your Time"
+            "text": "Reviewing Your Work "
         },
         {
             "type": "Media",
-            "url": "./images/95.jpg"
+            "url": "./images/91.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

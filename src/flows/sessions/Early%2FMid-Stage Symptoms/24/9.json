@@ -1,14 +1,14 @@
 {
-    "header_text": "Writing a Letter",
+    "header_text": "Forgotten Item",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to share your thoughts in a letter?"
+            "Text": "Is your forgetfulness probably a sign of dementia?"
         },
         {
             "type": "Buttons",
-            "name": "Writing a Letter_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Forgotten Item_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -16,8 +16,8 @@
                 "Yes",
                 "No"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
     "navigation_conditions": [

@@ -1,16 +1,16 @@
 {
-    "header_text": "Rainy Weather",
+    "header_text": "Achieving Your Goals",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Rainy Weather"
+            "type": "Text",
+            "text": "You would like to apply for a higher position at your job and further your skills. You feel very passionate about achieving this goal and have worked hard to make yourself a good employee. Still, you think that your chances of getting this new job are..."
         },
         {
-            "type": "Media",
-            "url": "./images/358.jpg"
+            "type": "Entry"
         }
     ],
-    "type": "positive",
-    "scenario_num": 4
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 3
 }

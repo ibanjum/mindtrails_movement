@@ -1,14 +1,14 @@
 {
-    "header_text": "Vacation Abroad",
+    "header_text": "Video Call",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Vacation Abroad"
+            "text": "Video Call"
         },
         {
             "type": "Media",
-            "url": "./images/428.jpg"
+            "url": "./images/249.jpg"
         }
     ],
     "type": "positive",

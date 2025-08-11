@@ -1,16 +1,25 @@
 {
-    "header_text": "Affording Therapy",
+    "header_text": "Trying New Foods",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Affording Therapy"
+            "type": "Text",
+            "text": "You decide to focus on the conversation. Your experience with the rest of dinner is..."
         },
         {
-            "type": "Media",
-            "url": "./images/173.jpg"
+            "type": "WordPuzzle",
+            "name": "Trying New Foods_Mental Health_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "enjoyable"
+            ],
+            "missing_letter_count": 1
         }
     ],
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

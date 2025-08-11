@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "You think that your application"
+            "Text": "You think that your application..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Puts you in a good position to get this new job.",
-                "Will not be good enough to get you the job."
+                "Puts you in a good position to get this new job",
+                "Will not be good enough to get you the job"
             ],
-            "columnCount": 1,
-            "correct_value": "Puts you in a good position to get this new job."
+            "column_count": 1,
+            "correct_value": "Puts you in a good position to get this new job"
         }
     ],
     "navigation_conditions": [

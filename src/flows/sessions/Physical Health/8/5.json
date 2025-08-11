@@ -7,8 +7,7 @@
             "text": "You decide to spin yourself really quickly in an office chair. You feel butterflies in your stomach and your head get dizzy as the chair slows down from spinning. These feelings probably mean that you are..."
         },
         {
-            "type": "Entry",
-            "name": "Going for a Spin_Physical Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

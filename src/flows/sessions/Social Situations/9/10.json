@@ -7,8 +7,7 @@
             "text": "You walk into a quiet meeting room a few minutes late. The door squeaks really loudly as you enter, and your coworkers look in your direction. They are probably feeling..."
         },
         {
-            "type": "Entry",
-            "name": "Disrupting the Silence_Social Situations_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

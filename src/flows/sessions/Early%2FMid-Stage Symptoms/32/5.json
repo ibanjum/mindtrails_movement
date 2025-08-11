@@ -1,25 +1,16 @@
 {
-    "header_text": "Lunch with Neighbor",
+    "header_text": "Fast Card Game",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You meet up with your neighbor once a week to have lunch and catch up with each other. This week, due to your symptoms, you cannot remember everything they have said. When you ask the same question again, they feel like you are..."
+            "text": "During a game night with friends, you begin playing a fast-paced card game. You are soon falling behind and don't want to ruin the fun. You tell your friends you need to slow down, and they are... "
         },
         {
-            "type": "WordPuzzle",
-            "name": "Lunch with Neighbor_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "bored"
-            ],
-            "missing_letter_count": 2
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

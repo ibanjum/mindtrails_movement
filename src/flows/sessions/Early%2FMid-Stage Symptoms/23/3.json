@@ -1,23 +1,23 @@
 {
-    "header_text": "Movie Mix-Up",
+    "header_text": "Handwriting Challenge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "When you try to focus and follow the movie plot, you are..."
+            "Text": "If your handwriting gets worse, you will..."
         },
         {
             "type": "Buttons",
-            "name": "Movie Mix-Up_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Handwriting Challenge_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Hopeless",
-                "Successful"
+                "Give up",
+                "Adapt"
             ],
-            "columnCount": 1,
-            "correct_value": "Successful"
+            "column_count": 1,
+            "correct_value": "Adapt"
         }
     ],
     "navigation_conditions": [

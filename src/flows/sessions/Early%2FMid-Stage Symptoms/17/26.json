@@ -1,23 +1,23 @@
 {
-    "header_text": "Organizing Closet",
+    "header_text": "Balancing Checkbook",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Many people misplace items, and it is better to..."
+            "Text": "There are people in your life that could..."
         },
         {
             "type": "Buttons",
-            "name": "Organizing Closet_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Balancing Checkbook_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Worry",
-                "Stay calm"
+                "Help",
+                "Harm"
             ],
-            "columnCount": 1,
-            "correct_value": "Stay calm"
+            "column_count": 1,
+            "correct_value": "Help"
         }
     ],
     "navigation_conditions": [

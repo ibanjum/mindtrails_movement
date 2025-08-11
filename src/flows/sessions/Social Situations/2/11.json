@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You buy a new camera, but when you get home, you find that you do not like it. You return it to the store and get your money back. At the counter, the assistant is not very talkative as they help you, and you think they view you as..."
+            "text": "You buy a new camera, but you find that you do not like it when you get home. You return it to the store to get your money back. At the counter, the assistant is not very talkative as they help you, and you think their view of you is..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "crazy"
+                "negative"
             ],
             "missing_letter_count": 1
         }

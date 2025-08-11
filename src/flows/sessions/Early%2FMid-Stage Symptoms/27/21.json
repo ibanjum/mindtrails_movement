@@ -1,20 +1,20 @@
 {
-    "header_text": "New Friendship",
+    "header_text": "Friday Night Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are having breakfast with a new friend. You have a tremor in your hand, and you notice your friend looking at you as you take a bite. You remember you've already shared about your PD, and the new friend has a lot of..."
+            "text": "Friday night dinner parties with your neighbors are a highlight of your week. This week at dinner, you are having trouble reaching for the condiments in the center of the table. You ask your neighbors for help, knowing they are always quick to... "
         },
         {
             "type": "WordPuzzle",
-            "name": "New Friendship_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Friday Night Dinner_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "empathy"
+                "assist"
             ],
             "missing_letter_count": 2
         }

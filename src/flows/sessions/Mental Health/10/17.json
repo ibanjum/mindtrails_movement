@@ -7,8 +7,7 @@
             "text": "It's Sunday morning and you are taking a walk in the park. After some time, you feel out of breath and decide to break for a minute at a bench. Gasping for breath makes you feel anxious, and you want to stop... "
         },
         {
-            "type": "Entry",
-            "name": "Difficult walk_Mental Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

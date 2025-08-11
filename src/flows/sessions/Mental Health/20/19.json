@@ -7,8 +7,7 @@
             "text": "You would like to apply for a better position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal. You have worked hard to make yourself a good... "
         },
         {
-            "type": "Entry",
-            "name": "Achieving Your Goals_Mental Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

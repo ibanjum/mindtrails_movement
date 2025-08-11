@@ -16,7 +16,7 @@
                 "Say yes if you suggest meeting again",
                 "Say no if you suggest meeting again"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Say yes if you suggest meeting again"
         }
     ],

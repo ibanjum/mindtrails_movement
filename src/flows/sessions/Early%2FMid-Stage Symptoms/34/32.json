@@ -1,23 +1,23 @@
 {
-    "header_text": "Emotionless Face",
+    "header_text": "Neighbor's Help",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your friend will be..."
+            "Text": "As you think of a solution to your problem, you..."
         },
         {
             "type": "Buttons",
-            "name": "Emotionless Face_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Neighbor's Help_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Understanding",
-                "Annoyed"
+                "Calm down",
+                "Spiral"
             ],
-            "columnCount": 1,
-            "correct_value": "Understanding"
+            "column_count": 1,
+            "correct_value": "Calm down"
         }
     ],
     "navigation_conditions": [

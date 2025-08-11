@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "When you tell your siblings about the invitation, they are likely to"
+            "Text": "When you tell your parents about the invitation, they are likely to..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Be very disappointed and feel hurt.",
-                "Be glad that you have met a partner that makes you happy."
+                "Be very disappointed and feel hurt",
+                "Be glad that you have met a partner that makes you happy"
             ],
-            "columnCount": 1,
-            "correct_value": "Be very disappointed and feel hurt."
+            "column_count": 1,
+            "correct_value": "Be very disappointed and feel hurt"
         }
     ],
     "navigation_conditions": [

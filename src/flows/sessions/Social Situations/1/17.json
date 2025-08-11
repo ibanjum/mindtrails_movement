@@ -16,7 +16,7 @@
                 "Avoid speaking with you",
                 "Start up a conversation"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Start up a conversation"
         }
     ],

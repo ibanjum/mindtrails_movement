@@ -1,16 +1,16 @@
 {
-    "header_text": "Taking Time Off",
+    "header_text": "Moody Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Taking Time Off"
+            "text": "Moody Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/517.jpg"
+            "url": "./images/248.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Neighborhood Walk",
+    "header_text": "New Friendship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Neighborhood Walk"
+            "text": "New Friendship"
         },
         {
             "type": "Media",
-            "url": "./images/236.jpg"
+            "url": "./images/854.jpg"
         }
     ],
     "type": "positive",

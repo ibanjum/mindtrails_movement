@@ -1,16 +1,16 @@
 {
-    "header_text": "Avid Traveler",
+    "header_text": "At the Park",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Avid Traveler"
+            "text": "At the Park"
         },
         {
             "type": "Media",
-            "url": "./images/765.jpg"
+            "url": "./images/968.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

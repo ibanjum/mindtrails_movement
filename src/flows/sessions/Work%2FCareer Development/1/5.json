@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You are working on a very important team project. The project deadline is soon, and your colleagues still haven't completed their portion, and you wonder if you should complete their part. You reach out to them, conveying your concerns about the deadline and workload, and they begin working in a timely..."
+            "text": "You are working on an important team project, and the project deadline is soon. Your colleagues still haven't completed their portion, and you wonder if you should complete it. You reach out about your concerns regarding the deadline, and they begin to work..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "manner"
+                "faster"
             ],
             "missing_letter_count": 1
         }

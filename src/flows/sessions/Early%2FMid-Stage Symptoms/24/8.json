@@ -1,22 +1,22 @@
 {
-    "header_text": "Writing a Letter",
+    "header_text": "Forgotten Item",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Today, you are writing a letter to a loved one and finding it hard to organize your thoughts. You worry the person you're sending the letter to won't understand your message. A few days after you send the letter, your loved one calls to tell you that your words were..."
+            "text": "You are almost ready to check out at the grocery store, but you forgot the last item on your list. When you forget something like this, it makes you think about when your mom got dementia. You think you probably can't remember the last item because, lately, you have been so..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Writing a Letter_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Forgotten Item_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "beautiful"
+                "busy"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

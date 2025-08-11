@@ -1,29 +1,29 @@
 {
-    "header_text": "Follow-up at Doctor's Office",
+    "header_text": "Kitchen Coordination",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you feel that the doctor is pitying you?"
+            "Text": "Taking time to breathe helps your anxiety..."
         },
         {
             "type": "Buttons",
-            "name": "Follow-up at Doctor's Office_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Kitchen Coordination_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Lessen",
+                "Worsen"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "column_count": 1,
+            "correct_value": "Lessen"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 0
 }

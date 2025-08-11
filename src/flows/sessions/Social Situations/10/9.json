@@ -1,14 +1,14 @@
 {
-    "header_text": "Grocery Store Experience",
+    "header_text": "Friend's Get Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Grocery Store Experience"
+            "text": "Friend's Get Together"
         },
         {
             "type": "Media",
-            "url": "./images/648.jpg"
+            "url": "./images/701.jpg"
         }
     ],
     "type": "resilience/negation",

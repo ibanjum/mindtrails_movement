@@ -1,16 +1,16 @@
 {
-    "header_text": "Friday Night Dinner",
+    "header_text": "Dining Out",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Friday Night Dinner"
+            "text": "Dining Out"
         },
         {
             "type": "Media",
-            "url": "./images/853.jpg"
+            "url": "./images/852.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

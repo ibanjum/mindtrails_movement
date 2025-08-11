@@ -1,16 +1,16 @@
 {
-    "header_text": "Book Club",
+    "header_text": "Thinking fast at work",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Book Club"
+            "text": "Thinking fast at work"
         },
         {
             "type": "Media",
-            "url": "./images/769.jpg"
+            "url": "./images/770.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 7
 }

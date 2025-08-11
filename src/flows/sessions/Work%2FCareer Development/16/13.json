@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I take notes on my boss's response to my answer.",
                 "I want to cover my face, but decide to look at my boss.",
                 "I leave the meeting and go to the bathroom to avoid my colleagues.",
                 "I want to apologize for my poor answer, but do not.",
                 "I relax after saying my answer."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

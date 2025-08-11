@@ -16,7 +16,7 @@
                 "Heal quickly",
                 "Become infected"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Heal quickly"
         }
     ],

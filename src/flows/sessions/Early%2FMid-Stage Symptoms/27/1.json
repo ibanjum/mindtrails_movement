@@ -1,14 +1,14 @@
 {
-    "header_text": "Giving a Toast",
+    "header_text": "Weekly Tea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Giving a Toast"
+            "text": "Weekly Tea"
         },
         {
             "type": "Media",
-            "url": "./images/235.jpg"
+            "url": "./images/850.jpg"
         }
     ],
     "type": "positive",

@@ -4,26 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Years from now, when you are bowling with your friends, you will probably notice..."
+            "text": "You have been bowling in a recreational league with some friends for the past few years. You have improved since you started, but you aren't as skilled as you would like to be yet. When you think about yourself in the years to come you see your bowling skills as..."
         },
         {
-            "type": "Buttons",
-            "name": "Your Bowling Skills_Mental Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "Your Bowling Skills_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "How little your skills have continued to improve",
-                "How much you have improved since you started"
+            "display_delay": 2000,
+            "words": [
+                "disappointing"
             ],
-            "columnCount": 1,
-            "correct_value": "How little your skills have continued to improve"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "negative",
     "scenario_num": 6
 }

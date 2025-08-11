@@ -1,25 +1,39 @@
 {
-    "header_text": "Comparing at the Gym",
+    "header_text": "Cleaning Your Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your decide to confide in your trainer who highlights the improvement you've been making in a relatively short period of time. Their encouragement allows you to look at the situation more..."
+            "Text": "Are you able to calm yourself down?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Comparing at the Gym_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Cleaning Your Home_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "positively"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 4
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Sometimes, situations aren't just good or bad. Neutral situations remind us that it's okay to embrace the grey zone!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
 }

@@ -1,39 +1,16 @@
 {
-    "header_text": "Tripping at Family Barbecue",
+    "header_text": "Tax Forms",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "In the end, your family makes you feel..."
+            "text": "Taxes are due in a month, so you are working on filing them today. You are having trouble keeping track of all the numbers, and you become flustered. You grab a notepad and get..."
         },
         {
-            "type": "Buttons",
-            "name": "Tripping at Family Barbecue_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Worse",
-                "Better"
-            ],
-            "columnCount": 1,
-            "correct_value": "Better"
+            "type": "Entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "resilience/negation",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
 }

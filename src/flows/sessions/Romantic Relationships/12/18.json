@@ -1,5 +1,5 @@
 {
-    "header_text": "Evolving Relationship",
+    "header_text": "Growing Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "WordPuzzle",
-            "name": "Evolving Relationship_Romantic Relationships_puzzle_word2",
+            "name": "Growing Together_Romantic Relationships_puzzle_word2",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,

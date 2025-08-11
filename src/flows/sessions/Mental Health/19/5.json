@@ -7,8 +7,7 @@
             "text": "Today, you are receiving an email about whether or not you received a promotion. You have a few hours to wait until you'll get the email. When you think about waiting that long, you feel..."
         },
         {
-            "type": "Entry",
-            "name": "Important Email_Mental Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

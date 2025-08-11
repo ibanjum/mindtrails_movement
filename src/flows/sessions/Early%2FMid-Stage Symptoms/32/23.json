@@ -1,16 +1,10 @@
 {
-    "header_text": "Paying Bills",
+    "header_text": "Manage Your Feelings: Early/Mid-Stage Symptoms",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Paying Bills"
-        },
-        {
-            "type": "Media",
-            "url": "./images/875.jpg"
+            "type": "Text",
+            "text": "If your romantic partner is upset, try asking them what they might need from you in that moment."
         }
-    ],
-    "type": "positive",
-    "scenario_num": 7
+    ]
 }

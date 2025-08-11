@@ -7,8 +7,7 @@
             "text": "Your therapist recommended that you try journaling as a way to process some of your emotions. You're very frustrated with this practice because it takes you a lot longer to write anything lately. You decide to accept this as part of the process, and you become more..."
         },
         {
-            "type": "Entry",
-            "name": "Journaling Shift_Mental Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

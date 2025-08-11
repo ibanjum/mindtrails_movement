@@ -1,16 +1,16 @@
 {
-    "header_text": "Graduation Toast",
+    "header_text": "Lunch with Neighbor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Graduation Toast"
+            "type": "Text",
+            "text": "The following week, you meet up with your neighbor for lunch again, even though you can't remember everything from last week. You ask if everything is going well, a question that your neighbor..."
         },
         {
-            "type": "Media",
-            "url": "./images/244.jpg"
+            "type": "Entry"
         }
     ],
-    "type": "positive",
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
     "scenario_num": 2
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Attending a Dance Recital",
+    "header_text": "Organizing Closet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Attending a Dance Recital"
+            "text": "Organizing Closet"
         },
         {
             "type": "Media",
-            "url": "./images/228.jpg"
+            "url": "./images/405.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

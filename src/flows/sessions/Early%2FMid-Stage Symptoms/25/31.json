@@ -1,16 +1,16 @@
 {
-    "header_text": "Weekly Tea",
+    "header_text": "Cocktail Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Weekly Tea"
+            "text": "Cocktail Party"
         },
         {
             "type": "Media",
-            "url": "./images/850.jpg"
+            "url": "./images/849.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

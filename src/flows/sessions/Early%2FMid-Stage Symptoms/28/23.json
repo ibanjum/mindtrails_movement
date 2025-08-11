@@ -1,23 +1,23 @@
 {
-    "header_text": "Hosting Book Club",
+    "header_text": "Financial Planning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will your book club act harshly when you open up to them?"
+            "Text": "How do you respond to your financial advisor?"
         },
         {
             "type": "Buttons",
-            "name": "Hosting Book Club_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Financial Planning_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "With trust",
+                "With anger"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "column_count": 1,
+            "correct_value": "With trust"
         }
     ],
     "navigation_conditions": [

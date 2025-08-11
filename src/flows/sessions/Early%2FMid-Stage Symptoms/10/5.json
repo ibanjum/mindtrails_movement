@@ -1,16 +1,16 @@
 {
-    "header_text": "Loan Repayment",
+    "header_text": "Holding the Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Loan Repayment"
+            "text": "Holding the Phone"
         },
         {
             "type": "Media",
-            "url": "./images/316.jpg"
+            "url": "./images/775.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

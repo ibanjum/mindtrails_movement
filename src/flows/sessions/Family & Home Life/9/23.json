@@ -7,8 +7,7 @@
             "text": "Your children's birthdays are approaching, and you want to show them how much you appreciate them through gifts. However, you're worried about if you'll be able to afford the gifts you think they deserve. When you think about their birthdays, you think that they will be happy with something..."
         },
         {
-            "type": "Entry",
-            "name": "Gift Giving_Family & Home Life_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

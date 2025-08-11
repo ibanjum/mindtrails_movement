@@ -7,8 +7,7 @@
             "text": "One evening, you are climbing the stairs and accidentally hit your head against a low ceiling. The next morning, the headache is still there slightly, and you wonder what you've done. By lunchtime, the pain has..."
         },
         {
-            "type": "Entry",
-            "name": "An accidental bang_Physical Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

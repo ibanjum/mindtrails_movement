@@ -1,25 +1,29 @@
 {
-    "header_text": "Virus Fear",
+    "header_text": "Flu Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend has been coughing for a few days and refuses to go to the doctor. You think this is strange. So, you talk to them about it and find out that your friend doesn't want to go to the doctor because they are scared of spreading a..."
+            "Text": "Will your partner listen to your concerns?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Virus Fear_Physical Health_puzzle1",
+            "type": "Buttons",
+            "name": "Flu Worries_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "virus"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 7
 }

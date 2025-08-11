@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I am nervous because I don't have any good ideas.",
                 "I feel driven to put my best work in.",
                 "I feel sad that no one knows me that well, but feel better thinking they will like me once they get to know me better.",
                 "I am scared that my group will exclude me, but know that this discussion will only last for a few minutes.",
                 "I am excited to make new friends."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

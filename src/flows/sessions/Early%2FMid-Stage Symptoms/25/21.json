@@ -1,16 +1,16 @@
 {
-    "header_text": "Board Game Mishap",
+    "header_text": "Changing Household Roles",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Board Game Mishap"
+            "text": "Changing Household Roles"
         },
         {
             "type": "Media",
-            "url": "./images/232.jpg"
+            "url": "./images/237.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

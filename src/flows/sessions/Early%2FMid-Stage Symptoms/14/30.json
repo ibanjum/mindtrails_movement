@@ -1,16 +1,16 @@
 {
-    "header_text": "Delayed Texting ",
+    "header_text": "Directions to Thrift Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Delayed Texting "
+            "text": "Directions to Thrift Store"
         },
         {
             "type": "Media",
-            "url": "./images/806.jpg"
+            "url": "./images/805.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 9
 }

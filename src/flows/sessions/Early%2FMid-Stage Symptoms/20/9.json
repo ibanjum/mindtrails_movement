@@ -1,16 +1,16 @@
 {
-    "header_text": "Daughter's Birthday",
+    "header_text": "Garden Changes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Daughter's Birthday"
+            "type": "Text",
+            "text": "You are outside working in your garden with your neighbor. You look over at your completed rows and notice they are much more uneven and scattered than in past years. That evening, you reflect on the day working in your garden and feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/831.jpg"
+            "type": "Entry"
         }
     ],
-    "type": "negative",
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
     "scenario_num": 2
 }

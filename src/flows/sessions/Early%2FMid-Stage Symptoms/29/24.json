@@ -1,25 +1,16 @@
 {
-    "header_text": "Therapy Shift",
+    "header_text": "Holiday Decorating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You and your therapist meet once a week to process events in your life. When you meet this week, you notice a sudden shift in your mood towards them. You feel agitated, but you choose to share this feeling to talk about a healthy way to... "
+            "type": "Label",
+            "text": "Holiday Decorating"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Therapy Shift_Early/Mid-Stage Symptoms_puzzle1",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "cope"
-            ],
-            "missing_letter_count": 2
+            "type": "Media",
+            "url": "./images/241.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

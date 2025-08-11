@@ -16,7 +16,7 @@
                 "Be able to choose a pretty nice hotel",
                 "Have to cancel because of money issues"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Have to cancel because of money issues"
         }
     ],

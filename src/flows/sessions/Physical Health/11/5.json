@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I wonder what is going on with his health, but reassure myself that my family takes care of him.",
                 "My father is glad that I'm visiting.",
                 "I think about whether my parents are keeping something from me, but tell myself that I can't control my father's health.",
                 "He's probably going to pass away soon.",
                 "He looks so happy to be with family."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

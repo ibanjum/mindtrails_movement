@@ -1,20 +1,20 @@
 {
-    "header_text": "Reviewing Your Work ",
+    "header_text": "Your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You have been called in for a performance review with your boss. Overall, you do good work. You know your boss has noticed some errors..."
+            "text": "You are preparing to apply for a new job. You have a meeting with a potential employer tomorrow. You know that a good resume will be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Reviewing Your Work _Work/Career Development_puzzle1",
+            "name": "Your Resume_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "recently"
+                "important"
             ],
             "missing_letter_count": 1
         }

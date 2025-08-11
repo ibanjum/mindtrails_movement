@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I zone out and stop paying attention to what people are saying.",
                 "I want to think of something else as everyone talks, but remind myself that I can handle my feelings and tune back into the conversation.",
                 "I want to change the topic so we can talk about something less serious, but I let go of trying to control the conversation.",
                 "I remind myself that everyone has different opinions.",
                 "I listen to my friend while they talk to my family members."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

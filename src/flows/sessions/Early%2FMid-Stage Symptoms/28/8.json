@@ -1,16 +1,16 @@
 {
-    "header_text": "Missing Medication",
+    "header_text": "Holiday Market",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Missing Medication"
+            "text": "Holiday Market"
         },
         {
             "type": "Media",
-            "url": "./images/972.jpg"
+            "url": "./images/856.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 2
 }

@@ -3,15 +3,14 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You have just had your first grandchild. You want to have a good relationship throughout your grandkid's life. You worry about making mistakes as a..."
+            "type": "Label",
+            "text": "New Family Member"
         },
         {
-            "type": "Entry",
-            "name": "New Family Member_Mental Health_entry1"
+            "type": "Media",
+            "url": "./images/157.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
     "scenario_num": 8
 }

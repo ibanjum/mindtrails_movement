@@ -16,7 +16,7 @@
                 "You are healthy",
                 "Something is seriously wrong with your health"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "You are healthy"
         }
     ],

@@ -7,8 +7,7 @@
             "text": "Over the last couple days, you've developed a cough. You went out over the weekend and wonder if you may have gotten sick. On the other hand, you think it may be... "
         },
         {
-            "type": "Entry",
-            "name": "Cough After Going Out _Physical Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

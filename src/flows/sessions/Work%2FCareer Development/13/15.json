@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You feel that you are a good candidate. You believe your chances of getting this new job are..."
+            "text": "You would like to apply for a better position at your job and further your skills. You know that the process of getting selected is rigorous, but you feel very passionate about achieving this goal. You have worked hard to make yourself a good... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Achieving Your Goals_Work/Career Development_puzzle_word2",
+            "name": "Achieving Your Goals_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "decent"
+                "employee"
             ],
             "missing_letter_count": 1
         }

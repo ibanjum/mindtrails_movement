@@ -1,5 +1,5 @@
 {
-    "header_text": "Long Distance Relationship",
+    "header_text": "Prestigious Program",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -7,8 +7,7 @@
             "text": "When you picture the future of your relationship with your spouse, you do not think the distance will end your relationship. You believe the two of you will stay..."
         },
         {
-            "type": "Entry",
-            "name": "Long Distance Relationship_Romantic Relationships_entry2"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

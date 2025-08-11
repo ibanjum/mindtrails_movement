@@ -16,7 +16,7 @@
                 "There's a good chance you will make a mistake, given how little you know about how they work",
                 "That you will make a good decision because you have done your research"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "That you will make a good decision because you have done your research"
         }
     ],

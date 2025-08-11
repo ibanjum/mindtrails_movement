@@ -1,22 +1,22 @@
 {
-    "header_text": "Volunteer Event",
+    "header_text": "Cleaning the House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you able to recover from your outburst?"
+            "Text": "Do you find a solution to clean your house and connect with your spouse?"
         },
         {
             "type": "Buttons",
-            "name": "Volunteer Event_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Cleaning the House_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Yes",
+                "No"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Yes"
         }
     ],

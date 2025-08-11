@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I make a joke in my response.",
                 "I want to ask them why they emailed me, but I decide to just see how things play out.",
                 "I talk to my friend about how excited I am.",
                 "I'm nervous about sending the perfect reply, but I decide to just be myself.",
                 "I ignore their email because I'm anxious about responding."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

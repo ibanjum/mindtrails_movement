@@ -7,8 +7,7 @@
             "text": "Your partner wants you to take on a specific job. You would rather work in a different place but your partner has made it clear they are not on board with the job choice. When you think about talking with your partner about your choice, you feel..."
         },
         {
-            "type": "Entry",
-            "name": "Making a Choice_Work/Career Development_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

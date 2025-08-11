@@ -1,22 +1,22 @@
 {
-    "header_text": "Research Study Risks",
+    "header_text": "Research Visit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You were recently invited to participate in a PD research study. As you review the study information and potential side effects, you begin to feel hesitant. After talking it over with the research coordinator, you decide that the risks of the study are..."
+            "text": "You are in a research study that requires multiple visits. You finish some of the exams with the research coordinator, and you feel that you aren't doing as well as you usually do. When the principal investigator comes in, they tell you that your participation is..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Research Study Risks_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Research Visit_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "low"
+                "appreciated"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",

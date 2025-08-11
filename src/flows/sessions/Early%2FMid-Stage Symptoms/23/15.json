@@ -1,23 +1,23 @@
 {
-    "header_text": "Beach Walk",
+    "header_text": "Setting up Camp",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "At the end of your walk, you feel..."
+            "Text": "After putting up your tent at your own pace, you feel..."
         },
         {
             "type": "Buttons",
-            "name": "Beach Walk_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Setting up Camp_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Awestruck",
-                "Frightened"
+                "Giddy",
+                "Self-conscious"
             ],
-            "columnCount": 1,
-            "correct_value": "Awestruck"
+            "column_count": 1,
+            "correct_value": "Giddy"
         }
     ],
     "navigation_conditions": [

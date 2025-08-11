@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I'm able to sit here alone for the rest of the ride.",
                 "My friend probably had something to talk about with the other friend.",
                 "My friend walked past me on purpose.",
                 "It feels like my friend is mad at me, but they would have said something.",
                 "I really don't like sitting alone, but I know I can handle this short bus ride."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

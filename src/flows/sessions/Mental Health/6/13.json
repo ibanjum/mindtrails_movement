@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I meet my friend at the park entrance.",
                 "I want to avoid going to the park, but challenge myself to go.",
                 "I put on my shoes and head out the door.",
                 "I consider bailing on my friend, but push myself to go on the walk anyway.",
                 "I tell my friend that I'm not feeling well and that I can't go."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

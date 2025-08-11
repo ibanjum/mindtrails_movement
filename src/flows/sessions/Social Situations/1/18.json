@@ -1,14 +1,14 @@
 {
-    "header_text": "Theater group thoughts",
+    "header_text": "Risky Behavior",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Theater group thoughts"
+            "text": "Risky Behavior"
         },
         {
             "type": "Media",
-            "url": "./images/599.jpg"
+            "url": "./images/670.jpg"
         }
     ],
     "type": "negative",

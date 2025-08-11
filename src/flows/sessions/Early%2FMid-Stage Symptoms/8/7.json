@@ -4,26 +4,13 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "The thought of exploring close to home makes you feel... "
+            "text": "You are an avid traveler but have recently had mobility challenges and frequent fatigue. You worry about how this will impact your ability to explore new destinations and maintain a fast-paced lifestyle. The more you think about it, the more you become..."
         },
         {
-            "type": "Buttons",
-            "name": "Avid Traveler_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Heartbroken",
-                "At peace"
-            ],
-            "columnCount": 1,
-            "correct_value": "At peace"
+            "type": "Entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 1
+    "scenario_num": 2
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Missing Meds at Fundraiser",
+    "header_text": "Fitness Class Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Missing Meds at Fundraiser"
+            "text": "Fitness Class Worries"
         },
         {
             "type": "Media",
-            "url": "./images/973.jpg"
+            "url": "./images/880.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

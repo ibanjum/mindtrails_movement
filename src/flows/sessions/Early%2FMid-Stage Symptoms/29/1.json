@@ -1,16 +1,16 @@
 {
-    "header_text": "Paying your Bills",
+    "header_text": "Downsizing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Paying your Bills"
+            "text": "Downsizing"
         },
         {
             "type": "Media",
-            "url": "./images/862.jpg"
+            "url": "./images/861.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

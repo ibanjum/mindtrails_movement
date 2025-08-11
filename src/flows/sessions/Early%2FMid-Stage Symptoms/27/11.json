@@ -1,14 +1,14 @@
 {
-    "header_text": "Morning Coffee",
+    "header_text": "Lunch with Old Friends",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Morning Coffee"
+            "text": "Lunch with Old Friends"
         },
         {
             "type": "Media",
-            "url": "./images/761.jpg"
+            "url": "./images/851.jpg"
         }
     ],
     "type": "positive",

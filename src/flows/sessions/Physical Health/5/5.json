@@ -1,16 +1,29 @@
 {
-    "header_text": "An accidental bang",
+    "header_text": "Heart Rate Worries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "An accidental bang"
+            "type": "Text",
+            "Text": "When your heart started beating very fast..."
         },
         {
-            "type": "Media",
-            "url": "./images/456.jpg"
+            "type": "Buttons",
+            "name": "Heart Rate Worries_Physical Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "You stopped dancing because of your anxiety",
+                "You managed your anxiety, and stayed"
+            ],
+            "column_count": 1,
+            "correct_value": "You managed your anxiety, and stayed"
         }
     ],
-    "type": "positive",
-    "scenario_num": 1
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

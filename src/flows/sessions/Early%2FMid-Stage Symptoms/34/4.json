@@ -1,16 +1,16 @@
 {
-    "header_text": "Moody Dinner",
+    "header_text": "Follow-up at Doctor's Office",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Moody Dinner"
+            "text": "Follow-up at Doctor's Office"
         },
         {
             "type": "Media",
-            "url": "./images/248.jpg"
+            "url": "./images/879.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

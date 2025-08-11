@@ -7,8 +7,7 @@
             "text": "While you feel upset, you realize that it's natural to make mistakes. You think that your boss won't..."
         },
         {
-            "type": "Entry",
-            "name": "A Little Stumble_Work/Career Development_entry2"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

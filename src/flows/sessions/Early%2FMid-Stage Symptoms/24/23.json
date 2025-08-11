@@ -1,14 +1,14 @@
 {
-    "header_text": "Organizing your Desk",
+    "header_text": "New Acquaintance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Organizing your Desk"
+            "text": "New Acquaintance"
         },
         {
             "type": "Media",
-            "url": "./images/845.jpg"
+            "url": "./images/844.jpg"
         }
     ],
     "type": "positive",

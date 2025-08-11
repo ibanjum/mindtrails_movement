@@ -1,16 +1,16 @@
 {
-    "header_text": "Record Store",
+    "header_text": "Neighbor Chat",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Record Store"
+            "text": "Neighbor Chat"
         },
         {
             "type": "Media",
-            "url": "./images/799.jpg"
+            "url": "./images/798.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

@@ -1,25 +1,25 @@
 {
-    "header_text": "Reality TV Confusion",
+    "header_text": "Record Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You watch the same reality TV show with your daughter every week. During this week's episode, you start to make a comment about the host but can't think of his name. Your daughter glances at you with a look of... "
+            "text": "You decide to spend some of your free time at your favorite record store. You go to grab a vinyl out of the sleeve, and it slips out of your hands. Thinking that you might have just scratched the record makes you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Reality TV Confusion_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Record Store_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "concern"
+                "worried"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

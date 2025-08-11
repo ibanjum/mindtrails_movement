@@ -7,8 +7,7 @@
             "text": "You and your spouse got into an argument last night. While you tried to keep your voices low, your children overheard. You think that your children will be... "
         },
         {
-            "type": "Entry",
-            "name": "Overhearing an Argument_Family & Home Life_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

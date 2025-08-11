@@ -1,16 +1,16 @@
 {
-    "header_text": "Chopping Technique",
+    "header_text": "Shoe Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Chopping Technique"
+            "text": "Shoe Shopping"
         },
         {
             "type": "Media",
-            "url": "./images/859.jpg"
+            "url": "./images/858.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

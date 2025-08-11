@@ -1,16 +1,25 @@
 {
-    "header_text": "Vision Troubles",
+    "header_text": "Blurry eyesight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Vision Troubles"
+            "type": "Text",
+            "text": "You are very tired. As you lie down in your bed, your vision begins to blur. Despite your blurry vision, you are..."
         },
         {
-            "type": "Media",
-            "url": "./images/460.jpg"
+            "type": "WordPuzzle",
+            "name": "Blurry eyesight_Physical Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "relaxed"
+            ],
+            "missing_letter_count": 2
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 5
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
 }

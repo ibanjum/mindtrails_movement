@@ -1,16 +1,16 @@
 {
-    "header_text": "Lost your Belongings",
+    "header_text": "Movie Mix-Up",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lost your Belongings"
+            "text": "Movie Mix-Up"
         },
         {
             "type": "Media",
-            "url": "./images/834.jpg"
+            "url": "./images/833.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

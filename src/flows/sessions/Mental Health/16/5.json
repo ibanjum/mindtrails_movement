@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "The spider's movements are really interesting.",
                 "The spider isn't going to hurt me.",
                 "It's going to jump on me!",
                 "I think about all of the places the spider could be, but I can't control what it's doing.",
                 "I think about how scary the spider looked, but also how small it really was."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

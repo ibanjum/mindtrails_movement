@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "Everyone will love this costume.",
                 "Maybe I should have toned it down, but know that this is true to myself.",
                 "I may have worn something too crazy, but I like it.",
                 "No one likes my costume.",
                 "I think this costume is fun."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

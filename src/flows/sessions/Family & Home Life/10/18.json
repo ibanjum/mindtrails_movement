@@ -7,8 +7,7 @@
             "text": "You recently had an unexpected medical visit. You and your spouse share an insurance plan, and you’re worried that your spouse will be concerned about finances if they see it on your insurance statement. If they ask you about it, you think they will be... "
         },
         {
-            "type": "Entry",
-            "name": "Unexpected Medical Visit _Family & Home Life_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,14 +1,14 @@
 {
-    "header_text": "Research Visit",
+    "header_text": "Medical Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Research Visit"
+            "text": "Medical Presentation"
         },
         {
             "type": "Media",
-            "url": "./images/438.jpg"
+            "url": "./images/126.jpg"
         }
     ],
     "type": "positive",

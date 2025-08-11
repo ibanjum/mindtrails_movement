@@ -1,29 +1,25 @@
 {
-    "header_text": "Therapy Shift",
+    "header_text": "Holiday Decorating",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Sharing about your mood with your therapist is..."
+            "text": "It's time to decorate for the holidays, and you invite your family over. You suddenly forget where each decoration belongs. Your family reminds you where all the decorations go, and having them there for the holidays is..."
         },
         {
-            "type": "Buttons",
-            "name": "Therapy Shift_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Holiday Decorating_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Unnecessary",
-                "Healthy"
+            "display_delay": 2000,
+            "words": [
+                "delightful"
             ],
-            "columnCount": 1,
-            "correct_value": "Healthy"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

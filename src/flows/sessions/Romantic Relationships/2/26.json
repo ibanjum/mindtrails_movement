@@ -16,7 +16,7 @@
                 "Your coworker wants you to do more work",
                 "Your coworker feels the same way you do"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Your coworker feels the same way you do"
         }
     ],

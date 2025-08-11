@@ -1,25 +1,25 @@
 {
-    "header_text": "Your Resume",
+    "header_text": "Taking Your Time",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are preparing to apply for a new job. You have a meeting with a potential employer tomorrow. You know that a good resume will be... "
+            "text": "Your boss calls on you to answer a question about the presentation just given. You don't know what to say, and your mind goes blank. After a few moments, you prepare your answer and feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Your Resume_Work/Career Development_puzzle1",
+            "name": "Taking Your Time_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "important"
+                "ok"
             ],
             "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

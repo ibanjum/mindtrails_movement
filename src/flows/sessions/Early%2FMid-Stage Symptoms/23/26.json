@@ -1,16 +1,16 @@
 {
-    "header_text": "Side Dish Selection",
+    "header_text": "Paying and Organizing Bills",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Side Dish Selection"
+            "text": "Paying and Organizing Bills"
         },
         {
             "type": "Media",
-            "url": "./images/839.jpg"
+            "url": "./images/323.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 8
 }

@@ -3,27 +3,14 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "Are you having more trouble performing daily activities?"
+            "type": "Label",
+            "text": "Trouble Getting Dressed"
         },
         {
-            "type": "Buttons",
-            "name": "Trouble Getting Dressed_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
-            ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "type": "Media",
+            "url": "./images/876.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "negative",
-    "scenario_num": 1
+    "scenario_num": 2
 }

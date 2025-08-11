@@ -16,7 +16,7 @@
                 "Paying your rent bill fully",
                 "Falling behind on your rent"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Falling behind on your rent"
         }
     ],

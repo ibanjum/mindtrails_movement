@@ -12,5 +12,5 @@
         }
     ],
     "type": "resilience/negation",
-    "scenario_num": 3
+    "scenario_num": 4
 }

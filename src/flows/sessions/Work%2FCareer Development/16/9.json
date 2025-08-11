@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I was sad that I couldn't provide a better answer, but there is always next time.",
                 "I am happy that my coworkers can hear my answer.",
                 "I am feeling smart about how I navigated the question.",
                 "I felt self conscious while answering.",
                 "I am embarrassed that my answer sounded wrong, but everyone has moments like that."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

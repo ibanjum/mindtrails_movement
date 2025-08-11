@@ -1,16 +1,16 @@
 {
-    "header_text": "Feeling Anxious",
+    "header_text": "High Anxiety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Feeling Anxious"
+            "type": "Text",
+            "text": "This year, you've been feeling very anxious, and you haven't been able to enjoy your life without worrying. You wonder what people in your life would think of you if you got help. You think that they would consider you to be... "
         },
         {
-            "type": "Media",
-            "url": "./images/11.jpg"
+            "type": "Entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 6
 }

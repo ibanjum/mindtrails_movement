@@ -1,16 +1,29 @@
 {
-    "header_text": "Inside Jokes",
+    "header_text": "Safe Driving",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Inside Jokes"
+            "type": "Text",
+            "Text": "Are you likely to get into an accident? "
         },
         {
-            "type": "Media",
-            "url": "./images/332.jpg"
+            "type": "Buttons",
+            "name": "Safe Driving_Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Yes",
+                "No"
+            ],
+            "column_count": 1,
+            "correct_value": "No"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 4
+    "scenario_num": 3
 }

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I feel flattered that they wanted to email me.",
                 "I'm unsure about the reason they emailed me, but realize it is just because they wanted to.",
                 "I'm excited to read their response.",
                 "I feel worried about what they think of me, but know that I can deal with not knowing.",
                 "I feel insecure about maintaining a conversation with them."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

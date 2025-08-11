@@ -1,10 +1,10 @@
 {
-    "header_text": "Monday Morning",
+    "header_text": "Late for a Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Monday Morning"
+            "text": "Late for a Meeting"
         },
         {
             "type": "Media",

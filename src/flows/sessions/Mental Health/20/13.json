@@ -7,8 +7,7 @@
             "text": "You apply for a grant to fund a new initiative in your office. Without this funding, you won't be able to move forward with your initiative. You don't know if your proposal is good enough, and you think it will probably be..."
         },
         {
-            "type": "Entry",
-            "name": "Applying for a Grant_Mental Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I want to remove them from my phone, but decide to give the situation some time and cool off.",
                 "I reach out to a friend.",
                 "I start working on other important things I want to do today.",
                 "I want to send a bunch of messages to this person, but instead call a friend.",
                 "I cancel my plans for the day."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

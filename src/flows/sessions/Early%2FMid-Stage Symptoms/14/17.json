@@ -1,16 +1,16 @@
 {
-    "header_text": "Future Workouts",
+    "header_text": "Animal Shelter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Future Workouts"
+            "text": "Animal Shelter"
         },
         {
             "type": "Media",
-            "url": "./images/802.jpg"
+            "url": "./images/520.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 5
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Follow-up at Doctor's Office",
+    "header_text": "Kitchen Coordination",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Follow-up at Doctor's Office"
+            "text": "Kitchen Coordination"
         },
         {
             "type": "Media",
-            "url": "./images/879.jpg"
+            "url": "./images/246.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 0
 }

@@ -1,23 +1,23 @@
 {
-    "header_text": "Research Visit",
+    "header_text": "Medical Presentation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Is the principal investigator thankful for your participation?"
+            "Text": "Who is having trouble following the presentation?"
         },
         {
             "type": "Buttons",
-            "name": "Research Visit_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Medical Presentation_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Yes",
-                "No"
+                "Just you",
+                "Everyone"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "column_count": 1,
+            "correct_value": "Everyone"
         }
     ],
     "navigation_conditions": [

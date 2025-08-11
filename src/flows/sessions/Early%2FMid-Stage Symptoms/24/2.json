@@ -1,25 +1,25 @@
 {
-    "header_text": "Losing Your Phone",
+    "header_text": "Workout Whispers",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are at home, and you have misplaced your phone again. You become stressed about your memory loss lately. You retrace your steps to jog your memory, and you realize that your chances of finding your phone are relatively..."
+            "text": "Exercising at the gym is a form of stress relief for you, though you have had to adapt your workouts lately. Today, you notice two people whispering as they look in your direction. You know working out is a personal journey and decide their opinions are... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Losing Your Phone_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Workout Whispers_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "low"
+                "irrelevant"
             ],
-            "missing_letter_count": 2
+            "missing_letter_count": 1
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 0
 }

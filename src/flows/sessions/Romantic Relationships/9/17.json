@@ -7,8 +7,7 @@
             "text": "Your partner's parents are visiting, and you are getting dinner with them. You have never met them before, but you know that they hold very different political beliefs than you. As you think about meeting them, you know you will be... "
         },
         {
-            "type": "Entry",
-            "name": "Meeting the Parents_Romantic Relationships_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

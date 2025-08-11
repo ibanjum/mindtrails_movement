@@ -1,10 +1,10 @@
 {
-    "header_text": "Long Distance Relationship",
+    "header_text": "Prestigious Program",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Long Distance Relationship"
+            "text": "Prestigious Program"
         },
         {
             "type": "Media",

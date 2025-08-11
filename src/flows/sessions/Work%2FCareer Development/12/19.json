@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Your qualifications will"
+            "Text": "Your qualifications will..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Put you in a good position to get an interview.",
-                "Are probably not strong enough to make you stand out."
+                "Put you in a good position to get an interview",
+                "Are probably not strong enough to make you stand out"
             ],
-            "columnCount": 1,
-            "correct_value": "Put you in a good position to get an interview."
+            "column_count": 1,
+            "correct_value": "Put you in a good position to get an interview"
         }
     ],
     "navigation_conditions": [

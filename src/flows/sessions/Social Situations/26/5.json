@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I think about how this is a common accident.",
                 "I feel like I'm annoying to my friends right now, but they will understand that accidents happen.",
                 "I think about how it will be a funny story.",
                 "I feel like I'm causing a scene, but the other people here don't know me or care about this situation.",
                 "I think I will look silly in front of everyone."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

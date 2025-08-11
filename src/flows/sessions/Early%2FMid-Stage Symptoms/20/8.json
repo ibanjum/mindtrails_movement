@@ -3,27 +3,14 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "As you think about this year's garden, you feel..."
+            "type": "Label",
+            "text": "Garden Changes"
         },
         {
-            "type": "Buttons",
-            "name": "Garden Changes_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Thankful",
-                "Discouraged"
-            ],
-            "columnCount": 1,
-            "correct_value": "Thankful"
+            "type": "Media",
+            "url": "./images/827.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
     "type": "positive",
-    "scenario_num": 1
+    "scenario_num": 2
 }

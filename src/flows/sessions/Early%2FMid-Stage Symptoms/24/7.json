@@ -1,14 +1,14 @@
 {
-    "header_text": "Writing a Letter",
+    "header_text": "Forgotten Item",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Writing a Letter"
+            "text": "Forgotten Item"
         },
         {
             "type": "Media",
-            "url": "./images/841.jpg"
+            "url": "./images/413.jpg"
         }
     ],
     "type": "positive",

@@ -1,14 +1,14 @@
 {
-    "header_text": "Best Friend's Party",
+    "header_text": "Poor Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Best Friend's Party"
+            "text": "Poor Sleep"
         },
         {
             "type": "Media",
-            "url": "./images/811.jpg"
+            "url": "./images/591.jpg"
         }
     ],
     "type": "positive",

@@ -16,7 +16,7 @@
                 "That they don't want to help you with the fundraiser",
                 "That they want to help you with the fundraiser"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "That they want to help you with the fundraiser"
         }
     ],

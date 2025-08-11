@@ -1,16 +1,16 @@
 {
-    "header_text": "High Anxiety",
+    "header_text": "Feeling Down",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "High Anxiety"
+            "type": "Text",
+            "text": "You have had a busy and stressful week. You are usually happy, but you've felt flat and sad all for the past few days. You remember that it's normal to have some hard..."
         },
         {
-            "type": "Media",
-            "url": "./images/101.jpg"
+            "type": "Entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 5
 }

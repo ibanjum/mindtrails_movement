@@ -16,7 +16,7 @@
                 "Bad idea",
                 "Good idea"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Good idea"
         }
     ],

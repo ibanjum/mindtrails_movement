@@ -1,23 +1,23 @@
 {
-    "header_text": "Saturday Brunch",
+    "header_text": "Neighborhood Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your relatives pointing out changes shows their..."
+            "Text": "With you sibling's help, you will..."
         },
         {
             "type": "Buttons",
-            "name": "Saturday Brunch_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Neighborhood Walk_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Concern",
-                "Judgment"
+                "Not fall",
+                "Trip again"
             ],
-            "columnCount": 1,
-            "correct_value": "Concern"
+            "column_count": 1,
+            "correct_value": "Not fall"
         }
     ],
     "navigation_conditions": [

@@ -1,20 +1,20 @@
 {
-    "header_text": "Hosting Book Club",
+    "header_text": "Financial Planning",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are hosting book club tonight. As you look around at the friends you love, you begin to feel an overwhelming sadness. You open up to the group, knowing your book club is a safe... "
+            "text": "You are meeting with your financial advisor to talk about the future of your finances with PD. You become easily aggravated during the conversation, but you are unsure why. You reflect on the hard work of your advisor as you give... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Hosting Book Club_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Financial Planning_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "haven"
+                "trust"
             ],
             "missing_letter_count": 2
         }

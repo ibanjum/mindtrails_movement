@@ -57,15 +57,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if tipe == "buttons"  : return {"type": "Buttons", "buttons": items, "selectable": True, **({"ColumnCount": 2} if is_yesno(items) else {}) }
     if tipe == "scheduler": return {"type": "Scheduler", "days_ahead": 1, "flow": "flow://flows/sessions", "count":2, "message": "It's time to practice thinking flexibly! Head over to Mindtrails Movement for your scheduled session."}
     if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multiselect": True }
-    if tipe == "timedtext": return {"type": "TimedText", "text": text,  "Duration": 15 }
-    if tipe == "puzzle"   : return {
-        "type": "WordPuzzle",
-        "right_feedback": "Correct!",
-        "wrong_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-        "wrong_delay": 5000,
-        "display_delay": 2000,
-        "words": items
-    }
+    if tipe == "timedtext": return {"type": "TimedText", "texts": text,  "Duration": 15000 }
     return None
 
 def create_long_pages(label, scenario_description, thoughts, feelings, behaviors, image_url):
@@ -192,7 +184,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
     if n_missing in ["1","2"]:
         pages[-1]["elements"][-1]["missing_letter_count"] = int(n_missing)
     elif n_missing == "all":
-        pages[-1]["elements"][-1] = {"type": "Entry", "name": f"{label}_{domain}_entry1" }
+        pages[-1]["elements"][-1] = {"type": "Entry"}
 
     if has_value(word_2) and has_value(puzzle_text_2):
         pages.append({
@@ -218,7 +210,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
         if n_missing in ["1","2"]:
             pages[-1]["elements"][-1]["missing_letter_count"] = int(n_missing)
         elif n_missing == "all":
-            pages[-1]["elements"][-1] = {"type": "Entry", "name": f"{label}_{domain}_entry2" }
+            pages[-1]["elements"][-1] = {"type": "Entry"}
 
     if n_missing != "all":
         pages.append({
@@ -235,7 +227,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
                     "incorrect_delay": 5000,
                     "buttons": answers,
-                    "columnCount": 1,
+                    "column_count": 1,
                     "correct_value": correct_answer
                 }
             ],

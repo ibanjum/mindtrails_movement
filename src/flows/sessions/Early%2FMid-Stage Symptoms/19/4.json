@@ -1,14 +1,14 @@
 {
-    "header_text": "Social Changes",
+    "header_text": "Assembling Furniture",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Changes"
+            "text": "Assembling Furniture"
         },
         {
             "type": "Media",
-            "url": "./images/823.jpg"
+            "url": "./images/408.jpg"
         }
     ],
     "type": "positive",

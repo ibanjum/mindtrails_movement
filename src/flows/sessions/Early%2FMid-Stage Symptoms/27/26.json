@@ -1,14 +1,14 @@
 {
-    "header_text": "Saturday Brunch",
+    "header_text": "Neighborhood Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Saturday Brunch"
+            "text": "Neighborhood Walk"
         },
         {
             "type": "Media",
-            "url": "./images/238.jpg"
+            "url": "./images/236.jpg"
         }
     ],
     "type": "positive",

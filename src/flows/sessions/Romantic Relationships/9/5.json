@@ -7,8 +7,7 @@
             "text": "You have just broken up with your partner and have been with them longer than any other significant other you've had before. You believe it was for the best. You also worry if you will ever meet someone else you feel so strongly... "
         },
         {
-            "type": "Entry",
-            "name": "Future Relationships_Romantic Relationships_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

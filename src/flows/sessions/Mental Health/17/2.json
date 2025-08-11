@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You're talking to a coworker about a presentation you're working on, and they seem really interested. They ask if they can look at it, and you agree. Before you send the slides to them, you look over it and feel... "
+            "text": "You're talking to a coworker about a presentation you're working on. They seem interested. They ask if they can look at it, and you mull it... "
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "good"
+                "over"
             ],
             "missing_letter_count": 2
         }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Difficulty Moving On",
+    "header_text": "Best Friend's Party",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Difficulty Moving On"
+            "text": "Best Friend's Party"
         },
         {
             "type": "Media",
-            "url": "./images/812.jpg"
+            "url": "./images/811.jpg"
         }
     ],
     "type": "positive",

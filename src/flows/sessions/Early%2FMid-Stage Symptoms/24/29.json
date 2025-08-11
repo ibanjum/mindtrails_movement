@@ -1,16 +1,16 @@
 {
-    "header_text": "Laundry Dilemma",
+    "header_text": "Yoga Routine",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Laundry Dilemma"
+            "text": "Yoga Routine"
         },
         {
             "type": "Media",
-            "url": "./images/234.jpg"
+            "url": "./images/415.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

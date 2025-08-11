@@ -16,7 +16,7 @@
                 "Flip the boat",
                 "Clear it and continue boating fine"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Clear it and continue boating fine"
         }
     ],

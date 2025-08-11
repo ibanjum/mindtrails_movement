@@ -1,14 +1,14 @@
 {
-    "header_text": "Talking about the Future",
+    "header_text": "Shopping Anxiety",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Talking about the Future"
+            "text": "Shopping Anxiety"
         },
         {
             "type": "Media",
-            "url": "./images/207.jpg"
+            "url": "./images/970.jpg"
         }
     ],
     "type": "positive",

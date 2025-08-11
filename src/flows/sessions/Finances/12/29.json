@@ -16,7 +16,7 @@
                 "Booking a beachfront hotel",
                 "Staying at home"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Staying at home"
         }
     ],

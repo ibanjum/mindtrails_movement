@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You have submitted a resume and an application for a job that you have been hoping to get. You hope to get an interview for the job after they review your application, but you know it is very competitive. With your qualifications, you expect to get a..."
+            "text": "You applied for a job that you have been hoping to get. You hope to get an interview for the job after they review your application, but you know it is very competitive. With your qualifications, you expect to get a..."
         },
         {
             "type": "WordPuzzle",

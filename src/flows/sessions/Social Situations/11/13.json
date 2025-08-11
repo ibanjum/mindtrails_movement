@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I pull out a book and read until I get to my stop.",
                 "I want to put my head between my knees and disappear, but I take a deep breath and smile.",
                 "I call out to my friend and smile.",
                 "I start to cry.",
                 "I'll want to ignore my friend the rest of the day, but I decide to talk to them instead."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

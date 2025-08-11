@@ -3,15 +3,14 @@
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "You have a big presentation coming up. When you think about standing up in front of people and talking, you feel anxious. You think that this is probably..."
+            "type": "Label",
+            "text": "Feeling Anxious"
         },
         {
-            "type": "Entry",
-            "name": "Feeling Anxious_Mental Health_entry1"
+            "type": "Media",
+            "url": "./images/11.jpg"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 7
 }

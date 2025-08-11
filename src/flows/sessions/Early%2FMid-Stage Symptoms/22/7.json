@@ -4,26 +4,13 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "The realization that your family is coming together for you makes you feel... "
+            "text": "You just retired because of your PD symptoms, and your family decides to throw you a surprise party. You realize that not everyone knows about your diagnosis. Wondering if the rest of your family will find out before you get the chance to tell them leaves you with a feeling of..."
         },
         {
-            "type": "Buttons",
-            "name": "Retirement Celebration_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Pessimistic",
-                "Optimistic"
-            ],
-            "columnCount": 1,
-            "correct_value": "Optimistic"
+            "type": "Entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "resilience/negation",
-    "scenario_num": 1
+    "scenario_num": 2
 }

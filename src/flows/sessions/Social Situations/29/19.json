@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Years from now, you expect you and your friend"
+            "Text": "Years from now, you expect you and your friend..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Will have grown apart and not really understand one another.",
-                "Will have stayed close even though you have developed some different interests."
+                "Will have grown apart and not really understand one another",
+                "Will have stayed close even though you have developed some different interests"
             ],
-            "columnCount": 1,
-            "correct_value": "Will have grown apart and not really understand one another."
+            "column_count": 1,
+            "correct_value": "Will have grown apart and not really understand one another"
         }
     ],
     "navigation_conditions": [

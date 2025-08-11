@@ -1,23 +1,23 @@
 {
-    "header_text": "Talk with Counselor",
+    "header_text": "Yoga Equipment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Will you benefit from sharing your feelings?"
+            "Text": "Buying the new equipment helps you stay..."
         },
         {
             "type": "Buttons",
-            "name": "Talk with Counselor_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Yoga Equipment_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Optimistic",
+                "Fearful"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "column_count": 1,
+            "correct_value": "Optimistic"
         }
     ],
     "navigation_conditions": [

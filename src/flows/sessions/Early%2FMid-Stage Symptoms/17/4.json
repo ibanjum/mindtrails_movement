@@ -1,16 +1,16 @@
 {
-    "header_text": "Difficult Handoff",
+    "header_text": "Difficulty Moving On",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Difficult Handoff"
+            "text": "Difficulty Moving On"
         },
         {
             "type": "Media",
-            "url": "./images/813.jpg"
+            "url": "./images/812.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

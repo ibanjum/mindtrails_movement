@@ -1,14 +1,14 @@
 {
-    "header_text": "Overwhelmed at Meeting",
+    "header_text": "Pet Schedule",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Overwhelmed at Meeting"
+            "text": "Pet Schedule"
         },
         {
             "type": "Media",
-            "url": "./images/808.jpg"
+            "url": "./images/211.jpg"
         }
     ],
     "type": "positive",

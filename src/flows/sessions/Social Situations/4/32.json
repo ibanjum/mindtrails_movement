@@ -16,7 +16,7 @@
                 "You look very nervous during your presentation",
                 "You look calm and composed during your presentation"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "You look calm and composed during your presentation"
         }
     ],

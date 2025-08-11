@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "The waiter will be irritated, but I'll apologize and offer to help clean up.",
                 "I think about how everyone sometimes has clumsy moments.",
                 "My family must be embarrassed by me.",
                 "My family may be annoyed, but I can wait until they move on.",
                 "People in my family have dropped stuff at restaurants in the past."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

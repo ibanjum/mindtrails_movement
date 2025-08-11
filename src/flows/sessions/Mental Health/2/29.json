@@ -1,25 +1,29 @@
 {
-    "header_text": "Affording Therapy",
+    "header_text": "Trying New Foods",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You've been wanting to go to therapy for a while. However, you aren't sure whether you have the budget to pay for it. You think that it's likely that you will find a provider whose services are... "
+            "Text": "You respond to the spicy food by..."
         },
         {
-            "type": "WordPuzzle",
-            "name": "Affording Therapy_Mental Health_puzzle1",
+            "type": "Buttons",
+            "name": "Trying New Foods_Mental Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "affordable"
+            "buttons": [
+                "Continuing to worry about whether you have a medical issue",
+                "Tolerating your heart racing and focusing on the conversation"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Tolerating your heart racing and focusing on the conversation"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

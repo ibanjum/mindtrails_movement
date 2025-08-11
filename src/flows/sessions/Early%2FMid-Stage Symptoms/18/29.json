@@ -1,16 +1,16 @@
 {
-    "header_text": "Lost in the Forest",
+    "header_text": "Lost Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Lost in the Forest"
+            "type": "Text",
+            "text": "You've been losing your phone more than usual lately. As you notice this, you begin to get anxious about whether this is caused by your PD. You decide that it's best to be more mindful of where you place your phone, and you feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/821.jpg"
+            "type": "Entry"
         }
     ],
-    "type": "negative",
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
     "scenario_num": 9
 }

@@ -1,14 +1,16 @@
 {
-    "header_text": "Apply to Daily Life: Make It Work for You!",
+    "header_text": "Applying to Jobs",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Think of something that caused you anxiety the first time you did it. What strategies helped you work through that?"
+            "text": "You applied to a job a few weeks ago and just got a response. They tell you they already filled the position, and you feel like you are not smart enough. You think that in the future, you will get a..."
         },
         {
-            "type": "Entry",
-            "name": "Tip #1_entry"
+            "type": "Entry"
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
 }

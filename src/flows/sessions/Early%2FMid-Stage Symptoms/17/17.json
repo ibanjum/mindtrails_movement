@@ -1,16 +1,16 @@
 {
-    "header_text": "Spilling Soup",
+    "header_text": "Typing An Email",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Spilling Soup"
+            "text": "Typing An Email"
         },
         {
             "type": "Media",
-            "url": "./images/816.jpg"
+            "url": "./images/815.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

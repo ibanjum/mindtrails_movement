@@ -1,14 +1,14 @@
 {
-    "header_text": "Beach Walk",
+    "header_text": "Setting up Camp",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Beach Walk"
+            "text": "Setting up Camp"
         },
         {
             "type": "Media",
-            "url": "./images/837.jpg"
+            "url": "./images/836.jpg"
         }
     ],
     "type": "positive",

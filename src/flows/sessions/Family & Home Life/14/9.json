@@ -16,7 +16,7 @@
                 "Avoid the conversation",
                 "Tell them how you're feeling"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Tell them how you're feeling"
         }
     ],

@@ -1,16 +1,16 @@
 {
-    "header_text": "Work Gala",
+    "header_text": "Beach Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Work Gala"
+            "text": "Beach Walk"
         },
         {
             "type": "Media",
-            "url": "./images/578.jpg"
+            "url": "./images/837.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

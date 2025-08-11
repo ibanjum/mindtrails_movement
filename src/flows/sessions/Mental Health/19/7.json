@@ -7,8 +7,7 @@
             "text": "Today, you will receive an important email. It will tell you whether you received or didn't get a promotion that would really advance your career.  As you think about waiting for the email, you feel..."
         },
         {
-            "type": "Entry",
-            "name": "Waiting for Big News_Mental Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "When you think about the next fifty years, your friends"
+            "Text": "When you think about the future, your friends..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Eventually fade out of the picture.",
-                "Stay an important part of your life."
+                "Eventually fade out of the picture",
+                "Stay an important part of your life"
             ],
-            "columnCount": 1,
-            "correct_value": "Eventually fade out of the picture."
+            "column_count": 1,
+            "correct_value": "Eventually fade out of the picture"
         }
     ],
     "navigation_conditions": [

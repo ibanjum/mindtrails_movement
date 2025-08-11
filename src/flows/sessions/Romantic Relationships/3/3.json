@@ -16,7 +16,7 @@
                 "Turn you down, because they're not interested in seeing you again",
                 "Accept your offer, because you two had a great time on the train"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Accept your offer, because you two had a great time on the train"
         }
     ],

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I ask my boss if I can present another day.",
                 "I consider pretending that I'm sick so I don't have to present, but challenge myself to give the presentation anyway.",
                 "I smile and start my presentation.",
                 "I want to go to the bathroom and splash my face with water, but decide to refocus on my surroundings to relax and power through.",
                 "I speak with a strong voice."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

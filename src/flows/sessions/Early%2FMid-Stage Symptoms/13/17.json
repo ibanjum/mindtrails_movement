@@ -1,30 +1,30 @@
 {
-    "header_text": "Family Dinner Fight",
+    "header_text": "Finding Your Wallet",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your angry outburst caused your family to feel..."
+            "Text": "Are you using tools that will help you cope when you're annoyed?"
         },
         {
             "type": "Buttons",
-            "name": "Family Dinner Fight_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Finding Your Wallet_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Bored",
-                "Stunned"
+                "Yes",
+                "No"
             ],
-            "columnCount": 1,
-            "correct_value": "Stunned"
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 4,
     "information": {
         "elements": [

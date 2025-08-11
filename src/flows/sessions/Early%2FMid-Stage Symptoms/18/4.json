@@ -1,14 +1,14 @@
 {
-    "header_text": "Journaling Issues",
+    "header_text": "Trouble Reading",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Journaling Issues"
+            "text": "Trouble Reading"
         },
         {
             "type": "Media",
-            "url": "./images/819.jpg"
+            "url": "./images/818.jpg"
         }
     ],
     "type": "positive",

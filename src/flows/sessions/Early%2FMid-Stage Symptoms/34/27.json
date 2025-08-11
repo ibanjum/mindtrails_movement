@@ -1,14 +1,14 @@
 {
-    "header_text": "Neighbor's Help",
+    "header_text": "Finding a Therapist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Neighbor's Help"
+            "text": "Finding a Therapist"
         },
         {
             "type": "Media",
-            "url": "./images/974.jpg"
+            "url": "./images/421.jpg"
         }
     ],
     "type": "positive",

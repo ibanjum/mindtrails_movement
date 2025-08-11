@@ -1,23 +1,23 @@
 {
-    "header_text": "Boxing Class",
+    "header_text": "Saturday Brunch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The class is..."
+            "Text": "Your relatives pointing out changes shows their..."
         },
         {
             "type": "Buttons",
-            "name": "Boxing Class_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Saturday Brunch_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Enjoyable",
-                "Pointless"
+                "Concern",
+                "Judgment"
             ],
-            "columnCount": 1,
-            "correct_value": "Enjoyable"
+            "column_count": 1,
+            "correct_value": "Concern"
         }
     ],
     "navigation_conditions": [

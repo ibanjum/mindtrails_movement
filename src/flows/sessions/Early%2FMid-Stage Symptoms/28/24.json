@@ -1,14 +1,14 @@
 {
-    "header_text": "Yoga Equipment",
+    "header_text": "Hosting Book Club",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yoga Equipment"
+            "text": "Hosting Book Club"
         },
         {
             "type": "Media",
-            "url": "./images/522.jpg"
+            "url": "./images/860.jpg"
         }
     ],
     "type": "positive",

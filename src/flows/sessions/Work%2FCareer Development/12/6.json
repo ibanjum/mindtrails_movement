@@ -16,7 +16,7 @@
                 "Complete the program and learn some useful data science skills.",
                 "Quit this program because you are doing poorly."
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Quit this program because you are doing poorly."
         }
     ],

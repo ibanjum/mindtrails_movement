@@ -7,8 +7,7 @@
             "text": "It's Wednesday night, and you and your friend go on a walk. You stop walking about halfway through because you feel you can't catch your... "
         },
         {
-            "type": "Entry",
-            "name": "Cardio with friend_Physical Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "They may want to just be my friend, and I'm okay with that.",
                 "They thought that I was enjoyable to talk to.",
                 "I think they want to get to know me.",
                 "They may stop emailing me after I respond, but they're probably just really busy",
                 "They probably meant to email someone else instead."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

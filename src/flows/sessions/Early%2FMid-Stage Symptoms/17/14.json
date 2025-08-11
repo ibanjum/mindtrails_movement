@@ -1,16 +1,16 @@
 {
-    "header_text": "Typing An Email",
+    "header_text": "Couple Strolling",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Typing An Email"
+            "text": "Couple Strolling"
         },
         {
             "type": "Media",
-            "url": "./images/815.jpg"
+            "url": "./images/807.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 4
 }

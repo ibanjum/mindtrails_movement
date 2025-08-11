@@ -4,26 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Should you avoid trying new foods because your colleagues are not ordering it?"
+            "text": "You and your colleagues are at a restaurant. While your colleagues all order the same dish, you want to order something adventurous but worry that they'll think it's gross. You decide to order the dish anyway, and enjoy the new..."
         },
         {
-            "type": "Buttons",
-            "name": "Trying Different Foods_Mental Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "Trying Different Foods_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "flavors"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 9
 }

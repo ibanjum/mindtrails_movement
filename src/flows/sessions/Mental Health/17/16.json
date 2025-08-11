@@ -4,36 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you okay with eating dinner alone?"
+            "text": "Your favorite part of the day is winding down to eat dinner. You realize that you've been eating alone a lot recently as you start making dinner, and this makes you feel sad. You decide you are okay because eating alone gives you time to reflect on your..."
         },
         {
-            "type": "Buttons",
-            "name": "Time to Yourself_Mental Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "Time to Yourself_Mental Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "day"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Every small shift in perspective leads to bigger changes over time. Keep going—you're training your brain to think in more balanced and helpful ways!"
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 4
 }

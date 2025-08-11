@@ -1,16 +1,16 @@
 {
-    "header_text": "Hiking Incident",
+    "header_text": "Journaling Issues",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Hiking Incident"
+            "text": "Journaling Issues"
         },
         {
             "type": "Media",
-            "url": "./images/230.jpg"
+            "url": "./images/819.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 2
 }

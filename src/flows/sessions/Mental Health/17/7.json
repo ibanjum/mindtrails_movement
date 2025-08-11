@@ -1,16 +1,29 @@
 {
-    "header_text": "Long Walk Outside",
+    "header_text": "An Invitation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Long Walk Outside"
+            "type": "Text",
+            "Text": "Are you happy to have your supervisor come to your school event? "
         },
         {
-            "type": "Media",
-            "url": "./images/397.jpg"
+            "type": "Buttons",
+            "name": "An Invitation_Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 2
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 1
 }

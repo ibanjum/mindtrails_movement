@@ -1,16 +1,16 @@
 {
-    "header_text": "Trouble Getting Dressed",
+    "header_text": "Book Club Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trouble Getting Dressed"
+            "text": "Book Club Meeting"
         },
         {
             "type": "Media",
-            "url": "./images/876.jpg"
+            "url": "./images/425.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 1
 }

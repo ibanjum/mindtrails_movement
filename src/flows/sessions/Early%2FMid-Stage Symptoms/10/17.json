@@ -1,39 +1,16 @@
 {
-    "header_text": "Travel Dreams",
+    "header_text": "Disease and Identity",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The thought of traveling despite your PD is..."
+            "text": "You feel as if PD has become central to your identity. You have recently been feeling the burden of explaining your diagnosis in every conversation, especially with new people. You begin to understand your disease as something that can be both shared and kept... "
         },
         {
-            "type": "Buttons",
-            "name": "Travel Dreams_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Terrifying",
-                "Thrilling"
-            ],
-            "columnCount": 1,
-            "correct_value": "Thrilling"
+            "type": "Entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 4,
-    "information": {
-        "elements": [
-            {
-                "type": "text",
-                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
-            }
-        ],
-        "position": "after",
-        "information_count": 1
-    }
+    "scenario_num": 6
 }

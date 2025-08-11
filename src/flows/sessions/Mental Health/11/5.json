@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I won't perform my best today, but I'm allowed to have an off day sometimes.",
                 "I am hardworking, and my boss will be able to tell.",
                 "My colleagues will think that I prepared well for the presentation.",
                 "My job will be at risk if I mess up this presentation.",
                 "My boss will think that my presentation needs improvements, and I'll be OK with that."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

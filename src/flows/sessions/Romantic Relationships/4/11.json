@@ -1,10 +1,10 @@
 {
-    "header_text": "Relationship Worries",
+    "header_text": "Relationship Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Relationship Worries"
+            "text": "Relationship Reflection"
         },
         {
             "type": "Media",

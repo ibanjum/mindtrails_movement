@@ -1,29 +1,29 @@
 {
-    "header_text": "Dining Out",
+    "header_text": "Morning Coffee",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Are they annoyed with your slowness?"
+            "Text": "Your spouse is trying to be..."
         },
         {
             "type": "Buttons",
-            "name": "Dining Out_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Morning Coffee_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "No",
-                "Yes"
+                "Hovering",
+                "Kind"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "column_count": 1,
+            "correct_value": "Kind"
         }
     ],
     "navigation_conditions": [
         "wait_for_correct",
         "wait_for_click"
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

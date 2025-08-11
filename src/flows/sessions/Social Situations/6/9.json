@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I worry about what others are thinking, but realize that I'm allowed to wear what makes me happy.",
                 "I'm worried that others are making fun of me behind my back.",
                 "I feel so liberated wearing something so fun.",
                 "I'm really embarrassed that I stand out so much, but honestly people will forget about it in a few minutes.",
                 "I feel happy wearing what I love."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

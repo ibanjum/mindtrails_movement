@@ -7,8 +7,7 @@
             "text": "Tomorrow is your family member's birthday. You forgot to get them a gift. You realize you don't have much time to shop for something..."
         },
         {
-            "type": "Entry",
-            "name": "Family Member's Birthday_Family & Home Life_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

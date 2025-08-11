@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You heard a rumor your supervisor is planning on firing someone in your position. Although you are normally a good employee, you were late for a meeting earlier this week. You feel that the probability of you getting demoted is..."
+            "text": "You heard a rumor your supervisor is planning on firing someone in your position. Although you are normally a good employee, you were late for a meeting earlier this week. You feel that the probability of you getting fired is..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "minimal"
+                "small"
             ],
             "missing_letter_count": 1
         }

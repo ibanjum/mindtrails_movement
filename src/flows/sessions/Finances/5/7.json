@@ -16,7 +16,7 @@
                 "Still you leave you short and you'll be late paying your rent",
                 "Mean you'll save enough to make your rent"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Mean you'll save enough to make your rent"
         }
     ],

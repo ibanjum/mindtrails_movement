@@ -1,25 +1,29 @@
 {
-    "header_text": "Healthy But Expensive ",
+    "header_text": "Virus Fear",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You want to start eating healthier, so you start researching tips and recipes online. You quickly realize that many foods recommended by health experts cost a lot of money. When you think about eating healthier on a budget, you think you can be... "
+            "Text": "Were you able to help your friend?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Healthy But Expensive _Physical Health_puzzle1",
+            "type": "Buttons",
+            "name": "Virus Fear_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "successful"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 1
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 9
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
 }

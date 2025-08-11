@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I'm embarrassed that I dropped the glass, but know that people drop things all of the time.",
                 "I'm happy that the waiter doesn't seem to mind that much.",
                 "I have a knot in my stomach after the whole restaurant looked at me.",
                 "I'm able to stay calm.",
                 "I feel bad, but remind myself that I'll forget about this in a few days."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

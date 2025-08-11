@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "If they like someone else and not me, I won't like it, but I'll move on from it.",
                 "They'll get back to me when they have time.",
                 "They must have a lot to do today.",
                 "They will never respond to me.",
                 "Maybe I'm annoying them, but they also might just be busy."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I start to make conversation with my family.",
                 "I avoid thinking about his health.",
                 "I laugh at something silly my father said.",
                 "I feel the urge to ask about his health, but take a deep breath and listen to what my family is talking about now knowing that there's a reason they haven't told me anything.",
                 "I want to question the family on his health, but decide to enjoy the gathering."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

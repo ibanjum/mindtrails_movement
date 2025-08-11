@@ -1,29 +1,16 @@
 {
-    "header_text": "Talking to friends",
+    "header_text": "Creating Art ",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "Text": "When you talk, your friends are..."
+            "type": "Label",
+            "text": "Creating Art "
         },
         {
-            "type": "Buttons",
-            "name": "Talking to friends_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Engaged",
-                "Confused"
-            ],
-            "columnCount": 1,
-            "correct_value": "Engaged"
+            "type": "Media",
+            "url": "./images/768.jpg"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "type": "positive",
-    "scenario_num": 3
+    "type": "resilience/negation",
+    "scenario_num": 5
 }

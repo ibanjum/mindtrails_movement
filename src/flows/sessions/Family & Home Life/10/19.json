@@ -1,14 +1,14 @@
 {
-    "header_text": "Providing for Family",
+    "header_text": "Holiday Away From Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Providing for Family"
+            "text": "Holiday Away From Home"
         },
         {
             "type": "Media",
-            "url": "./images/191.jpg"
+            "url": "./images/156.jpg"
         }
     ],
     "type": "negative",

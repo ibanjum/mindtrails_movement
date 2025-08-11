@@ -1,14 +1,14 @@
 {
-    "header_text": "Poor Sleep",
+    "header_text": "Family Trivia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Poor Sleep"
+            "text": "Family Trivia"
         },
         {
             "type": "Media",
-            "url": "./images/591.jpg"
+            "url": "./images/214.jpg"
         }
     ],
     "type": "positive",

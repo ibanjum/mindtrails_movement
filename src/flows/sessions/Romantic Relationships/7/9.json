@@ -16,7 +16,7 @@
                 "To receive lots of messages from other users",
                 "To get very few contacts"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "To get very few contacts"
         }
     ],

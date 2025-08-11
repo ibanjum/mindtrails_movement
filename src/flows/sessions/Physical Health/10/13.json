@@ -7,8 +7,7 @@
             "text": "As you wake up in the morning, you sit up quickly. Your vision goes blurry and then goes black briefly. Your vision comes back after a moment, and you tell yourself that it happened because you sat up too..."
         },
         {
-            "type": "Entry",
-            "name": "Waking Up Dizzy_Physical Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

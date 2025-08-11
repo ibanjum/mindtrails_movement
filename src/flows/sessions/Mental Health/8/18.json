@@ -1,16 +1,16 @@
 {
-    "header_text": "New Family Member",
+    "header_text": "Feeling Anxious",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "New Family Member"
+            "type": "Text",
+            "text": "You have a big presentation coming up. When you think about standing up in front of people and talking, you feel anxious. You think that this is probably..."
         },
         {
-            "type": "Media",
-            "url": "./images/157.jpg"
+            "type": "Entry"
         }
     ],
-    "type": "resilience/negation",
-    "scenario_num": 8
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
 }

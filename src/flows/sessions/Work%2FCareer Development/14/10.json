@@ -16,7 +16,7 @@
                 "Worry about whether you locked the door",
                 "Rest and spend time with friends"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Rest and spend time with friends"
         }
     ],

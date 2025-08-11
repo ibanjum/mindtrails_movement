@@ -1,16 +1,16 @@
 {
-    "header_text": "Dropped Groceries",
+    "header_text": "Writing a Letter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Dropped Groceries"
+            "text": "Writing a Letter"
         },
         {
             "type": "Media",
-            "url": "./images/842.jpg"
+            "url": "./images/841.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 3
 }

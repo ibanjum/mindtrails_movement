@@ -7,8 +7,7 @@
             "text": "You see an old friend you haven't spoken to in years. Your heart skips a beat. You feel..."
         },
         {
-            "type": "Entry",
-            "name": "Seeing an Old Friend_Physical Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

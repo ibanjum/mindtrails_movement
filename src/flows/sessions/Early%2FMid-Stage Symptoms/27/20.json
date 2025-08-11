@@ -1,14 +1,14 @@
 {
-    "header_text": "New Friendship",
+    "header_text": "Friday Night Dinner",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Friendship"
+            "text": "Friday Night Dinner"
         },
         {
             "type": "Media",
-            "url": "./images/854.jpg"
+            "url": "./images/853.jpg"
         }
     ],
     "type": "positive",

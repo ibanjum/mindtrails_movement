@@ -16,7 +16,7 @@
                 "Someone told a funny joke that was not about you",
                 "They saw you stumble"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Someone told a funny joke that was not about you"
         }
     ],

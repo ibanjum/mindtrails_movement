@@ -1,16 +1,10 @@
 {
-    "header_text": "Cleaning your Car",
+    "header_text": "Reflection",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Cleaning your Car"
-        },
-        {
-            "type": "Media",
-            "url": "./images/595.jpg"
+            "type": "Text",
+            "text": "Motivational Statement #21 \n\n A calmer mind is within reach. Practice your flexible thinking today! "
         }
-    ],
-    "type": "positive",
-    "scenario_num": 7
+    ]
 }

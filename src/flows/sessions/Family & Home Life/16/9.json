@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I'm happy that my favorite show is on TV.",
                 "I'm excited to see my friend and hear about their night out.",
                 "I feel worried that something is looking into the window.",
                 "My heart is beating a little faster than it was before I heard the noise, but I know that it'll go back to normal soon.",
                 "It makes sense that I was scared at first, but remind myself that I'm probably safe."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

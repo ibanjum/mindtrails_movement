@@ -1,23 +1,23 @@
 {
-    "header_text": "Shopping Anxiety",
+    "header_text": "Walking to the Kitchen",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your anxiety will..."
+            "Text": "The freezing experience is..."
         },
         {
             "type": "Buttons",
-            "name": "Shopping Anxiety_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Walking to the Kitchen_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Pass",
-                "Get stronger"
+                "Tolerable",
+                "Unbearable"
             ],
-            "columnCount": 1,
-            "correct_value": "Pass"
+            "column_count": 1,
+            "correct_value": "Tolerable"
         }
     ],
     "navigation_conditions": [

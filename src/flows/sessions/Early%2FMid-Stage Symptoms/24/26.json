@@ -1,14 +1,14 @@
 {
-    "header_text": "Yoga Routine",
+    "header_text": "Organizing your Desk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Yoga Routine"
+            "text": "Organizing your Desk"
         },
         {
             "type": "Media",
-            "url": "./images/415.jpg"
+            "url": "./images/845.jpg"
         }
     ],
     "type": "positive",

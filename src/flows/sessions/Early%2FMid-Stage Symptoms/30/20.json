@@ -1,29 +1,16 @@
 {
-    "header_text": "Language Class",
+    "header_text": "Planning an Outing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Your classmates notice your..."
+            "text": "Planning family outings has always been a fun activity for you. As you plan an upcoming beach day, you become overwhelmed. After a break and a snack, you can..."
         },
         {
-            "type": "Buttons",
-            "name": "Language Class_Early/Mid-Stage Symptoms_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
-            "buttons": [
-                "Mistakes",
-                "Hard work"
-            ],
-            "columnCount": 1,
-            "correct_value": "Hard work"
+            "type": "Entry"
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 7
 }

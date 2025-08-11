@@ -1,16 +1,16 @@
 {
-    "header_text": "Couple Strolling",
+    "header_text": "Easily Agitated",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Couple Strolling"
+            "text": "Easily Agitated"
         },
         {
             "type": "Media",
-            "url": "./images/807.jpg"
+            "url": "./images/213.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 3
 }

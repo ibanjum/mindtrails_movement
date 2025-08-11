@@ -1,14 +1,14 @@
 {
-    "header_text": "Trouble Reading",
+    "header_text": "Shopping for Clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Trouble Reading"
+            "text": "Shopping for Clothes"
         },
         {
             "type": "Media",
-            "url": "./images/818.jpg"
+            "url": "./images/817.jpg"
         }
     ],
     "type": "positive",

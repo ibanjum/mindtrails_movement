@@ -1,20 +1,20 @@
 {
-    "header_text": "Family Trivia",
+    "header_text": "Clapping at Concert",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're playing trivia with family. You struggle to recall answers you once knew as the questions get harder, making you feel concerned. You remember that being there with family is the most... "
+            "text": "You're at a concert, and everyone starts clapping along to your favorite song. You find that you are struggling to clap at the right time, and you feel worried that those around you will be distracted by your symptoms. When you look at the people around you, they look back at you with a..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Family Trivia_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Clapping at Concert_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "important"
+                "grin"
             ],
             "missing_letter_count": 2
         }

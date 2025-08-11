@@ -1,25 +1,29 @@
 {
-    "header_text": "Dropped Groceries",
+    "header_text": "Writing a Letter",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You apologize to the worker, and they reassure you that they don't mind cleaning up the mess. Knowing that they're not angry makes you feel..."
+            "Text": "Are you able to share your thoughts in a letter?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Dropped Groceries_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Writing a Letter_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relieved"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 3
 }

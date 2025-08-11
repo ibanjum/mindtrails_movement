@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "There are lots of noises at night.",
                 "I picture something trying to get me, but then tell myself that it was most likely the wind on the window.",
                 "It is quieter at night so it's easier to hear lots of things.",
                 "My brain immediately thinks that there's something dangerous outside, but I remind myself that I'm probably safe.",
                 "I wonder if I'm in danger."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

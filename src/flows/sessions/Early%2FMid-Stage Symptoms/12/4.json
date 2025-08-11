@@ -1,16 +1,16 @@
 {
-    "header_text": "Symptoms at Shopping Mall",
+    "header_text": "Unconditional Love",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Symptoms at Shopping Mall"
+            "text": "Unconditional Love"
         },
         {
             "type": "Media",
-            "url": "./images/786.jpg"
+            "url": "./images/589.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 1
 }

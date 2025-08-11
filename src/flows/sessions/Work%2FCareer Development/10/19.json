@@ -7,8 +7,7 @@
             "text": "You are in a meeting and reach to put your phone away as the new head of your department starts talking. They mistakenly think you're texting during the meeting and call you out in front of everyone. You go to explain afterwards, but you can't read their..."
         },
         {
-            "type": "Entry",
-            "name": "Misunderstanding_Work/Career Development_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

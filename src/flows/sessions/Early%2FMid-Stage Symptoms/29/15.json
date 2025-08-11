@@ -1,29 +1,25 @@
 {
-    "header_text": "Reading before Bedtime",
+    "header_text": "Farmer's Market Sweets",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you find a way to work around your concentration difficulties?"
+            "text": "At the farmer's market, you walk into a booth filled with desserts. Recently, you have been craving sweets more than usual. You buy a small cookie, knowing it is sometimes okay to..."
         },
         {
-            "type": "Buttons",
-            "name": "Reading before Bedtime_Early/Mid-Stage Symptoms_comp_question",
+            "type": "WordPuzzle",
+            "name": "Farmer's Market Sweets_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Yes",
-                "No"
+            "display_delay": 2000,
+            "words": [
+                "indulge"
             ],
-            "columnCount": 1,
-            "correct_value": "Yes"
+            "missing_letter_count": 2
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 4
 }

@@ -1,16 +1,25 @@
 {
-    "header_text": "Support Group",
+    "header_text": "Dentist Difficulty",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Support Group"
+            "type": "Text",
+            "text": "During a visit to the dentist, you experience difficulty staying still as the dentist looks at your teeth. You worry about their perception of you. You talk openly to the dentist about your condition, and they seems..."
         },
         {
-            "type": "Media",
-            "url": "./images/427.jpg"
+            "type": "WordPuzzle",
+            "name": "Dentist Difficulty_Early/Mid-Stage Symptoms_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "understanding"
+            ],
+            "missing_letter_count": 1
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 7
+    "scenario_num": 9
 }

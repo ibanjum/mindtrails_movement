@@ -16,7 +16,7 @@
                 "You are unlikeable",
                 "You haven't hung out with this person before"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "You haven't hung out with this person before"
         }
     ],

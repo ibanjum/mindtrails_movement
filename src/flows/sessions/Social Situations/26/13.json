@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I want to throw away the food and leave, but I clean up and keep eating.",
                 "I feel like crying and leave the restaurant.",
                 "I laugh and order another drink.",
                 "I want to leave immediately, but know that I'll forget about the stain soon.",
                 "I wipe up the drink, smile, and keep eating with my friends."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

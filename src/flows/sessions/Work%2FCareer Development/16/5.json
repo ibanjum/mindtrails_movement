@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "What I said wasn't perfect, but my colleagues probably didn't take note of it.",
                 "Everyone thinks my answer is wrong.",
                 "My answer may not have been correct, but that is okay.",
                 "My answer was intelligent.",
                 "I'm happy I was able to speak up in my meeting."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -1,16 +1,16 @@
 {
-    "header_text": "Tax Forms",
+    "header_text": "Navigation Irritation",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Tax Forms"
+            "text": "Navigation Irritation"
         },
         {
             "type": "Media",
-            "url": "./images/322.jpg"
+            "url": "./images/594.jpg"
         }
     ],
     "type": "positive",
-    "scenario_num": 5
+    "scenario_num": 7
 }

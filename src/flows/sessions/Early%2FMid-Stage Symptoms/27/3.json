@@ -1,23 +1,23 @@
 {
-    "header_text": "Giving a Toast",
+    "header_text": "Weekly Tea",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "During your toast, your family members are..."
+            "Text": "Your neighbor is ready to..."
         },
         {
             "type": "Buttons",
-            "name": "Giving a Toast_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Weekly Tea_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Disappointed",
-                "Focused"
+                "Cheer you up",
+                "Yell at you"
             ],
-            "columnCount": 1,
-            "correct_value": "Focused"
+            "column_count": 1,
+            "correct_value": "Cheer you up"
         }
     ],
     "navigation_conditions": [

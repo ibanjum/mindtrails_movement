@@ -4,17 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You notice that your spouse does not look upset while listening to the news. You think that things will be..."
+            "text": "This morning your spouse is watching the news and you overhear that a lot of businesses are currently downsizing. You think about what will happen if your spouse loses their job. You feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Feeling Worried by the News_Finances_puzzle_word2",
+            "name": "Feeling Worried by the News_Finances_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "alright"
+                "scared"
             ],
             "missing_letter_count": 1
         }

@@ -7,8 +7,7 @@
             "text": "Your family has strong opinions that you don't always agree with. As you listen to your family talk, you feel that you are pretty different from them. You feel having your own unique views is..."
         },
         {
-            "type": "Entry",
-            "name": "Opposing Opinions _Mental Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

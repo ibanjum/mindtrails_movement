@@ -16,7 +16,7 @@
                 "You are coming down with the flu",
                 "You only had one glass of water today"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "You only had one glass of water today"
         }
     ],

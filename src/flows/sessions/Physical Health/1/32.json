@@ -1,10 +1,25 @@
 {
-    "header_text": "Reflection",
+    "header_text": "Carrying Groceries",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Motivational Statement #2 \n\n While you may not always feel like you're making progress, taking the time to try and change your thinking patterns combine to make a lot of small steps into a big difference in the right direction."
+            "text": "You sit with the feelings of discomfort. Then, you decide to work through these feelings by just accepting..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Carrying Groceries_Physical Health_puzzle_word2",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "them"
+            ],
+            "missing_letter_count": 1
         }
-    ]
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 9
 }

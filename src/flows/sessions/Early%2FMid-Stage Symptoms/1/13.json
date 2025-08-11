@@ -16,7 +16,7 @@
                 "A useless task",
                 "A useful challenge"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "A useful challenge"
         }
     ],

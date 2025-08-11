@@ -1,14 +1,14 @@
 {
-    "header_text": "New Acquaintance",
+    "header_text": "Volunteer Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Do your symptoms stop you from engaging in conversation with new people?"
+            "Text": "Are you able to recover from your outburst?"
         },
         {
             "type": "Buttons",
-            "name": "New Acquaintance_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Volunteer Event_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -16,8 +16,8 @@
                 "No",
                 "Yes"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

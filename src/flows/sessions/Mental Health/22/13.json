@@ -7,8 +7,7 @@
             "text": "You consider inviting them over for dinner. You make a plan to have someone help you tidy up because your book club friends are..."
         },
         {
-            "type": "Entry",
-            "name": "New Book Club _Mental Health_entry2"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

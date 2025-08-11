@@ -16,7 +16,7 @@
                 "The weather was unpleasant",
                 "You planned it poorly"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "The weather was unpleasant"
         }
     ],

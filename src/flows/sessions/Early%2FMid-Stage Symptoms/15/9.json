@@ -1,20 +1,20 @@
 {
-    "header_text": "Overwhelmed at Meeting",
+    "header_text": "Pet Schedule",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're attending a neighborhood council meeting and talking with those around you. As the conversation flows, you feel overwhelmed trying to keep track of the multiple voices and topics being discussed. You decide to take a moment to step aside and explain to a close neighbor about your difficulty, knowing that they will be try to be helpful and..."
+            "text": "It's early evening, and you can't seem to remember if you already fed your pet dinner. You start to worry about your memory and whether you will be able to continue to care for your pet. You think about setting up reminders or a system for remembering and decide that caring for your pet will be... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Overwhelmed at Meeting_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Pet Schedule_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "inclusive"
+                "manageable"
             ],
             "missing_letter_count": 2
         }

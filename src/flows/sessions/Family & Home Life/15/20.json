@@ -16,7 +16,7 @@
             "words": [
                 "adopt"
             ],
-            "missing_letter_count": 1
+            "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",

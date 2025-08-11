@@ -7,8 +7,7 @@
             "text": "Today, you will receive an important call. You'll find out if you got the job you interviewed for. As you think about waiting for the call, your anxiety is..."
         },
         {
-            "type": "Entry",
-            "name": "A Crucial Call_Mental Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

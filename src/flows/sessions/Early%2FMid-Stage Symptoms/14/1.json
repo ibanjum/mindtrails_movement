@@ -1,16 +1,16 @@
 {
-    "header_text": "Reality TV Confusion",
+    "header_text": "Record Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reality TV Confusion"
+            "text": "Record Store"
         },
         {
             "type": "Media",
-            "url": "./images/910.jpg"
+            "url": "./images/799.jpg"
         }
     ],
-    "type": "negative",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

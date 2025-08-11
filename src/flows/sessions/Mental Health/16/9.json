@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I'm nervous about the spider, but remind myself that it probably is more scared of me.",
                 "I'm going to feel so refreshed after this shower.",
                 "I feel freaked out, but know that I'm brave enough to take my shower anyway.",
                 "I'm grateful the spider is here to eat other bugs in my house.",
                 "I feel worried about where the spider may crawl next."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

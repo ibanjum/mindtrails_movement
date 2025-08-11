@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I'm so annoyed with myself, but am able to get past this feeling.",
                 "I'm feeling silly and decide to chuckle about it.",
                 "I'm self-conscious with this stain, but no one else will care.",
                 "I feel embarrassed and it's making me want to leave the mall.",
                 "I'm glad that this is an old shirt."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

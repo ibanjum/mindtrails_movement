@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I start on the project first.",
                 "I just want to be lazy and take a nap, but decide to start with one task.",
                 "I want to avoid all of the tasks, but decide to make a schedule to help organize my time.",
                 "I sit and do nothing.",
                 "I get started on the housework."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

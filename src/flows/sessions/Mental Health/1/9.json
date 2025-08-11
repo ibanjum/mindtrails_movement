@@ -16,7 +16,7 @@
                 "Worried that you left the door to your home unlocked.",
                 "At ease as you get to work."
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "At ease as you get to work."
         }
     ],

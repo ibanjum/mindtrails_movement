@@ -1,16 +1,16 @@
 {
-    "header_text": "Disease and Identity",
+    "header_text": "A Tricky Hike",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Disease and Identity"
+            "text": "A Tricky Hike"
         },
         {
             "type": "Media",
-            "url": "./images/404.jpg"
+            "url": "./images/783.jpg"
         }
     ],
-    "type": "positive",
-    "scenario_num": 5
+    "type": "resilience/negation",
+    "scenario_num": 7
 }

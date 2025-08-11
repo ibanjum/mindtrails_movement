@@ -1,10 +1,10 @@
 {
-    "header_text": "Social Media Messaging",
+    "header_text": "Sending a Sweet Text",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Social Media Messaging"
+            "text": "Sending a Sweet Text"
         },
         {
             "type": "Media",

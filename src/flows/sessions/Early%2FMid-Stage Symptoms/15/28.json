@@ -1,20 +1,20 @@
 {
-    "header_text": "Poor Sleep",
+    "header_text": "Family Trivia",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your mood during the day has been affected by poor sleep. You have been in a bad mood the whole day and worry that your spouse will be frustrated with you. You realize that your spouse knows you have been sleeping poorly and will be..."
+            "text": "You're playing trivia with family. You struggle to recall answers you once knew as the questions get harder, making you feel concerned. You remember that being there with family is the most... "
         },
         {
             "type": "WordPuzzle",
-            "name": "Poor Sleep_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Family Trivia_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "compassionate"
+                "important"
             ],
             "missing_letter_count": 2
         }

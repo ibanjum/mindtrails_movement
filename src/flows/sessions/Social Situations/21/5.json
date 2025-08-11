@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "My family is to say something that makes me upset.",
                 "If my friend doesn't agree with my family members' perspectives, they'll still want to be friends with me.",
                 "My friend will be interested in hearing what my family has to say.",
                 "If my family say something that I don't agree with, my friend and I can always talk about it later.",
                 "I appreciate having different views than my family."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

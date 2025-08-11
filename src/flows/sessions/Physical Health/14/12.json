@@ -4,26 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "You imagine the walk will be..."
+            "text": "You are going on a long walk tomorrow with a friend who walks a long distance every day. You have not been on a long walk in quite some time and worry if you can keep up or..."
         },
         {
-            "type": "Buttons",
-            "name": "Walking with a Friend_Physical Health_comp_question",
+            "type": "WordPuzzle",
+            "name": "Walking with a Friend_Physical Health_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "Too fast for you no matter how hard you try",
-                "At a pace that you can do if you try hard"
+            "display_delay": 2000,
+            "words": [
+                "not"
             ],
-            "columnCount": 1,
-            "correct_value": "Too fast for you no matter how hard you try"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "negative",
     "scenario_num": 3
 }

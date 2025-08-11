@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I want to never come back to the restaurant, but if my family wants to eat here again it will be okay.",
                 "I offer to pick up overtime hours at my job and come back another day with money to replace the glass.",
                 "I cry because I feel terrible.",
                 "I want to cry, but decide that would not be helpful.",
                 "I offer to leave extra money for the tip."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

@@ -1,14 +1,14 @@
 {
-    "header_text": "Finding a Therapist",
+    "header_text": "Vacation Abroad",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Finding a Therapist"
+            "text": "Vacation Abroad"
         },
         {
             "type": "Media",
-            "url": "./images/421.jpg"
+            "url": "./images/428.jpg"
         }
     ],
     "type": "positive",

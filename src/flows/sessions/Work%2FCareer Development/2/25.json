@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Your manager will probably think that ..."
+            "Text": "Your manager will probably think that..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You are a clumsy person.",
-                "You are ready to take on challenges."
+                "You are a clumsy person",
+                "You are ready to take on challenges"
             ],
-            "columnCount": 1,
-            "correct_value": "You are ready to take on challenges."
+            "column_count": 1,
+            "correct_value": "You are ready to take on challenges"
         }
     ],
     "navigation_conditions": [

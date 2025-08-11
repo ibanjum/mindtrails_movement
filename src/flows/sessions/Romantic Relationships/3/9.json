@@ -16,7 +16,7 @@
                 "Asks you to go out for coffee",
                 "Asks you to pick up a shift"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Asks you to pick up a shift"
         }
     ],

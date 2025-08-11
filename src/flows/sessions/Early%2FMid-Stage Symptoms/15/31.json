@@ -1,20 +1,20 @@
 {
-    "header_text": "Best Friend's Party",
+    "header_text": "Poor Sleep",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You're at your best friend's birthday party, surrounded by laughter and conversation. Suddenly, your tremor causes some water to slosh out of the cup you're holding, making you worry that others will judge you. However, you know that if you open up to your friends about your concerns, they will be understanding and..."
+            "text": "Your mood during the day has been affected by poor sleep. You have been in a bad mood the whole day and worry that your spouse will be frustrated with you. You realize that your spouse knows you have been sleeping poorly and will be..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Best Friend's Party_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Poor Sleep_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "supportive"
+                "compassionate"
             ],
             "missing_letter_count": 2
         }

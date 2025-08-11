@@ -1,16 +1,16 @@
 {
-    "header_text": "Grocery Shopping",
+    "header_text": "Crossing a Bridge",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Grocery Shopping"
+            "text": "Crossing a Bridge"
         },
         {
             "type": "Media",
-            "url": "./images/831.jpg"
+            "url": "./images/519.jpg"
         }
     ],
-    "type": "negative",
-    "scenario_num": 5
+    "type": "positive",
+    "scenario_num": 7
 }

@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Do you feel comfortable talking to your partner?"
+            "Text": "Are you frustrated talking to your partner?"
         },
         {
             "type": "Buttons",
@@ -16,7 +16,7 @@
                 "No",
                 "Yes"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Yes"
         }
     ],

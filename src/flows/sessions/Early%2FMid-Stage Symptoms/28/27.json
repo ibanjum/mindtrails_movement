@@ -1,14 +1,14 @@
 {
-    "header_text": "Talk with Counselor",
+    "header_text": "Yoga Equipment",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Talk with Counselor"
+            "text": "Yoga Equipment"
         },
         {
             "type": "Media",
-            "url": "./images/419.jpg"
+            "url": "./images/522.jpg"
         }
     ],
     "type": "positive",

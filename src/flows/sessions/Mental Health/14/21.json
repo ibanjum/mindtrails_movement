@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You are at an event and start to talk with some acquaintances. As the room fills, you can feel your heart beating fast, and this scares you. When the event gets louder as more people arrive, you consider leaving, but you decide you can handle these feelings and keep on..."
+            "text": "You are at an event and start to talk with some acquaintances. As the room fills, you can tell your heart is beating fast. You feel... "
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "socializing"
+                "scared"
             ],
             "missing_letter_count": 1
         }

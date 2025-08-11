@@ -1,16 +1,16 @@
 {
-    "header_text": "Smoothie Shop",
+    "header_text": "Lost your Belongings",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Smoothie Shop"
+            "text": "Lost your Belongings"
         },
         {
             "type": "Media",
-            "url": "./images/835.jpg"
+            "url": "./images/834.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 2
 }

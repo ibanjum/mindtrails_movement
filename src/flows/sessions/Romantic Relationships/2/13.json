@@ -16,7 +16,7 @@
                 "Stop returning your calls",
                 "Ask if you want to make plans for next week"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Stop returning your calls"
         }
     ],

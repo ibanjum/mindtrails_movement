@@ -1,16 +1,16 @@
 {
-    "header_text": "Comparing at the Gym",
+    "header_text": "Cleaning Your Home",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Comparing at the Gym"
+            "text": "Cleaning Your Home"
         },
         {
             "type": "Media",
-            "url": "./images/525.jpg"
+            "url": "./images/212.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 4
 }

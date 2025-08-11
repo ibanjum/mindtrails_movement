@@ -1,23 +1,23 @@
 {
-    "header_text": "Paying and Organizing Bills",
+    "header_text": "Shopping Help",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "With the right support, continuing to pay your own bills is..."
+            "Text": "As your spouse helps you buy groceries, you feel..."
         },
         {
             "type": "Buttons",
-            "name": "Paying and Organizing Bills_Early/Mid-Stage Symptoms_comp_question",
+            "name": "Shopping Help_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Unlikely",
-                "Feasible"
+                "Grateful",
+                "Resentful"
             ],
-            "columnCount": 1,
-            "correct_value": "Feasible"
+            "column_count": 1,
+            "correct_value": "Grateful"
         }
     ],
     "navigation_conditions": [

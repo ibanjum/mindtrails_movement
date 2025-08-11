@@ -1,23 +1,23 @@
 {
-    "header_text": "Theater group thoughts",
+    "header_text": "Risky Behavior",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "Everyone probably believes ..."
+            "Text": "Are you worried that suggesting to your boss that they get the flu shot will cause problems?"
         },
         {
             "type": "Buttons",
-            "name": "Theater group thoughts_Social Situations_comp_question",
+            "name": "Risky Behavior_Social Situations_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "You have innovative ideas.",
-                "You have terrible ideas."
+                "No",
+                "Yes"
             ],
-            "columnCount": 1,
-            "correct_value": "You have terrible ideas."
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
     "navigation_conditions": [

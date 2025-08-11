@@ -1,14 +1,14 @@
 {
-    "header_text": "Research Study Risks",
+    "header_text": "Research Visit",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Research Study Risks"
+            "text": "Research Visit"
         },
         {
             "type": "Media",
-            "url": "./images/791.jpg"
+            "url": "./images/438.jpg"
         }
     ],
     "type": "positive",

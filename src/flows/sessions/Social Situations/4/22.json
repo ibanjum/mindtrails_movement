@@ -16,7 +16,7 @@
                 "They are mad at you because of your previous disagreement",
                 "They remembered they had an important meeting at work at the same time"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "They remembered they had an important meeting at work at the same time"
         }
     ],

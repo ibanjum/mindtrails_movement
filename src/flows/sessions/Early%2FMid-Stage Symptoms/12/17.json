@@ -1,16 +1,16 @@
 {
-    "header_text": "Lunch with New Friend",
+    "header_text": "Moving to a New City",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Lunch with New Friend"
+            "text": "Moving to a New City"
         },
         {
             "type": "Media",
-            "url": "./images/790.jpg"
+            "url": "./images/789.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 5
 }

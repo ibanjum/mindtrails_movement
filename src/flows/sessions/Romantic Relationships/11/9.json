@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "The anticipation of waiting to hear back feels exciting.",
                 "I'm sad that they didn't respond quickly, but know that I won't feel sad forever.",
                 "I feel happy with my ability to send fun messages.",
                 "I'm worried this has something to do with me, but realize this person has a lot of other things going on in their life.",
                 "I'm upset that they didn't respond immediately."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

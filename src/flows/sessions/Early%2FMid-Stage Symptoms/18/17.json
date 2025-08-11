@@ -1,16 +1,16 @@
 {
-    "header_text": "Texting and TV",
+    "header_text": "Cut Finger",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Texting and TV"
+            "text": "Cut Finger"
         },
         {
             "type": "Media",
-            "url": "./images/216.jpg"
+            "url": "./images/814.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

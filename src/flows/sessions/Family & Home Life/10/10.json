@@ -7,8 +7,7 @@
             "text": "While at a family dinner, your family member mentions that you are a good piano player and asks you to play something on the piano for the rest of the family. You know a few pieces you can play well. Although, you feel nervous playing on the spot without..."
         },
         {
-            "type": "Entry",
-            "name": "Playing the Piano_Family & Home Life_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

@@ -1,14 +1,14 @@
 {
-    "header_text": "New Acquaintance",
+    "header_text": "Volunteer Event",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "New Acquaintance"
+            "text": "Volunteer Event"
         },
         {
             "type": "Media",
-            "url": "./images/844.jpg"
+            "url": "./images/843.jpg"
         }
     ],
     "type": "positive",

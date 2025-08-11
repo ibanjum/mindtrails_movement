@@ -1,5 +1,5 @@
 {
-    "header_text": "Long Distance Relationship",
+    "header_text": "Going the Distance",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
@@ -8,7 +8,7 @@
         },
         {
             "type": "Buttons",
-            "name": "Long Distance Relationship_Romantic Relationships_comp_question",
+            "name": "Going the Distance_Romantic Relationships_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
@@ -16,7 +16,7 @@
                 "Can't make your relationship work long distance",
                 "Will work together to overcome the challenges presented by the move"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "Will work together to overcome the challenges presented by the move"
         }
     ],

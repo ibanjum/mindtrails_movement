@@ -7,8 +7,7 @@
             "text": "You recently welcomed your first grandchild. You want to have a good relationship throughout your grandchild's life, but you worry about making mistakes as a grandparent. When your grandchild is an adult, you believe that the relationship will be..."
         },
         {
-            "type": "Entry",
-            "name": "Evolving Relationship_Family & Home Life_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

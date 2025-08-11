@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I'm calm as I prioritize my housework and my project.",
                 "Although I feel overwhelmed, I try and feel grateful for the job that I have and for the home that I live in.",
                 "I'm excited to listen to my favorite artist while I do my chores.",
                 "I feel upset about all I have to do, but I imagine how it will feel to have it all accomplished.",
                 "I'm anxious about being able to get everything done."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

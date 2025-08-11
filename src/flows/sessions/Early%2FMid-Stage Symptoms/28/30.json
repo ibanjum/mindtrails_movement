@@ -1,16 +1,16 @@
 {
-    "header_text": "Downsizing",
+    "header_text": "Talk with Counselor",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Downsizing"
+            "text": "Talk with Counselor"
         },
         {
             "type": "Media",
-            "url": "./images/861.jpg"
+            "url": "./images/419.jpg"
         }
     ],
-    "type": "resilience/negation",
+    "type": "positive",
     "scenario_num": 9
 }

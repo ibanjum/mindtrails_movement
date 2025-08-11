@@ -4,26 +4,22 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "Are you anxious about your plans for the end of the year?"
+            "text": "You'd like to take some time off to travel after a long and stressful year. Your family expects you to work more hours to help with finances, and you don't want to let them down. When considering your plans for the end of the year, you feel..."
         },
         {
-            "type": "Buttons",
-            "name": "Prospective Excitement_Work/Career Development_comp_question",
+            "type": "WordPuzzle",
+            "name": "Prospective Excitement_Work/Career Development_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "buttons": [
-                "No",
-                "Yes"
+            "display_delay": 2000,
+            "words": [
+                "excited"
             ],
-            "columnCount": 1,
-            "correct_value": "No"
+            "missing_letter_count": 1
         }
     ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
     "scenario_num": 9
 }

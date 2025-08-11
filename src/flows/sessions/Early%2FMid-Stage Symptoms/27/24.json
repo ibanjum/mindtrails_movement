@@ -1,20 +1,20 @@
 {
-    "header_text": "Neighborhood Walk",
+    "header_text": "New Friendship",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "You are on a walk with your sibling, catching up on recent events. Several minutes in, you trip and stumble on the uneven pavement. Your sibling supports you with their arm, and you feel..."
+            "text": "You are having breakfast with a new friend. You have a tremor in your hand, and you notice your friend looking at you as you take a bite. You remember you've already shared about your PD, and the new friend has a lot of..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Neighborhood Walk_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "New Friendship_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "steady"
+                "empathy"
             ],
             "missing_letter_count": 2
         }

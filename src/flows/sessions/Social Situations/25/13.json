@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "Text": "If the members of the book club accepted your dinner invitation, they would probably"
+            "Text": "If the members of the book club accepted your dinner invitation, they would probably..."
         },
         {
             "type": "Buttons",
@@ -13,11 +13,11 @@
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "buttons": [
-                "Enjoy the get together over dinner.",
-                "Be disappointed in your company."
+                "Enjoy the get together over dinner",
+                "Be disappointed in your company"
             ],
-            "columnCount": 1,
-            "correct_value": "Be disappointed in your company."
+            "column_count": 1,
+            "correct_value": "Be disappointed in your company"
         }
     ],
     "navigation_conditions": [

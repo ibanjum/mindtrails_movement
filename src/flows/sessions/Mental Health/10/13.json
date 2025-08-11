@@ -7,8 +7,7 @@
             "text": "You have been called in for a performance review with your boss. Overall, you do good work, but you know your boss has noticed some errors recently. As you prepare for the review, you think that your meeting will probably focus on your..."
         },
         {
-            "type": "Entry",
-            "name": "Reviewing Your Work _Mental Health_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

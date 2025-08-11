@@ -1,20 +1,20 @@
 {
-    "header_text": "Cleaning Your Home",
+    "header_text": "Overwhelmed at Meeting",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your home is a mess, and you decide to tackle some chores. You start to fold the laundry, but you find that you're struggling to fold clothes neatly. At first, this causes you to feel overwhelmed, but you remind yourself to take a deep breath and..."
+            "text": "You're attending a neighborhood council meeting and talking with those around you. As the conversation flows, you feel overwhelmed trying to keep track of the multiple voices and topics being discussed. You decide to take a moment to step aside and explain to a close neighbor about your difficulty, knowing that they will be try to be helpful and..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Cleaning Your Home_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Overwhelmed at Meeting_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "relax"
+                "inclusive"
             ],
             "missing_letter_count": 2
         }

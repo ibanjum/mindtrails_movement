@@ -1,25 +1,29 @@
 {
-    "header_text": "Chopping Technique",
+    "header_text": "Shoe Shopping",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "They tell you that they used to work in a kitchen and show you the right technique. Understanding that they're just trying to help makes you feel..."
+            "Text": "Will you be able to buy new walking shoes?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "Chopping Technique_Early/Mid-Stage Symptoms_puzzle_word2",
+            "type": "Buttons",
+            "name": "Shoe Shopping_Early/Mid-Stage Symptoms_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "relieved"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "resilience/negation",
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
     "scenario_num": 4
 }

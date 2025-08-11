@@ -7,8 +7,7 @@
             "text": "You're at a football game with your family, and halftime just started. All of your family members who are there want to leave, but you want to stay for the rest of the game. Since no one is willing to stay with you, you feel like nobody cares about how you..."
         },
         {
-            "type": "Entry",
-            "name": "Staying Alone_Family & Home Life_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

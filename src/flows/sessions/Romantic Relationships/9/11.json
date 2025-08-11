@@ -1,10 +1,10 @@
 {
-    "header_text": "Relationship Worries",
+    "header_text": "Thinking About Relationships",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Relationship Worries"
+            "text": "Thinking About Relationships"
         },
         {
             "type": "Media",

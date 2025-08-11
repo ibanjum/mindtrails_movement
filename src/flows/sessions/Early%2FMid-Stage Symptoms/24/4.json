@@ -1,16 +1,16 @@
 {
-    "header_text": "Forgotten Item",
+    "header_text": "Losing Your Phone",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Forgotten Item"
+            "text": "Losing Your Phone"
         },
         {
             "type": "Media",
-            "url": "./images/413.jpg"
+            "url": "./images/840.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 1
 }

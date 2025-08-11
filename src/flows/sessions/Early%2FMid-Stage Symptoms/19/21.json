@@ -1,16 +1,16 @@
 {
-    "header_text": "Toy Store Trip",
+    "header_text": "Bakery Routine",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Toy Store Trip"
+            "type": "Text",
+            "text": "Every Saturday morning you go to a bakery with your neighbor. Today as you browse around, you can't remember what pastries you wanted to buy. Your neighbor suggests your favorites, and you think that it is nice to feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/410.jpg"
+            "type": "Entry"
         }
     ],
+    "navigation_conditions": "wait_for_correct",
     "type": "positive",
-    "scenario_num": 6
+    "scenario_num": 8
 }

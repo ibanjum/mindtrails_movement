@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "People might disagree with my ideas, but I think we'll still have an interesting discussion.",
                 "No one will want to be in my group.",
                 "There are lots of nice people in my workplace.",
                 "I'll find the right group for me.",
                 "Everyone will decide they want to be with people they already know, but I understand that."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

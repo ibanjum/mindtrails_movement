@@ -1,16 +1,16 @@
 {
-    "header_text": "Walking to the Kitchen",
+    "header_text": "Family Dinner Fight",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Walking to the Kitchen"
+            "text": "Family Dinner Fight"
         },
         {
             "type": "Media",
-            "url": "./images/969.jpg"
+            "url": "./images/795.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 5
 }

@@ -1,14 +1,14 @@
 {
-    "header_text": "Reviewing Your Work ",
+    "header_text": "Your Resume",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Reviewing Your Work "
+            "text": "Your Resume"
         },
         {
             "type": "Media",
-            "url": "./images/91.jpg"
+            "url": "./images/93.jpg"
         }
     ],
     "type": "resilience/negation",

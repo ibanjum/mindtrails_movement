@@ -1,16 +1,16 @@
 {
-    "header_text": "Cut Finger",
+    "header_text": "Forgetting Movie Title",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Cut Finger"
+            "text": "Forgetting Movie Title"
         },
         {
             "type": "Media",
-            "url": "./images/814.jpg"
+            "url": "./images/820.jpg"
         }
     ],
-    "type": "negative",
+    "type": "positive",
     "scenario_num": 4
 }

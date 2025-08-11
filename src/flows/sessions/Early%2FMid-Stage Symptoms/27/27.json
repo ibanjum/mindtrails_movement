@@ -1,20 +1,20 @@
 {
-    "header_text": "Saturday Brunch",
+    "header_text": "Neighborhood Walk",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Saturday brunch with relatives is a monthly tradition you cherish. Today, your relatives point out the change in your weight since they last saw you. You recognize they aren't pointing out your flaws, but are demonstrating their..."
+            "text": "You are on a walk with your sibling, catching up on recent events. Several minutes in, you trip and stumble on the uneven pavement. Your sibling supports you with their arm, and you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Saturday Brunch_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Neighborhood Walk_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "concern"
+                "steady"
             ],
             "missing_letter_count": 2
         }

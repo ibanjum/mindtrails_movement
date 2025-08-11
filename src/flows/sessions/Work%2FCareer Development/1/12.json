@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "You recently turned in a big project at work.  You decide to re-read your submitted work, and realize that you accidentally deleted a section you meant to include. Given that you accidentally made this deletion, you think that you are likely to receive positive..."
+            "text": "You recently turned in a big project at work. You decide to reread your submitted work and realize that you accidentally deleted a section you meant to include. Despite this, you think that you are likely to receive positive..."
         },
         {
             "type": "WordPuzzle",

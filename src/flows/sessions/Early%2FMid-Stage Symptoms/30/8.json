@@ -1,14 +1,14 @@
 {
-    "header_text": "Organizing an Event",
+    "header_text": "Fitness Class",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Organizing an Event"
+            "text": "Fitness Class"
         },
         {
             "type": "Media",
-            "url": "./images/866.jpg"
+            "url": "./images/523.jpg"
         }
     ],
     "type": "positive",

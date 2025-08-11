@@ -1,14 +1,14 @@
 {
-    "header_text": "Boxing Class",
+    "header_text": "Saturday Brunch",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Boxing Class"
+            "text": "Saturday Brunch"
         },
         {
             "type": "Media",
-            "url": "./images/971.jpg"
+            "url": "./images/238.jpg"
         }
     ],
     "type": "positive",

@@ -1,14 +1,14 @@
 {
-    "header_text": "Organizing Closet",
+    "header_text": "Balancing Checkbook",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Organizing Closet"
+            "text": "Balancing Checkbook"
         },
         {
             "type": "Media",
-            "url": "./images/405.jpg"
+            "url": "./images/318.jpg"
         }
     ],
     "type": "positive",

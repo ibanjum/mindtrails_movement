@@ -1,10 +1,10 @@
 {
-    "header_text": "Evolving Relationship",
+    "header_text": "Growing Together",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Evolving Relationship"
+            "text": "Growing Together"
         },
         {
             "type": "Media",

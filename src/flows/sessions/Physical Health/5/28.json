@@ -1,25 +1,29 @@
 {
-    "header_text": "First time ice skating",
+    "header_text": "Checks at the dentist",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Your friend enjoys ice skating and persuades you to try it out. At the rink, you put on the skates and step on the ice. You glide forward slowly at first, then faster as you think your chances of getting injured are..."
+            "Text": "Do you think you have gum disease?"
         },
         {
-            "type": "WordPuzzle",
-            "name": "First time ice skating_Physical Health_puzzle1",
+            "type": "Buttons",
+            "name": "Checks at the dentist_Physical Health_comp_question",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
-            "display_delay": 2000,
-            "words": [
-                "minimal"
+            "buttons": [
+                "Yes",
+                "No"
             ],
-            "missing_letter_count": 2
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
-    "navigation_conditions": "wait_for_correct",
-    "type": "positive",
-    "scenario_num": 8
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 7
 }

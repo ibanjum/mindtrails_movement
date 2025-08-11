@@ -7,8 +7,7 @@
             "text": "You're hanging out with a new group of people. You tell a funny joke that you think goes along with the topic of conversation, and no one laughs. The new friends will find you... "
         },
         {
-            "type": "Entry",
-            "name": "Getting to Know New People_Social Situations_entry1"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",

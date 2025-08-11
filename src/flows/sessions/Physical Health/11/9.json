@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I feel thrilled that my father is engaging in conversation.",
                 "I am grateful to be able to spend time with my father.",
                 "I start to feel angry about how he is getting older, but know that this is a part of life and I cannot change it.",
                 "I'm uneasy about my father's appearance.",
                 "I feel anxious and start to overthink what could be wrong, but remember I can't control his health."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

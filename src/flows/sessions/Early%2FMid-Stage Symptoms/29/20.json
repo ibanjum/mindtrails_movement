@@ -1,16 +1,16 @@
 {
-    "header_text": "Holiday Decorating",
+    "header_text": "House For Sale",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Holiday Decorating"
+            "text": "House For Sale"
         },
         {
             "type": "Media",
-            "url": "./images/241.jpg"
+            "url": "./images/198.jpg"
         }
     ],
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 6
 }

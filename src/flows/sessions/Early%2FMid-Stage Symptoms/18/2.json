@@ -1,20 +1,20 @@
 {
-    "header_text": "Trouble Reading",
+    "header_text": "Shopping for Clothes",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "While reading at home, you notice you are having trouble focusing on the words and remembering the information. This causes you to feel concerned and makes it even harder to read. You and your doctor make a plan to help you with this, and you feel..."
+            "text": "You're looking through clothes at a store and decide to try on a sweater right off the rack. You're having a hard time getting the sweater on and start to worry that someone will notice how uncoordinated you are. As you look around, you see that others are focused on their..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Trouble Reading_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Shopping for Clothes_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "better"
+                "shopping"
             ],
             "missing_letter_count": 2
         }

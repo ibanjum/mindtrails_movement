@@ -1,14 +1,14 @@
 {
-    "header_text": "Volunteer Event",
+    "header_text": "Cleaning the House",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Volunteer Event"
+            "text": "Cleaning the House"
         },
         {
             "type": "Media",
-            "url": "./images/843.jpg"
+            "url": "./images/227.jpg"
         }
     ],
     "type": "positive",

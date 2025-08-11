@@ -1,16 +1,16 @@
 {
-    "header_text": "Shoe Shopping",
+    "header_text": "Missing Medication",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Label",
-            "text": "Shoe Shopping"
+            "text": "Missing Medication"
         },
         {
             "type": "Media",
-            "url": "./images/858.jpg"
+            "url": "./images/972.jpg"
         }
     ],
-    "type": "positive",
+    "type": "negative",
     "scenario_num": 3
 }

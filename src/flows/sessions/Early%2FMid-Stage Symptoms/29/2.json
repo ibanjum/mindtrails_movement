@@ -1,25 +1,25 @@
 {
-    "header_text": "Paying your Bills",
+    "header_text": "Downsizing",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "The bank just alerted you of an upcoming bill, so you go online to make a payment. You type in the wrong card number. You decide to pay the bill over the phone, making you feel..."
+            "text": "You are looking to downsize because all of your children have left home. A social worker recommends that you consider a home that will support your safety as your PD eventually progresses. As you talk about this possibility, you feel..."
         },
         {
             "type": "WordPuzzle",
-            "name": "Paying your Bills_Early/Mid-Stage Symptoms_puzzle1",
+            "name": "Downsizing_Early/Mid-Stage Symptoms_puzzle1",
             "correct_feedback": "Correct!",
             "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "supported"
+                "sad"
             ],
             "missing_letter_count": 2
         }
     ],
     "navigation_conditions": "wait_for_correct",
-    "type": "positive",
+    "type": "resilience/negation",
     "scenario_num": 0
 }

@@ -1,16 +1,16 @@
 {
-    "header_text": "Shopping For Party Supplies",
+    "header_text": "Crowded Grocery Store",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Shopping For Party Supplies"
+            "type": "Text",
+            "text": "You think about leaving your groceries and walking out right before you remember a breathing exercise you learned in therapy. After a minute of this technique, you start to feel..."
         },
         {
-            "type": "Media",
-            "url": "./images/581.jpg"
+            "type": "Entry"
         }
     ],
-    "type": "positive",
-    "scenario_num": 1
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 0
 }

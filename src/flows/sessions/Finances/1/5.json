@@ -4,7 +4,7 @@
     "elements": [
         {
             "type": "Text",
-            "text": "Your friends ask you to go out to dinner at a fancy restaurant with them this weekend. It is really expensive and you know you won't be able to afford it. When you picture yourself telling your friends that you can't go, you feel..."
+            "text": "Your friends ask you to go out to dinner at a fancy restaurant with them this weekend. It is expensive, and you know you won't be able to afford it. When you picture yourself telling your friends that you can't go, you feel a sense of..."
         },
         {
             "type": "WordPuzzle",
@@ -14,7 +14,7 @@
             "incorrect_delay": 5000,
             "display_delay": 2000,
             "words": [
-                "nervous"
+                "nervousness"
             ],
             "missing_letter_count": 1
         }

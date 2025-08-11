@@ -8,14 +8,14 @@
         },
         {
             "type": "TimedText",
-            "text": [
+            "texts": [
                 "I think this will help me organize thoughtfully in the future.",
                 "I don't think I can manage all of these tasks.",
                 "I think this is too much work, but consider how nice it will feel when it is all done.",
                 "I hate feeling like I have so much to do, but I'll do my best to get it all done.",
                 "I can manage both tasks."
             ],
-            "Duration": 15
+            "Duration": 15000
         }
     ],
     "navigation_conditions": [

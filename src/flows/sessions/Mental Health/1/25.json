@@ -1,16 +1,29 @@
 {
-    "header_text": "Stuck in the Middle",
+    "header_text": "Thinking about Flying",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Label",
-            "text": "Stuck in the Middle"
+            "type": "Text",
+            "Text": "Are you able to tolerate your feelings of anxiety about airplanes? "
         },
         {
-            "type": "Media",
-            "url": "./images/138.jpg"
+            "type": "Buttons",
+            "name": "Thinking about Flying_Mental Health_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "No",
+                "Yes"
+            ],
+            "column_count": 1,
+            "correct_value": "Yes"
         }
     ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
     "type": "positive",
-    "scenario_num": 8
+    "scenario_num": 7
 }

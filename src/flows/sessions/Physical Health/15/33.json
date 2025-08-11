@@ -16,7 +16,7 @@
                 "You feel more at ease",
                 "You are fearful"
             ],
-            "columnCount": 1,
+            "column_count": 1,
             "correct_value": "You feel more at ease"
         }
     ],

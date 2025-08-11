@@ -7,8 +7,7 @@
             "text": "You think about getting on social media more and still decide not to. You feel..."
         },
         {
-            "type": "Entry",
-            "name": "Less Social Media_Social Situations_entry2"
+            "type": "Entry"
         }
     ],
     "navigation_conditions": "wait_for_correct",
