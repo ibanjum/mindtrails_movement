@@ -80,8 +80,8 @@
     "unenroll": "flow://flows/reasons for ending/"
   },
   "menu": [
-    { "test": "end of day", "action":"flow://flows/end of day/" },
-    { "test": "track your progress", "action":"flow://flows/track your progress/" },
+    { "text": "end of day", "action":"flow://flows/end of day/" },
+    { "text": "track your progress", "action":"flow://flows/track your progress/" },
     {
       "text": "What is MindTrails?",
       "icon": "/assets/menu_mindtrails.png",
