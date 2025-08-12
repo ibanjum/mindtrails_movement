@@ -156,7 +156,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
         "header_text": label,
         "header_icon": "assets/subtitle.png",
         "elements": [
-            {"type": "Label", "text": label },
+            {"type": "Text", "text": label },
             {"type": "Media", "url": lower(image_url) }
         ]
     })
