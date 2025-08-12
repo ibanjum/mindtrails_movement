@@ -82,16 +82,13 @@
   "menu": [
     { "text": "end of day", "action":"flow://flows/end of day/" },
     { "text": "track your progress", "action":"flow://flows/track your progress/" },
+    { "text": "Introduction", "action": "flow://flows/intro" },
     {
       "text": "What is MindTrails?",
       "icon": "/assets/menu_mindtrails.png",
       "action": "flow://flows/rationale.json"
     },
-    {
-      "text": "Introduction",
-      "icon": "/assets/menu_mindtrails.png",
-      "action": "flow://flows/intro"
-    },
+    
     {
       "text": "Instructions",
       "icon": "/assets/menu_instructions.png",
