@@ -306,7 +306,6 @@ for popname,s,l,i in populations:
     if popname == "PD":
         selections = {
             "Parkinson's Disease":dir_safe('Early/Mid-Stage Symptoms'),
-            'Presymptomatic':dir_safe('Presymptomatic'),
             'Work/Career Development':dir_safe('Work/Career Development'),
             'Family & Home Life':dir_safe('Family & Home Life'),
             'Finances':dir_safe('Finances'),
