@@ -291,30 +291,30 @@ for popname,s,l,i in populations:
 
     if popname == "HD":
         selections = {
-            "Huntington's: Early-Mid Stage":'Early/Mid-Stage Symptoms',
-            "Huntington's: Presymptomatic":'Presymptomatic',
-            'Family & Home Life':'Family & Home Life',
-            'Finances':'Finances',
-            'Mental Health':'Mental Health',
-            'Physical Health':'Physical Health',
-            'Romantic Relationships':'Romantic Relationships',
-            'Social Situations':'Social Situations',
-            'Work/Career Development':'Work/Career Development',
-            'Discrimination':'Discrimination'
+            "Huntington's: Early-Mid Stage":dir_safe('Early/Mid-Stage Symptoms'),
+            "Huntington's: Presymptomatic":dir_safe('Presymptomatic'),
+            'Family & Home Life':dir_safe('Family & Home Life'),
+            'Finances':dir_safe('Finances'),
+            'Mental Health':dir_safe('Mental Health'),
+            'Physical Health':dir_safe('Physical Health'),
+            'Romantic Relationships':dir_safe('Romantic Relationships'),
+            'Social Situations':dir_safe('Social Situations'),
+            'Work/Career Development':dir_safe('Work/Career Development'),
+            'Discrimination':dir_safe('Discrimination')
         }
 
     if popname == "PD":
         selections = {
-            "Parkinson's Disease":'Early/Mid-Stage Symptoms',
-            'Presymptomatic':'Presymptomatic',
-            'Work/Career Development':'Work/Career Development',
-            'Family & Home Life':'Family & Home Life',
-            'Finances':'Finances',
-            'Mental Health':'Mental Health',
-            'Physical Health':'Physical Health',
-            'Romantic Relationships':'Romantic Relationships',
-            'Social Situations':'Social Situations',
-            'Discrimination':'Discrimination'
+            "Parkinson's Disease":dir_safe('Early/Mid-Stage Symptoms'),
+            'Presymptomatic':dir_safe('Presymptomatic'),
+            'Work/Career Development':dir_safe('Work/Career Development'),
+            'Family & Home Life':dir_safe('Family & Home Life'),
+            'Finances':dir_safe('Finances'),
+            'Mental Health':dir_safe('Mental Health'),
+            'Physical Health':dir_safe('Physical Health'),
+            'Romantic Relationships':dir_safe('Romantic Relationships'),
+            'Social Situations':dir_safe('Social Situations'),
+            'Discrimination':dir_safe('Discrimination')
         }
 
     # Define folders
