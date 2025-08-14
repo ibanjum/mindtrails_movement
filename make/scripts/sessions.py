@@ -289,10 +289,38 @@ for popname,s,l,i in populations:
                 if page in lower(p["header_text"]):
                     p["information"] = get_reminder_element(reminder,position,3)
 
+    if popname == "HD":
+        selections = {
+            "Huntington's: Early-Mid Stage":'Early/Mid-Stage Symptoms',
+            "Huntington's: Presymptomatic":'Presymptomatic',
+            'Family & Home Life':'Family & Home Life',
+            'Finances':'Finances',
+            'Mental Health':'Mental Health',
+            'Physical Health':'Physical Health',
+            'Romantic Relationships':'Romantic Relationships',
+            'Social Situations':'Social Situations',
+            'Work/Career Development':'Work/Career Development',
+            'Discrimination':'Discrimination'
+        }
+
+    if popname == "PD":
+        selections = {
+            "Parkinson's Disease":'Early/Mid-Stage Symptoms',
+            'Presymptomatic':'Presymptomatic',
+            'Work/Career Development':'Work/Career Development',
+            'Family & Home Life':'Family & Home Life',
+            'Finances':'Finances',
+            'Mental Health':'Mental Health',
+            'Physical Health':'Physical Health',
+            'Romantic Relationships':'Romantic Relationships',
+            'Social Situations':'Social Situations',
+            'Discrimination':'Discrimination'
+        }
+
     # Define folders
     folders = {}
     folders['control/sessions/__first__'] = flat(surveys,f"{popname}_control_dose_1")
-    folders['treatment/sessions/__flow__.json'] = {"mode":"select", "title_case": True, "column_count":2, "text": domain_selection_text(), "title":"MindTrails Movement"}
+    folders['treatment/sessions/__flow__.json'] = {"mode":"select", "title_case": True, "column_count":2, "text": domain_selection_text(), "title":"MindTrails Movement", "selections":selections}
     folders['treatment/sessions/__first__'] = flat(surveys,f"{popname}_dose_1")
     folders['treatment/sessions/__before__'] = flat(surveys,f"{popname}_beforedomain_all")
     folders['treatment/sessions/__after__'] = flat(surveys,f"{popname}_afterdomain_all")
