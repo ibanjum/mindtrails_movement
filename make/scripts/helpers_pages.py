@@ -47,6 +47,7 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
 
     if items: items = clean_up_unicode(items).split("; ")
     if items == [""]: items = None
+    if items: [i.strip() for i in items]
 
     tipe = lower(tipe)
 
@@ -226,7 +227,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
                     "correct_feedback": "Correct!",
                     "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
                     "incorrect_delay": 5000,
-                    "buttons": answers,
+                    "buttons": [a.strip() for a in answers],
                     "column_count": 1,
                     "correct_value": correct_answer
                 }
