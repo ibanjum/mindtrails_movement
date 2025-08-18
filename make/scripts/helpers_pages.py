@@ -59,6 +59,14 @@ def create_input(tipe, items=None, min=None, max=None, text=None):
     if tipe == "scheduler": return {"type": "Scheduler", "days_ahead": 1, "action": "flow://flows/sessions", "count":2, "message": "It's time to practice thinking flexibly! Head over to Mindtrails Movement for your scheduled session."}
     if tipe == "checkbox" : return {"type": "Buttons", "buttons": items, "selectable": True, "multiselect": True }
     if tipe == "timedtext": return {"type": "TimedText", "texts": text,  "Duration": 15000 }
+    if tipe == "puzzle"   : return {
+        "type": "WordPuzzle",
+        "correct_feedback": "Correcto!",  # changed
+        "incorrect_feedback": "¡Vaya! Eso no parece correcto. Por favor, espere un momento y intenta de nuevo.",  # changed
+        "incorrect_delay": 5000,
+        "display_delay": 2000,
+        "words": items
+    }
     return None
 
 def create_long_pages(label, scenario_description, thoughts, feelings, behaviors, image_url):
