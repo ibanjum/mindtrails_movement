@@ -1,21 +1,11 @@
 {
-    "header_text": "Lemon Exercise",
+    "header_text": "Experiences of Daily Living",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "Okay...let's begin! Imagine you are holding the lemon in your right hand, and you can feel its shape and its weight."
-        },
-        {
-            "type": "Media",
-            "url": "./images/lemon_pic2.jpeg",
-            "border": true
+            "text": "<b>TURNING IN BED</b><p>Over the past week, do you usually have trouble turning over in bed?</p>",
+            "html": true
         }
-    ],
-    "navigation_conditions": [
-        {
-            "wait_for_time": 2000
-        },
-        "wait_for_click"
     ]
 }

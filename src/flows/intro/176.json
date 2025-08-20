@@ -1,13 +1,11 @@
 {
+    "header_text": "Pause to reflect:",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
-            "type": "Text",
-            "text": "Please press play on the training video below to learn more!"
-        },
-        {
             "type": "Media",
-            "url": "/videos/video1.mp4",
-            "border": true
+            "url": "./images/wondering_lemon.jpg",
+            "border": false
         }
     ]
 }

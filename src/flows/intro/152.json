@@ -4,16 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "DOING HOBBIES AND OTHER ACTIVTIES \n\nOver the past week, have you usually had trouble doing your hobbies or other things that you like to do?"
+            "text": "<b>FATIGUE</b><p>Over the past week, have you usually felt fatigued? This feeling is <u>not</u> part of being sleepy or sad.</p>",
+            "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0:: Normal: Not at all (no problems).",
-                "1:: Slight: I am a bit slow but do these activities easily.",
-                "2:: Mild: I have some difficulty doing these activities.",
-                "3:: Moderate: I have major problems doing these activities, but still do most.",
-                "4:: Severe: I am unable to do most or all these activities."
+                "0::0: Normal: No fatigue. ",
+                "1::1: Slight: Fatigue occurs. However it does not cause me troubles doing things or being with people. ",
+                "2::2: Mild: Fatigue causes me some troubles doing things or being with people. ",
+                "3::3: Moderate: Fatigue causes me a lot of troubles doing things or being with people. However, it does not stop me from doing anything. ",
+                "4::4: Severe: Fatigue stops me from doing things or being with people."
             ],
             "selectable": true
         }

@@ -4,16 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "TREMOR \n\nOver the past week, have you usually had shaking or tremor?"
+            "text": "<b>SALIVA AND DROOLING</b><p>Over the past week, have you usually had too much saliva during when you are awake or when you sleep?</p>",
+            "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0:: Normal: Not at all. I have no shaking or tremor.",
-                "1:: Slight: Shaking or tremor occurs but does not cause problems with any activities.",
-                "2:: Mild: Shaking or tremor causes problems with only a few activities.",
-                "3:: Moderate: Shaking or tremor causes problems with many of my daily activities.",
-                "4:: Severe: Shaking or tremor causes problems with most or all activities."
+                "0::0: Normal: Not at all (no problems). ",
+                "1::1: Slight: I have too much saliva, but do not drool. ",
+                "2::2: Mild: I have some drooling during sleep, but none when I am awake. ",
+                "3::3: Moderate: I have some drooling when I am awake, but I usually do not need tissues or a handkerchief. ",
+                "4::4: Severe: I have so much drooling that I regularly need to use tissues or a handkerchief to protect my clothes."
             ],
             "selectable": true
         }

@@ -1,23 +1,21 @@
 {
-    "header_text": "Anxious imagery prime",
+    "header_text": "Lemon Exercise",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "How likely is it that the situation or task will turn out well versus turn out badly?"
+            "text": "Now imagine that you squeeze the lemon and some of the juice squirts right into your eyes, and it is really stinging, making your eyes water."
         },
         {
-            "type": "Buttons",
-            "buttons": [
-                "Very likely to turn out well",
-                "Somewhat likely to turn out well",
-                "Neutral",
-                "Somewhat likely to turn out badly",
-                "Very likely to turn out badly",
-                "^Prefer not to answer"
-            ],
-            "selectable": true,
-            "name": "imagery_well"
+            "type": "Media",
+            "url": "./images/lemon_pic6.jpeg",
+            "border": true
         }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 2000
+        },
+        "wait_for_click"
     ]
 }

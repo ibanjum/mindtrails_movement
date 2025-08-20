@@ -4,16 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "GETTING OUT OF BED, A CAR, OR A DEEP CHAIR \n\nOver the past week, have you usually had trouble getting out of a bed, a car seat, or a deep chair?"
+            "text": "<b>CHEWING AND SWALLOWING</b><p>Over the past week, have you usually had problems swallowing pills or eating meals? Do you need your pills cut or crushed or your meals to be made soft, chopped or blended to avoid choking?</p>",
+            "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0:: Normal: Not at all (no problems).",
-                "1:: Slight: I am slow or awkward, but I can usually do it on my first try.",
-                "2:: Mild: I need more than one try to get up or need occasional help.",
-                "3:: Moderate: I sometimes need help to get up, but most times I can still do it on my own.",
-                "4:: Severe: I need help most or all of the time."
+                "0::0: Normal: No problems. ",
+                "1::1: Slight: I am aware of slowness in my chewing or increased effort at swallowing, but I do not choke or need to have my food specially prepared. ",
+                "2::2: Mild: I need to have my pills cut or my food specially prepared because of chewing or swallowing problems, but I have not choked over the past week. ",
+                "3::3: Moderate: I choked at least once in the past week. ",
+                "4::4: Severe: Because of chewing and swallowing problems, I need a feeding tube."
             ],
             "selectable": true
         }

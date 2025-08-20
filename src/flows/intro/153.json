@@ -4,16 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "TURNING IN BED \n\nOver the past week, do you usually have trouble turning over in bed?"
+            "text": "<b>SPEECH</b><p>Over the past week, have you had problems with your speech?</p>",
+            "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0:: Normal: Not at all (no problems).",
-                "1:: Slight: I have a bit of trouble turning, but I do not need help.",
-                "2:: Mild: I have a lot of trouble turning and need occasional help from someone else.",
-                "3:: Moderate: To turn over I often need help from someone else.",
-                "4:: Severe: I am unable to turn over without help from someone else."
+                "0::0: Normal: Not at all (no problems). ",
+                "1::1: Slight: My speech is soft, slurred or uneven, but it does not cause others to ask me to repeat myself. ",
+                "2::2: Mild: My speech causes people to ask me to occasionally repeat myself, but not every day. ",
+                "3::3: Moderate: My speech is unclear enough that others ask me to repeat myself every day even though most of my speech is understood. ",
+                "4::4: Severe: Most or all of my speech cannot be understood."
             ],
             "selectable": true
         }

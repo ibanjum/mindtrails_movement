@@ -4,16 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "WALKING AND BALANCE \n\nOver the past week, have you usually had problems with balance and walking?"
+            "text": "<b>EATING TASKS</b><p>Over the past week, have you usually had troubles handling your food and using eating utensils? For example, do you have trouble handling finger foods or using forks, knives, spoons, chopsticks?</p>",
+            "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0:: Normal: Not at all (no problems).",
-                "1:: Slight: I am slightly slow or may drag a leg. I never use a walking aid.",
-                "2:: Mild: I occasionally use a walking aid, but I do not need any help from another person.",
-                "3:: Moderate: I usually use a walking aid (cane, walker) to walk safely without falling. However, I do not usually need the support of another person.",
-                "4:: Severe: I usually use the support of another person to walk safely without falling."
+                "0::0: Normal: Not at all (no problems). ",
+                "1::1: Slight: I am slow, but I do not need any help handling my food and have not had food spills while eating. ",
+                "2::2: Mild: I am slow with my eating and have occasional food spills. I may need help with a few tasks such as cutting meat. ",
+                "3::3: Moderate: I need help with many eating tasks but can manage some alone. ",
+                "4::4: Severe: I need help for most or all eating tasks."
             ],
             "selectable": true
         }

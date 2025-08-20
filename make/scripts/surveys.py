@@ -34,11 +34,13 @@ def _create_survey_page(row):
     conditions = row[17]
     input_name = row[18]
 
+    is_html = row[0] == "MDS-UPDRS"
+
     return create_survey_page(conditions=conditions, text=text,
                                 show_buttons=show_buttons, media=media, image_framed=image_framed,
                                 items=items, input_1=input_1, input_2=input_2,
                                 variable_name=variable_name, title=title, input_name=input_name,
-                                minimum=minimum, maximum=maximum, timeout=timeout)
+                                minimum=minimum, maximum=maximum, timeout=timeout, is_html=is_html)
 
 populations = ["HD", "PD"]
 

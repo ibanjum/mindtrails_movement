@@ -1,28 +1,23 @@
 {
-    "header_text": "Attention in store",
+    "header_text": "Anxious imagery prime",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "Text": "The other shoppers probably think you are ..."
+            "text": "If this situation did turn out badly, how well or badly would you be able to handle it?"
         },
         {
             "type": "Buttons",
-            "name": "Attention in store_Social Situations_comp_question",
-            "correct_feedback": "Correct!",
-            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
-            "incorrect_delay": 5000,
             "buttons": [
-                "Considerate for apologizing.",
-                "Awkward and uncoordinated."
+                "Very well",
+                "Somewhat well",
+                "Neutral",
+                "Somewhat badly",
+                "Very badly",
+                "^Prefer not to answer"
             ],
-            "column_count": 1,
-            "correct_value": "Considerate for apologizing."
+            "selectable": true,
+            "name": "imagery_handling"
         }
-    ],
-    "navigation_conditions": [
-        "wait_for_correct",
-        "wait_for_click"
-    ],
-    "scenario_num": 1
+    ]
 }

@@ -4,16 +4,17 @@
     "elements": [
         {
             "type": "Text",
-            "text": "SALIVA AND DROOLING \n\nOver the past week, have you usually had too much saliva during when you are awake or when you sleep?"
+            "text": "<b>SLEEP PROBLEMS</b><p>Over the past week, have you had trouble going to sleep at night or staying asleep through the night? Consider how rested you felt after waking up in the morning.</p>",
+            "html": true
         },
         {
             "type": "Buttons",
             "buttons": [
-                "0:: Normal: Not at all (no problems).",
-                "1:: Slight: I have too much saliva, but do not drool.",
-                "2:: Mild: I have some drooling during sleep, but none when I am awake.",
-                "3:: Moderate: I have some drooling when I am awake, but usually I do not need tissues or a handkerchief.",
-                "4:: Severe: I have so much drooling that I regularly need to use tissues or a handkerchief to protect my clothes."
+                "0::0: Normal: No problems. ",
+                "1::1: Slight: Sleep problems are present but usually do not cause trouble getting a full night of sleep. ",
+                "2::2: Mild: Sleep problems usually cause some difficulties getting a full night of sleep. ",
+                "3::3: Moderate: Sleep problems cause a lot of difficulties getting a full night of sleep, but I still usually sleep for more than half the night. ",
+                "4::4: Severe: I usually do not sleep for most of the night."
             ],
             "selectable": true
         }

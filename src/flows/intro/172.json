@@ -1,19 +1,21 @@
 {
-    "header_text": "Anxious imagery prime",
+    "header_text": "Lemon Exercise",
     "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
-            "text": "How anxious did you feel (at the highest level of anxiety) as you completed the imagery task? Press on the bar to see the slider. \n\n0 = Absolutely no anxiety. \n\n10 = Totally anxious."
+            "text": "Now imagine that you scratch the skin with your fingernail, then you bring the lemon up to your nose, and you can smell the fresh zesty juice from the skin."
         },
         {
-            "type": "Slider",
-            "min": "0",
-            "max": "10",
-            "others": [
-                "Prefer not to answer"
-            ],
-            "name": "imagery_anxiety"
+            "type": "Media",
+            "url": "./images/lemon_pic4.jpeg",
+            "border": true
         }
+    ],
+    "navigation_conditions": [
+        {
+            "wait_for_time": 2000
+        },
+        "wait_for_click"
     ]
 }
