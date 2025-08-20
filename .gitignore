@@ -1,5 +1,5 @@
 ~out/
-
+*.Ds_store
 .vscode
 
 __pycache__
