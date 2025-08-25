@@ -1,12 +1,9 @@
 import csv
-import random
 
 from typing import Literal
 from itertools import islice
 
-from helpers_utilities import clean_up_unicode, has_value, is_yesno, is_int, shuffle, lower
-
-random.seed(1) #give a fixed seed so that diffs don't make it look like we changed things every time we generate
+from helpers_utilities import clean_up_unicode, has_value, is_yesno, is_int, shuffle, choice, lower
 
 dir_root = "./make"
 dir_csv  = f"{dir_root}/CSV"
@@ -251,7 +248,7 @@ def create_scenario_pages(domain, label, scenario_num, puzzle_text_1, word_1, co
 
 def create_resource_page(motivations, tips, ER_lookup, domain):
 
-    resource_type = random.choice(["Motivation", "Tip", "ER Strategy"])
+    resource_type = choice(["Motivation", "Tip", "ER Strategy"], "resources")
 
     if resource_type == "Motivation":
         [label,text] = motivations.pop(0)
