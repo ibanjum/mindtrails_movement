@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Mental Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Each week, treat yourself to one fun activity that doesn't require money, such as going for a walk."
+        }
+    ]
+}

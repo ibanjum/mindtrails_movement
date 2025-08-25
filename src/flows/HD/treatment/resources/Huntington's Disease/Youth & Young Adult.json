@@ -1,0 +1,11 @@
+{
+    "header_text": "Youth & Young Adult",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>HDSA National Youth Alliance</font></b>\n               <br/><br/>The HDSA NYA engages those aged 9-35 affected by HD to participate in education, fundraising, advocacy, and awareness initiatives.<br/><br/>\n               <a href=\"https://nya.hdsa.org/\">https://nya.hdsa.org/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Huntington's Disease Youth Organization</font></b>\n               <br/><br/>HDYO provides support, education, and empowerment for young people up to 35 through a variety of online and in-person resources, including support groups and educational materials.<br/><br/>\n               <a href=\"https://www.hdyo.org/\">https://www.hdyo.org/</a>"
+        }
+    ]
+}

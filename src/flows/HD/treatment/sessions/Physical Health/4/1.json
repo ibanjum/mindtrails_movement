@@ -1,0 +1,16 @@
+{
+    "header_text": "Comfortable couch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Comfortable couch"
+        },
+        {
+            "type": "Media",
+            "url": "./images/451.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

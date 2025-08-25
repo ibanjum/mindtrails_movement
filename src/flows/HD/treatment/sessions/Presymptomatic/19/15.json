@@ -1,0 +1,16 @@
+{
+    "header_text": "Reuniting with Old Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Reuniting with Old Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/851.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

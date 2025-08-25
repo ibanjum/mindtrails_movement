@@ -1,0 +1,16 @@
+{
+    "header_text": "Worrying About Savings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Worrying About Savings"
+        },
+        {
+            "type": "Media",
+            "url": "./images/260.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

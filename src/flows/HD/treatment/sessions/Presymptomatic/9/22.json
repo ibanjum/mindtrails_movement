@@ -1,0 +1,16 @@
+{
+    "header_text": "Focus While Driving",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're driving to work when you miss your turn, realizing you've been lost in thought. You feel concerned about these moments of distraction and worry about your focus and attention. You remember that there are exercises and techniques that can help you..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

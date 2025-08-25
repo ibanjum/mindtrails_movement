@@ -1,0 +1,16 @@
+{
+    "header_text": "Dating a Stranger ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dating a Stranger "
+        },
+        {
+            "type": "Media",
+            "url": "./images/536.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

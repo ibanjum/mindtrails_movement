@@ -1,0 +1,16 @@
+{
+    "header_text": "Burn Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Burn Out"
+        },
+        {
+            "type": "Media",
+            "url": "./images/294.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

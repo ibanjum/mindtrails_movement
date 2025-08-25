@@ -1,0 +1,16 @@
+{
+    "header_text": "New Medications",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Medications"
+        },
+        {
+            "type": "Media",
+            "url": "./images/269.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

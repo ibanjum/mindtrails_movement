@@ -1,0 +1,16 @@
+{
+    "header_text": "A Loss for Words",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A Loss for Words"
+        },
+        {
+            "type": "Media",
+            "url": "./images/941.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

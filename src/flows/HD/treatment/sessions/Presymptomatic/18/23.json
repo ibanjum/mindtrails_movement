@@ -1,0 +1,16 @@
+{
+    "header_text": "Messy Living Room",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Messy Living Room"
+        },
+        {
+            "type": "Media",
+            "url": "./images/929.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

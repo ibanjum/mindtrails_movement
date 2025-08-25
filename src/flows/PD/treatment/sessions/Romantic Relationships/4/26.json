@@ -1,0 +1,16 @@
+{
+    "header_text": "Asking Someone Out ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Asking Someone Out "
+        },
+        {
+            "type": "Media",
+            "url": "./images/535.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

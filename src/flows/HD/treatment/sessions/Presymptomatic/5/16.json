@@ -1,0 +1,16 @@
+{
+    "header_text": "Dinner Outburst ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dinner Outburst "
+        },
+        {
+            "type": "Media",
+            "url": "./images/909.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

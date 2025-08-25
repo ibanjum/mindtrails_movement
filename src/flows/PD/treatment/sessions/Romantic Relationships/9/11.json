@@ -1,0 +1,16 @@
+{
+    "header_text": "Thinking About Relationships",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Thinking About Relationships"
+        },
+        {
+            "type": "Media",
+            "url": "./images/505.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

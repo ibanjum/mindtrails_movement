@@ -1,0 +1,16 @@
+{
+    "header_text": "Dinner Alone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dinner Alone"
+        },
+        {
+            "type": "Media",
+            "url": "./images/753.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

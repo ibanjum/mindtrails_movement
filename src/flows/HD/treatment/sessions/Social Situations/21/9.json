@@ -1,0 +1,25 @@
+{
+    "header_text": "Loud friend: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your car broke down so a friend is dropping you off at a meeting. As they drop you off, they are really loud and everyone in there looks at you. \n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'm really embarrassed, but remind myself that I can tolerate these feelings and they will pass quickly.",
+                "I feel angry at my friend but remind myself that they are doing me a favor.",
+                "I'm ashamed that my friend is so loud.",
+                "I'm happy to have friends who are willing to help me out.",
+                "I'm energized because this meeting is usually interesting."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

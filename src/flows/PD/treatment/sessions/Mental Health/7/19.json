@@ -1,0 +1,16 @@
+{
+    "header_text": "Getting Help",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Getting Help"
+        },
+        {
+            "type": "Media",
+            "url": "./images/101.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

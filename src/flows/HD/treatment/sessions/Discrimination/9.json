@@ -1,0 +1,16 @@
+{
+    "header_text": "Genetic Discrimination",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<strong>HDSA: GINA Overview:</strong> Want to learn how the Genetic Information Nondiscrimination Act (GINA) protects you from genetic discrimination? Check out this resource from HDSA. <a href=\"https://hdsa.org/living-with-hd/gina/\">https://hdsa.org/living-with-hd/gina/</a><br><br><strong>Genome Statute and Legislation Database:</strong> Whether you're interested in health insurance nondiscrimination or genetic privacy laws, the Genome Statute and Legislation Database has you covered. <a href=\"https://www.genome.gov/about-genomics/policy-issues/Genome-Statute-Legislation-Database\">https://www.genome.gov/about-genomics/policy-issues/Genome-Statute-Legislation-Database</a><br><br><strong>National Human Genome Research Institute: Genetic Discrimination:</strong> Explore how the Genetic Information Nondiscrimination Act (GINA) protects people with HD or PD from being treated unfairly. <a href=\"https://www.genome.gov/about-genomics/policy-issues/Genetic-Discrimination\">https://www.genome.gov/about-genomics/policy-issues/Genetic-Discrimination</a><br><br><strong>GINA Fact Sheet from the US Equal Employment Opportunity Commission:</strong> Check out this fact sheet to see how the Genetic Information Nondiscrimination Act (GINA) helps protect people with HD or PD at work. <a href=\"https://www.eeoc.gov/laws/guidance/fact-sheet-genetic-information-nondiscrimination-act\">https://www.eeoc.gov/laws/guidance/fact-sheet-genetic-information-nondiscrimination-act</a><br><br>",
+            "html": true
+        }
+    ],
+    "condition": [
+        "Genetic Discrimination",
+        "in",
+        "Selected_Support"
+    ]
+}

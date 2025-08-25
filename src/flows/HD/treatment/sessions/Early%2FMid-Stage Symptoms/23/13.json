@@ -1,0 +1,16 @@
+{
+    "header_text": "Smoothie Shop",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Smoothie Shop"
+        },
+        {
+            "type": "Media",
+            "url": "./images/835.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

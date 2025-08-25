@@ -1,0 +1,16 @@
+{
+    "header_text": "Easily Agitated",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Easily Agitated"
+        },
+        {
+            "type": "Media",
+            "url": "./images/213.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

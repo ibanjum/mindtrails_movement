@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Rushed",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are single and pretty content with it. One day, your friends start pressuring you and telling you that you are running out of time to meet someone. You tell yourself that as long as you are happy, there's no need to..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

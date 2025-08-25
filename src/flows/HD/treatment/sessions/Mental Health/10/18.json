@@ -1,0 +1,16 @@
+{
+    "header_text": "Difficult walk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Difficult walk"
+        },
+        {
+            "type": "Media",
+            "url": "./images/363.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

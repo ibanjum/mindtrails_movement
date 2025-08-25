@@ -1,0 +1,16 @@
+{
+    "header_text": "Breaking Up",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Breaking Up"
+        },
+        {
+            "type": "Media",
+            "url": "./images/566.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

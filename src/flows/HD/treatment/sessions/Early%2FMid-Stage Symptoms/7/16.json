@@ -1,0 +1,39 @@
+{
+    "header_text": "Planning a Trip",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Walking outside when you felt tired was..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Planning a Trip_Early/Mid-Stage Symptoms_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Refreshing",
+                "Exhausting"
+            ],
+            "column_count": 1,
+            "correct_value": "Refreshing"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Every small shift in perspective leads to bigger changes over time. Keep going—you're training your brain to think in more balanced and helpful ways!"
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

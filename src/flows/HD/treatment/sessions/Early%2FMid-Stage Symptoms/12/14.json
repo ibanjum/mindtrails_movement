@@ -1,0 +1,16 @@
+{
+    "header_text": "Paying With Cash",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Paying With Cash"
+        },
+        {
+            "type": "Media",
+            "url": "./images/787.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

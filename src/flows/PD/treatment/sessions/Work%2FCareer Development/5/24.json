@@ -1,0 +1,16 @@
+{
+    "header_text": "Strong opinions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Strong opinions"
+        },
+        {
+            "type": "Media",
+            "url": "./images/45.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

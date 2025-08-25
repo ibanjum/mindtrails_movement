@@ -1,0 +1,16 @@
+{
+    "header_text": "A Little Stumble",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A Little Stumble"
+        },
+        {
+            "type": "Media",
+            "url": "./images/59.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

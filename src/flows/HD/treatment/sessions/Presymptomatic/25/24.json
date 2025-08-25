@@ -1,0 +1,16 @@
+{
+    "header_text": "Project Planning",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Project Planning"
+        },
+        {
+            "type": "Media",
+            "url": "./images/943.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Social media photo",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social media photo"
+        },
+        {
+            "type": "Media",
+            "url": "./images/601.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

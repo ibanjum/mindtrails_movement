@@ -1,0 +1,16 @@
+{
+    "header_text": "Master's Degree",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Master's Degree"
+        },
+        {
+            "type": "Media",
+            "url": "./images/896.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

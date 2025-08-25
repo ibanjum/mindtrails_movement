@@ -1,0 +1,16 @@
+{
+    "header_text": "Affording Education",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Affording Education"
+        },
+        {
+            "type": "Media",
+            "url": "./images/191.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

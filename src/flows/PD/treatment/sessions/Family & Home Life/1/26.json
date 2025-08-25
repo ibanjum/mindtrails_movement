@@ -1,0 +1,16 @@
+{
+    "header_text": "Finding Balance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Finding Balance"
+        },
+        {
+            "type": "Media",
+            "url": "./images/136.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

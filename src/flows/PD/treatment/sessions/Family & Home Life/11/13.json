@@ -1,0 +1,25 @@
+{
+    "header_text": "Strong opinions: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your partner has some strong opinions and you don't always agree with them. One evening, you invite a friend over for dinner and sense some possible tension. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I practice listening closely with an open mind.",
+                "I start a text to cancel the dinner, but remind myself that I really want my friend and partner to get to know each other.",
+                "I snap at my partner and tell them to be quiet.",
+                "I start to tell my partner not to say anything embarrassing in front of my friend, but take a deep breath instead.",
+                "I smile as my friend and my partner talk."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

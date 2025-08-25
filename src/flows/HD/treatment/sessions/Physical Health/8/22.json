@@ -1,0 +1,16 @@
+{
+    "header_text": "Doctor's Appointment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Doctor's Appointment"
+        },
+        {
+            "type": "Media",
+            "url": "./images/479.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

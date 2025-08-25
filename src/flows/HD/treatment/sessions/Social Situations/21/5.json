@@ -1,0 +1,25 @@
+{
+    "header_text": "Loud friend: Thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your car broke down so a friend is dropping you off at a meeting. As they drop you off, they are really loud and everyone in there looks at you. \n\nHere are some thoughts that might pop into mind:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "A lot of people noticed the noise we made and may have been annoyed, but it was just for a moment and wasn't a big deal.",
+                "Some people probably do think my friend is rude, but I can't control what my friend does or how people feel.",
+                "It was nice not to have to take the bus.",
+                "These people will judge me because my friend is annoying.",
+                "I think about what I want to talk about in the meeting today."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

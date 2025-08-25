@@ -1,0 +1,16 @@
+{
+    "header_text": "Yoga Equipment",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your yoga instructor suggested you and your partner buy some new equipment. As you look around the store, you wonder about your future participation in yoga. You decide to buy the equipment and stay... "
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

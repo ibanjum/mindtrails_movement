@@ -1,0 +1,16 @@
+{
+    "header_text": "Lost in the Forest",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lost in the Forest"
+        },
+        {
+            "type": "Media",
+            "url": "./images/821.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 6
+}

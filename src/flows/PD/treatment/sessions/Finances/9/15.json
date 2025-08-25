@@ -1,0 +1,16 @@
+{
+    "header_text": "Providing for Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Providing for Family"
+        },
+        {
+            "type": "Media",
+            "url": "./images/191.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 6
+}

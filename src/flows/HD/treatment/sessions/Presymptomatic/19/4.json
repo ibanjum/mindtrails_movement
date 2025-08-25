@@ -1,0 +1,16 @@
+{
+    "header_text": "Anniversary Trip",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Anniversary Trip"
+        },
+        {
+            "type": "Media",
+            "url": "./images/847.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

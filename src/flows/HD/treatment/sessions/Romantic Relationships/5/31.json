@@ -1,0 +1,16 @@
+{
+    "header_text": "Balancing a Significant Other and Friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Balancing a Significant Other and Friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/548.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

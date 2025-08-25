@@ -1,0 +1,16 @@
+{
+    "header_text": "Lost Phone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lost Phone"
+        },
+        {
+            "type": "Media",
+            "url": "./images/346.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Prestigious Program",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Prestigious Program"
+        },
+        {
+            "type": "Media",
+            "url": "./images/191.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

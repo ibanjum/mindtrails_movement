@@ -1,0 +1,16 @@
+{
+    "header_text": "Overhearing your name",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Overhearing your name"
+        },
+        {
+            "type": "Media",
+            "url": "./images/403.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
+}

@@ -1,0 +1,11 @@
+{
+    "header_text": "Research",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>HDBuzz</font></b>\n               <br/><br/>HDBuzz delivers up-to-date HD research news in simple language, authored by HD clinicians and scientists. Their mission is to empower the HD community with accessible information.<br/><br/>\n               <a href=\"https://en.hdbuzz.net/\">https://en.hdbuzz.net/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>Huntington Study Group</font></b>\n               <br/><br/>The HSG Network brings together thousands of dedicated professionals conducting pioneering clinical trials and studies to improve the lives of individuals with HD and their families.<br/><br/>\n               <a href=\"https://huntingtonstudygroup.org/\">https://huntingtonstudygroup.org/</a><br/><br/><br/><br/><b><font color=\"#9769ED\" size=6>NIH ClinicalTrials.gov</font></b>\n               <br/><br/>Discover clinical studies worldwide on ClinicalTrials.gov. You can focus your search by condition, intervention, location, and study status to find relevant research opportunities.<br/><br/>\n               <a href=\"https://clinicaltrials.gov/\">https://clinicaltrials.gov/</a>"
+        }
+    ]
+}

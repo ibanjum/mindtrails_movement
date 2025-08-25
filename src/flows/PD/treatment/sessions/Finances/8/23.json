@@ -1,0 +1,16 @@
+{
+    "header_text": "Working Late",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You realize that they might be going to finish up some work together somewhere else. This makes you feel..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

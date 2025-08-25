@@ -1,0 +1,16 @@
+{
+    "header_text": "Losing Your Phone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Losing Your Phone"
+        },
+        {
+            "type": "Media",
+            "url": "./images/840.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 2
+}

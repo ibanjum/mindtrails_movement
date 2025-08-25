@@ -1,0 +1,16 @@
+{
+    "header_text": "Unfamiliar Walk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unfamiliar Walk"
+        },
+        {
+            "type": "Media",
+            "url": "./images/846.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

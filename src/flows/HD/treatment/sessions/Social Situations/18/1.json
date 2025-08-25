@@ -1,0 +1,16 @@
+{
+    "header_text": "Talking with Your Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Talking with Your Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/680.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Family Trivia",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Family Trivia"
+        },
+        {
+            "type": "Media",
+            "url": "./images/214.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

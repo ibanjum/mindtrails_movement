@@ -1,0 +1,16 @@
+{
+    "header_text": "Social Media Post",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Today, your reliable son doesn't show up and tells you that he's sick. You later see him post a photo on social media of himself at a mini golf course. Thinking about confronting him leads to you lashing out at those around you and getting very..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 2
+}

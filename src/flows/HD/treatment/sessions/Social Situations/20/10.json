@@ -1,0 +1,16 @@
+{
+    "header_text": "Sore Throat at Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sore Throat at Dinner"
+        },
+        {
+            "type": "Media",
+            "url": "./images/692.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

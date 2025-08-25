@@ -1,0 +1,16 @@
+{
+    "header_text": "Off Balance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It is the morning, and you are getting ready for the day. You're feeling particularly off balance, and you think about your ability to get ready in the future. The progression of your HD makes you feel..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

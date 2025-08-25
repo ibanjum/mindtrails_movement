@@ -1,0 +1,16 @@
+{
+    "header_text": "Evolving Relationship",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Evolving Relationship"
+        },
+        {
+            "type": "Media",
+            "url": "./images/157.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 7
+}

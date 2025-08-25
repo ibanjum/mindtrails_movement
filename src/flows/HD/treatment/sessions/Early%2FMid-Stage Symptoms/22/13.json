@@ -1,0 +1,16 @@
+{
+    "header_text": "Off Balance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Off Balance"
+        },
+        {
+            "type": "Media",
+            "url": "./images/830.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

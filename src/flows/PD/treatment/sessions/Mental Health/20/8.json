@@ -1,0 +1,16 @@
+{
+    "header_text": "Assembling Furniture",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Assembling Furniture"
+        },
+        {
+            "type": "Media",
+            "url": "./images/408.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

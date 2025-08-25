@@ -1,0 +1,16 @@
+{
+    "header_text": "Staying Alone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Staying Alone"
+        },
+        {
+            "type": "Media",
+            "url": "./images/182.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

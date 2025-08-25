@@ -1,0 +1,16 @@
+{
+    "header_text": "No Weekend Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "No Weekend Plans"
+        },
+        {
+            "type": "Media",
+            "url": "./images/179.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
+}

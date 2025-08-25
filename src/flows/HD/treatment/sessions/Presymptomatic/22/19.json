@@ -1,0 +1,16 @@
+{
+    "header_text": "Reading before Bedtime",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "One evening before bed, you begin a new book. While the plot progresses, you can't seem to concentrate on the storyline. You make a plan to take notes and decide this added task will be... "
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

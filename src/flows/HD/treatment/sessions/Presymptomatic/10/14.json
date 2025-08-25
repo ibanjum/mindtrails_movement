@@ -1,0 +1,16 @@
+{
+    "header_text": "Fear of Sharing",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Fear of Sharing"
+        },
+        {
+            "type": "Media",
+            "url": "./images/925.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

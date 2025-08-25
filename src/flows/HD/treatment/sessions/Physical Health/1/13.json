@@ -1,0 +1,16 @@
+{
+    "header_text": "Hot day ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hot day "
+        },
+        {
+            "type": "Media",
+            "url": "./images/357.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

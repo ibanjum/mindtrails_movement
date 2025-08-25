@@ -1,0 +1,16 @@
+{
+    "header_text": "Journaling Issues",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Journaling Issues"
+        },
+        {
+            "type": "Media",
+            "url": "./images/819.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

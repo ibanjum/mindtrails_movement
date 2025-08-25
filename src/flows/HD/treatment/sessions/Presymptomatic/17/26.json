@@ -1,0 +1,16 @@
+{
+    "header_text": "One More Item",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "One More Item"
+        },
+        {
+            "type": "Media",
+            "url": "./images/413.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

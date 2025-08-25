@@ -1,0 +1,16 @@
+{
+    "header_text": "Getting Ready",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Getting Ready"
+        },
+        {
+            "type": "Media",
+            "url": "./images/906.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 0
+}

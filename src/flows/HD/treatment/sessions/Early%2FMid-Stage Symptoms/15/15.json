@@ -1,0 +1,16 @@
+{
+    "header_text": "Overwhelmed at Meeting",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Overwhelmed at Meeting"
+        },
+        {
+            "type": "Media",
+            "url": "./images/808.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

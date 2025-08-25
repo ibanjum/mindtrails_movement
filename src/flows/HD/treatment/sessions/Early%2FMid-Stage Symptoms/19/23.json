@@ -1,0 +1,16 @@
+{
+    "header_text": "Bakery Routine",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Every Saturday morning you go to a bakery with your neighbor. Today as you browse around, you can't remember what pastries you wanted to buy. Your neighbor suggests your favorites, and you think that it is nice to feel..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Challenging Notes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're a talented guitarist, but you have noticed you're struggling to change from chord to chord. You start to worry that playing will become more and more challenging. The uncertainty of your future as a musician causes you to feel... "
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 6
+}

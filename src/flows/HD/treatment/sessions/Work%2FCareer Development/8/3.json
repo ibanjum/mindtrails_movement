@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Prepared ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are giving a presentation at a meeting tomorrow. You know that the quality of your presentation will be taken into account by your boss. As you think about the presentation, you feel..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

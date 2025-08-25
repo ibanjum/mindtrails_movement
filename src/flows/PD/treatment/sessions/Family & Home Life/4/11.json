@@ -1,0 +1,16 @@
+{
+    "header_text": "Looking Unwell",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Looking Unwell"
+        },
+        {
+            "type": "Media",
+            "url": "./images/154.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

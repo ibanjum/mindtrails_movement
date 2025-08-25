@@ -1,0 +1,16 @@
+{
+    "header_text": "Using What You Have",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Using What You Have"
+        },
+        {
+            "type": "Media",
+            "url": "./images/646.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

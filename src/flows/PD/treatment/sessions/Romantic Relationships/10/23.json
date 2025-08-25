@@ -1,0 +1,16 @@
+{
+    "header_text": "Shy Significant Other",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Shy Significant Other"
+        },
+        {
+            "type": "Media",
+            "url": "./images/568.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

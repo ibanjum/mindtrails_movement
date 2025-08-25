@@ -1,0 +1,16 @@
+{
+    "header_text": "Work Day",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Today, you woke up tired and sluggish. You're having trouble focusing on your work, and you wonder whether this is a sign of your disease progressing. Suddenly, you remember that you stayed up late last night and feeling tired is..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

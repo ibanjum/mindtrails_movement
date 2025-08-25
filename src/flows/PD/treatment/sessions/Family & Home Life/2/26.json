@@ -1,0 +1,16 @@
+{
+    "header_text": "New Experience",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Experience"
+        },
+        {
+            "type": "Media",
+            "url": "./images/142.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

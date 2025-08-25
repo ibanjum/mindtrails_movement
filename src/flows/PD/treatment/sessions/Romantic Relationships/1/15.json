@@ -1,0 +1,16 @@
+{
+    "header_text": "Special Day",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Special Day"
+        },
+        {
+            "type": "Media",
+            "url": "./images/370.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

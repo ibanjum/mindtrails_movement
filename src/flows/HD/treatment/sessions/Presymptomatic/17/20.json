@@ -1,0 +1,16 @@
+{
+    "header_text": "Workout Attention",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Workout Attention"
+        },
+        {
+            "type": "Media",
+            "url": "./images/412.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

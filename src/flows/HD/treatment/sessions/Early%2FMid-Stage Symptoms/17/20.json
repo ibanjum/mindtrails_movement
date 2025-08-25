@@ -1,0 +1,16 @@
+{
+    "header_text": "Typing An Email",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Typing An Email"
+        },
+        {
+            "type": "Media",
+            "url": "./images/815.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

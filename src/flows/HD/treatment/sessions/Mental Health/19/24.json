@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Mental Health",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you feel overwhelmed, ask someone in your support system if they can help you brainstorm ways to manage your finances."
+        }
+    ]
+}

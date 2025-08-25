@@ -1,0 +1,16 @@
+{
+    "header_text": "Anniversary Let-down",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Anniversary Let-down"
+        },
+        {
+            "type": "Media",
+            "url": "./images/532.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

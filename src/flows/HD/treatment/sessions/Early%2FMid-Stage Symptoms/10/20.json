@@ -1,0 +1,16 @@
+{
+    "header_text": "A Tricky Hike",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A Tricky Hike"
+        },
+        {
+            "type": "Media",
+            "url": "./images/783.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

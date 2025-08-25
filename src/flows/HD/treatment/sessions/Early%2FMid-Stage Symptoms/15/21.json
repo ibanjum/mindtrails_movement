@@ -1,0 +1,16 @@
+{
+    "header_text": "Comparing at the Gym",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Comparing at the Gym"
+        },
+        {
+            "type": "Media",
+            "url": "./images/525.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

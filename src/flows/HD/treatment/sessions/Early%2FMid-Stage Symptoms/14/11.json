@@ -1,0 +1,16 @@
+{
+    "header_text": "Crossing the Street",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Crossing the Street"
+        },
+        {
+            "type": "Media",
+            "url": "./images/801.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

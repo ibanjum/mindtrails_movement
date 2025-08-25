@@ -1,0 +1,16 @@
+{
+    "header_text": "Facial Expression ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Facial Expression "
+        },
+        {
+            "type": "Media",
+            "url": "./images/752.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

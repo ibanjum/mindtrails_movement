@@ -1,0 +1,16 @@
+{
+    "header_text": "Delayed Projects",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Delayed Projects"
+        },
+        {
+            "type": "Media",
+            "url": "./images/832.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

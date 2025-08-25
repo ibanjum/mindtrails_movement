@@ -1,0 +1,16 @@
+{
+    "header_text": "Tricky Website",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tricky Website"
+        },
+        {
+            "type": "Media",
+            "url": "./images/862.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Avid Traveler",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Avid Traveler"
+        },
+        {
+            "type": "Media",
+            "url": "./images/765.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

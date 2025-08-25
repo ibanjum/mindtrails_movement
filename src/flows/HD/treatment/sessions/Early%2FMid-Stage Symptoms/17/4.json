@@ -1,0 +1,16 @@
+{
+    "header_text": "Best Friend's Party",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Best Friend's Party"
+        },
+        {
+            "type": "Media",
+            "url": "./images/811.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

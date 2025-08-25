@@ -1,0 +1,16 @@
+{
+    "header_text": "Riding a boat",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Riding a boat"
+        },
+        {
+            "type": "Media",
+            "url": "./images/466.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

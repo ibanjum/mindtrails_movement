@@ -1,0 +1,16 @@
+{
+    "header_text": "Presentation Panic",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Presentation Panic"
+        },
+        {
+            "type": "Media",
+            "url": "./images/108.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
+}

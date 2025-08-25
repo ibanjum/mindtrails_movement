@@ -1,0 +1,25 @@
+{
+    "header_text": "Lemon Exercise",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Really try to imagine yourself in the upcoming situations as vividly as possible."
+        },
+        {
+            "type": "Media",
+            "url": "./images/lemon_pic3.jpeg",
+            "border": false
+        }
+    ],
+    "information": {
+        "elements": [
+            {
+                "type": "media",
+                "url": "./images/wondering_lemon.jpg"
+            }
+        ],
+        "position": "after",
+        "information_count": 3
+    }
+}

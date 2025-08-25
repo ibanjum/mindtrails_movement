@@ -1,0 +1,16 @@
+{
+    "header_text": "Paying Bills",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Rent for the next month is due soon. You’ve been under financial stress lately, and you’re unsure if you have enough money to make your rent payment. You think that making a plan to pay your rent on time will be... "
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

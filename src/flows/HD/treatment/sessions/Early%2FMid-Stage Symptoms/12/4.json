@@ -1,0 +1,16 @@
+{
+    "header_text": "Spiritual Journey",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Spiritual Journey"
+        },
+        {
+            "type": "Media",
+            "url": "./images/785.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

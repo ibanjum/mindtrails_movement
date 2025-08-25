@@ -1,0 +1,16 @@
+{
+    "header_text": "Finding The One",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Finding The One"
+        },
+        {
+            "type": "Media",
+            "url": "./images/557.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

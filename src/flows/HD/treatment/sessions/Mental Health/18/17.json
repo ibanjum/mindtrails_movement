@@ -1,0 +1,16 @@
+{
+    "header_text": "Faster thoughts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Faster thoughts"
+        },
+        {
+            "type": "Media",
+            "url": "./images/402.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

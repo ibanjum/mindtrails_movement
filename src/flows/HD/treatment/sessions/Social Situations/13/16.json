@@ -1,0 +1,16 @@
+{
+    "header_text": "Meeting Rush",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Meeting Rush"
+        },
+        {
+            "type": "Media",
+            "url": "./images/662.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

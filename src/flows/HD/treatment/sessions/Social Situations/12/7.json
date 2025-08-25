@@ -1,0 +1,16 @@
+{
+    "header_text": "Attention in Store",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Attention in Store"
+        },
+        {
+            "type": "Media",
+            "url": "./images/654.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

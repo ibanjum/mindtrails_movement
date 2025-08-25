@@ -1,0 +1,16 @@
+{
+    "header_text": "Forgotten Reservation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Forgotten Reservation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/853.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

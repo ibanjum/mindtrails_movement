@@ -1,0 +1,16 @@
+{
+    "header_text": "Holding the Phone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Holding the Phone"
+        },
+        {
+            "type": "Media",
+            "url": "./images/775.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Vaccination Reassurance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Vaccination Reassurance"
+        },
+        {
+            "type": "Media",
+            "url": "./images/695.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

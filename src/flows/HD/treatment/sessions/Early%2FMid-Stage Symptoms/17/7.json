@@ -1,0 +1,16 @@
+{
+    "header_text": "Difficulty Moving On",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Difficulty Moving On"
+        },
+        {
+            "type": "Media",
+            "url": "./images/812.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

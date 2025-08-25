@@ -1,0 +1,16 @@
+{
+    "header_text": "Starting Therapy",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Starting Therapy"
+        },
+        {
+            "type": "Media",
+            "url": "./images/421.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Others' Opinions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Others' Opinions"
+        },
+        {
+            "type": "Media",
+            "url": "./images/47.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

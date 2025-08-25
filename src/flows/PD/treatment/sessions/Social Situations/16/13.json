@@ -1,0 +1,25 @@
+{
+    "header_text": "Using the restroom: Behaviors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at a restaurant with some friends and go to use the restroom. When you come back to the table your friends are at, they stop their conversation and it's silent. \n\nHere are some behaviors that someone might do at that moment or in the future:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I'll give them a weird look.",
+                "I'll make a joke to break the ice.",
+                "I'll want to text on my phone to avoid talking to them, but remain engaged with my friends.",
+                "I'll smile at all of them.",
+                "I want to head home early, but decide to stay as long as everyone else."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Planning a Trip",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Planning a Trip"
+        },
+        {
+            "type": "Media",
+            "url": "./images/759.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

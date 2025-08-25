@@ -1,0 +1,16 @@
+{
+    "header_text": "Partner's Spending",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You and your partner recently opened a joint bank account. While going through the bank statements, you are shocked to see that your partner has been spending recklessly. As you consider bringing up your concerns to your partner, you think they will be... "
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 8
+}

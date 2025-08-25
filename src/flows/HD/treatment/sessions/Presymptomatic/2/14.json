@@ -1,0 +1,16 @@
+{
+    "header_text": "Memory Training",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Memory Training"
+        },
+        {
+            "type": "Media",
+            "url": "./images/893.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

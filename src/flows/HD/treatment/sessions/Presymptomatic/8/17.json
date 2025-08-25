@@ -1,0 +1,16 @@
+{
+    "header_text": "Bakery Routine",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Bakery Routine"
+        },
+        {
+            "type": "Media",
+            "url": "./images/825.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

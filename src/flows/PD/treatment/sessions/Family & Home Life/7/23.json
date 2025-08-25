@@ -1,0 +1,16 @@
+{
+    "header_text": "Talking about Housing",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Talking about Housing"
+        },
+        {
+            "type": "Media",
+            "url": "./images/169.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

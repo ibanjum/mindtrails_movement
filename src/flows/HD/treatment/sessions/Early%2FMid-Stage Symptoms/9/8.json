@@ -1,0 +1,16 @@
+{
+    "header_text": "Therapist after Diagnosis",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are dedicated to your job as a therapist. Since your HD diagnosis, you have been worried about maintaining your relationship with patients. You reassure yourself that even if your symptoms slow you down, your years of experience will help you continue to do your job..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
+}

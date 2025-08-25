@@ -1,0 +1,16 @@
+{
+    "header_text": "An accidental bang",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "An accidental bang"
+        },
+        {
+            "type": "Media",
+            "url": "./images/456.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 2
+}

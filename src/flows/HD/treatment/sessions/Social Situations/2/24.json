@@ -1,0 +1,16 @@
+{
+    "header_text": "Resolving a disagreement",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Resolving a disagreement"
+        },
+        {
+            "type": "Media",
+            "url": "./images/609.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

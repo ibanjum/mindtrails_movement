@@ -1,0 +1,16 @@
+{
+    "header_text": "Hot surface burn",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hot surface burn"
+        },
+        {
+            "type": "Media",
+            "url": "./images/450.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

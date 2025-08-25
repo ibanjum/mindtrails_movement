@@ -1,0 +1,16 @@
+{
+    "header_text": "Genetic Uncertainty",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Genetic Uncertainty"
+        },
+        {
+            "type": "Media",
+            "url": "./images/934.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 8
+}

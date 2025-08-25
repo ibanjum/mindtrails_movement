@@ -1,0 +1,16 @@
+{
+    "header_text": "Chopping Technique",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "They tell you that they used to work in a kitchen and show you the right technique. Understanding that they're just trying to help makes you feel..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

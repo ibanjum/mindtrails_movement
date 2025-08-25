@@ -1,0 +1,16 @@
+{
+    "header_text": "Family Advice",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Family Advice"
+        },
+        {
+            "type": "Media",
+            "url": "./images/153.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

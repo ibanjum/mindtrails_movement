@@ -1,0 +1,16 @@
+{
+    "header_text": "Cooking Injury",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cooking Injury"
+        },
+        {
+            "type": "Media",
+            "url": "./images/932.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

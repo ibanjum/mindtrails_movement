@@ -1,0 +1,16 @@
+{
+    "header_text": "Overwhelming Options",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You decide to continue to draft the email and send it once you are happy with how it sounds. You look forward to people's..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
+}

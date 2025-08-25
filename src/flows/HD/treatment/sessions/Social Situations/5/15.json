@@ -1,0 +1,16 @@
+{
+    "header_text": "Lunch with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lunch with a Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/626.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

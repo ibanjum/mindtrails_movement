@@ -1,0 +1,16 @@
+{
+    "header_text": "Community",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "<strong>HDSA Support Group:</strong> Find an HD support group near you through HDSA. Click the box that says HDSA Support Groups and enter your location and preferred distance to find a group. <a href=\"https://hdsa.org/about-hdsa/locate-resources/\">https://hdsa.org/about-hdsa/locate-resources/</a><br><br><strong>PFLAG Local Chapter:</strong> Find a local chapter through PFLAG, an organization devoted to LGBTQ+ people and their families. Search for a chapter by entering your zip code or state. <a href=\"https://pflag.org/get-support/\">https://pflag.org/get-support/</a><br><br>",
+            "html": true
+        }
+    ],
+    "condition": [
+        "Community",
+        "in",
+        "Selected_Support"
+    ]
+}

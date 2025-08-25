@@ -1,0 +1,16 @@
+{
+    "header_text": "Creating Art ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Creating Art "
+        },
+        {
+            "type": "Media",
+            "url": "./images/768.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

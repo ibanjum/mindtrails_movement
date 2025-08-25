@@ -1,0 +1,16 @@
+{
+    "header_text": "Anniversary Trip",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "This year, you and your spouse are taking an anniversary trip. As you plan hotel stays and activities, you start to feel swamped by all the reservations and steps. You decide to make a checklist, and you think about the trip with..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Name Recall ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Name Recall "
+        },
+        {
+            "type": "Media",
+            "url": "./images/777.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

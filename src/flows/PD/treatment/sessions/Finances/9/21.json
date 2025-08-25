@@ -1,0 +1,16 @@
+{
+    "header_text": "Savings Account",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You feel grateful that you've saved up money for an emergency like this, and you know that you'll be able to rebuild your savings account..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

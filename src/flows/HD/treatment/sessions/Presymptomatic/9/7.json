@@ -1,0 +1,16 @@
+{
+    "header_text": "Typing An Email",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "As you're typing an email, you notice it's taking longer than usual to find the right words. This mental fog is concerning you, and you wonder if this is related to HD. You take a break to drink some water, and you feel refreshed when you return to the..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
+}

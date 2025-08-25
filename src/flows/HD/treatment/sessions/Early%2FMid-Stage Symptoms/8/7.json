@@ -1,0 +1,16 @@
+{
+    "header_text": "Changing Roles",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You’ve noticed that your family members have started to care for you more often. Now, they often end conversations by asking if you need or want anything. While this dynamic is very different from the past, you understand that they want to be helpful, and it is..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 2
+}

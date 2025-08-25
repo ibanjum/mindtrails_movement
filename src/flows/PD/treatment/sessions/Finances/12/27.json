@@ -1,0 +1,16 @@
+{
+    "header_text": "Saving for a Trip",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Saving for a Trip"
+        },
+        {
+            "type": "Media",
+            "url": "./images/308.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 8
+}

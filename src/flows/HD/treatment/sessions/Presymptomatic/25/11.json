@@ -1,0 +1,16 @@
+{
+    "header_text": "Convenience Store",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Convenience Store"
+        },
+        {
+            "type": "Media",
+            "url": "./images/758.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 3
+}

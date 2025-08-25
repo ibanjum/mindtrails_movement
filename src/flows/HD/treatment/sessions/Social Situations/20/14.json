@@ -1,0 +1,16 @@
+{
+    "header_text": "Less Social Media",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Less Social Media"
+        },
+        {
+            "type": "Media",
+            "url": "./images/694.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

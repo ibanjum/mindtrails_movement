@@ -1,0 +1,16 @@
+{
+    "header_text": "Taking Yourself to a Movie",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Taking Yourself to a Movie"
+        },
+        {
+            "type": "Media",
+            "url": "./images/689.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

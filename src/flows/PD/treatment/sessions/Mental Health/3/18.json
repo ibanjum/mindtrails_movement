@@ -1,0 +1,16 @@
+{
+    "header_text": "Voicing Your Opinion",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Voicing Your Opinion"
+        },
+        {
+            "type": "Media",
+            "url": "./images/341.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

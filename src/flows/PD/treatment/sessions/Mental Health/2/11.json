@@ -1,0 +1,16 @@
+{
+    "header_text": "Safe Driving",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Safe Driving"
+        },
+        {
+            "type": "Media",
+            "url": "./images/167.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

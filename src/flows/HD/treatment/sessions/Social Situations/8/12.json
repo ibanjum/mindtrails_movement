@@ -1,0 +1,26 @@
+{
+    "header_text": "Fear of Missing Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you get to work, you overhear some colleagues talking about the fun night they had out together last night. You don't remember being invited to hang out with them. You think about missing out on the fun and realize that you weren't invited because you are..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Just like a muscle, your brain strengthens the pathways it uses the most. That's why practicing lots of situations helps you change your thinking habits. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

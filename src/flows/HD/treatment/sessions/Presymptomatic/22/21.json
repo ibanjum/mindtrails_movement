@@ -1,0 +1,16 @@
+{
+    "header_text": "Genetic Uncertainty",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You were recently diagnosed with HD. You’re at home looking at photographs of your children, and you begin to wonder about how HD will affect them. The uncertainty of whether they will receive the same diagnosis leaves you feeling..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 8
+}

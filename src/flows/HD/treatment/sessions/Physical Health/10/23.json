@@ -1,0 +1,16 @@
+{
+    "header_text": "Cough After Going Out ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Cough After Going Out "
+        },
+        {
+            "type": "Media",
+            "url": "./images/436.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

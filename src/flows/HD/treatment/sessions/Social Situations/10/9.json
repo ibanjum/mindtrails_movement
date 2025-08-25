@@ -1,0 +1,16 @@
+{
+    "header_text": "Friend's Get Together",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You realize you told your friends you had a lot of other things you needed to do tonight. This makes you feel..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

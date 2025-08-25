@@ -1,0 +1,16 @@
+{
+    "header_text": "Dinner at a Friend's House",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your family doesn't do sit-down dinners together. Your friend invites you to join her family for dinner, and everyone starts asking questions about each other's days while sitting at the table. You're not sure how to respond when it's your turn, but after you say something, you feel..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

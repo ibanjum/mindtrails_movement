@@ -1,0 +1,16 @@
+{
+    "header_text": "Heart Rate Worries",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Heart Rate Worries"
+        },
+        {
+            "type": "Media",
+            "url": "./images/383.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

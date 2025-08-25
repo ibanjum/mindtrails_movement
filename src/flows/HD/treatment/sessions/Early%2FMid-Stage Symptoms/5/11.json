@@ -1,0 +1,16 @@
+{
+    "header_text": "Bowling Alley",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Bowling Alley"
+        },
+        {
+            "type": "Media",
+            "url": "./images/750.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 3
+}

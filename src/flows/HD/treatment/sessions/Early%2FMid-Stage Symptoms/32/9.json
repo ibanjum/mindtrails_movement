@@ -1,0 +1,16 @@
+{
+    "header_text": "Lunch with Neighbor",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lunch with Neighbor"
+        },
+        {
+            "type": "Media",
+            "url": "./images/872.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

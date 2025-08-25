@@ -1,0 +1,26 @@
+{
+    "header_text": "Clapping at Concert",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're at a concert with friends, and everyone starts clapping along to your favorite song. You find that you are struggling to keep the rhythm and begin to panic that this is a sign of your HD progressing. You want to leave the concert early, but you look at the happy faces around you and decide it's better to..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

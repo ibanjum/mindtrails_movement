@@ -1,0 +1,16 @@
+{
+    "header_text": "Garden Changes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Garden Changes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/827.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

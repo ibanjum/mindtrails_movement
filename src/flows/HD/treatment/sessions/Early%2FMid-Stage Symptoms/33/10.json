@@ -1,0 +1,16 @@
+{
+    "header_text": "Medication Costs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Medication Costs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/269.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

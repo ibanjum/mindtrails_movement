@@ -1,0 +1,16 @@
+{
+    "header_text": "Broken Car",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Broken Car"
+        },
+        {
+            "type": "Media",
+            "url": "./images/475.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

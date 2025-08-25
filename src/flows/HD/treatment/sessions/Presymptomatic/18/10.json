@@ -1,0 +1,16 @@
+{
+    "header_text": "Home Renovation Preparation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Home Renovation Preparation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/227.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

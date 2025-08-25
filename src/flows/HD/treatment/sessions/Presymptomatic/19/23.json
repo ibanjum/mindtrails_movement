@@ -1,0 +1,16 @@
+{
+    "header_text": "Giving Up Favorite Hobby",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're passionate about your favorite hobby but you've begun to notice a decline in your ability to focus on intricate details. Your half-finished project has been sitting out in the garage for months now. You decide that you can't continue your hobby anymore and you feel..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 9
+}

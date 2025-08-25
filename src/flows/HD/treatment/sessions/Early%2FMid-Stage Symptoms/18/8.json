@@ -1,0 +1,16 @@
+{
+    "header_text": "Trouble Reading",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trouble Reading"
+        },
+        {
+            "type": "Media",
+            "url": "./images/818.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

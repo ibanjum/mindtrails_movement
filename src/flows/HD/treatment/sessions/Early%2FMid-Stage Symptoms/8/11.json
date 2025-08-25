@@ -1,0 +1,16 @@
+{
+    "header_text": "Coffee Ordering",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Coffee Ordering"
+        },
+        {
+            "type": "Media",
+            "url": "./images/766.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

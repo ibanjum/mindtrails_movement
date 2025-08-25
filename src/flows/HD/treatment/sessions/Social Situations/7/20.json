@@ -1,0 +1,16 @@
+{
+    "header_text": "Making a Toast",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Making a Toast"
+        },
+        {
+            "type": "Media",
+            "url": "./images/635.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

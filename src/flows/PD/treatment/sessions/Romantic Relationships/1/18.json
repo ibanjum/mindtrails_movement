@@ -1,0 +1,16 @@
+{
+    "header_text": "A Delayed Response",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A Delayed Response"
+        },
+        {
+            "type": "Media",
+            "url": "./images/529.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

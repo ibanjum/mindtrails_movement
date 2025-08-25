@@ -1,0 +1,16 @@
+{
+    "header_text": "Night Out",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Night Out"
+        },
+        {
+            "type": "Media",
+            "url": "./images/350.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

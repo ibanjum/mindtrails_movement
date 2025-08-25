@@ -1,0 +1,16 @@
+{
+    "header_text": "Staying Together",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Staying Together"
+        },
+        {
+            "type": "Media",
+            "url": "./images/560.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Beach Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Beach Plans"
+        },
+        {
+            "type": "Media",
+            "url": "./images/295.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

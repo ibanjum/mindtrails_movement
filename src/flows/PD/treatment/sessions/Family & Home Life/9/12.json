@@ -1,0 +1,26 @@
+{
+    "header_text": "Family Communication",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your family has not approved of your partner from the beginning, and it is taking its toll on you. You don’t want to cause any further conflict, but their behavior is making you uncomfortable. You make a plan to have a conversation, and you think it will go... "
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "MindTrails provides you with the courage to face uncertain situations, giving you the confidence to approach them in real life. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

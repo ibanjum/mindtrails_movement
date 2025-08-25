@@ -1,0 +1,16 @@
+{
+    "header_text": "Answering Unexpected Questions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are presenting your work to a group of your peers. After you present, someone asks you a very specific question that you do not know, and you feel like you are unqualified. You remember that you did a lot of research, and this question may just be..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

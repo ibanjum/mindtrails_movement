@@ -1,0 +1,16 @@
+{
+    "header_text": "Absent Sister",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Absent Sister"
+        },
+        {
+            "type": "Media",
+            "url": "./images/186.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

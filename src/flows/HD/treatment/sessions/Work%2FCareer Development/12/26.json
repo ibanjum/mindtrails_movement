@@ -1,0 +1,16 @@
+{
+    "header_text": "Scheduling Conflicts",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Scheduling Conflicts"
+        },
+        {
+            "type": "Media",
+            "url": "./images/92.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

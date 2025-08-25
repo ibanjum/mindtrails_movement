@@ -1,0 +1,39 @@
+{
+    "header_text": "Texting Your Crush",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "You are likely to get a text from your coworker that..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Texting Your Crush_Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Asks you to pick up a shift",
+                "Asks you to go out for coffee"
+            ],
+            "column_count": 1,
+            "correct_value": "Asks you to pick up a shift"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "negative",
+    "scenario_num": 2,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "In the real world, sometimes things don't go well. It's important to have some stories that end negatively to teach you to manage your anxiety when negative situations arise! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

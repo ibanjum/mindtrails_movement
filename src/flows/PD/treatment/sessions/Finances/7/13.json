@@ -1,0 +1,16 @@
+{
+    "header_text": "Paying for College",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Paying for College"
+        },
+        {
+            "type": "Media",
+            "url": "./images/279.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

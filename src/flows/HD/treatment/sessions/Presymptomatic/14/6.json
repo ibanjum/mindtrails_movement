@@ -1,0 +1,29 @@
+{
+    "header_text": "HOA Meeting Plans",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "After struggling to plan the meeting, you..."
+        },
+        {
+            "type": "Buttons",
+            "name": "HOA Meeting Plans_Presymptomatic_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Notice your feelings",
+                "Try to ignore your concerns"
+            ],
+            "column_count": 1,
+            "correct_value": "Notice your feelings"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

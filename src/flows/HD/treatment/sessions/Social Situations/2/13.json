@@ -1,0 +1,16 @@
+{
+    "header_text": "Unusual views",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unusual views"
+        },
+        {
+            "type": "Media",
+            "url": "./images/607.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

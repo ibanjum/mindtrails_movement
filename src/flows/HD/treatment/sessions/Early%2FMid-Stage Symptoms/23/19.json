@@ -1,0 +1,16 @@
+{
+    "header_text": "Beach Walk",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Beach Walk"
+        },
+        {
+            "type": "Media",
+            "url": "./images/837.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

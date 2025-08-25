@@ -1,0 +1,16 @@
+{
+    "header_text": "Local Event",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Local Event"
+        },
+        {
+            "type": "Media",
+            "url": "./images/826.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

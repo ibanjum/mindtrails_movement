@@ -1,0 +1,16 @@
+{
+    "header_text": "Relying on Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Relying on Family"
+        },
+        {
+            "type": "Media",
+            "url": "./images/166.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

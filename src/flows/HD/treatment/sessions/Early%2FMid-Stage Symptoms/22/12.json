@@ -1,0 +1,16 @@
+{
+    "header_text": "Puzzle Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your child loves puzzles, so you are working on one together. You feel like the puzzle should be easy, but you struggle to find the right pieces. You allow your kid to complete the puzzle alone, and watching them makes you..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4
+}

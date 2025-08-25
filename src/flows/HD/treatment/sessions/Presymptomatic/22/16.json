@@ -1,0 +1,16 @@
+{
+    "header_text": "Networking Event",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently found out that you have over 40 CAG repeats, and you are in the midst of looking for a new job. At a networking event, you find yourself avoiding eye contact with potential employers. You fear that they might find out about your HD somehow, and their perception of you makes you feel..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

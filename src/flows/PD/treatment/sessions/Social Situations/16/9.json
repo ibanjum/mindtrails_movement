@@ -1,0 +1,25 @@
+{
+    "header_text": "Using the restroom: Feelings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are at a restaurant with some friends and go to use the restroom. When you come back to the table your friends are at, they stop their conversation and it's silent. \n\nHere are some feelings that might happen in the moment:"
+        },
+        {
+            "type": "TimedText",
+            "texts": [
+                "I feel defensive.",
+                "I am interested in joining the conversation.",
+                "I'm thankful for the friends that I have.",
+                "I'm worried that they could hear me in the bathroom, but then remember that everyone uses the bathroom so it isn't a big deal.",
+                "I am uncomfortable being around them, but I know that these are my close friends and start to calm down."
+            ],
+            "Duration": 15000
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_complete",
+        "wait_for_click"
+    ]
+}

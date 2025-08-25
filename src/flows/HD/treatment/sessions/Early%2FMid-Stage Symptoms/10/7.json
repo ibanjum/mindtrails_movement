@@ -1,0 +1,16 @@
+{
+    "header_text": "Social Media Post",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Social Media Post"
+        },
+        {
+            "type": "Media",
+            "url": "./images/780.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 2
+}

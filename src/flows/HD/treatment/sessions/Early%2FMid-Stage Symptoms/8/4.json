@@ -1,0 +1,16 @@
+{
+    "header_text": "Family Wedding",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Family Wedding"
+        },
+        {
+            "type": "Media",
+            "url": "./images/764.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 1
+}

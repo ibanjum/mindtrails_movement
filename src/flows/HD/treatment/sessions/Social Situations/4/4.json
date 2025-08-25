@@ -1,0 +1,16 @@
+{
+    "header_text": "A different style",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A different style"
+        },
+        {
+            "type": "Media",
+            "url": "./images/621.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

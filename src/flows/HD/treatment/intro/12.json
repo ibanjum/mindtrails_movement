@@ -1,0 +1,21 @@
+{
+    "header_text": "Demographics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Have you or others around you noticed that you have abnormal movements sometimes?"
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "1::Yes",
+                "0::No",
+                "2::I'm not sure",
+                "99::Prefer not to answer"
+            ],
+            "selectable": true,
+            "variable_name": "AbnormalMovements"
+        }
+    ]
+}

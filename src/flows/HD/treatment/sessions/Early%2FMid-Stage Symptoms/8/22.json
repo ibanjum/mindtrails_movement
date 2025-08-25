@@ -1,0 +1,16 @@
+{
+    "header_text": "Day in the Park",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Day in the Park"
+        },
+        {
+            "type": "Media",
+            "url": "./images/771.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Friend's Birthday",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Friend's Birthday"
+        },
+        {
+            "type": "Media",
+            "url": "./images/282.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Ending Long Distance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Ending Long Distance"
+        },
+        {
+            "type": "Media",
+            "url": "./images/381.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

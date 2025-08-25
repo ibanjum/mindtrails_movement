@@ -1,0 +1,16 @@
+{
+    "header_text": "Trouble Understanding ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trouble Understanding "
+        },
+        {
+            "type": "Media",
+            "url": "./images/914.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

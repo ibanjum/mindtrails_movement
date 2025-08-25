@@ -1,0 +1,16 @@
+{
+    "header_text": "Unexpected Bill",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unexpected Bill"
+        },
+        {
+            "type": "Media",
+            "url": "./images/312.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Coffee Concerns",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Coffee Concerns"
+        },
+        {
+            "type": "Media",
+            "url": "./images/761.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

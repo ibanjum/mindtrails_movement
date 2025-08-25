@@ -1,0 +1,16 @@
+{
+    "header_text": "Visiting your Partner's Parents",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Visiting your Partner's Parents"
+        },
+        {
+            "type": "Media",
+            "url": "./images/563.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

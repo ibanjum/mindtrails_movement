@@ -1,0 +1,16 @@
+{
+    "header_text": "Relationship Reflection",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Relationship Reflection"
+        },
+        {
+            "type": "Media",
+            "url": "./images/505.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Hospital waiting room",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Hospital waiting room"
+        },
+        {
+            "type": "Media",
+            "url": "./images/430.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

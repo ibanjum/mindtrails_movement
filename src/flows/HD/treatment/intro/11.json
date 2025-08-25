@@ -1,0 +1,42 @@
+{
+    "header_text": "Demographics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "How many CAG repeats do you have on your pathologic gene?"
+        },
+        {
+            "type": "Picker",
+            "items": [
+                "35 or fewer",
+                "36",
+                "37",
+                "38",
+                "39",
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "46",
+                "47",
+                "48",
+                "49",
+                "50",
+                "51",
+                "52",
+                "53",
+                "54",
+                "55",
+                "56",
+                "57",
+                "58",
+                "59",
+                "60 or more",
+                "Unknown or prefer not to answer"
+            ]
+        }
+    ]
+}

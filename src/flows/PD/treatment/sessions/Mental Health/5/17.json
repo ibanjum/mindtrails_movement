@@ -1,0 +1,16 @@
+{
+    "header_text": "Your Bowling Skills",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Your Bowling Skills"
+        },
+        {
+            "type": "Media",
+            "url": "./images/342.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

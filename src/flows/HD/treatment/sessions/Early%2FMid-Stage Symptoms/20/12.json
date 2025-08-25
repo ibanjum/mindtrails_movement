@@ -1,0 +1,16 @@
+{
+    "header_text": "Giving Up Favorite Hobby",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Giving Up Favorite Hobby"
+        },
+        {
+            "type": "Media",
+            "url": "./images/250.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 4
+}

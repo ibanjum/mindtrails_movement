@@ -1,0 +1,16 @@
+{
+    "header_text": "A lucky find",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A lucky find"
+        },
+        {
+            "type": "Media",
+            "url": "./images/134.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

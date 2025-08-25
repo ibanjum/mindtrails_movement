@@ -1,0 +1,16 @@
+{
+    "header_text": "Coffee Together",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Coffee Together"
+        },
+        {
+            "type": "Media",
+            "url": "./images/761.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

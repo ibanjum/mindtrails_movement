@@ -1,0 +1,16 @@
+{
+    "header_text": "Troublesome Typos",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Troublesome Typos"
+        },
+        {
+            "type": "Media",
+            "url": "./images/63.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 7
+}

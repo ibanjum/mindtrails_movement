@@ -1,0 +1,16 @@
+{
+    "header_text": "Couple Strolling",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Couple Strolling"
+        },
+        {
+            "type": "Media",
+            "url": "./images/807.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 2
+}

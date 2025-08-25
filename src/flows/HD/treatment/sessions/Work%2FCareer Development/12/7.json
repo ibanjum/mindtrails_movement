@@ -1,0 +1,16 @@
+{
+    "header_text": "New Skill",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Skill"
+        },
+        {
+            "type": "Media",
+            "url": "./images/86.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 2
+}

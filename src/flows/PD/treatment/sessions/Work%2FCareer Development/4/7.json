@@ -1,0 +1,16 @@
+{
+    "header_text": "Deleted Project",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Deleted Project"
+        },
+        {
+            "type": "Media",
+            "url": "./images/32.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

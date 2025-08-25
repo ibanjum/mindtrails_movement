@@ -1,0 +1,16 @@
+{
+    "header_text": "Choosing a New Car",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Choosing a New Car"
+        },
+        {
+            "type": "Media",
+            "url": "./images/254.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

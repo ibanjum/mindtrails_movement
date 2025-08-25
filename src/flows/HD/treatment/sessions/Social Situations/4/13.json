@@ -1,0 +1,16 @@
+{
+    "header_text": "Late friends",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Late friends"
+        },
+        {
+            "type": "Media",
+            "url": "./images/624.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Visiting Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Visiting Family"
+        },
+        {
+            "type": "Media",
+            "url": "./images/155.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Presymptomatic",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Spend some time identifying your goals and values. Ask yourself: what is important to me in terms of my work, relationships, education, community involvement, etc.? Write down different ways you can act in accordance with these values in your daily life."
+        }
+    ]
+}

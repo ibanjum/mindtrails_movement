@@ -1,0 +1,16 @@
+{
+    "header_text": "Beach Vacation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Beach Vacation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/206.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

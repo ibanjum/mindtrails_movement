@@ -1,0 +1,16 @@
+{
+    "header_text": "Thoughts at the train station",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Thoughts at the train station"
+        },
+        {
+            "type": "Media",
+            "url": "./images/454.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

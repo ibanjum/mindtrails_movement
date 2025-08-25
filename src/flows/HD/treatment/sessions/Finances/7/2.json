@@ -1,0 +1,25 @@
+{
+    "header_text": "New T-Shirt",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While running errands, you see a new T-shirt that you really like. You have a tight budget, and you don't think you have enough money left to buy the shirt. You don't buy it, and that decision makes you feel... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "New T-Shirt_Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "good"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

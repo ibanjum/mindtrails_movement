@@ -1,0 +1,16 @@
+{
+    "header_text": "Lost Wallet",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Lost Wallet"
+        },
+        {
+            "type": "Media",
+            "url": "./images/907.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

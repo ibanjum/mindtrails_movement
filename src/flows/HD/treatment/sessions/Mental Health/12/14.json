@@ -1,0 +1,16 @@
+{
+    "header_text": "Stomach Ache",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Stomach Ache"
+        },
+        {
+            "type": "Media",
+            "url": "./images/365.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 4
+}

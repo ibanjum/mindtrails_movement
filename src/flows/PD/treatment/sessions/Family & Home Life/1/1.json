@@ -1,0 +1,16 @@
+{
+    "header_text": "Travel decisions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Travel decisions"
+        },
+        {
+            "type": "Media",
+            "url": "./images/128.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

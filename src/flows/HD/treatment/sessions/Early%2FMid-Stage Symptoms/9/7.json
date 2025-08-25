@@ -1,0 +1,16 @@
+{
+    "header_text": "Therapist after Diagnosis",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Therapist after Diagnosis"
+        },
+        {
+            "type": "Media",
+            "url": "./images/774.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

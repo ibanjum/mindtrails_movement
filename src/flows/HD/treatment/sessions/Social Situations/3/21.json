@@ -1,0 +1,16 @@
+{
+    "header_text": "Suggestion to meet again",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Suggestion to meet again"
+        },
+        {
+            "type": "Media",
+            "url": "./images/617.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

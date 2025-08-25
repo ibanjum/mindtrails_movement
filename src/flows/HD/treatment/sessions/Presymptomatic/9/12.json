@@ -1,0 +1,16 @@
+{
+    "header_text": "Overwhelming Waiting Room",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Overwhelming Waiting Room"
+        },
+        {
+            "type": "Media",
+            "url": "./images/922.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

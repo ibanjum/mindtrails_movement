@@ -1,0 +1,16 @@
+{
+    "header_text": "Child Check-In",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Child Check-In"
+        },
+        {
+            "type": "Media",
+            "url": "./images/30.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

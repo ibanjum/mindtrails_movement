@@ -1,0 +1,16 @@
+{
+    "header_text": "Spouse's Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Spouse's Friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/561.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

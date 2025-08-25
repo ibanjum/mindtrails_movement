@@ -1,0 +1,16 @@
+{
+    "header_text": "Game Night Mistake",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Game Night Mistake"
+        },
+        {
+            "type": "Media",
+            "url": "./images/824.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

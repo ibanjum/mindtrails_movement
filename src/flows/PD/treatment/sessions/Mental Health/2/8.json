@@ -1,0 +1,25 @@
+{
+    "header_text": "Driving flashback ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are driving to a friend's house in the town you previously lived in. When you arrive at the entrance, you have a strong flashback to when you used to visit this house many years back. You start to feel disoriented and..."
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Driving flashback _Mental Health_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "anxious"
+            ],
+            "missing_letter_count": 1
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 2
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Major Conference",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Major Conference"
+        },
+        {
+            "type": "Media",
+            "url": "./images/126.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 1
+}

@@ -1,0 +1,26 @@
+{
+    "header_text": "Trouble Reading",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "While reading at home, you notice you are having trouble focusing on the words and remembering the information. This causes you to feel concerned and makes it even harder to read. You and your doctor make a plan to help you with this, and you feel..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

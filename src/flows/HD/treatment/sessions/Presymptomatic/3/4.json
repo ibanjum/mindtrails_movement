@@ -1,0 +1,16 @@
+{
+    "header_text": "Eye Twitch",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Eye Twitch"
+        },
+        {
+            "type": "Media",
+            "url": "./images/895.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

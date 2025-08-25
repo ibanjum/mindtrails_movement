@@ -1,0 +1,16 @@
+{
+    "header_text": "Smoothie Order",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Smoothie Order"
+        },
+        {
+            "type": "Media",
+            "url": "./images/835.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

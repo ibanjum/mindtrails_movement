@@ -1,0 +1,16 @@
+{
+    "header_text": "Tingly fingers",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Tingly fingers"
+        },
+        {
+            "type": "Media",
+            "url": "./images/452.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

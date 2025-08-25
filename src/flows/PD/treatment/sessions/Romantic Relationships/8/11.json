@@ -1,0 +1,16 @@
+{
+    "header_text": "Dating Apps",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dating Apps"
+        },
+        {
+            "type": "Media",
+            "url": "./images/558.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

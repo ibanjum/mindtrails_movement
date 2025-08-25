@@ -1,0 +1,16 @@
+{
+    "header_text": "Getting Over It",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently went through a major breakup with your long term partner. You want to ask your family and friends for support, but you don’t know how. When you tell them you are struggling, they applaud your... "
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

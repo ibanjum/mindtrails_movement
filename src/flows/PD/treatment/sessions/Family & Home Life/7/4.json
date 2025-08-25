@@ -1,0 +1,16 @@
+{
+    "header_text": "New Family Member",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Family Member"
+        },
+        {
+            "type": "Media",
+            "url": "./images/157.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
+}

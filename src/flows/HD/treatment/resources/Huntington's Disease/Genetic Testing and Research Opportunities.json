@@ -1,0 +1,11 @@
+{
+    "header_text": "Genetic Testing and Research Opportunities",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "html": true,
+            "text": "<b><font color=\"#9769ED\" size=6>HD Genetics</font></b>\n               <br/><br/>HD Genetics offers convenient, confidential genetic counseling and testing for Huntington’s disease from the comfort of your home, along with support for connecting to clinical trials and research opportunities.<br/><br/>\n               <a href=\"https://hdgenetics.com/\">https://hdgenetics.com/</a>"
+        }
+    ]
+}

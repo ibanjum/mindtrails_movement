@@ -1,0 +1,16 @@
+{
+    "header_text": "Loud friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Loud friend"
+        },
+        {
+            "type": "Media",
+            "url": "./images/630.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

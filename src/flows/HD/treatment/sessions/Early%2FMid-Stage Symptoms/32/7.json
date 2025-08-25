@@ -1,0 +1,16 @@
+{
+    "header_text": "Fast Card Game",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Fast Card Game"
+        },
+        {
+            "type": "Media",
+            "url": "./images/871.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

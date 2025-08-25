@@ -1,0 +1,16 @@
+{
+    "header_text": "Coffee Effect",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Coffee Effect"
+        },
+        {
+            "type": "Media",
+            "url": "./images/918.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

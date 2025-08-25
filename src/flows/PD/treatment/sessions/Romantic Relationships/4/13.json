@@ -1,0 +1,29 @@
+{
+    "header_text": "Relationship Reflection",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "When you imagine you and your spouse in the future, you see..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Relationship Reflection_Romantic Relationships_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "The two of you together and happy",
+                "Your marriage having ended"
+            ],
+            "column_count": 1,
+            "correct_value": "The two of you together and happy"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Managing bills",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Managing bills"
+        },
+        {
+            "type": "Media",
+            "url": "./images/256.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 8
+}

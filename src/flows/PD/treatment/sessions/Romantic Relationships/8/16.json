@@ -1,0 +1,16 @@
+{
+    "header_text": "Divorce Statistics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are reading an article that talks about the rising divorce rate. You’ve been with your spouse for a while now, but you start to wonder whether your relationship will last. You remind yourself that things are stable right now and that your relationship is..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

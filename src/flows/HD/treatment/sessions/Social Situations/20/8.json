@@ -1,0 +1,16 @@
+{
+    "header_text": "New Opportunity at Work",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Opportunity at Work"
+        },
+        {
+            "type": "Media",
+            "url": "./images/108.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

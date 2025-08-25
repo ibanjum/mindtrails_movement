@@ -1,0 +1,16 @@
+{
+    "header_text": "Gardening Help",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Gardening Help"
+        },
+        {
+            "type": "Media",
+            "url": "./images/792.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

@@ -1,0 +1,26 @@
+{
+    "header_text": "Pool Time",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You apologize to your partner and volunteer to go get sunscreen somewhere. Your partner thanks you for the offer and is not... "
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

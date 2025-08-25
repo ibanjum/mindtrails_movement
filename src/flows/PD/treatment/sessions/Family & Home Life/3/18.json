@@ -1,0 +1,16 @@
+{
+    "header_text": "Upset Sibling",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Upset Sibling"
+        },
+        {
+            "type": "Media",
+            "url": "./images/129.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

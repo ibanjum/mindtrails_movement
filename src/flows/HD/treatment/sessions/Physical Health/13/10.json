@@ -1,0 +1,16 @@
+{
+    "header_text": "Plans to Visit Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Plans to Visit Family"
+        },
+        {
+            "type": "Media",
+            "url": "./images/507.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

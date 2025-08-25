@@ -1,0 +1,16 @@
+{
+    "header_text": "A Moment of Forgetfulness",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A Moment of Forgetfulness"
+        },
+        {
+            "type": "Media",
+            "url": "./images/337.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
+}

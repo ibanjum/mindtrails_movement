@@ -1,0 +1,26 @@
+{
+    "header_text": "Show Opportunity",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "One of your favorite celebrities is doing a show near you, and you've been looking at tickets. Tickets for the show are more than you expected, and your paychecks haven't been as much as you were hoping. You decide that saving up is more important, and know that there will be another show in your area later for you to..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Just like a muscle, your brain strengthens the pathways it uses the most. That's why practicing lots of situations helps you change your thinking habits. "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

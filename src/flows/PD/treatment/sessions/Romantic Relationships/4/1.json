@@ -1,0 +1,16 @@
+{
+    "header_text": "Resolving Conflict",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Resolving Conflict"
+        },
+        {
+            "type": "Media",
+            "url": "./images/341.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Being Single",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Being Single"
+        },
+        {
+            "type": "Media",
+            "url": "./images/542.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

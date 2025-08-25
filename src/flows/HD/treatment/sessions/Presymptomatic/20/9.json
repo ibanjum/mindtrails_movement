@@ -1,0 +1,16 @@
+{
+    "header_text": "Dinner with In-Laws",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dinner with In-Laws"
+        },
+        {
+            "type": "Media",
+            "url": "./images/930.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

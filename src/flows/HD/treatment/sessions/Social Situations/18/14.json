@@ -1,0 +1,16 @@
+{
+    "header_text": "Intoxication Situation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Intoxication Situation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/124.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

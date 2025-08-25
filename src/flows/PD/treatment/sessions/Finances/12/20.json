@@ -1,0 +1,16 @@
+{
+    "header_text": "Retirement Savings",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Retirement Savings"
+        },
+        {
+            "type": "Media",
+            "url": "./images/307.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 6
+}

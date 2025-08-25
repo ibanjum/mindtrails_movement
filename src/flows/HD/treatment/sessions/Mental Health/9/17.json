@@ -1,0 +1,16 @@
+{
+    "header_text": "Cardio with friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It's Wednesday night, and you and your friend go on a walk. You stop walking about halfway through because you feel you can't catch your... "
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

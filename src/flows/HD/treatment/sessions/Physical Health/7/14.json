@@ -1,0 +1,16 @@
+{
+    "header_text": "A Birthday Cake",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A Birthday Cake"
+        },
+        {
+            "type": "Media",
+            "url": "./images/447.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 4
+}

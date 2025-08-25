@@ -1,0 +1,26 @@
+{
+    "header_text": "Family Dinner",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently brought your partner to dinner with your siblings. When your partner talks about their career, your siblings look uninterested. You realize that your siblings were probably just focused on..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

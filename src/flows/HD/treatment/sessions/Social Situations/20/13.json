@@ -1,0 +1,26 @@
+{
+    "header_text": "Exposing a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You recently visited a friend that you hadn’t seen in a long time, and you found out that your partner woke up with a sore throat when you got back home. You are scared you may have accidentally exposed your friend to the same virus that your partner has. You think about what will happen if your friend gets sick and feel your friend will..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

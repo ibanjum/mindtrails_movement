@@ -1,0 +1,16 @@
+{
+    "header_text": "Future Generation",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Future Generation"
+        },
+        {
+            "type": "Media",
+            "url": "./images/926.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Fresh Air",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "A family member offers to walk outside with you for some fresh air. As you rehash the incident, they point out that the other people probably just wanted to make sure you were okay. You realize this is likely... "
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

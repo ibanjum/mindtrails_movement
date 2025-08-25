@@ -1,0 +1,16 @@
+{
+    "header_text": "Sharing Your Familial Traditions",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sharing Your Familial Traditions"
+        },
+        {
+            "type": "Media",
+            "url": "./images/159.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

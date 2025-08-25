@@ -1,0 +1,10 @@
+{
+    "header_text": "Manage Your Feelings: Presymptomatic",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Take a moment to be present. Focus on your breathing, allowing each inhaled breath to ground you in the moment.  "
+        }
+    ]
+}

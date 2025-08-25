@@ -1,0 +1,16 @@
+{
+    "header_text": "Model Car",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Model Car"
+        },
+        {
+            "type": "Media",
+            "url": "./images/243.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

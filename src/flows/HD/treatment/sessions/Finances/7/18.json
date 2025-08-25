@@ -1,0 +1,25 @@
+{
+    "header_text": "Managing Jobs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You’ve recently taken on extra responsibilities at work to make some extra money. As the workload at your job gets heavier, you worry about managing your work and family responsibilities but know you could really use the money. You decide to explain the situation to your supervisor, and you realize that it’s okay to ask for help when... "
+        },
+        {
+            "type": "WordPuzzle",
+            "name": "Managing Jobs_Finances_puzzle1",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "display_delay": 2000,
+            "words": [
+                "needed"
+            ],
+            "missing_letter_count": 2
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 5
+}

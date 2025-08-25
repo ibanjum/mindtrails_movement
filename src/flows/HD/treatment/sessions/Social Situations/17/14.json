@@ -1,0 +1,16 @@
+{
+    "header_text": "Receiving Explicit Email Messages",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Receiving Explicit Email Messages"
+        },
+        {
+            "type": "Media",
+            "url": "./images/586.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 4
+}

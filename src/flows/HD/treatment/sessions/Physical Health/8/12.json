@@ -1,0 +1,16 @@
+{
+    "header_text": "Walking Hard",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Walking Hard"
+        },
+        {
+            "type": "Media",
+            "url": "./images/477.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Difficult Handoff",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Difficult Handoff"
+        },
+        {
+            "type": "Media",
+            "url": "./images/813.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Job Hiatus",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Job Hiatus"
+        },
+        {
+            "type": "Media",
+            "url": "./images/143.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

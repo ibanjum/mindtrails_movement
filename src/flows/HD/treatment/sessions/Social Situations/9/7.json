@@ -1,0 +1,16 @@
+{
+    "header_text": "Disrupting the Silence",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Disrupting the Silence"
+        },
+        {
+            "type": "Media",
+            "url": "./images/644.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 2
+}

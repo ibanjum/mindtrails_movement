@@ -1,0 +1,16 @@
+{
+    "header_text": "Divorce Statistics",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Divorce Statistics"
+        },
+        {
+            "type": "Media",
+            "url": "./images/559.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

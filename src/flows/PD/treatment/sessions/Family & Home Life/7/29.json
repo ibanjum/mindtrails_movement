@@ -1,0 +1,16 @@
+{
+    "header_text": "Differing Beliefs",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Differing Beliefs"
+        },
+        {
+            "type": "Media",
+            "url": "./images/160.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

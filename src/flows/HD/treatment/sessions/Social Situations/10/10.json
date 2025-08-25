@@ -1,0 +1,16 @@
+{
+    "header_text": "An Acquaintance",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "An Acquaintance"
+        },
+        {
+            "type": "Media",
+            "url": "./images/650.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

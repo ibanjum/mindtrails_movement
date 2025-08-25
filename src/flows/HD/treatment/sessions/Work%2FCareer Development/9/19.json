@@ -1,0 +1,16 @@
+{
+    "header_text": "Feedback via Email",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feedback via Email"
+        },
+        {
+            "type": "Media",
+            "url": "./images/73.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

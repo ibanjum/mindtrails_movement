@@ -1,0 +1,16 @@
+{
+    "header_text": "Seeing your Aunt",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Seeing your Aunt"
+        },
+        {
+            "type": "Media",
+            "url": "./images/844.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 6
+}

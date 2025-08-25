@@ -1,0 +1,10 @@
+{
+    "header_text": "Functioning Scale",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Please complete each item below. Think about your current level of functioning compared to before your HD diagnosis."
+        }
+    ]
+}

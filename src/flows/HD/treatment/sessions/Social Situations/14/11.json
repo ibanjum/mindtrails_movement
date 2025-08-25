@@ -1,0 +1,16 @@
+{
+    "header_text": "Saving Money",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Saving Money"
+        },
+        {
+            "type": "Media",
+            "url": "./images/668.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

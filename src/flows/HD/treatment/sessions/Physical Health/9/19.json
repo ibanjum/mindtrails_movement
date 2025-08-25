@@ -1,0 +1,16 @@
+{
+    "header_text": "Dry Mouth Dilemma",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You have experienced a dry mouth for a few days. This is something you haven't felt before. The likelihood that dry mouth means a serious health problem is..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 7
+}

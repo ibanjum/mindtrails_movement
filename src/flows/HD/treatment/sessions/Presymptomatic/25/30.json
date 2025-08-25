@@ -1,0 +1,16 @@
+{
+    "header_text": "Juice Bar",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Juice Bar"
+        },
+        {
+            "type": "Media",
+            "url": "./images/944.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 9
+}

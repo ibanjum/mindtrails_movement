@@ -1,0 +1,16 @@
+{
+    "header_text": "Dry Mouth Dilemma",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Dry Mouth Dilemma"
+        },
+        {
+            "type": "Media",
+            "url": "./images/485.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

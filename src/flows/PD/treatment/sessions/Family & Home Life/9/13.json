@@ -1,0 +1,16 @@
+{
+    "header_text": "New Apartment to Yourself",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "New Apartment to Yourself"
+        },
+        {
+            "type": "Media",
+            "url": "./images/181.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

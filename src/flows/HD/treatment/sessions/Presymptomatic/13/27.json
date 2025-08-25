@@ -1,0 +1,16 @@
+{
+    "header_text": "Skipped in Line",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Skipped in Line"
+        },
+        {
+            "type": "Media",
+            "url": "./images/927.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 8
+}

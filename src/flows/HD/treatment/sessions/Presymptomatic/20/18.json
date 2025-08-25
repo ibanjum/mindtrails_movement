@@ -1,0 +1,16 @@
+{
+    "header_text": "Parental Strain",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Parental Strain"
+        },
+        {
+            "type": "Media",
+            "url": "./images/931.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 7
+}

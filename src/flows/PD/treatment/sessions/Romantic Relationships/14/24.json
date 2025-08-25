@@ -1,0 +1,16 @@
+{
+    "header_text": "Coming Home",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Coming Home"
+        },
+        {
+            "type": "Media",
+            "url": "./images/195.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

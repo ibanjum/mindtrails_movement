@@ -1,0 +1,26 @@
+{
+    "header_text": "Driving with a Friend",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You are in the car with a friend, and they are driving the speed limit on the highway. You feel butterflies in your stomach as you see cars passing quickly by. This makes you feel..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 4,
+    "information": {
+        "elements": [
+            {
+                "type": "text",
+                "text": "Remember, MindTrails not only changes your perspective about the situations you're reading here, but your perspective in real life! "
+            }
+        ],
+        "position": "after",
+        "information_count": 1
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Important visitors",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Important visitors"
+        },
+        {
+            "type": "Media",
+            "url": "./images/37.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

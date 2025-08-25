@@ -1,0 +1,16 @@
+{
+    "header_text": "Online Dating",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Online Dating"
+        },
+        {
+            "type": "Media",
+            "url": "./images/537.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

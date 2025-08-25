@@ -1,0 +1,16 @@
+{
+    "header_text": "Going on a Date",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Going on a Date"
+        },
+        {
+            "type": "Media",
+            "url": "./images/530.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

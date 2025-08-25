@@ -1,0 +1,16 @@
+{
+    "header_text": "Outburst During Cards",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Outburst During Cards"
+        },
+        {
+            "type": "Media",
+            "url": "./images/921.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

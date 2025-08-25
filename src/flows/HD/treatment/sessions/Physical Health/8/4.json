@@ -1,0 +1,16 @@
+{
+    "header_text": "Unknown Sensations",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unknown Sensations"
+        },
+        {
+            "type": "Media",
+            "url": "./images/474.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

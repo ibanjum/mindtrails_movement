@@ -1,0 +1,16 @@
+{
+    "header_text": "Family Wedding",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You're helping your sister prepare for her wedding. When you meet with the bridal party, you forget the groom's name. Desperate to hide this from her, you secretively ask another sibling for the groom's name while your sister glances over at you with a look of..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "negative",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Isolated for Being Single",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feeling Isolated for Being Single"
+        },
+        {
+            "type": "Media",
+            "url": "./images/543.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 0
+}

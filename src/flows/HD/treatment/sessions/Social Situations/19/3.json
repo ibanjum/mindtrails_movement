@@ -1,0 +1,16 @@
+{
+    "header_text": "Attending Wedding Alone",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "It is a long weekend, and you are invited to a friend's wedding. You notice that many people have brought a plus one when you arrive, but you are alone. You realize that you can still enjoy yourself at the wedding and get to know other..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 0
+}

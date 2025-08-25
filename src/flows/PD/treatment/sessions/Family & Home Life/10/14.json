@@ -1,0 +1,16 @@
+{
+    "header_text": "Family Member's Birthday",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Family Member's Birthday"
+        },
+        {
+            "type": "Media",
+            "url": "./images/189.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 5
+}

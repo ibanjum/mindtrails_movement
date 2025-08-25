@@ -1,0 +1,16 @@
+{
+    "header_text": "Job Interview",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Job Interview"
+        },
+        {
+            "type": "Media",
+            "url": "./images/917.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

@@ -1,0 +1,16 @@
+{
+    "header_text": "Record Store",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Record Store"
+        },
+        {
+            "type": "Media",
+            "url": "./images/799.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 1
+}

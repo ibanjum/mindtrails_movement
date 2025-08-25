@@ -1,0 +1,16 @@
+{
+    "header_text": "Prestigious Program",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "When you picture the future of your relationship with your spouse, you do not think the distance will end your relationship. You believe the two of you will stay..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

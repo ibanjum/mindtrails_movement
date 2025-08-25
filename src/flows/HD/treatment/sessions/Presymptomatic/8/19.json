@@ -1,0 +1,16 @@
+{
+    "header_text": "Chopping Technique",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Chopping Technique"
+        },
+        {
+            "type": "Media",
+            "url": "./images/859.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 8
+}

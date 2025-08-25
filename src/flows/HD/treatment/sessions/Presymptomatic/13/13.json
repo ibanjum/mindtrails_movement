@@ -1,0 +1,29 @@
+{
+    "header_text": "Difficulty Moving On",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "Text": "Taking a step back to reassess is..."
+        },
+        {
+            "type": "Buttons",
+            "name": "Difficulty Moving On_Presymptomatic_comp_question",
+            "correct_feedback": "Correct!",
+            "incorrect_feedback": "Whoops! That doesn't look right. Please wait a moment and try again.",
+            "incorrect_delay": 5000,
+            "buttons": [
+                "Wise",
+                "Weak"
+            ],
+            "column_count": 1,
+            "correct_value": "Wise"
+        }
+    ],
+    "navigation_conditions": [
+        "wait_for_correct",
+        "wait_for_click"
+    ],
+    "type": "positive",
+    "scenario_num": 3
+}

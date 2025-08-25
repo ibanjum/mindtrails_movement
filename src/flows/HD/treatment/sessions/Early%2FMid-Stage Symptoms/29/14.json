@@ -1,0 +1,16 @@
+{
+    "header_text": "Brother Getting Tested",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Brother Getting Tested"
+        },
+        {
+            "type": "Media",
+            "url": "./images/863.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 4
+}

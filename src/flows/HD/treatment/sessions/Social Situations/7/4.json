@@ -1,0 +1,16 @@
+{
+    "header_text": "Busy cafe",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Busy cafe"
+        },
+        {
+            "type": "Media",
+            "url": "./images/632.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 1
+}

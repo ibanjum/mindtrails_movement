@@ -1,0 +1,16 @@
+{
+    "header_text": "Different Music Tastes",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Different Music Tastes"
+        },
+        {
+            "type": "Media",
+            "url": "./images/675.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 7
+}

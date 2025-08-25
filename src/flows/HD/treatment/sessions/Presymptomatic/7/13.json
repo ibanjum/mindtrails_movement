@@ -1,0 +1,16 @@
+{
+    "header_text": "Unsteadiness in the Park",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Unsteadiness in the Park"
+        },
+        {
+            "type": "Media",
+            "url": "./images/915.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 4
+}

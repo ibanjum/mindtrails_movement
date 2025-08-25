@@ -1,0 +1,16 @@
+{
+    "header_text": "Trivia tournament",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Trivia tournament"
+        },
+        {
+            "type": "Media",
+            "url": "./images/616.jpg"
+        }
+    ],
+    "type": "resilience/negation",
+    "scenario_num": 4
+}

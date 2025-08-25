@@ -1,0 +1,16 @@
+{
+    "header_text": "Missing Out From Romantic Relationships",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Missing Out From Romantic Relationships"
+        },
+        {
+            "type": "Media",
+            "url": "./images/546.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

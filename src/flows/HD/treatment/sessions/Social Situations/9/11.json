@@ -1,0 +1,16 @@
+{
+    "header_text": "Feeling Abandoned",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Feeling Abandoned"
+        },
+        {
+            "type": "Media",
+            "url": "./images/601.jpg"
+        }
+    ],
+    "type": "negative",
+    "scenario_num": 4
+}

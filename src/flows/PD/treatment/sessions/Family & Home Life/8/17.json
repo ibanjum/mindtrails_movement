@@ -1,0 +1,16 @@
+{
+    "header_text": "Posting about Family",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You look through your social media feed and notice that your kids only post pictures with their friends. You want to post a family picture and tag your kids. You ask your kids if they mind, and they say that it is a great..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 6
+}

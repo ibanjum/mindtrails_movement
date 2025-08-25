@@ -1,0 +1,16 @@
+{
+    "header_text": "Cough After Going Out ",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Over the last couple days, you've developed a cough. You went out over the weekend and wonder if you may have gotten sick. On the other hand, you think it may be... "
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "positive",
+    "scenario_num": 9
+}

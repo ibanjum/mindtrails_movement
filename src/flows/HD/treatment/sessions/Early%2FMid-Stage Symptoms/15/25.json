@@ -1,0 +1,16 @@
+{
+    "header_text": "Sunny Beach Day",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Sunny Beach Day"
+        },
+        {
+            "type": "Media",
+            "url": "./images/809.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 7
+}

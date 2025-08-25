@@ -1,0 +1,16 @@
+{
+    "header_text": "Spring Proposal",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Spring Proposal"
+        },
+        {
+            "type": "Media",
+            "url": "./images/898.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 9
+}

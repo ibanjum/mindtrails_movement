@@ -1,0 +1,16 @@
+{
+    "header_text": "Downsizing",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "The social worker reminds you that being prepared will not cause HD to progress any faster. You decide that planning for the future is..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

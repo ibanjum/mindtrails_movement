@@ -1,0 +1,16 @@
+{
+    "header_text": "Weight Gain",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Weight Gain"
+        },
+        {
+            "type": "Media",
+            "url": "./images/238.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

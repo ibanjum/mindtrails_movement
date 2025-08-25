@@ -1,0 +1,16 @@
+{
+    "header_text": "Savings Scandal",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Savings Scandal"
+        },
+        {
+            "type": "Media",
+            "url": "./images/287.jpg"
+        }
+    ],
+    "type": "positive",
+    "scenario_num": 5
+}

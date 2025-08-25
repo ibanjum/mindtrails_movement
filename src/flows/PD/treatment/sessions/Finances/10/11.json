@@ -1,0 +1,16 @@
+{
+    "header_text": "Shifting Household Roles",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You set a family meeting to talk things over. Everyone feels that if you take on different responsibilities around the house, they will..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 3
+}

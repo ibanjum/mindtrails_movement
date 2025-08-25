@@ -1,0 +1,16 @@
+{
+    "header_text": "Spring Allergies",
+    "header_icon": "assets/subtitle.png",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "You realize that you usually get a stuffy nose with seasonal allergies and are probably tired from walking around for the last hour. You feel..."
+        },
+        {
+            "type": "Entry"
+        }
+    ],
+    "navigation_conditions": "wait_for_correct",
+    "type": "resilience/negation",
+    "scenario_num": 1
+}
