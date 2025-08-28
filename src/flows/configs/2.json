@@ -11,7 +11,7 @@
                 "control::Control Group",
                 "treatment::Treatment Group"
             ],
-            "name": "group"
+            "variable_name": "global://group"
         }
     ]
 }

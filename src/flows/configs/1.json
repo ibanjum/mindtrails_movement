@@ -11,7 +11,7 @@
                 "PD::Parkinson’s Disease",
                 "HD::Huntington’s Disease"
             ],
-            "name": "condition"
+            "variable_name": "global://condition"
         }
     ]
 }
