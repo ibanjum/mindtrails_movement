@@ -1,5 +1,6 @@
 {
     "header_text": "Group Type",
+    "header_icon": "assets/subtitle.png",
     "elements": [
         {
             "type": "Text",
