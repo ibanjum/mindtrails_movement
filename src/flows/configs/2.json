@@ -1,0 +1,17 @@
+{
+    "header_text": "Group Type",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Please select whether this group is part of the Control or Treatment group."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "control::Control Group",
+                "treatment::Treatment Group"
+            ],
+            "name": "group"
+        }
+    ]
+}

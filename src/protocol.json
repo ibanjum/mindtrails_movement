@@ -23,7 +23,7 @@
             "url": "/assets/unlocked.png",
             "tint": false
           },
-          "action": "flow://flows/pd/treatment/sessions"
+          "action": "flow://flows/${condition}/${group}/sessions"
         }
       },
       {
@@ -60,7 +60,7 @@
               "url": "/assets/home_resources.png",
               "tint": false
             },
-            "action": "flow://flows/pd/treatment/resources",
+            "action": "flow://flows/${condition}/${group}/resources",
             "backgroundcolor": "#1A00C2FF"
           },
           {
@@ -74,15 +74,15 @@
           }
         ]
       }
-    ] },
+    ] }
   },
   "settings": {
-    "unenroll": "flow://flows/pd/treatment/reasons for ending/"
+    "unenroll": "flow://flows/${condition}/${group}/reasons for ending/"
   },
   "menu": [
-    { "text": "end of day", "action":"flow://flows/pd/treatment/end of day/" },
-    { "text": "track your progress", "action":"flow://flows/pd/treatment/track your progress/" },
-    { "text": "Introduction", "action": "flow://flows/pd/treatment/intro" },
+    { "text": "end of day", "action":"flow://flows/${condition}/${group}/end of day/" },
+    { "text": "track your progress", "action":"flow://flows/${condition}/${group}/track your progress/" },
+    { "text": "Introduction", "action": "flow://flows/${condition}/${group}/intro" },
     {
       "text": "What is MindTrails?",
       "icon": "/assets/menu_mindtrails.png",
@@ -102,7 +102,7 @@
     {
       "text": "Resources",
       "icon": "/assets/menu_resources.png",
-      "action": "flow://flows/pd/treatment/resources"
+      "action": "flow://flows/${condition}/${group}/resources"
     },
     {
       "text": "F.A.Q.",
@@ -131,14 +131,14 @@
       "frequency": "1",
       "time": "20:00",
       "action": "notification",
-      "content": { "path": "flow://flows/pd/treatment/end of day/" }
+      "content": { "path": "flow://flows/${condition}/${group}/end of day/" }
     },
     {
       "type": "timing",
       "frequency": "14",
       "time": "20:00",
       "action": "notification",
-      "content": { "path": "flow://flows/pd/treatment/track your progress/"}
+      "content": { "path": "flow://flows/${condition}/${group}/track your progress/"}
     }
   ]
 }

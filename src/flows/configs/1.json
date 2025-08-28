@@ -1,0 +1,17 @@
+{
+    "header_text": "Condition Type",
+    "elements": [
+        {
+            "type": "Text",
+            "text": "Please choose the condition type for this group."
+        },
+        {
+            "type": "Buttons",
+            "buttons": [
+                "PD::Parkinson’s Disease",
+                "HD::Huntington’s Disease"
+            ],
+            "name": "condition"
+        }
+    ]
+}
