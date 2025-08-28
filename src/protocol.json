@@ -77,7 +77,8 @@
     ] }
   },
   "settings": {
-    "unenroll": "flow://flows/${condition}/${group}/reasons for ending/"
+    "unenroll": "flow://flows/${condition}/${group}/reasons for ending/",
+    "configs": "flow://flows/configs"
   },
   "menu": [
     { "text": "end of day", "action":"flow://flows/${condition}/${group}/end of day/" },
